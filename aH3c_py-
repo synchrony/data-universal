@@ -1,0 +1,4 @@
+* :H3c_py-: "The name of a class should describe what responsibilities it fulfills. In fact, naming is probably the first way of helping determine class size. If we cannot derive a concise name for a class, then it’s likely too large."
+    @created 1473224557348
+    @sharability 1.0
+    @weight 0.5

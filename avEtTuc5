@@ -1,0 +1,4 @@
+* :vEtTuc5: "The main idea of our approach is to intertwine the construction of the query result with the traversal of data links that correspond to intermediate solutions in the construction process. This strategy, which we call link traversal based query execution, allows the execution engine to discover potentially relevant data during the query execution."
+    @created 1448857879497
+    @sharability 1.0
+    @weight 0.5

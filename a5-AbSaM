@@ -1,0 +1,4 @@
+* :5-AbSaM: "Use different [exception] classes only if there are times when you want to catch one exception and allow the other one to pass through."
+    @created 1471571342904
+    @sharability 1.0
+    @weight 0.5

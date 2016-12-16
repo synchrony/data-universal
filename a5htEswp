@@ -1,0 +1,4 @@
+* :5htEswp: "Procedural code makes it hard to add new data structures because all the functions must change. OO code makes it hard to add new functions because all the classes must change."
+    @created 1471546076357
+    @sharability 1.0
+    @weight 0.5
