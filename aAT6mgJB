@@ -1,0 +1,5 @@
+* :AT6mgJB: if smsn and frega-smsn in the same classpath, will share jvm
+    @created 1471683759570
+    @sharability 1.0
+    @weight 0.5
+    * :X7gVAVN: 
