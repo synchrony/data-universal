@@ -1,4 +1,0 @@
-* :Oc3Bvna: "To be deemed as real-time, the throughput of the system has to be at least six instances of mental states inferences per second to keep up with the input. This is because the DBNs are invoked every 5 frames at a capture rate of 30 frames per second. Also, the latency of the system has to be comparable to the latency of high-level facial expression recognition in humans, which ranges between 140–160ms [7]. In our current implementation, the DBNs are the bottleneck of the system. Nonetheless, since 41.1 ms is less than 166 ms, the system runs in real-time. The total processing time for a frame is 44.34 ms."
-    @created 1442800377716
-    @sharability 1.0
-    @weight 0.5

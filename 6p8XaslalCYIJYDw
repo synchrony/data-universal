@@ -1,0 +1,4 @@
+* :6p8XaslalCYIJYDw: "Flag arguments are ugly. Passing a boolean into a function is a truly terrible practice. It immediately complicates the signature of the method, loudly proclaiming that this function does more than one thing."
+    @created 1467095496493
+    @sharability 1.0
+    @weight 0.5
