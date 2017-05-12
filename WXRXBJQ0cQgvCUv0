@@ -1,4 +1,3 @@
 * :WXRXBJQ0cQgvCUv0: "The dynamical properties of these interaction patterns can be inferred by measuring the duration of contacts and the duration of the intervals between consecutive contacts [9], [11], [14], [21]. We define the duration of a person-to-person contact consistently with the temporal coarse-graining described above: we consider two persons to be “in contact” during an interval of 20 s if and only if their RFID devices have exchanged at least one packet at the lowest power level during that interval. After a contact has been established, it is considered ongoing as long as the devices continue to exchange at least one such packet for every subsequent 20 s interval. Conversely, a contact is considered broken if a 20 s interval elapses with no low-power packets exchanged."
     @created 1453415655134
-    @sharability 1.0
     @weight 0.5

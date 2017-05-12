@@ -1,7 +1,6 @@
 * :ZTjwt4Op248EuFka: Weather Underground (weather service)
-    @alias http://dbpedia.org/resource/Weather_Underground_(weather_service)
     @created 1472517864564
-    @sharability 1.0
+    @alias http://dbpedia.org/resource/Weather_Underground_(weather_service)
     @weight 0.5
     * :KMiTWGbkvcT4597u: 
     * :USIc7Gj0CzmOvPgL: 

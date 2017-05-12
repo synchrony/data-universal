@@ -1,7 +1,6 @@
 * :W9lOSW1Qr9Y81Qd0: materialized view
-    @alias http://dbpedia.org/resource/Materialized_view
     @created 1351478734060
-    @sharability 1.0
+    @alias http://dbpedia.org/resource/Materialized_view
     @weight 0.5
     * :g6rjRaeq0aCzvCQa: 
     * :68xVZwzSonog5mVH: 

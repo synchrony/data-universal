@@ -1,4 +1,3 @@
 * :p6x3rGothnbEJdVd: "Classes should have a small number of instance variables. Each of the methods of a class should manipulate one or more of those variables. In general the more variables a method manipulates the more cohesive that method is to its class. A class in which each variable is used by each method is maximally cohesive."
     @created 1473224911681
-    @sharability 1.0
     @weight 0.5

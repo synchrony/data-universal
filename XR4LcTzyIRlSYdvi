@@ -1,5 +1,4 @@
 * :XR4LcTzyIRlSYdvi: foobar
-    @alias http://dbpedia.org/resource/Foobar
     @created 1468826265219
-    @sharability 1.0
+    @alias http://dbpedia.org/resource/Foobar
     @weight 0.5

@@ -1,5 +1,4 @@
 * :ngPI5DA7Dk4Zi049: touchscreen
-    @alias http://dbpedia.org/resource/Touchscreen
     @created 1338480262805
-    @sharability 1.0
+    @alias http://dbpedia.org/resource/Touchscreen
     @weight 0.5
