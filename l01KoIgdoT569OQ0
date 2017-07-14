@@ -1,5 +1,6 @@
-* :l01KoIgdoT569OQ0: feather
-    @created 1415292571621
-    @alias http://dbpedia.org/resource/Feather
-    @weight 0.5
-    * :wY4JcKQXUlNgB0Jd: 
+@id l01KoIgdoT569OQ0
+@title feather
+@alias http://dbpedia.org/resource/Feather
+@created 1415292571621
+@weight 0.5
+* :wY4JcKQXUlNgB0Jd: 

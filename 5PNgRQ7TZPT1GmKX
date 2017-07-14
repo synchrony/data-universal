@@ -1,5 +1,6 @@
-* :5PNgRQ7TZPT1GmKX: film
-    @created 1343190981941
-    @alias http://dbpedia.org/resource/Film
-    @weight 0.75
-    * :PB59u2K5b0DxPPhZ: 
+@id 5PNgRQ7TZPT1GmKX
+@title film
+@alias http://dbpedia.org/resource/Film
+@created 1343190981941
+@weight 0.75
+* :PB59u2K5b0DxPPhZ: 

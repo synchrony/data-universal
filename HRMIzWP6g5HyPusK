@@ -1,4 +1,5 @@
-* :HRMIzWP6g5HyPusK: tzedakah
-    @created 1490564531974
-    @alias http://dbpedia.org/resource/Tzedakah
-    @weight 0.5
+@id HRMIzWP6g5HyPusK
+@title tzedakah
+@alias http://dbpedia.org/resource/Tzedakah
+@created 1490564531974
+@weight 0.5

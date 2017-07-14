@@ -1,7 +1,8 @@
-* :XnMQ0Lm56oX3jGqK: zolmitriptan
-    @created 1346685693287
-    @alias http://dbpedia.org/resource/Zolmitriptan
-    @weight 0.5
-    * :hj6IwWZqVzNdegc7: 
-    * :42Enp98B1cQsAQCE: 
-    * :yYSFkPtWs9n7p707: 
+@id XnMQ0Lm56oX3jGqK
+@title zolmitriptan
+@alias http://dbpedia.org/resource/Zolmitriptan
+@created 1346685693287
+@weight 0.5
+* :hj6IwWZqVzNdegc7: 
+* :42Enp98B1cQsAQCE: 
+* :yYSFkPtWs9n7p707: 

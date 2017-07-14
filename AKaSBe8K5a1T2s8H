@@ -1,4 +1,5 @@
-* :AKaSBe8K5a1T2s8H: tensegrity
-    @created 1311359254839
-    @alias http://dbpedia.org/resource/Tensegrity
-    @weight 0.5
+@id AKaSBe8K5a1T2s8H
+@title tensegrity
+@alias http://dbpedia.org/resource/Tensegrity
+@created 1311359254839
+@weight 0.5

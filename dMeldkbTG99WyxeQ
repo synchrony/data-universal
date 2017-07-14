@@ -1,6 +1,7 @@
-* :dMeldkbTG99WyxeQ: halting problem
-    @created 1310230505354
-    @alias http://dbpedia.org/resource/Halting_problem
-    @weight 0.5
-    * :GtAOx5i8qB2jlMO7: 
-    * :UsSSyM7kiSIaL5Td: 
+@id dMeldkbTG99WyxeQ
+@title halting problem
+@alias http://dbpedia.org/resource/Halting_problem
+@created 1310230505354
+@weight 0.5
+* :GtAOx5i8qB2jlMO7: 
+* :UsSSyM7kiSIaL5Td: 

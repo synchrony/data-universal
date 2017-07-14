@@ -1,5 +1,6 @@
-* :CbOQ7rZB7ki2j5VC: supplication
-    @created 1417284866413
-    @alias http://dbpedia.org/resource/Supplication
-    @weight 0.5
-    * :Q8kk41R248vxjNh1: 
+@id CbOQ7rZB7ki2j5VC
+@title supplication
+@alias http://dbpedia.org/resource/Supplication
+@created 1417284866413
+@weight 0.5
+* :Q8kk41R248vxjNh1: 

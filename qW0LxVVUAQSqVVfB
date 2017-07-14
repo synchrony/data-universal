@@ -1,6 +1,7 @@
-* :qW0LxVVUAQSqVVfB: potentiometer
-    @created 1328566894697
-    @alias http://dbpedia.org/resource/Potentiometer
-    @weight 0.5
-    * :nd3rddlQCteCTRY1: 
-    * :e9miOjwjQx7nA4zl: 
+@id qW0LxVVUAQSqVVfB
+@title potentiometer
+@alias http://dbpedia.org/resource/Potentiometer
+@created 1328566894697
+@weight 0.5
+* :nd3rddlQCteCTRY1: 
+* :e9miOjwjQx7nA4zl: 

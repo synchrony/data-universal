@@ -1,4 +1,5 @@
-* :GpTNUsl3Bg5RkWhd: belief–desire–intention software model
-    @created 1360735108476
-    @alias http://dbpedia.org/resource/Belief%E2%80%93desire%E2%80%93intention_software_model
-    @weight 0.5
+@id GpTNUsl3Bg5RkWhd
+@title belief–desire–intention software model
+@alias http://dbpedia.org/resource/Belief%E2%80%93desire%E2%80%93intention_software_model
+@created 1360735108476
+@weight 0.5

@@ -1,4 +1,5 @@
-* :RRlY3LOaQopRc5aH: aircraft vectoring
-    @created 1480389190096
-    @alias http://dbpedia.org/resource/Aircraft_vectoring
-    @weight 0.5
+@id RRlY3LOaQopRc5aH
+@title aircraft vectoring
+@alias http://dbpedia.org/resource/Aircraft_vectoring
+@created 1480389190096
+@weight 0.5

@@ -1,6 +1,7 @@
-* :lHEf3GRZXebtaDVl: zafu
-    @created 1452713294504
-    @alias http://dbpedia.org/resource/Zafu
-    @weight 0.5
-    @priority 0.5
-    * :6TJGhmtUmYEl48Jf: 
+@id lHEf3GRZXebtaDVl
+@title zafu
+@alias http://dbpedia.org/resource/Zafu
+@created 1452713294504
+@weight 0.5
+@priority 0.5
+* :6TJGhmtUmYEl48Jf: 

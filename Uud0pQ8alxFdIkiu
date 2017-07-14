@@ -1,6 +1,7 @@
-* :Uud0pQ8alxFdIkiu: loyalty
-    @created 1412952429171
-    @alias http://dbpedia.org/resource/Loyalty
-    @weight 0.75
-    * :7n3Zzo9hQPCF9SxU: 
-    * :jUfzmopZqBdTIGBQ: 
+@id Uud0pQ8alxFdIkiu
+@title loyalty
+@alias http://dbpedia.org/resource/Loyalty
+@created 1412952429171
+@weight 0.75
+* :7n3Zzo9hQPCF9SxU: 
+* :jUfzmopZqBdTIGBQ: 

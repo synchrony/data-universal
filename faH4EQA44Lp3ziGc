@@ -1,5 +1,6 @@
-* :faH4EQA44Lp3ziGc: NL-complete
-    @created 1465333778902
-    @alias http://dbpedia.org/resource/NL-complete
-    @weight 0.5
-    * :TcO7ZGrDDyFfG1cX: 
+@id faH4EQA44Lp3ziGc
+@title NL-complete
+@alias http://dbpedia.org/resource/NL-complete
+@created 1465333778902
+@weight 0.5
+* :TcO7ZGrDDyFfG1cX: 

@@ -1,5 +1,6 @@
-* :cn5vbmAuGmoFyDJk: gun
-    @created 1389763582799
-    @alias http://dbpedia.org/resource/Gun
-    @weight 0.5
-    * :fQc6cwTRXLoRiwUJ: 
+@id cn5vbmAuGmoFyDJk
+@title gun
+@alias http://dbpedia.org/resource/Gun
+@created 1389763582799
+@weight 0.5
+* :fQc6cwTRXLoRiwUJ: 

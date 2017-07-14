@@ -1,5 +1,6 @@
-* :sCGgaJIDyd5A0GFv: debugger
-    @created 1413233707435
-    @alias http://dbpedia.org/resource/Debugger
-    @weight 0.5
-    * :e3J7AFlCWy0flsC3: 
+@id sCGgaJIDyd5A0GFv
+@title debugger
+@alias http://dbpedia.org/resource/Debugger
+@created 1413233707435
+@weight 0.5
+* :e3J7AFlCWy0flsC3: 

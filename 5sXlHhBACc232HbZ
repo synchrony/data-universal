@@ -1,4 +1,5 @@
-* :5sXlHhBACc232HbZ: kitchen
-    @created 1327531809736
-    @alias http://dbpedia.org/resource/Kitchen
-    @weight 0.5
+@id 5sXlHhBACc232HbZ
+@title kitchen
+@alias http://dbpedia.org/resource/Kitchen
+@created 1327531809736
+@weight 0.5

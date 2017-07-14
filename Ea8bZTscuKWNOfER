@@ -1,6 +1,7 @@
-* :Ea8bZTscuKWNOfER: Bereitschaftspotential
-    @created 1369345392133
-    @alias http://dbpedia.org/resource/Bereitschaftspotential
-    @weight 0.5
-    * :mcLmVzTnIqJ47zbV: 
-    * :ggclEZkvVR3exV3x: 
+@id Ea8bZTscuKWNOfER
+@title Bereitschaftspotential
+@alias http://dbpedia.org/resource/Bereitschaftspotential
+@created 1369345392133
+@weight 0.5
+* :mcLmVzTnIqJ47zbV: 
+* :ggclEZkvVR3exV3x: 

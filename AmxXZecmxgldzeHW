@@ -1,4 +1,5 @@
-* :AmxXZecmxgldzeHW: Iron Man 2
-    @created 1353106233747
-    @alias http://dbpedia.org/resource/Iron_Man_2
-    @weight 0.5
+@id AmxXZecmxgldzeHW
+@title Iron Man 2
+@alias http://dbpedia.org/resource/Iron_Man_2
+@created 1353106233747
+@weight 0.5

@@ -1,5 +1,6 @@
-* :juO2YSUBYIiQb5aR: eye
-    @created 1341639597598
-    @alias http://dbpedia.org/resource/Eye
-    @weight 0.5
-    * :wBN1MoovBESsaHUQ: 
+@id juO2YSUBYIiQb5aR
+@title eye
+@alias http://dbpedia.org/resource/Eye
+@created 1341639597598
+@weight 0.5
+* :wBN1MoovBESsaHUQ: 

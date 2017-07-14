@@ -1,4 +1,5 @@
-* :oEJA51IYUIoPgdY3: Mesa Verde National Park
-    @created 1328653540395
-    @alias http://dbpedia.org/resource/Mesa_Verde_National_Park
-    @weight 0.5
+@id oEJA51IYUIoPgdY3
+@title Mesa Verde National Park
+@alias http://dbpedia.org/resource/Mesa_Verde_National_Park
+@created 1328653540395
+@weight 0.5

@@ -1,20 +1,21 @@
-* :K8GR5YxjAqxfAZDw: Beijing University of Technology
-    @created 1310229383758
-    @alias http://dbpedia.org/resource/Beijing_University_of_Technology
-    @weight 0.75
-    * :7cNZEfZmiTBM6sgg: 
-    * :WBNaOjpeNWkPNkko: 
-    * :NumO8GKGwOrhBa4g: 
-    * :KYcpxM8gewZvmc1K: 
-    * :pVdHCRjZsmLsy8cA: 
-    * :KQQysV8zJUvbWSCw: 
-    * :wcfZr0Vh5DcYU3eW: 
-    * :eknLwdOPWyluLpOJ: 
-    * :Ua8podrCgx6OD1zm: 
-    * :TyHq57s7xjemhqM8: 
-    * :bcc17RbCYarVY7OR: 
-    * :Q6AlGs7x8BdqNEA5: 
-    * :JP5lzHjiu1Y4RviJ: 
-    * :P3X7NUZ4qx4QzwI9: 
-    * :eIHJldhd8ztrmG8W: 
-    * :7GL8auDmyvnrQZFq: 
+@id K8GR5YxjAqxfAZDw
+@title Beijing University of Technology
+@alias http://dbpedia.org/resource/Beijing_University_of_Technology
+@created 1310229383758
+@weight 0.75
+* :7cNZEfZmiTBM6sgg: 
+* :WBNaOjpeNWkPNkko: 
+* :NumO8GKGwOrhBa4g: 
+* :KYcpxM8gewZvmc1K: 
+* :pVdHCRjZsmLsy8cA: 
+* :KQQysV8zJUvbWSCw: 
+* :wcfZr0Vh5DcYU3eW: 
+* :eknLwdOPWyluLpOJ: 
+* :Ua8podrCgx6OD1zm: 
+* :TyHq57s7xjemhqM8: 
+* :bcc17RbCYarVY7OR: 
+* :Q6AlGs7x8BdqNEA5: 
+* :JP5lzHjiu1Y4RviJ: 
+* :P3X7NUZ4qx4QzwI9: 
+* :eIHJldhd8ztrmG8W: 
+* :7GL8auDmyvnrQZFq: 

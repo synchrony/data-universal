@@ -1,4 +1,5 @@
-* :BB9wgPX6RNZFcgao: marshmallow
-    @created 1467562730864
-    @alias http://dbpedia.org/resource/Marshmallow
-    @weight 0.5
+@id BB9wgPX6RNZFcgao
+@title marshmallow
+@alias http://dbpedia.org/resource/Marshmallow
+@created 1467562730864
+@weight 0.5

@@ -1,5 +1,6 @@
-* :fQQCDVCuUTId3rFT: n-gram
-    @created 1431967468476
-    @alias http://dbpedia.org/resource/N-gram
-    @weight 0.5
-    * :YZkSRcILjEPPIhoT: 
+@id fQQCDVCuUTId3rFT
+@title n-gram
+@alias http://dbpedia.org/resource/N-gram
+@created 1431967468476
+@weight 0.5
+* :YZkSRcILjEPPIhoT: 

@@ -1,5 +1,6 @@
-* :11cr1ciuQfBOChjR: geospatial metadata
-    @created 1452639460867
-    @alias http://dbpedia.org/resource/Geospatial_metadata
-    @weight 0.5
-    * :mUQrd0xMVyPeqtUK: 
+@id 11cr1ciuQfBOChjR
+@title geospatial metadata
+@alias http://dbpedia.org/resource/Geospatial_metadata
+@created 1452639460867
+@weight 0.5
+* :mUQrd0xMVyPeqtUK: 

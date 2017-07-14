@@ -1,8 +1,9 @@
-* :DEwFUBuApdHjRWoc: Vim (text editor)
-    @created 1380782607231
-    @alias http://dbpedia.org/resource/Vim_(text_editor)
-    @weight 0.75
-    * :GaX4PWChGhGqr9hY: 
-    * :u8LD1JLa2gS22u34: 
-    * :I17fKnJst7Zl2xaS: 
-    * :q9zMybwL6niCAj6Y: 
+@id DEwFUBuApdHjRWoc
+@title Vim (text editor)
+@alias http://dbpedia.org/resource/Vim_(text_editor)
+@created 1380782607231
+@weight 0.75
+* :GaX4PWChGhGqr9hY: 
+* :u8LD1JLa2gS22u34: 
+* :I17fKnJst7Zl2xaS: 
+* :q9zMybwL6niCAj6Y: 

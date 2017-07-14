@@ -1,5 +1,6 @@
-* :qzX1mnKDGO4zSF91: carpentry
-    @created 1485325917099
-    @alias http://dbpedia.org/resource/Carpentry
-    @weight 0.5
-    * :Kvy3qVCKfBsVPkcF: 
+@id qzX1mnKDGO4zSF91
+@title carpentry
+@alias http://dbpedia.org/resource/Carpentry
+@created 1485325917099
+@weight 0.5
+* :Kvy3qVCKfBsVPkcF: 

@@ -1,4 +1,5 @@
-* :ImGQBYBFu4Budkzl: Wyoming
-    @created 1385053431885
-    @alias http://dbpedia.org/resource/Wyoming
-    @weight 0.5
+@id ImGQBYBFu4Budkzl
+@title Wyoming
+@alias http://dbpedia.org/resource/Wyoming
+@created 1385053431885
+@weight 0.5

@@ -1,12 +1,13 @@
-* :oUfb05kGbDtJehTS: I²C
-    @created 1341090790852
-    @alias http://dbpedia.org/resource/I%C2%B2C
-    @weight 0.5
-    * :zGE9Zilk9uorCF7p: 
-    * :gKUyUdgWGOuT8QEX: 
-    * :dtfWPSG5fy40iZXK: 
-    * :1LGb5pVY537gH7P4: 
-    * :7C1ACvE0FklP9TQo: 
-    * :vrulP6gAjPeCWpPX: 
-    * :0BlFWe1CPa1JEcTU: 
-    * :WKrKOorlq7nZV3pJ: 
+@id oUfb05kGbDtJehTS
+@title I²C
+@alias http://dbpedia.org/resource/I%C2%B2C
+@created 1341090790852
+@weight 0.5
+* :zGE9Zilk9uorCF7p: 
+* :gKUyUdgWGOuT8QEX: 
+* :dtfWPSG5fy40iZXK: 
+* :1LGb5pVY537gH7P4: 
+* :7C1ACvE0FklP9TQo: 
+* :vrulP6gAjPeCWpPX: 
+* :0BlFWe1CPa1JEcTU: 
+* :WKrKOorlq7nZV3pJ: 

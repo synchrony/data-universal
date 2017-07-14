@@ -1,4 +1,5 @@
-* :UsefJ13bJkTX9lQA: EigenTrust
-    @created 1315432599123
-    @alias http://dbpedia.org/resource/EigenTrust
-    @weight 0.5
+@id UsefJ13bJkTX9lQA
+@title EigenTrust
+@alias http://dbpedia.org/resource/EigenTrust
+@created 1315432599123
+@weight 0.5

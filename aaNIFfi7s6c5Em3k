@@ -1,7 +1,8 @@
-* :aaNIFfi7s6c5Em3k: ACID
-    @created 1394223636990
-    @alias http://dbpedia.org/resource/ACID
-    @weight 0.75
-    * :BrOTuzKefkZC8Jae: 
-    * :mgpDHQADiXUhUBAp: 
-    * :7x5cS23XfzRPSPw0: 
+@id aaNIFfi7s6c5Em3k
+@title ACID
+@alias http://dbpedia.org/resource/ACID
+@created 1394223636990
+@weight 0.75
+* :BrOTuzKefkZC8Jae: 
+* :mgpDHQADiXUhUBAp: 
+* :7x5cS23XfzRPSPw0: 

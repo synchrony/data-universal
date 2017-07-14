@@ -1,4 +1,5 @@
-* :LlCq2efQXUeoHBNf: Fort Knox Gold Mine
-    @created 1482877161346
-    @alias http://dbpedia.org/resource/Fort_Knox_Gold_Mine
-    @weight 0.5
+@id LlCq2efQXUeoHBNf
+@title Fort Knox Gold Mine
+@alias http://dbpedia.org/resource/Fort_Knox_Gold_Mine
+@created 1482877161346
+@weight 0.5

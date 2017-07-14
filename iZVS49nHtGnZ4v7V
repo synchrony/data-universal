@@ -1,6 +1,7 @@
-* :iZVS49nHtGnZ4v7V: Doctor of Philosophy
-    @created 1452901129462
-    @alias http://dbpedia.org/resource/Doctor_of_Philosophy
-    @weight 0.5
-    * :SDgh4lwfb4x5jCSd: 
-    * :o9l4Y43Z6THRwfWz: 
+@id iZVS49nHtGnZ4v7V
+@title Doctor of Philosophy
+@alias http://dbpedia.org/resource/Doctor_of_Philosophy
+@created 1452901129462
+@weight 0.5
+* :SDgh4lwfb4x5jCSd: 
+* :o9l4Y43Z6THRwfWz: 

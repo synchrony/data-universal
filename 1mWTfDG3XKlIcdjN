@@ -1,5 +1,6 @@
-* :1mWTfDG3XKlIcdjN: jerky
-    @created 1354409130918
-    @alias http://dbpedia.org/resource/Jerky
-    @weight 0.5
-    * :M5gWGEdSJyaRZYvC: 
+@id 1mWTfDG3XKlIcdjN
+@title jerky
+@alias http://dbpedia.org/resource/Jerky
+@created 1354409130918
+@weight 0.5
+* :M5gWGEdSJyaRZYvC: 

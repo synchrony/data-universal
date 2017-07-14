@@ -1,5 +1,6 @@
-* :hYyaSIyTa6fLXTOR: Euclidean distance
-    @created 1354561894790
-    @alias http://dbpedia.org/resource/Euclidean_distance
-    @weight 0.5
-    * :y7r3HUqOuXFjyNdn: 
+@id hYyaSIyTa6fLXTOR
+@title Euclidean distance
+@alias http://dbpedia.org/resource/Euclidean_distance
+@created 1354561894790
+@weight 0.5
+* :y7r3HUqOuXFjyNdn: 

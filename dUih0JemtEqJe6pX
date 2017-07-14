@@ -1,6 +1,7 @@
-* :dUih0JemtEqJe6pX: neuroplasticity
-    @created 1379963604667
-    @alias http://dbpedia.org/resource/Neuroplasticity
-    @weight 0.5
-    * :WsN4WSjoNjVSwGAA: 
-    * :cm47rGofra2VMKJH: 
+@id dUih0JemtEqJe6pX
+@title neuroplasticity
+@alias http://dbpedia.org/resource/Neuroplasticity
+@created 1379963604667
+@weight 0.5
+* :WsN4WSjoNjVSwGAA: 
+* :cm47rGofra2VMKJH: 

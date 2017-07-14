@@ -1,4 +1,5 @@
-* :9yMIIg6yLnzTXbPv: lorem ipsum
-    @created 1423764987307
-    @alias http://dbpedia.org/resource/Lorem_ipsum
-    @weight 0.5
+@id 9yMIIg6yLnzTXbPv
+@title lorem ipsum
+@alias http://dbpedia.org/resource/Lorem_ipsum
+@created 1423764987307
+@weight 0.5

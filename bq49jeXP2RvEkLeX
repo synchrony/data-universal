@@ -1,7 +1,8 @@
-* :bq49jeXP2RvEkLeX: Landmark Education
-    @created 1309189005996
-    @alias http://dbpedia.org/resource/Landmark_Education
-    @weight 0.75
-    * :Wo8xT6YFkEBTbk0d: 
-    * :mlxXOt2iOCXPrlIj: 
-    * :9jQMOSUUxUSeQV3e: 
+@id bq49jeXP2RvEkLeX
+@title Landmark Education
+@alias http://dbpedia.org/resource/Landmark_Education
+@created 1309189005996
+@weight 0.75
+* :Wo8xT6YFkEBTbk0d: 
+* :mlxXOt2iOCXPrlIj: 
+* :9jQMOSUUxUSeQV3e: 

@@ -1,4 +1,5 @@
-* :fAcLz0z5utLGaucn: Chinese martial arts
-    @created 1342249659519
-    @alias http://dbpedia.org/resource/Kung_fu
-    @weight 0.5
+@id fAcLz0z5utLGaucn
+@title Chinese martial arts
+@alias http://dbpedia.org/resource/Kung_fu
+@created 1342249659519
+@weight 0.5

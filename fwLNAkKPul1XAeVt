@@ -1,5 +1,6 @@
-* :fwLNAkKPul1XAeVt: cosmology
-    @created 1310545691424
-    @alias http://dbpedia.org/resource/Cosmology
-    @weight 0.5
-    * :Gk0uwKPdtxdHVWvL: 
+@id fwLNAkKPul1XAeVt
+@title cosmology
+@alias http://dbpedia.org/resource/Cosmology
+@created 1310545691424
+@weight 0.5
+* :Gk0uwKPdtxdHVWvL: 

@@ -1,5 +1,6 @@
-* :FRVqwDz5OtKq611p: production system
-    @created 1350036456322
-    @alias http://dbpedia.org/resource/Production_system
-    @weight 0.5
-    * :6S3bMLGFvkSA3ARO: 
+@id FRVqwDz5OtKq611p
+@title production system
+@alias http://dbpedia.org/resource/Production_system
+@created 1350036456322
+@weight 0.5
+* :6S3bMLGFvkSA3ARO: 

@@ -1,6 +1,7 @@
-* :W6AdEIsJBr6mVzSQ: walking
-    @created 1476908401149
-    @alias http://dbpedia.org/resource/Walking
-    @weight 0.5
-    * :Q7xPdtHM09toMzHl: 
-    * :1hkJqRNkLgUiMkUJ: 
+@id W6AdEIsJBr6mVzSQ
+@title walking
+@alias http://dbpedia.org/resource/Walking
+@created 1476908401149
+@weight 0.5
+* :Q7xPdtHM09toMzHl: 
+* :1hkJqRNkLgUiMkUJ: 

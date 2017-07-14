@@ -1,6 +1,7 @@
-* :5xhFP18SXU87o0DL: Phanerozoic
-    @created 1388041263319
-    @alias http://dbpedia.org/resource/Phanerozoic
-    @weight 0.5
-    * :NnADAb2ZJgZ9pQ4n: 
-    * :euC436DMjj89rnVk: 
+@id 5xhFP18SXU87o0DL
+@title Phanerozoic
+@alias http://dbpedia.org/resource/Phanerozoic
+@created 1388041263319
+@weight 0.5
+* :NnADAb2ZJgZ9pQ4n: 
+* :euC436DMjj89rnVk: 

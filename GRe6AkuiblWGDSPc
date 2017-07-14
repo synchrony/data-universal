@@ -1,7 +1,8 @@
-* :GRe6AkuiblWGDSPc: blinkenlights
-    @created 1339442875781
-    @alias http://dbpedia.org/resource/Blinkenlights
-    @weight 0.5
-    * :DWdFc0Q5BywcI0xy: 
-    * :VSCrfph9yrJlvDRt: 
-    * :5xwQFRE7rexupXyt: 
+@id GRe6AkuiblWGDSPc
+@title blinkenlights
+@alias http://dbpedia.org/resource/Blinkenlights
+@created 1339442875781
+@weight 0.5
+* :DWdFc0Q5BywcI0xy: 
+* :VSCrfph9yrJlvDRt: 
+* :5xwQFRE7rexupXyt: 

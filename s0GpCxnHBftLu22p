@@ -1,6 +1,7 @@
-* :s0GpCxnHBftLu22p: BigTable
-    @created 1397146913934
-    @alias http://dbpedia.org/resource/BigTable
-    @weight 0.5
-    * :IL9tWbmI9Cg4Mu9y: 
-    * :T969Six1e0yTlRck: 
+@id s0GpCxnHBftLu22p
+@title BigTable
+@alias http://dbpedia.org/resource/BigTable
+@created 1397146913934
+@weight 0.5
+* :IL9tWbmI9Cg4Mu9y: 
+* :T969Six1e0yTlRck: 

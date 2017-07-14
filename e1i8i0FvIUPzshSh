@@ -1,11 +1,12 @@
-* :e1i8i0FvIUPzshSh: hearing aid
-    @created 1379910936680
-    @alias http://dbpedia.org/resource/Hearing_aid
-    @weight 0.5
-    * :N2y438PDpvrXpxcf: 
-    * :VT353EMmQH9JhpGj: 
-    * :lUjz3xUeOO3oJNwt: 
-    * :3IsJQg66An2gsn28: 
-    * :fhL0NklGA1kX6m9B: 
-    * :t2VSFFkaTbHhX94I: 
-    * :CFydK8nSjGLl1CSg: 
+@id e1i8i0FvIUPzshSh
+@title hearing aid
+@alias http://dbpedia.org/resource/Hearing_aid
+@created 1379910936680
+@weight 0.5
+* :N2y438PDpvrXpxcf: 
+* :VT353EMmQH9JhpGj: 
+* :lUjz3xUeOO3oJNwt: 
+* :3IsJQg66An2gsn28: 
+* :fhL0NklGA1kX6m9B: 
+* :t2VSFFkaTbHhX94I: 
+* :CFydK8nSjGLl1CSg: 

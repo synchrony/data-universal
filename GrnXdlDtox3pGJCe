@@ -1,6 +1,7 @@
-* :GrnXdlDtox3pGJCe: minimum spanning tree
-    @created 1309431067779
-    @alias http://dbpedia.org/resource/Minimum_spanning_tree
-    @weight 0.5
-    * :q7oRSpYO2ZkmApp4: 
-    * :aIjhzAB1WEvJqY6S: 
+@id GrnXdlDtox3pGJCe
+@title minimum spanning tree
+@alias http://dbpedia.org/resource/Minimum_spanning_tree
+@created 1309431067779
+@weight 0.5
+* :q7oRSpYO2ZkmApp4: 
+* :aIjhzAB1WEvJqY6S: 

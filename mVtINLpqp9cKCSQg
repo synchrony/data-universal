@@ -1,15 +1,16 @@
-* :mVtINLpqp9cKCSQg: sensory substitution
-    @created 1352236707779
-    @alias http://dbpedia.org/resource/Sensory_substitution
-    @weight 0.75
-    * :ncPhhzEri2D0dfzD: 
-    * :2uTXJEhFxQ7hPsty: 
-    * :Z5Tj2GEbwodufFNj: 
-    * :vmQrCZ9jAEDAXH5T: 
-    * :g4CuxxfHGfZGalzu: 
-    * :wrE3FDnL88b5cUfX: 
-    * :AS6Xaz8bhASdPyxe: 
-    * :0Ox6ypb8zjh7DHvA: 
-    * :DgZdIfJSmvXNPgb7: 
-    * :9BGHjP5sMwNrcmMA: 
-    * :xOiHtuD3S01XufOU: 
+@id mVtINLpqp9cKCSQg
+@title sensory substitution
+@alias http://dbpedia.org/resource/Sensory_substitution
+@created 1352236707779
+@weight 0.75
+* :ncPhhzEri2D0dfzD: 
+* :2uTXJEhFxQ7hPsty: 
+* :Z5Tj2GEbwodufFNj: 
+* :vmQrCZ9jAEDAXH5T: 
+* :g4CuxxfHGfZGalzu: 
+* :wrE3FDnL88b5cUfX: 
+* :AS6Xaz8bhASdPyxe: 
+* :0Ox6ypb8zjh7DHvA: 
+* :DgZdIfJSmvXNPgb7: 
+* :9BGHjP5sMwNrcmMA: 
+* :xOiHtuD3S01XufOU: 

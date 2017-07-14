@@ -1,6 +1,7 @@
-* :g9qPhoGxTYBForDI: savant syndrome
-    @created 1376789213426
-    @alias http://dbpedia.org/resource/Savant_syndrome
-    @weight 0.5
-    * :Ii9Zgb83MhSUnMKJ: 
-    * :c4Q7pVvjtECmqJnm: 
+@id g9qPhoGxTYBForDI
+@title savant syndrome
+@alias http://dbpedia.org/resource/Savant_syndrome
+@created 1376789213426
+@weight 0.5
+* :Ii9Zgb83MhSUnMKJ: 
+* :c4Q7pVvjtECmqJnm: 

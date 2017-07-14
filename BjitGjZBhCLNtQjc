@@ -1,4 +1,5 @@
-* :BjitGjZBhCLNtQjc: sand dollar
-    @created 1450147355414
-    @alias http://dbpedia.org/resource/Sand_dollar
-    @weight 0.5
+@id BjitGjZBhCLNtQjc
+@title sand dollar
+@alias http://dbpedia.org/resource/Sand_dollar
+@created 1450147355414
+@weight 0.5

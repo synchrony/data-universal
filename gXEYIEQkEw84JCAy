@@ -1,4 +1,5 @@
-* :gXEYIEQkEw84JCAy: zinc
-    @created 1344309326595
-    @alias http://dbpedia.org/resource/Zinc
-    @weight 0.75
+@id gXEYIEQkEw84JCAy
+@title zinc
+@alias http://dbpedia.org/resource/Zinc
+@created 1344309326595
+@weight 0.75

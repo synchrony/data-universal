@@ -1,7 +1,8 @@
-* :ruJrFS8mWYyuZz4c: Health Level 7
-    @created 1327607708649
-    @alias http://dbpedia.org/resource/Health_Level_7
-    @weight 0.5
-    * :BFaZwVz93PGusaTP: 
-    * :MDzO5oAPkhZn9MyM: 
-    * :gnK5PcbaXFK25oHg: 
+@id ruJrFS8mWYyuZz4c
+@title Health Level 7
+@alias http://dbpedia.org/resource/Health_Level_7
+@created 1327607708649
+@weight 0.5
+* :BFaZwVz93PGusaTP: 
+* :MDzO5oAPkhZn9MyM: 
+* :gnK5PcbaXFK25oHg: 

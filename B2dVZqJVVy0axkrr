@@ -1,5 +1,6 @@
-* :B2dVZqJVVy0axkrr: memex
-    @created 1333754822211
-    @alias http://dbpedia.org/resource/Memex
-    @weight 0.5
-    * :jUgL9GYEPwhF7HW5: 
+@id B2dVZqJVVy0axkrr
+@title memex
+@alias http://dbpedia.org/resource/Memex
+@created 1333754822211
+@weight 0.5
+* :jUgL9GYEPwhF7HW5: 

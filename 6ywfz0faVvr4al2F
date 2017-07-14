@@ -1,5 +1,6 @@
-* :6ywfz0faVvr4al2F: martian meteorite
-    @created 1422407669910
-    @alias http://dbpedia.org/resource/Martian_meteorite
-    @weight 0.5
-    * :6MIYAkO6JtSAdpui: 
+@id 6ywfz0faVvr4al2F
+@title martian meteorite
+@alias http://dbpedia.org/resource/Martian_meteorite
+@created 1422407669910
+@weight 0.5
+* :6MIYAkO6JtSAdpui: 

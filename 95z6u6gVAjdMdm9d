@@ -1,4 +1,5 @@
-* :95z6u6gVAjdMdm9d: igraph
-    @created 1495485984255
-    @alias http://dbpedia.org/resource/Igraph
-    @weight 0.5
+@id 95z6u6gVAjdMdm9d
+@title igraph
+@alias http://dbpedia.org/resource/Igraph
+@created 1495485984255
+@weight 0.5

@@ -1,8 +1,9 @@
-* :Txg9CJbXvobXD0Xg: connectionism
-    @created 1343775816170
-    @alias http://dbpedia.org/resource/Connectionist
-    @weight 0.5
-    * :yPr1K6yTNxeSkZsQ: 
-    * :zXuiTFlObOwp4l3N: 
-    * :GzVTPTMlSOG5wAyP: 
-    * :jUfzmopZqBdTIGBQ: 
+@id Txg9CJbXvobXD0Xg
+@title connectionism
+@alias http://dbpedia.org/resource/Connectionist
+@created 1343775816170
+@weight 0.5
+* :yPr1K6yTNxeSkZsQ: 
+* :zXuiTFlObOwp4l3N: 
+* :GzVTPTMlSOG5wAyP: 
+* :jUfzmopZqBdTIGBQ: 

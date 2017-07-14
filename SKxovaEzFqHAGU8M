@@ -1,6 +1,7 @@
-* :SKxovaEzFqHAGU8M: Mormyridae
-    @created 1471684870882
-    @alias http://dbpedia.org/resource/Mormyridae
-    @weight 0.5
-    * :N6kqxY2F4Trnnr2o: 
-    * :YQQFyjycj8kW1tHG: 
+@id SKxovaEzFqHAGU8M
+@title Mormyridae
+@alias http://dbpedia.org/resource/Mormyridae
+@created 1471684870882
+@weight 0.5
+* :N6kqxY2F4Trnnr2o: 
+* :YQQFyjycj8kW1tHG: 

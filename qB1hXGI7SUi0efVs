@@ -1,4 +1,5 @@
-* :qB1hXGI7SUi0efVs: mesosphere
-    @created 1481651750323
-    @alias http://dbpedia.org/resource/Mesosphere
-    @weight 0.5
+@id qB1hXGI7SUi0efVs
+@title mesosphere
+@alias http://dbpedia.org/resource/Mesosphere
+@created 1481651750323
+@weight 0.5

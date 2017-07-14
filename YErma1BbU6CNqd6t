@@ -1,6 +1,7 @@
-* :YErma1BbU6CNqd6t: computer network
-    @created 1384878912835
-    @alias http://dbpedia.org/resource/Computer_network
-    @weight 0.5
-    * :eoAwZrLKxCuwYvp4: 
-    * :obtbp8ANhCGX1sQ4: 
+@id YErma1BbU6CNqd6t
+@title computer network
+@alias http://dbpedia.org/resource/Computer_network
+@created 1384878912835
+@weight 0.5
+* :eoAwZrLKxCuwYvp4: 
+* :obtbp8ANhCGX1sQ4: 

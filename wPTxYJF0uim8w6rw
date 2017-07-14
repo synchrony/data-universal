@@ -1,6 +1,7 @@
-* :wPTxYJF0uim8w6rw: concept map
-    @created 1344199610033
-    @alias http://dbpedia.org/resource/Concept_map
-    @weight 0.5
-    * :FNziocF3UmErnXYj: 
-    * :Hfo4BfjkxUuAW5HX: 
+@id wPTxYJF0uim8w6rw
+@title concept map
+@alias http://dbpedia.org/resource/Concept_map
+@created 1344199610033
+@weight 0.5
+* :FNziocF3UmErnXYj: 
+* :Hfo4BfjkxUuAW5HX: 

@@ -1,4 +1,5 @@
-* :Iz2hvErMFt06KN2o: symmetric relation
-    @created 1333296678718
-    @alias http://dbpedia.org/resource/Symmetric_relation
-    @weight 0.5
+@id Iz2hvErMFt06KN2o
+@title symmetric relation
+@alias http://dbpedia.org/resource/Symmetric_relation
+@created 1333296678718
+@weight 0.5

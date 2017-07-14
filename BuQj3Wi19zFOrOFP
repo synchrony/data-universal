@@ -1,4 +1,5 @@
-* :BuQj3Wi19zFOrOFP: JSTOR
-    @created 1360106381137
-    @alias http://dbpedia.org/resource/JSTOR
-    @weight 0.5
+@id BuQj3Wi19zFOrOFP
+@title JSTOR
+@alias http://dbpedia.org/resource/JSTOR
+@created 1360106381137
+@weight 0.5

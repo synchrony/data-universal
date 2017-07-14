@@ -1,6 +1,7 @@
-* :039tQbUCNFeIbalD: Neoproterozoic
-    @created 1388041118379
-    @alias http://dbpedia.org/resource/Neoproterozoic
-    @weight 0.5
-    * :22J9g4J0OiU3MnkA: 
-    * :wPiNY32rNLDOtM46: 
+@id 039tQbUCNFeIbalD
+@title Neoproterozoic
+@alias http://dbpedia.org/resource/Neoproterozoic
+@created 1388041118379
+@weight 0.5
+* :22J9g4J0OiU3MnkA: 
+* :wPiNY32rNLDOtM46: 

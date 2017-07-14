@@ -1,7 +1,8 @@
-* :OA70t0q7w6b2DvMu: sousveillance
-    @created 1365659492945
-    @alias http://dbpedia.org/resource/Sousveillance
-    @weight 0.75
-    * :bRDtwe3FqmHvOQaK: 
-    * :j7fkoumGYsGKY8P6: 
-    * :M8lWLbNGVlpmrJHO: 
+@id OA70t0q7w6b2DvMu
+@title sousveillance
+@alias http://dbpedia.org/resource/Sousveillance
+@created 1365659492945
+@weight 0.75
+* :bRDtwe3FqmHvOQaK: 
+* :j7fkoumGYsGKY8P6: 
+* :M8lWLbNGVlpmrJHO: 

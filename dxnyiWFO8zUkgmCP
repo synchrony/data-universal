@@ -1,5 +1,6 @@
-* :dxnyiWFO8zUkgmCP: obscenity
-    @created 1490471700784
-    @alias http://dbpedia.org/resource/Obscenity
-    @weight 0.5
-    * :nBFvHV27T7X99B8v: 
+@id dxnyiWFO8zUkgmCP
+@title obscenity
+@alias http://dbpedia.org/resource/Obscenity
+@created 1490471700784
+@weight 0.5
+* :nBFvHV27T7X99B8v: 

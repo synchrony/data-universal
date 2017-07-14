@@ -1,4 +1,5 @@
-* :fZYR8cGtScsR69WO: cat's-whisker detector
-    @created 1310229493021
-    @alias http://dbpedia.org/resource/Cat's-whisker_detector
-    @weight 0.5
+@id fZYR8cGtScsR69WO
+@title cat's-whisker detector
+@alias http://dbpedia.org/resource/Cat's-whisker_detector
+@created 1310229493021
+@weight 0.5

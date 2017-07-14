@@ -1,8 +1,9 @@
-* :LypUKbylxt0wSiPl: sensory defensiveness
-    @created 1360997078388
-    @alias http://dbpedia.org/resource/Sensory_defensiveness
-    @weight 0.5
-    * :m3qoduWBXr9BKnCJ: 
-    * :oZf5rsF9Tp20I9vK: 
-    * :4lyveJt7LXdwL0rY: 
-    * :qvOzJsmVoaDot7Ke: 
+@id LypUKbylxt0wSiPl
+@title sensory defensiveness
+@alias http://dbpedia.org/resource/Sensory_defensiveness
+@created 1360997078388
+@weight 0.5
+* :m3qoduWBXr9BKnCJ: 
+* :oZf5rsF9Tp20I9vK: 
+* :4lyveJt7LXdwL0rY: 
+* :qvOzJsmVoaDot7Ke: 

@@ -1,5 +1,6 @@
-* :Mugzj6B4Ytn2KAs1: ConceptBase
-    @created 1430929660654
-    @alias http://dbpedia.org/resource/ConceptBase
-    @weight 0.5
-    * :bwKEUr6OKytISQG2: 
+@id Mugzj6B4Ytn2KAs1
+@title ConceptBase
+@alias http://dbpedia.org/resource/ConceptBase
+@created 1430929660654
+@weight 0.5
+* :bwKEUr6OKytISQG2: 

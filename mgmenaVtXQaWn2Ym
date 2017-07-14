@@ -1,10 +1,11 @@
-* :mgmenaVtXQaWn2Ym: DBpedia
-    @created 1328315780137
-    @alias http://dbpedia.org/resource/DBpedia
-    @weight 0.75
-    * :vyTThR6Nqd2YCDq4: 
-    * :hKPhsQQm1vA8BGTD: 
-    * :63nQ8F7lmAiF17Ic: 
-    * :8kp0LW2gUJAg3q7B: 
-    * :pkIwlzuvlNSzOBNe: 
-    * :96fXVOW6N8bHgB1Z: 
+@id mgmenaVtXQaWn2Ym
+@title DBpedia
+@alias http://dbpedia.org/resource/DBpedia
+@created 1328315780137
+@weight 0.75
+* :vyTThR6Nqd2YCDq4: 
+* :hKPhsQQm1vA8BGTD: 
+* :63nQ8F7lmAiF17Ic: 
+* :8kp0LW2gUJAg3q7B: 
+* :pkIwlzuvlNSzOBNe: 
+* :96fXVOW6N8bHgB1Z: 

@@ -1,6 +1,7 @@
-* :nAwEsqD1MpIPbvd9: James Joyce
-    @created 1408316929056
-    @alias http://dbpedia.org/resource/James_Joyce
-    @weight 0.5
-    * :Ee6CMinIsMklPdIv: 
-    * :z1AfeL7HiuRSM9Wc: 
+@id nAwEsqD1MpIPbvd9
+@title James Joyce
+@alias http://dbpedia.org/resource/James_Joyce
+@created 1408316929056
+@weight 0.5
+* :Ee6CMinIsMklPdIv: 
+* :z1AfeL7HiuRSM9Wc: 

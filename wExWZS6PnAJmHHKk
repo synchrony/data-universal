@@ -1,5 +1,6 @@
-* :wExWZS6PnAJmHHKk: ricin
-    @created 1380678375580
-    @alias http://dbpedia.org/resource/Ricin
-    @weight 0.5
-    * :2eACbQCAlTMTN0nC: 
+@id wExWZS6PnAJmHHKk
+@title ricin
+@alias http://dbpedia.org/resource/Ricin
+@created 1380678375580
+@weight 0.5
+* :2eACbQCAlTMTN0nC: 

@@ -1,4 +1,5 @@
-* :swe4JiLgzRIOwdJi: Slovakia
-    @created 1470039755943
-    @alias http://dbpedia.org/resource/Slovakia
-    @weight 0.5
+@id swe4JiLgzRIOwdJi
+@title Slovakia
+@alias http://dbpedia.org/resource/Slovakia
+@created 1470039755943
+@weight 0.5

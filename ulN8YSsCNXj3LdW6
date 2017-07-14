@@ -1,6 +1,7 @@
-* :ulN8YSsCNXj3LdW6: knucklebones
-    @created 1391555624034
-    @alias http://dbpedia.org/resource/Knucklebones
-    @weight 0.5
-    * :KcLMZZn4Xi432oxP: 
-    * :Uk4VZW7sM9HDDuv0: 
+@id ulN8YSsCNXj3LdW6
+@title knucklebones
+@alias http://dbpedia.org/resource/Knucklebones
+@created 1391555624034
+@weight 0.5
+* :KcLMZZn4Xi432oxP: 
+* :Uk4VZW7sM9HDDuv0: 

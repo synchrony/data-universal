@@ -1,4 +1,5 @@
-* :hriAZ1rxbdgeiCFe: load balancing (computing)
-    @created 1309964884260
-    @alias http://dbpedia.org/resource/Load_balancing_(computing)
-    @weight 0.5
+@id hriAZ1rxbdgeiCFe
+@title load balancing (computing)
+@alias http://dbpedia.org/resource/Load_balancing_(computing)
+@created 1309964884260
+@weight 0.5

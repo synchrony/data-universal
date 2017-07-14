@@ -1,7 +1,8 @@
-* :CS3RNR0d5KWoGJHk: Big Five personality traits
-    @created 1363148773098
-    @alias http://dbpedia.org/resource/Big_Five_personality_traits
-    @weight 0.5
-    * :36SWZogTy2bzU32c: 
-    * :pC0Hui2VWMEhgL1X: 
-    * :D1gqA9Upnr68Ieks: 
+@id CS3RNR0d5KWoGJHk
+@title Big Five personality traits
+@alias http://dbpedia.org/resource/Big_Five_personality_traits
+@created 1363148773098
+@weight 0.5
+* :36SWZogTy2bzU32c: 
+* :pC0Hui2VWMEhgL1X: 
+* :D1gqA9Upnr68Ieks: 

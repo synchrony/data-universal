@@ -1,15 +1,16 @@
-* :BqOFkq1wYyDKWDxj: kindness
-    @created 1411307009538
-    @alias http://dbpedia.org/resource/Kindness
-    @weight 0.75
-    * :jmOCU5u1hAQAnAeK: 
-    * :ZKyyAcp53kwCmPcx: 
-    * :aTHO1xteiNEyIDVF: 
-    * :9uFuBU8TL4WFRxgw: 
-    * :78xXtYA1v8IlqNRa: 
-    * :qSsISMEM0X3W6qSH: 
-    * :vlY8tGE7jNt2n7JD: 
-    * :NBKlpJXU6BIJeTWe: 
-    * :dSsucaxNncfzM6mW: 
-    * :Gd4iWODRtn6WwwHl: 
-    * :gc0pWsnhLfcCywVs: 
+@id BqOFkq1wYyDKWDxj
+@title kindness
+@alias http://dbpedia.org/resource/Kindness
+@created 1411307009538
+@weight 0.75
+* :jmOCU5u1hAQAnAeK: 
+* :ZKyyAcp53kwCmPcx: 
+* :aTHO1xteiNEyIDVF: 
+* :9uFuBU8TL4WFRxgw: 
+* :78xXtYA1v8IlqNRa: 
+* :qSsISMEM0X3W6qSH: 
+* :vlY8tGE7jNt2n7JD: 
+* :NBKlpJXU6BIJeTWe: 
+* :dSsucaxNncfzM6mW: 
+* :Gd4iWODRtn6WwwHl: 
+* :gc0pWsnhLfcCywVs: 

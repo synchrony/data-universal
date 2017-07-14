@@ -1,7 +1,8 @@
-* :2vntOtE7i2rx9oPQ: VoltDB
-    @created 1364751710227
-    @alias http://dbpedia.org/resource/VoltDB
-    @weight 0.5
-    * :4beJqzGXbjMUwEIY: 
-    * :1LQ7lutwv2ra9tLx: 
-    * :gCiqkZIaqysqeXnH: 
+@id 2vntOtE7i2rx9oPQ
+@title VoltDB
+@alias http://dbpedia.org/resource/VoltDB
+@created 1364751710227
+@weight 0.5
+* :4beJqzGXbjMUwEIY: 
+* :1LQ7lutwv2ra9tLx: 
+* :gCiqkZIaqysqeXnH: 

@@ -1,4 +1,5 @@
-* :cQjVdWUYQQJfDr8L: International Space Station
-    @created 1455348199868
-    @alias http://dbpedia.org/resource/International_Space_Station
-    @weight 0.5
+@id cQjVdWUYQQJfDr8L
+@title International Space Station
+@alias http://dbpedia.org/resource/International_Space_Station
+@created 1455348199868
+@weight 0.5

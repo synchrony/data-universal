@@ -1,4 +1,5 @@
-* :VNSMB5LdB1THI91D: mendelevium
-    @created 1344309326547
-    @alias http://dbpedia.org/resource/Mendelevium
-    @weight 0.5
+@id VNSMB5LdB1THI91D
+@title mendelevium
+@alias http://dbpedia.org/resource/Mendelevium
+@created 1344309326547
+@weight 0.5

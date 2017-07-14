@@ -1,9 +1,10 @@
-* :fF9OVpDiluJkeegP: accountability
-    @created 1412954881790
-    @alias http://dbpedia.org/resource/Accountability
-    @weight 0.75
-    * :7YDevLlUfciFGDjc: 
-    * :h2IPWriWqoYJsg6d: 
-    * :af6sx0jqhBnAwZZG: 
-    * :TJogUUaQfgV7dkPb: 
-    * :E1VSRsS6OveVHYjs: 
+@id fF9OVpDiluJkeegP
+@title accountability
+@alias http://dbpedia.org/resource/Accountability
+@created 1412954881790
+@weight 0.75
+* :7YDevLlUfciFGDjc: 
+* :h2IPWriWqoYJsg6d: 
+* :af6sx0jqhBnAwZZG: 
+* :TJogUUaQfgV7dkPb: 
+* :E1VSRsS6OveVHYjs: 

@@ -1,4 +1,5 @@
-* :TCGKhLQXbTJaCarO: panic disorder
-    @created 1370376105460
-    @alias http://dbpedia.org/resource/Panic_disorder
-    @weight 0.5
+@id TCGKhLQXbTJaCarO
+@title panic disorder
+@alias http://dbpedia.org/resource/Panic_disorder
+@created 1370376105460
+@weight 0.5

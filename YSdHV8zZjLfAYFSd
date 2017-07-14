@@ -1,4 +1,5 @@
-* :YSdHV8zZjLfAYFSd: rose
-    @created 1418525543980
-    @alias http://dbpedia.org/resource/Rose
-    @weight 0.5
+@id YSdHV8zZjLfAYFSd
+@title rose
+@alias http://dbpedia.org/resource/Rose
+@created 1418525543980
+@weight 0.5

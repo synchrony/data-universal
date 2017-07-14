@@ -1,5 +1,6 @@
-* :RQkG2GlRbSiRjOzL: National Cancer Institute
-    @created 1454703497489
-    @alias http://dbpedia.org/resource/National_Cancer_Institute
-    @weight 0.5
-    * :HvnA76LP7ou2zSM6: 
+@id RQkG2GlRbSiRjOzL
+@title National Cancer Institute
+@alias http://dbpedia.org/resource/National_Cancer_Institute
+@created 1454703497489
+@weight 0.5
+* :HvnA76LP7ou2zSM6: 

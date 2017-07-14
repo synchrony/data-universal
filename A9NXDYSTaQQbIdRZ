@@ -1,6 +1,7 @@
-* :A9NXDYSTaQQbIdRZ: tithe
-    @created 1395059068446
-    @alias http://dbpedia.org/resource/Tithe
-    @weight 0.75
-    * :qETSea5PT1ALafwe: 
-    * :x6zAbpwm4i1ElrtO: 
+@id A9NXDYSTaQQbIdRZ
+@title tithe
+@alias http://dbpedia.org/resource/Tithe
+@created 1395059068446
+@weight 0.75
+* :qETSea5PT1ALafwe: 
+* :x6zAbpwm4i1ElrtO: 

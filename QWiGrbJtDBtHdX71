@@ -1,4 +1,5 @@
-* :QWiGrbJtDBtHdX71: outlet store
-    @created 1435939075183
-    @alias http://dbpedia.org/resource/Outlet_store
-    @weight 0.75
+@id QWiGrbJtDBtHdX71
+@title outlet store
+@alias http://dbpedia.org/resource/Outlet_store
+@created 1435939075183
+@weight 0.75

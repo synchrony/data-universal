@@ -1,6 +1,7 @@
-* :jO2KI7Va0fTAk49x: billfish
-    @created 1446591769545
-    @alias http://dbpedia.org/resource/Billfish
-    @weight 0.5
-    * :z6lPUozbGoeAli9a: 
-    * :lpP5g7xAVV4bAtKX: 
+@id jO2KI7Va0fTAk49x
+@title billfish
+@alias http://dbpedia.org/resource/Billfish
+@created 1446591769545
+@weight 0.5
+* :z6lPUozbGoeAli9a: 
+* :lpP5g7xAVV4bAtKX: 

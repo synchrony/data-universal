@@ -1,6 +1,7 @@
-* :x6DogDmDn1ONpZPC: consistency model
-    @created 1463347325451
-    @alias http://dbpedia.org/resource/Consistency_model
-    @weight 0.5
-    * :ypbkDoqDY4VU73zX: 
-    * :55I9crzapltYjh5y: 
+@id x6DogDmDn1ONpZPC
+@title consistency model
+@alias http://dbpedia.org/resource/Consistency_model
+@created 1463347325451
+@weight 0.5
+* :ypbkDoqDY4VU73zX: 
+* :55I9crzapltYjh5y: 

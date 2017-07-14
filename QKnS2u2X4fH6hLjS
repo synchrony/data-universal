@@ -1,5 +1,6 @@
-* :QKnS2u2X4fH6hLjS: LOINC
-    @created 1346524457512
-    @alias http://dbpedia.org/resource/LOINC
-    @weight 0.5
-    * :UPVMsfZceoMLCuqr: 
+@id QKnS2u2X4fH6hLjS
+@title LOINC
+@alias http://dbpedia.org/resource/LOINC
+@created 1346524457512
+@weight 0.5
+* :UPVMsfZceoMLCuqr: 

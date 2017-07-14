@@ -1,6 +1,7 @@
-* :yPvlTYvrTYYE7CKa: set packing
-    @created 1466529858409
-    @alias http://dbpedia.org/resource/Set_packing
-    @weight 0.5
-    * :bMsh9J7SnEEJJ129: 
-    * :HvwgMG5FZI4lRvdf: 
+@id yPvlTYvrTYYE7CKa
+@title set packing
+@alias http://dbpedia.org/resource/Set_packing
+@created 1466529858409
+@weight 0.5
+* :bMsh9J7SnEEJJ129: 
+* :HvwgMG5FZI4lRvdf: 

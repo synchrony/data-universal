@@ -1,6 +1,7 @@
-* :3MlHqfc5bKfXaNZE: Manchego
-    @created 1419223624793
-    @alias http://dbpedia.org/resource/Manchego
-    @weight 0.5
-    * :F28UCw0Vn4DLhsaR: 
-    * :qaVUiNsXRq1e01ix: 
+@id 3MlHqfc5bKfXaNZE
+@title Manchego
+@alias http://dbpedia.org/resource/Manchego
+@created 1419223624793
+@weight 0.5
+* :F28UCw0Vn4DLhsaR: 
+* :qaVUiNsXRq1e01ix: 

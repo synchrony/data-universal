@@ -1,6 +1,7 @@
-* :3Z6Kpbv0oIuc8ReY: birch
-    @created 1376286355068
-    @alias http://dbpedia.org/resource/Birch
-    @weight 0.5
-    * :Uds7KjTzwtIcpt6u: 
-    * :CKOiynYCjhRugsqz: 
+@id 3Z6Kpbv0oIuc8ReY
+@title birch
+@alias http://dbpedia.org/resource/Birch
+@created 1376286355068
+@weight 0.5
+* :Uds7KjTzwtIcpt6u: 
+* :CKOiynYCjhRugsqz: 

@@ -1,12 +1,13 @@
-* :g7Z357jQXueH9oxv: homeostasis
-    @created 1351363193841
-    @alias http://dbpedia.org/resource/Homeostasis
-    @weight 0.5
-    * :foUYQoQndudXxoH2: 
-    * :ZsOmqvutxjqf5fBv: 
-    * :NnOOsTYFxOV7Bn8B: 
-    * :Kl8gKaNJSG8cP8wc: 
-    * :Tfq4BqkY5H1DrSu4: 
-    * :VgvaljpP9rk457m4: 
-    * :8z6hfcGDMB9uVb2B: 
-    * :e40xFIDcHnZxnlr4: 
+@id g7Z357jQXueH9oxv
+@title homeostasis
+@alias http://dbpedia.org/resource/Homeostasis
+@created 1351363193841
+@weight 0.5
+* :foUYQoQndudXxoH2: 
+* :ZsOmqvutxjqf5fBv: 
+* :NnOOsTYFxOV7Bn8B: 
+* :Kl8gKaNJSG8cP8wc: 
+* :Tfq4BqkY5H1DrSu4: 
+* :VgvaljpP9rk457m4: 
+* :8z6hfcGDMB9uVb2B: 
+* :e40xFIDcHnZxnlr4: 

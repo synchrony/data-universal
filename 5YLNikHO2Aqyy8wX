@@ -1,10 +1,11 @@
-* :5YLNikHO2Aqyy8wX: Symmetric Hash Join
-    @created 1351617831470
-    @alias http://dbpedia.org/resource/Symmetric_Hash_Join
-    @weight 0.5
-    * :CB46yGoB9aylEdDp: 
-    * :zImJaoNmHpvZVpjy: 
-    * :EVAGHruK5FEX1Gi9: 
-    * :Kg3FkwxO1UHaptQF: 
-    * :leKyLTO9hXNzYd04: 
-    * :FPqgbnBWFbUfyxe6: 
+@id 5YLNikHO2Aqyy8wX
+@title Symmetric Hash Join
+@alias http://dbpedia.org/resource/Symmetric_Hash_Join
+@created 1351617831470
+@weight 0.5
+* :CB46yGoB9aylEdDp: 
+* :zImJaoNmHpvZVpjy: 
+* :EVAGHruK5FEX1Gi9: 
+* :Kg3FkwxO1UHaptQF: 
+* :leKyLTO9hXNzYd04: 
+* :FPqgbnBWFbUfyxe6: 

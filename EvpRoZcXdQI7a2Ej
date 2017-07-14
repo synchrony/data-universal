@@ -1,8 +1,9 @@
-* :EvpRoZcXdQI7a2Ej: Basic Formal Ontology
-    @created 1330150728463
-    @alias http://dbpedia.org/resource/Basic_Formal_Ontology
-    @weight 0.5
-    * :IEsP8nKmZPTV8iH5: 
-    * :H6bfRvIGvAWFhDUh: 
-    * :qyShIP35wJOkl8ec: 
-    * :2a8wf5COkBKSaMPf: 
+@id EvpRoZcXdQI7a2Ej
+@title Basic Formal Ontology
+@alias http://dbpedia.org/resource/Basic_Formal_Ontology
+@created 1330150728463
+@weight 0.5
+* :IEsP8nKmZPTV8iH5: 
+* :H6bfRvIGvAWFhDUh: 
+* :qyShIP35wJOkl8ec: 
+* :2a8wf5COkBKSaMPf: 

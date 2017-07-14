@@ -1,7 +1,8 @@
-* :S8NQJz8ZYCu7yKg7: percussion instrument
-    @created 1436026307629
-    @alias http://dbpedia.org/resource/Percussion_instrument
-    @weight 0.5
-    * :M1ZqTbeuFeUpJ2lP: 
-    * :3g2iXkCK7BbbJhtP: 
-    * :pSme695IKNbMONa9: 
+@id S8NQJz8ZYCu7yKg7
+@title percussion instrument
+@alias http://dbpedia.org/resource/Percussion_instrument
+@created 1436026307629
+@weight 0.5
+* :M1ZqTbeuFeUpJ2lP: 
+* :3g2iXkCK7BbbJhtP: 
+* :pSme695IKNbMONa9: 

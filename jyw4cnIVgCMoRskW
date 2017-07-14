@@ -1,6 +1,7 @@
-* :jyw4cnIVgCMoRskW: database
-    @created 1312618433158
-    @alias http://dbpedia.org/resource/Database
-    @weight 0.5
-    * :WdhQ8nbeEtv9emUe: 
-    * :nNtI9fTGAxJjItUW: 
+@id jyw4cnIVgCMoRskW
+@title database
+@alias http://dbpedia.org/resource/Database
+@created 1312618433158
+@weight 0.5
+* :WdhQ8nbeEtv9emUe: 
+* :nNtI9fTGAxJjItUW: 

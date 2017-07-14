@@ -1,6 +1,7 @@
-* :TtBk4JrRaY2sDXlL: ananda
-    @created 1377476876564
-    @alias http://dbpedia.org/resource/Ananda
-    @weight 0.5
-    * :UsQVo6cHRiZxovyG: 
-    * :WMkGUtJZhFH42UZj: 
+@id TtBk4JrRaY2sDXlL
+@title ananda
+@alias http://dbpedia.org/resource/Ananda
+@created 1377476876564
+@weight 0.5
+* :UsQVo6cHRiZxovyG: 
+* :WMkGUtJZhFH42UZj: 

@@ -1,6 +1,7 @@
-* :7FBpRlQWngX1PYh1: deism
-    @created 1411311490209
-    @alias http://dbpedia.org/resource/Deism
-    @weight 0.5
-    * :xhVEottoBJArwDfQ: 
-    * :SFdVy8oyNXrA3cYH: 
+@id 7FBpRlQWngX1PYh1
+@title deism
+@alias http://dbpedia.org/resource/Deism
+@created 1411311490209
+@weight 0.5
+* :xhVEottoBJArwDfQ: 
+* :SFdVy8oyNXrA3cYH: 

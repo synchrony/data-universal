@@ -1,4 +1,5 @@
-* :fvl8WZpR4BDFJOcm: dragon
-    @created 1360475690068
-    @alias http://dbpedia.org/resource/Dragon
-    @weight 0.5
+@id fvl8WZpR4BDFJOcm
+@title dragon
+@alias http://dbpedia.org/resource/Dragon
+@created 1360475690068
+@weight 0.5

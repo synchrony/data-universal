@@ -1,4 +1,5 @@
-* :IWUEiOxAE5qeHaiK: dew point
-    @created 1481734325975
-    @alias http://dbpedia.org/resource/Dew_point
-    @weight 0.5
+@id IWUEiOxAE5qeHaiK
+@title dew point
+@alias http://dbpedia.org/resource/Dew_point
+@created 1481734325975
+@weight 0.5

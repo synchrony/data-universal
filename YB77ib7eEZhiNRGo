@@ -1,6 +1,7 @@
-* :YB77ib7eEZhiNRGo: SIGMET
-    @created 1483261440639
-    @alias http://dbpedia.org/resource/SIGMET
-    @weight 0.75
-    * :ZIBWyvCpDh80Veja: 
-    * :TUDsZFAGDtuW1jaZ: 
+@id YB77ib7eEZhiNRGo
+@title SIGMET
+@alias http://dbpedia.org/resource/SIGMET
+@created 1483261440639
+@weight 0.75
+* :ZIBWyvCpDh80Veja: 
+* :TUDsZFAGDtuW1jaZ: 

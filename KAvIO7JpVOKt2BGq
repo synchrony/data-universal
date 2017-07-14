@@ -1,5 +1,6 @@
-* :KAvIO7JpVOKt2BGq: person
-    @created 1369837702190
-    @alias http://dbpedia.org/resource/Person
-    @weight 0.5
-    * :PEgolB7P4bcPq7cX: 
+@id KAvIO7JpVOKt2BGq
+@title person
+@alias http://dbpedia.org/resource/Person
+@created 1369837702190
+@weight 0.5
+* :PEgolB7P4bcPq7cX: 

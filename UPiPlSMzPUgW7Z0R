@@ -1,8 +1,9 @@
-* :UPiPlSMzPUgW7Z0R: turn and slip indicator
-    @created 1486222111511
-    @alias http://dbpedia.org/resource/Turn_and_slip_indicator
-    @weight 0.5
-    * :KLZtXRVEQLUfTSvH: 
-    * :kxR4MLUEUV9V2BEs: 
-    * :X3RpPgaxX1ycnzrs: 
-    * :CDKDtFTiCJ70vKK9: 
+@id UPiPlSMzPUgW7Z0R
+@title turn and slip indicator
+@alias http://dbpedia.org/resource/Turn_and_slip_indicator
+@created 1486222111511
+@weight 0.5
+* :KLZtXRVEQLUfTSvH: 
+* :kxR4MLUEUV9V2BEs: 
+* :X3RpPgaxX1ycnzrs: 
+* :CDKDtFTiCJ70vKK9: 

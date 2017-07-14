@@ -1,6 +1,7 @@
-* :rnpUY16CuQzIOzWH: glucose
-    @created 1327515444127
-    @alias http://dbpedia.org/resource/Glucose
-    @weight 0.75
-    * :u937aPqitQJedidg: 
-    * :C4wGpnaMHGg3Zrbb: 
+@id rnpUY16CuQzIOzWH
+@title glucose
+@alias http://dbpedia.org/resource/Glucose
+@created 1327515444127
+@weight 0.75
+* :u937aPqitQJedidg: 
+* :C4wGpnaMHGg3Zrbb: 

@@ -1,6 +1,7 @@
-* :wHaTLv0SWtTQ6mnj: hebenon
-    @created 1420521373480
-    @alias http://dbpedia.org/resource/Hebenon
-    @weight 0.5
-    * :awI4cn68gxAzWfqQ: 
-    * :T3fRZy0JrDXPiKwS: 
+@id wHaTLv0SWtTQ6mnj
+@title hebenon
+@alias http://dbpedia.org/resource/Hebenon
+@created 1420521373480
+@weight 0.5
+* :awI4cn68gxAzWfqQ: 
+* :T3fRZy0JrDXPiKwS: 

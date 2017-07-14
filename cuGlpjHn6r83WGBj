@@ -1,4 +1,5 @@
-* :cuGlpjHn6r83WGBj: seismometer
-    @created 1345480239043
-    @alias http://dbpedia.org/resource/Seismometer
-    @weight 0.5
+@id cuGlpjHn6r83WGBj
+@title seismometer
+@alias http://dbpedia.org/resource/Seismometer
+@created 1345480239043
+@weight 0.5

@@ -1,10 +1,11 @@
-* :uSPT4ZtLxsjPZkpE: aviation
-    @created 1472827718547
-    @alias http://dbpedia.org/resource/Aviation
-    @weight 0.75
-    * :8OQsAxTIs7XbOh4k: 
-    * :LMDyCBD0Xpav9oB1: 
-    * :IVbZfe2njxRRkz1h: 
-    * :HfxuALH26lcHWPcW: 
-    * :3yhmpuXF8cseHDOp: 
-    * :aEC7bpn6GSUCCXUC: 
+@id uSPT4ZtLxsjPZkpE
+@title aviation
+@alias http://dbpedia.org/resource/Aviation
+@created 1472827718547
+@weight 0.75
+* :8OQsAxTIs7XbOh4k: 
+* :LMDyCBD0Xpav9oB1: 
+* :IVbZfe2njxRRkz1h: 
+* :HfxuALH26lcHWPcW: 
+* :3yhmpuXF8cseHDOp: 
+* :aEC7bpn6GSUCCXUC: 

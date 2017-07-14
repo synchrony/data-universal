@@ -1,4 +1,5 @@
-* :hKGoPhb0WhFg8kul: bass drum
-    @created 1332625533535
-    @alias http://dbpedia.org/resource/Bass_drum
-    @weight 0.5
+@id hKGoPhb0WhFg8kul
+@title bass drum
+@alias http://dbpedia.org/resource/Bass_drum
+@created 1332625533535
+@weight 0.5

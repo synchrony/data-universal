@@ -1,4 +1,5 @@
-* :n3zHlXfPHEdrjJhU: business process management
-    @created 1335041050948
-    @alias http://dbpedia.org/resource/Business_process_management
-    @weight 0.5
+@id n3zHlXfPHEdrjJhU
+@title business process management
+@alias http://dbpedia.org/resource/Business_process_management
+@created 1335041050948
+@weight 0.5

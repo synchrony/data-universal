@@ -1,5 +1,6 @@
-* :2P0Pw1bpb9EYpiQM: stemming
-    @created 1343203222722
-    @alias http://dbpedia.org/resource/Stemming
-    @weight 0.5
-    * :Rzs3vAh9zdLq7bDe: 
+@id 2P0Pw1bpb9EYpiQM
+@title stemming
+@alias http://dbpedia.org/resource/Stemming
+@created 1343203222722
+@weight 0.5
+* :Rzs3vAh9zdLq7bDe: 

@@ -1,7 +1,8 @@
-* :0rH5Nh0ZlviJoJWN: rudraksha
-    @created 1331607706375
-    @alias http://dbpedia.org/resource/Rudraksha
-    @weight 0.5
-    * :PHa2uoo4ClwAOMwt: 
-    * :FWy0XUc2elMCpAf0: 
-    * :D6qYtWSBQ5tJJVmR: 
+@id 0rH5Nh0ZlviJoJWN
+@title rudraksha
+@alias http://dbpedia.org/resource/Rudraksha
+@created 1331607706375
+@weight 0.5
+* :PHa2uoo4ClwAOMwt: 
+* :FWy0XUc2elMCpAf0: 
+* :D6qYtWSBQ5tJJVmR: 

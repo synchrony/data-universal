@@ -1,6 +1,7 @@
-* :LHyh0lMtDgq1GcuK: occupational therapy
-    @created 1361137697928
-    @alias http://dbpedia.org/resource/Occupational_therapy
-    @weight 0.5
-    * :cJtS1b7Js4bfTbXW: 
-    * :EqWRzpqQUp8kM2Yn: 
+@id LHyh0lMtDgq1GcuK
+@title occupational therapy
+@alias http://dbpedia.org/resource/Occupational_therapy
+@created 1361137697928
+@weight 0.5
+* :cJtS1b7Js4bfTbXW: 
+* :EqWRzpqQUp8kM2Yn: 

@@ -1,6 +1,7 @@
-* :0lyzHm3RghQR1Ylo: Harappa
-    @created 1469372434208
-    @alias http://dbpedia.org/resource/Harappa
-    @weight 0.5
-    * :VQ9HEGtR0KyRpFTz: 
-    * :nx8kLLX0l7OO9vYv: 
+@id 0lyzHm3RghQR1Ylo
+@title Harappa
+@alias http://dbpedia.org/resource/Harappa
+@created 1469372434208
+@weight 0.5
+* :VQ9HEGtR0KyRpFTz: 
+* :nx8kLLX0l7OO9vYv: 

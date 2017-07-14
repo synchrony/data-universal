@@ -1,4 +1,5 @@
-* :6JQtIqN3RueDTjw5: evolution
-    @created 1494691815130
-    @alias http://dbpedia.org/resource/Evolution
-    @weight 0.5
+@id 6JQtIqN3RueDTjw5
+@title evolution
+@alias http://dbpedia.org/resource/Evolution
+@created 1494691815130
+@weight 0.5

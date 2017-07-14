@@ -1,5 +1,6 @@
-* :vqd2dvCkpETFajRl: job shop scheduling
-    @created 1466529858411
-    @alias http://dbpedia.org/resource/Job_shop_scheduling
-    @weight 0.5
-    * :7vvklhMEt6dZmHX8: 
+@id vqd2dvCkpETFajRl
+@title job shop scheduling
+@alias http://dbpedia.org/resource/Job_shop_scheduling
+@created 1466529858411
+@weight 0.5
+* :7vvklhMEt6dZmHX8: 

@@ -1,5 +1,6 @@
-* :eed3i7JOqBifZVnE: phenomenon
-    @created 1344128341379
-    @alias http://dbpedia.org/resource/Phenomena_(philosophy)
-    @weight 0.5
-    * :44DRfFUO5Q9fpGN0: 
+@id eed3i7JOqBifZVnE
+@title phenomenon
+@alias http://dbpedia.org/resource/Phenomena_(philosophy)
+@created 1344128341379
+@weight 0.5
+* :44DRfFUO5Q9fpGN0: 

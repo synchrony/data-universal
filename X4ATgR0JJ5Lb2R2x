@@ -1,5 +1,6 @@
-* :X4ATgR0JJ5Lb2R2x: Pleistocene
-    @created 1388043172636
-    @alias http://dbpedia.org/resource/Pleistocene
-    @weight 0.5
-    * :BJmy9BmPQnYTHCM8: 
+@id X4ATgR0JJ5Lb2R2x
+@title Pleistocene
+@alias http://dbpedia.org/resource/Pleistocene
+@created 1388043172636
+@weight 0.5
+* :BJmy9BmPQnYTHCM8: 

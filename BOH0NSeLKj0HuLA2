@@ -1,7 +1,8 @@
-* :BOH0NSeLKj0HuLA2: standing desk
-    @created 1338770662238
-    @alias http://dbpedia.org/resource/Standing_desk
-    @weight 0.5
-    * :7izYEWlU4YjgOown: 
-    * :phrSFfXe0AzhCGs8: 
-    * :rgcLOiAZBdnyfyna: 
+@id BOH0NSeLKj0HuLA2
+@title standing desk
+@alias http://dbpedia.org/resource/Standing_desk
+@created 1338770662238
+@weight 0.5
+* :7izYEWlU4YjgOown: 
+* :phrSFfXe0AzhCGs8: 
+* :rgcLOiAZBdnyfyna: 

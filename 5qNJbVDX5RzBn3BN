@@ -1,5 +1,6 @@
-* :5qNJbVDX5RzBn3BN: tremor
-    @created 1360945673533
-    @alias http://dbpedia.org/resource/Tremor
-    @weight 0.5
-    * :VshNfG9f8jx5R5zS: 
+@id 5qNJbVDX5RzBn3BN
+@title tremor
+@alias http://dbpedia.org/resource/Tremor
+@created 1360945673533
+@weight 0.5
+* :VshNfG9f8jx5R5zS: 

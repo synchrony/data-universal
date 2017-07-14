@@ -1,5 +1,6 @@
-* :3quJAyx0eEidEOuy: superhero
-    @created 1343191157088
-    @alias http://dbpedia.org/resource/Superhero
-    @weight 0.5
-    * :xIHsxzIAlfb0ahsU: 
+@id 3quJAyx0eEidEOuy
+@title superhero
+@alias http://dbpedia.org/resource/Superhero
+@created 1343191157088
+@weight 0.5
+* :xIHsxzIAlfb0ahsU: 

@@ -1,4 +1,5 @@
-* :rPvyELSa1UryZkYz: hafnium
-    @created 1344309326599
-    @alias http://dbpedia.org/resource/Hafnium
-    @weight 0.5
+@id rPvyELSa1UryZkYz
+@title hafnium
+@alias http://dbpedia.org/resource/Hafnium
+@created 1344309326599
+@weight 0.5

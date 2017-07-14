@@ -1,7 +1,8 @@
-* :yQbxjxgkC2GrfOwr: Keith Hearne
-    @created 1420560202564
-    @alias http://dbpedia.org/resource/Keith_Hearne
-    @weight 0.5
-    * :4BwMZWHKdf5l2an3: 
-    * :7q9cbt5vICmK3oXY: 
-    * :ktOLJ76tcM3XJSZu: 
+@id yQbxjxgkC2GrfOwr
+@title Keith Hearne
+@alias http://dbpedia.org/resource/Keith_Hearne
+@created 1420560202564
+@weight 0.5
+* :4BwMZWHKdf5l2an3: 
+* :7q9cbt5vICmK3oXY: 
+* :ktOLJ76tcM3XJSZu: 

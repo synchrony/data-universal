@@ -1,4 +1,5 @@
-* :pYalDE9PAG1VOKDU: Musée du Louvre
-    @created 1310279869781
-    @alias http://dbpedia.org/resource/Mus%C3%A9e_du_Louvre
-    @weight 0.75
+@id pYalDE9PAG1VOKDU
+@title Musée du Louvre
+@alias http://dbpedia.org/resource/Mus%C3%A9e_du_Louvre
+@created 1310279869781
+@weight 0.75

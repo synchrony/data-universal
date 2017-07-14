@@ -1,4 +1,5 @@
-* :kj6cGuyS7TIIln4e: Lewis Carroll
-    @created 1486364534197
-    @alias http://dbpedia.org/resource/Lewis_Carroll
-    @weight 0.5
+@id kj6cGuyS7TIIln4e
+@title Lewis Carroll
+@alias http://dbpedia.org/resource/Lewis_Carroll
+@created 1486364534197
+@weight 0.5

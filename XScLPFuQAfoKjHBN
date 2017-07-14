@@ -1,8 +1,9 @@
-* :XScLPFuQAfoKjHBN: Bhagavad Gita
-    @created 1334894059882
-    @alias http://dbpedia.org/resource/Bhagavad_Gita
-    @weight 0.75
-    * :dGQhpSom59wvV8BO: 
-    * :E3qHuga0yLCG8v1z: 
-    * :OSHVR3NQ5VyD8inU: 
-    * :zFIiSUvsI3BjPOb4: 
+@id XScLPFuQAfoKjHBN
+@title Bhagavad Gita
+@alias http://dbpedia.org/resource/Bhagavad_Gita
+@created 1334894059882
+@weight 0.75
+* :dGQhpSom59wvV8BO: 
+* :E3qHuga0yLCG8v1z: 
+* :OSHVR3NQ5VyD8inU: 
+* :zFIiSUvsI3BjPOb4: 

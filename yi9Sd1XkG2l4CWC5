@@ -1,7 +1,8 @@
-* :yi9Sd1XkG2l4CWC5: Boy Scouts of America
-    @created 1358623935288
-    @alias http://dbpedia.org/resource/Boy_Scouts_of_America
-    @weight 0.5
-    * :lZrPHVTLJq1IK7Kj: 
-    * :gEtXAGINih496chU: 
-    * :GVWr2GiixenytiiX: 
+@id yi9Sd1XkG2l4CWC5
+@title Boy Scouts of America
+@alias http://dbpedia.org/resource/Boy_Scouts_of_America
+@created 1358623935288
+@weight 0.5
+* :lZrPHVTLJq1IK7Kj: 
+* :gEtXAGINih496chU: 
+* :GVWr2GiixenytiiX: 

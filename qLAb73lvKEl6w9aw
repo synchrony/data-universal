@@ -1,8 +1,9 @@
-* :qLAb73lvKEl6w9aw: human-based computation game
-    @created 1409167917895
-    @alias http://dbpedia.org/resource/Human-based_computation_game
-    @weight 0.5
-    * :s0jc1FNJPhFm8Axp: 
-    * :YZiNvGLAxDaUfb1l: 
-    * :MeGi80gEKVm7EJHX: 
-    * :3DdhUPKL2dy5MMjn: 
+@id qLAb73lvKEl6w9aw
+@title human-based computation game
+@alias http://dbpedia.org/resource/Human-based_computation_game
+@created 1409167917895
+@weight 0.5
+* :s0jc1FNJPhFm8Axp: 
+* :YZiNvGLAxDaUfb1l: 
+* :MeGi80gEKVm7EJHX: 
+* :3DdhUPKL2dy5MMjn: 

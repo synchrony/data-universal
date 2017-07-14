@@ -1,6 +1,7 @@
-* :5yzfgSGDdNHq60qA: postprandial somnolence
-    @created 1328969244967
-    @alias http://dbpedia.org/resource/Postprandial_somnolence
-    @weight 0.5
-    * :I11LfEzvfTXbMN6d: 
-    * :mM8EZr2ClMXtfQoN: 
+@id 5yzfgSGDdNHq60qA
+@title postprandial somnolence
+@alias http://dbpedia.org/resource/Postprandial_somnolence
+@created 1328969244967
+@weight 0.5
+* :I11LfEzvfTXbMN6d: 
+* :mM8EZr2ClMXtfQoN: 

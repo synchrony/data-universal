@@ -1,7 +1,8 @@
-* :hL7SinObJJaFQhJF: coramsine
-    @created 1454906150991
-    @alias http://dbpedia.org/resource/Coramsine
-    @weight 0.5
-    * :NIsglZBQ9OLSYx4h: 
-    * :1Q8PUSmC8nzy1EUA: 
-    * :WvCOhHEXb28nmkZE: 
+@id hL7SinObJJaFQhJF
+@title coramsine
+@alias http://dbpedia.org/resource/Coramsine
+@created 1454906150991
+@weight 0.5
+* :NIsglZBQ9OLSYx4h: 
+* :1Q8PUSmC8nzy1EUA: 
+* :WvCOhHEXb28nmkZE: 

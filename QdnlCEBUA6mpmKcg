@@ -1,8 +1,9 @@
-* :QdnlCEBUA6mpmKcg: seven deadly sins
-    @created 1408332520394
-    @alias http://dbpedia.org/resource/Seven_deadly_sins
-    @weight 0.5
-    * :8v96YNpN2Ru0XLkn: 
-    * :S8yaOLeOXiX6vloO: 
-    * :J8VIwh3N7KFQw4jY: 
-    * :FvZWOtcs6RXwDJnR: 
+@id QdnlCEBUA6mpmKcg
+@title seven deadly sins
+@alias http://dbpedia.org/resource/Seven_deadly_sins
+@created 1408332520394
+@weight 0.5
+* :8v96YNpN2Ru0XLkn: 
+* :S8yaOLeOXiX6vloO: 
+* :J8VIwh3N7KFQw4jY: 
+* :FvZWOtcs6RXwDJnR: 

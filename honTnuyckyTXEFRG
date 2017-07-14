@@ -1,6 +1,7 @@
-* :honTnuyckyTXEFRG: linearizability
-    @created 1463347661112
-    @alias http://dbpedia.org/resource/Linearizability
-    @weight 0.5
-    * :BKKqiOYg9vkujo3t: 
-    * :laSnNsl7ZBC0Es0S: 
+@id honTnuyckyTXEFRG
+@title linearizability
+@alias http://dbpedia.org/resource/Linearizability
+@created 1463347661112
+@weight 0.5
+* :BKKqiOYg9vkujo3t: 
+* :laSnNsl7ZBC0Es0S: 

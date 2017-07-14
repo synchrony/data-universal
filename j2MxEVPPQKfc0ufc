@@ -1,7 +1,8 @@
-* :j2MxEVPPQKfc0ufc: CREW (performance company)
-    @created 1358453119727
-    @alias http://dbpedia.org/resource/CREW_(performance_company)
-    @weight 0.5
-    * :IRwogwGYRDLagE8K: 
-    * :y9dspQkQy4sjwXSg: 
-    * :NSFJ7jsV2w28q7P4: 
+@id j2MxEVPPQKfc0ufc
+@title CREW (performance company)
+@alias http://dbpedia.org/resource/CREW_(performance_company)
+@created 1358453119727
+@weight 0.5
+* :IRwogwGYRDLagE8K: 
+* :y9dspQkQy4sjwXSg: 
+* :NSFJ7jsV2w28q7P4: 

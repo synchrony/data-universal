@@ -1,5 +1,6 @@
-* :METsnkVGqprpkNGf: subwoofer
-    @created 1310544259543
-    @alias http://dbpedia.org/resource/Subwoofer
-    @weight 0.5
-    * :KXl7KkDb8S6OWfYB: 
+@id METsnkVGqprpkNGf
+@title subwoofer
+@alias http://dbpedia.org/resource/Subwoofer
+@created 1310544259543
+@weight 0.5
+* :KXl7KkDb8S6OWfYB: 

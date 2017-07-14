@@ -1,4 +1,5 @@
-* :Sh4FJKYz3aVJI9Vg: Bielefeld University
-    @created 1441299162344
-    @alias http://dbpedia.org/resource/Bielefeld_University
-    @weight 0.5
+@id Sh4FJKYz3aVJI9Vg
+@title Bielefeld University
+@alias http://dbpedia.org/resource/Bielefeld_University
+@created 1441299162344
+@weight 0.5

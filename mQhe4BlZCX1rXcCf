@@ -1,4 +1,5 @@
-* :mQhe4BlZCX1rXcCf: format (Common Lisp)
-    @created 1372663252036
-    @alias http://dbpedia.org/resource/Format_(Common_Lisp)
-    @weight 0.5
+@id mQhe4BlZCX1rXcCf
+@title format (Common Lisp)
+@alias http://dbpedia.org/resource/Format_(Common_Lisp)
+@created 1372663252036
+@weight 0.5

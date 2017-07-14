@@ -1,9 +1,10 @@
-* :3Hmh6BxkaZINalJA: Global Information Grid
-    @created 1341637592840
-    @alias http://dbpedia.org/resource/Global_Information_Grid
-    @weight 0.5
-    * :0tgnx5nUcNUWk5Nx: 
-    * :CQwJsPFKtpuwbf4F: 
-    * :XEKLqtHoqCZDFJpK: 
-    * :ITtMQtaSopruYn1G: 
-    * :vDZxwIVjQkC3kSwJ: 
+@id 3Hmh6BxkaZINalJA
+@title Global Information Grid
+@alias http://dbpedia.org/resource/Global_Information_Grid
+@created 1341637592840
+@weight 0.5
+* :0tgnx5nUcNUWk5Nx: 
+* :CQwJsPFKtpuwbf4F: 
+* :XEKLqtHoqCZDFJpK: 
+* :ITtMQtaSopruYn1G: 
+* :vDZxwIVjQkC3kSwJ: 

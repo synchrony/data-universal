@@ -1,4 +1,5 @@
-* :BxAgGJiHTxwR1tix: Eucharist
-    @created 1341198207193
-    @alias http://dbpedia.org/resource/Eucharist
-    @weight 0.5
+@id BxAgGJiHTxwR1tix
+@title Eucharist
+@alias http://dbpedia.org/resource/Eucharist
+@created 1341198207193
+@weight 0.5

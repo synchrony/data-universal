@@ -1,4 +1,5 @@
-* :CcpLFS0n9R7sZyoV: Africa
-    @created 1388639673934
-    @alias http://dbpedia.org/resource/Africa
-    @weight 0.5
+@id CcpLFS0n9R7sZyoV
+@title Africa
+@alias http://dbpedia.org/resource/Africa
+@created 1388639673934
+@weight 0.5

@@ -1,4 +1,5 @@
-* :fzIcwA1Hnntn7Bot: sitar
-    @created 1312542761356
-    @alias http://dbpedia.org/resource/Sitar
-    @weight 0.75
+@id fzIcwA1Hnntn7Bot
+@title sitar
+@alias http://dbpedia.org/resource/Sitar
+@created 1312542761356
+@weight 0.75

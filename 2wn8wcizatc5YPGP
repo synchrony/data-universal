@@ -1,11 +1,12 @@
-* :2wn8wcizatc5YPGP: active database
-    @created 1351458909894
-    @alias http://dbpedia.org/resource/Active_database
-    @weight 0.5
-    * :ib3Jl22KeWODecty: 
-    * :bF8UAlk6okVtRLPQ: 
-    * :2lDxtKIANhcfF3NK: 
-    * :0bHGJuRAxE4rTKHc: 
-    * :psYOyT9V5loPVGXQ: 
-    * :J0yqSMHQE4Av1CP5: 
-    * :BgWrZ2ncYc1a07OA: 
+@id 2wn8wcizatc5YPGP
+@title active database
+@alias http://dbpedia.org/resource/Active_database
+@created 1351458909894
+@weight 0.5
+* :ib3Jl22KeWODecty: 
+* :bF8UAlk6okVtRLPQ: 
+* :2lDxtKIANhcfF3NK: 
+* :0bHGJuRAxE4rTKHc: 
+* :psYOyT9V5loPVGXQ: 
+* :J0yqSMHQE4Av1CP5: 
+* :BgWrZ2ncYc1a07OA: 

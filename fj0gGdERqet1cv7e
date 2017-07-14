@@ -1,6 +1,7 @@
-* :fj0gGdERqet1cv7e: Izod
-    @created 1427050531660
-    @alias http://dbpedia.org/resource/Izod
-    @weight 0.5
-    * :sN92LCP0IrtaCjge: 
-    * :yUaCBMeGFjtC1p4l: 
+@id fj0gGdERqet1cv7e
+@title Izod
+@alias http://dbpedia.org/resource/Izod
+@created 1427050531660
+@weight 0.5
+* :sN92LCP0IrtaCjge: 
+* :yUaCBMeGFjtC1p4l: 

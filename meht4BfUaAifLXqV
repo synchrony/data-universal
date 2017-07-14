@@ -1,6 +1,7 @@
-* :meht4BfUaAifLXqV: goji
-    @created 1383620613997
-    @alias http://dbpedia.org/resource/Goji
-    @weight 0.5
-    * :ho6vzOtXTP06hLlh: 
-    * :A0CfoL8y175oKV9n: 
+@id meht4BfUaAifLXqV
+@title goji
+@alias http://dbpedia.org/resource/Goji
+@created 1383620613997
+@weight 0.5
+* :ho6vzOtXTP06hLlh: 
+* :A0CfoL8y175oKV9n: 

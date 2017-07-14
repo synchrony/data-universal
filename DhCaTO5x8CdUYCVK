@@ -1,4 +1,5 @@
-* :DhCaTO5x8CdUYCVK: top quark
-    @created 1365197832071
-    @alias http://dbpedia.org/resource/Top_quark
-    @weight 0.5
+@id DhCaTO5x8CdUYCVK
+@title top quark
+@alias http://dbpedia.org/resource/Top_quark
+@created 1365197832071
+@weight 0.5

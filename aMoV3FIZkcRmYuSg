@@ -1,4 +1,5 @@
-* :aMoV3FIZkcRmYuSg: Enterprise Master Patient Index
-    @created 1352745452388
-    @alias http://dbpedia.org/resource/Enterprise_Master_Patient_Index
-    @weight 0.5
+@id aMoV3FIZkcRmYuSg
+@title Enterprise Master Patient Index
+@alias http://dbpedia.org/resource/Enterprise_Master_Patient_Index
+@created 1352745452388
+@weight 0.5

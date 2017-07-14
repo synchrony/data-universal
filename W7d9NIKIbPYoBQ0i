@@ -1,5 +1,6 @@
-* :W7d9NIKIbPYoBQ0i: orange (fruit)
-    @created 1323404221758
-    @alias http://dbpedia.org/resource/Orange_(fruit)
-    @weight 0.5
-    * :viObNLhYYC8vBXml: 
+@id W7d9NIKIbPYoBQ0i
+@title orange (fruit)
+@alias http://dbpedia.org/resource/Orange_(fruit)
+@created 1323404221758
+@weight 0.5
+* :viObNLhYYC8vBXml: 

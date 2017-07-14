@@ -1,8 +1,9 @@
-* :OEEWVZpLwSbHWxFo: Entish
-    @created 1367964394071
-    @alias http://dbpedia.org/resource/Entish
-    @weight 0.5
-    * :CH1lo8WoVeV4MIb5: 
-    * :5Oy3bnTMU7pZclZ4: 
-    * :Hu8s9FbR3XHSzBS8: 
-    * :goApdkZtrk5lrVml: 
+@id OEEWVZpLwSbHWxFo
+@title Entish
+@alias http://dbpedia.org/resource/Entish
+@created 1367964394071
+@weight 0.5
+* :CH1lo8WoVeV4MIb5: 
+* :5Oy3bnTMU7pZclZ4: 
+* :Hu8s9FbR3XHSzBS8: 
+* :goApdkZtrk5lrVml: 

@@ -1,7 +1,8 @@
-* :VimKJmGwoT7cR0Rg: bipolar junction transistor
-    @created 1477186550834
-    @alias http://dbpedia.org/resource/Bipolar_junction_transistor
-    @weight 0.5
-    * :AqPFceEfsyL0QD9U: 
-    * :Ow5NanuVO4zvYpIX: 
-    * :LxwYlCtzFW8wf8px: 
+@id VimKJmGwoT7cR0Rg
+@title bipolar junction transistor
+@alias http://dbpedia.org/resource/Bipolar_junction_transistor
+@created 1477186550834
+@weight 0.5
+* :AqPFceEfsyL0QD9U: 
+* :Ow5NanuVO4zvYpIX: 
+* :LxwYlCtzFW8wf8px: 

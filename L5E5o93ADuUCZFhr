@@ -1,5 +1,6 @@
-* :L5E5o93ADuUCZFhr: hexahedron
-    @created 1376599154470
-    @alias http://dbpedia.org/resource/Hexahedron
-    @weight 0.5
-    * :06FBrTjbwxJt6zTU: 
+@id L5E5o93ADuUCZFhr
+@title hexahedron
+@alias http://dbpedia.org/resource/Hexahedron
+@created 1376599154470
+@weight 0.5
+* :06FBrTjbwxJt6zTU: 

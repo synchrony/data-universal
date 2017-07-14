@@ -1,4 +1,5 @@
-* :JHM2PkQhmS0QZq1f: London
-    @created 1344661368351
-    @alias http://dbpedia.org/resource/London
-    @weight 0.5
+@id JHM2PkQhmS0QZq1f
+@title London
+@alias http://dbpedia.org/resource/London
+@created 1344661368351
+@weight 0.5

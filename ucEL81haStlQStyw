@@ -1,4 +1,5 @@
-* :ucEL81haStlQStyw: artificial neural network
-    @created 1352236063134
-    @alias http://dbpedia.org/resource/Artificial_neural_network
-    @weight 0.5
+@id ucEL81haStlQStyw
+@title artificial neural network
+@alias http://dbpedia.org/resource/Artificial_neural_network
+@created 1352236063134
+@weight 0.5

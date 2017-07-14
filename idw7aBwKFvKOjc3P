@@ -1,4 +1,5 @@
-* :idw7aBwKFvKOjc3P: weight 0.25
-    @created 1342157341864
-    @alias http://example.org/demo-public-0.25
-    @weight 0.25
+@id idw7aBwKFvKOjc3P
+@title weight 0.25
+@alias http://example.org/demo-public-0.25
+@created 1342157341864
+@weight 0.25

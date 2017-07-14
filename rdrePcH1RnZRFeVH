@@ -1,6 +1,7 @@
-* :rdrePcH1RnZRFeVH: stress (biology)
-    @created 1431113049413
-    @alias http://dbpedia.org/resource/Stress_(biology)
-    @weight 0.5
-    * :DZWbYo9VN5kYmDUH: 
-    * :ATUQPZbEkB4tQWVj: 
+@id rdrePcH1RnZRFeVH
+@title stress (biology)
+@alias http://dbpedia.org/resource/Stress_(biology)
+@created 1431113049413
+@weight 0.5
+* :DZWbYo9VN5kYmDUH: 
+* :ATUQPZbEkB4tQWVj: 

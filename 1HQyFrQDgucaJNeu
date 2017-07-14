@@ -1,5 +1,6 @@
-* :1HQyFrQDgucaJNeu: soybean oil
-    @created 1416064674290
-    @alias http://dbpedia.org/resource/Soybean_oil
-    @weight 0.5
-    * :v26tUMtJmub3r6hx: 
+@id 1HQyFrQDgucaJNeu
+@title soybean oil
+@alias http://dbpedia.org/resource/Soybean_oil
+@created 1416064674290
+@weight 0.5
+* :v26tUMtJmub3r6hx: 

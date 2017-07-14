@@ -1,7 +1,8 @@
-* :vnG1R4aP7dLZ9QKq: social dynamics
-    @created 1447530436287
-    @alias http://dbpedia.org/resource/Social_dynamics
-    @weight 0.5
-    * :2RzCmVtgFOzRSa16: 
-    * :cSJ5gShA9bdO8b2R: 
-    * :gGyIixnRXUXQm50o: 
+@id vnG1R4aP7dLZ9QKq
+@title social dynamics
+@alias http://dbpedia.org/resource/Social_dynamics
+@created 1447530436287
+@weight 0.5
+* :2RzCmVtgFOzRSa16: 
+* :cSJ5gShA9bdO8b2R: 
+* :gGyIixnRXUXQm50o: 

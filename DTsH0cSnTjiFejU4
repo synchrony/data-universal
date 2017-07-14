@@ -1,9 +1,10 @@
-* :DTsH0cSnTjiFejU4: advisory circular
-    @created 1481649904368
-    @alias http://dbpedia.org/resource/Advisory_circular
-    @weight 0.5
-    * :068yGnB5zmZvw9Nz: 
-    * :the39e28dyJlAZ4V: 
-    * :Tz4nUS70DYaaOdRn: 
-    * :eCj9Hgjl6qxNb0U1: 
-    * :sSQQVEmE2wIbOihS: 
+@id DTsH0cSnTjiFejU4
+@title advisory circular
+@alias http://dbpedia.org/resource/Advisory_circular
+@created 1481649904368
+@weight 0.5
+* :068yGnB5zmZvw9Nz: 
+* :the39e28dyJlAZ4V: 
+* :Tz4nUS70DYaaOdRn: 
+* :eCj9Hgjl6qxNb0U1: 
+* :sSQQVEmE2wIbOihS: 

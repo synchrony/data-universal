@@ -1,6 +1,7 @@
-* :KPCsIeFQfSO4SN0t: law (principle)
-    @created 1315370827866
-    @alias http://dbpedia.org/resource/Law_(principle)
-    @weight 0.5
-    * :al8tHQDvBOQWadKD: 
-    * :bR7G4eLaAJJgKOo2: 
+@id KPCsIeFQfSO4SN0t
+@title law (principle)
+@alias http://dbpedia.org/resource/Law_(principle)
+@created 1315370827866
+@weight 0.5
+* :al8tHQDvBOQWadKD: 
+* :bR7G4eLaAJJgKOo2: 

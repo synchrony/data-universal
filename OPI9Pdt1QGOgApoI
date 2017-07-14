@@ -1,4 +1,5 @@
-* :OPI9Pdt1QGOgApoI: lead
-    @created 1344309326545
-    @alias http://dbpedia.org/resource/Lead
-    @weight 0.75
+@id OPI9Pdt1QGOgApoI
+@title lead
+@alias http://dbpedia.org/resource/Lead
+@created 1344309326545
+@weight 0.75

@@ -1,4 +1,5 @@
-* :E0yxTdKq6mlhdOvI: The Brady Bunch
-    @created 1316409263071
-    @alias http://dbpedia.org/resource/The_Brady_Bunch
-    @weight 0.75
+@id E0yxTdKq6mlhdOvI
+@title The Brady Bunch
+@alias http://dbpedia.org/resource/The_Brady_Bunch
+@created 1316409263071
+@weight 0.75

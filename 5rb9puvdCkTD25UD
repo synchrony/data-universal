@@ -1,4 +1,5 @@
-* :5rb9puvdCkTD25UD: bread
-    @created 1467562730862
-    @alias http://dbpedia.org/resource/Bread
-    @weight 0.5
+@id 5rb9puvdCkTD25UD
+@title bread
+@alias http://dbpedia.org/resource/Bread
+@created 1467562730862
+@weight 0.5

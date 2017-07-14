@@ -1,7 +1,8 @@
-* :r8TU9THI1WfLET6r: ICD-10
-    @created 1336680636129
-    @alias http://dbpedia.org/resource/ICD-10
-    @weight 0.5
-    * :GExSigPYubCTMQDy: 
-    * :AmqfgrzCQuly3iLK: 
-    * :2aBZKlgPtn22tuEv: 
+@id r8TU9THI1WfLET6r
+@title ICD-10
+@alias http://dbpedia.org/resource/ICD-10
+@created 1336680636129
+@weight 0.5
+* :GExSigPYubCTMQDy: 
+* :AmqfgrzCQuly3iLK: 
+* :2aBZKlgPtn22tuEv: 

@@ -1,5 +1,6 @@
-* :wkKr3qGWyHe60Jks: RADIUS
-    @created 1438902251742
-    @alias http://dbpedia.org/resource/RADIUS
-    @weight 0.5
-    * :kkUYGvkmBWZfCrdd: 
+@id wkKr3qGWyHe60Jks
+@title RADIUS
+@alias http://dbpedia.org/resource/RADIUS
+@created 1438902251742
+@weight 0.5
+* :kkUYGvkmBWZfCrdd: 

@@ -1,5 +1,6 @@
-* :x96QJMqBBtPddUpf: biological motion
-    @created 1447116879696
-    @alias http://dbpedia.org/resource/Biological_motion
-    @weight 0.5
-    * :CRCvGrqy9op5hF6p: 
+@id x96QJMqBBtPddUpf
+@title biological motion
+@alias http://dbpedia.org/resource/Biological_motion
+@created 1447116879696
+@weight 0.5
+* :CRCvGrqy9op5hF6p: 

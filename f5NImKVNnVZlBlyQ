@@ -1,5 +1,6 @@
-* :f5NImKVNnVZlBlyQ: MMR vaccine
-    @created 1371584765993
-    @alias http://dbpedia.org/resource/MMR_vaccine
-    @weight 0.5
-    * :h6q0NmNfbL1j0NuF: 
+@id f5NImKVNnVZlBlyQ
+@title MMR vaccine
+@alias http://dbpedia.org/resource/MMR_vaccine
+@created 1371584765993
+@weight 0.5
+* :h6q0NmNfbL1j0NuF: 

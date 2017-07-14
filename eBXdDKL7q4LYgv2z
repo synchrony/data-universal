@@ -1,4 +1,5 @@
-* :eBXdDKL7q4LYgv2z: rainbow
-    @created 1327532098732
-    @alias http://dbpedia.org/resource/Rainbow
-    @weight 0.5
+@id eBXdDKL7q4LYgv2z
+@title rainbow
+@alias http://dbpedia.org/resource/Rainbow
+@created 1327532098732
+@weight 0.5

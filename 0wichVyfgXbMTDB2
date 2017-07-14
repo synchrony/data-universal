@@ -1,4 +1,5 @@
-* :0wichVyfgXbMTDB2: aircraft flight manual
-    @created 1486221096323
-    @alias http://dbpedia.org/resource/Aircraft_flight_manual
-    @weight 0.5
+@id 0wichVyfgXbMTDB2
+@title aircraft flight manual
+@alias http://dbpedia.org/resource/Aircraft_flight_manual
+@created 1486221096323
+@weight 0.5

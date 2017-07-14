@@ -1,5 +1,6 @@
-* :m078LBAtFGlYYsJg: audio bit depth
-    @created 1385467490012
-    @alias http://dbpedia.org/resource/Audio_bit_depth
-    @weight 0.5
-    * :BW3YOO8lJ5RJHvPD: 
+@id m078LBAtFGlYYsJg
+@title audio bit depth
+@alias http://dbpedia.org/resource/Audio_bit_depth
+@created 1385467490012
+@weight 0.5
+* :BW3YOO8lJ5RJHvPD: 

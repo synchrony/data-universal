@@ -1,4 +1,5 @@
-* :XynimypUQkbuLrvR: object database
-    @created 1492557961763
-    @alias http://dbpedia.org/resource/Object_database
-    @weight 0.5
+@id XynimypUQkbuLrvR
+@title object database
+@alias http://dbpedia.org/resource/Object_database
+@created 1492557961763
+@weight 0.5

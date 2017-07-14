@@ -1,4 +1,5 @@
-* :KfYnojmTwRKAFNtM: snake
-    @created 1354415720308
-    @alias http://dbpedia.org/resource/Snake
-    @weight 0.5
+@id KfYnojmTwRKAFNtM
+@title snake
+@alias http://dbpedia.org/resource/Snake
+@created 1354415720308
+@weight 0.5

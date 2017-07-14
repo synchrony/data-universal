@@ -1,6 +1,7 @@
-* :ehhA7qPcdgqlI4eY: 7-Zip
-    @created 1342661617860
-    @alias http://dbpedia.org/resource/7-Zip
-    @weight 0.5
-    * :z9FwVAsKL7YmGxgV: 
-    * :iUcNyDWsNSo8Oi9Q: 
+@id ehhA7qPcdgqlI4eY
+@title 7-Zip
+@alias http://dbpedia.org/resource/7-Zip
+@created 1342661617860
+@weight 0.5
+* :z9FwVAsKL7YmGxgV: 
+* :iUcNyDWsNSo8Oi9Q: 

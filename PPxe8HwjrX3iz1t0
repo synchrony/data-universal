@@ -1,5 +1,6 @@
-* :PPxe8HwjrX3iz1t0: Antarctica
-    @created 1388639673935
-    @alias http://dbpedia.org/resource/Antarctica
-    @weight 0.5
-    * :bYONXMGlHhwNCtQp: 
+@id PPxe8HwjrX3iz1t0
+@title Antarctica
+@alias http://dbpedia.org/resource/Antarctica
+@created 1388639673935
+@weight 0.5
+* :bYONXMGlHhwNCtQp: 

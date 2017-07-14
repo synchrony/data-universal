@@ -1,8 +1,9 @@
-* :51jFG6iNW8md9sbj: DataStax
-    @created 1392226013017
-    @alias http://dbpedia.org/resource/DataStax
-    @weight 0.5
-    * :8pe7d7NkHLerMW3F: 
-    * :Zk92fyqB35T5j1vS: 
-    * :w9xOnKlcGXsI4vCY: 
-    * :Jt6AYGc3bILPkFUA: 
+@id 51jFG6iNW8md9sbj
+@title DataStax
+@alias http://dbpedia.org/resource/DataStax
+@created 1392226013017
+@weight 0.5
+* :8pe7d7NkHLerMW3F: 
+* :Zk92fyqB35T5j1vS: 
+* :w9xOnKlcGXsI4vCY: 
+* :Jt6AYGc3bILPkFUA: 

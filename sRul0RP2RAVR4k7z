@@ -1,6 +1,7 @@
-* :sRul0RP2RAVR4k7z: bicycle sharing system
-    @created 1354044965638
-    @alias http://dbpedia.org/resource/Bicycle_sharing_system
-    @weight 0.5
-    * :UOLDXGwMWqWtwjt9: 
-    * :EAtEBzeeKiySm9UD: 
+@id sRul0RP2RAVR4k7z
+@title bicycle sharing system
+@alias http://dbpedia.org/resource/Bicycle_sharing_system
+@created 1354044965638
+@weight 0.5
+* :UOLDXGwMWqWtwjt9: 
+* :EAtEBzeeKiySm9UD: 

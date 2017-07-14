@@ -1,7 +1,8 @@
-* :pnRvmDt9xJBgM1Ed: public-key cryptography
-    @created 1449541352997
-    @alias http://dbpedia.org/resource/Public-key_cryptography
-    @weight 0.5
-    * :12xYYLSl5SCzcKbp: 
-    * :k44aUJpMcRZDPR4J: 
-    * :pqfDm89Mne9ZaMdR: 
+@id pnRvmDt9xJBgM1Ed
+@title public-key cryptography
+@alias http://dbpedia.org/resource/Public-key_cryptography
+@created 1449541352997
+@weight 0.5
+* :12xYYLSl5SCzcKbp: 
+* :k44aUJpMcRZDPR4J: 
+* :pqfDm89Mne9ZaMdR: 

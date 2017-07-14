@@ -1,4 +1,5 @@
-* :zjQCjDSObfFYbKGR: yucca
-    @created 1339366736435
-    @alias http://dbpedia.org/resource/Yucca
-    @weight 0.5
+@id zjQCjDSObfFYbKGR
+@title yucca
+@alias http://dbpedia.org/resource/Yucca
+@created 1339366736435
+@weight 0.5

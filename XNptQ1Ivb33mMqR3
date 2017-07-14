@@ -1,4 +1,5 @@
-* :XNptQ1Ivb33mMqR3: salute
-    @created 1347070168329
-    @alias http://dbpedia.org/resource/Salute
-    @weight 0.5
+@id XNptQ1Ivb33mMqR3
+@title salute
+@alias http://dbpedia.org/resource/Salute
+@created 1347070168329
+@weight 0.5

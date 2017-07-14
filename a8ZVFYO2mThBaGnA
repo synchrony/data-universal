@@ -1,4 +1,5 @@
-* :a8ZVFYO2mThBaGnA: stopwatch
-    @created 1337740014342
-    @alias http://dbpedia.org/resource/Stopwatch
-    @weight 0.5
+@id a8ZVFYO2mThBaGnA
+@title stopwatch
+@alias http://dbpedia.org/resource/Stopwatch
+@created 1337740014342
+@weight 0.5

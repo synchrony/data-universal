@@ -1,8 +1,9 @@
-* :zCaLSbkNAvHlRk0r: Mythology (book)
-    @created 1316915545877
-    @alias http://dbpedia.org/resource/Mythology_(book)
-    @weight 0.75
-    * :wnJ3No8FfK3UEXrB: 
-    * :mbQWGHgngbAiV6Xt: 
-    * :rLViB9cqjZOFNBqY: 
-    * :kURlpJCgnHiAoXYt: 
+@id zCaLSbkNAvHlRk0r
+@title Mythology (book)
+@alias http://dbpedia.org/resource/Mythology_(book)
+@created 1316915545877
+@weight 0.75
+* :wnJ3No8FfK3UEXrB: 
+* :mbQWGHgngbAiV6Xt: 
+* :rLViB9cqjZOFNBqY: 
+* :kURlpJCgnHiAoXYt: 

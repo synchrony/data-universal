@@ -1,7 +1,8 @@
-* :4WFsuHGoK3GZugoQ: mouthwash
-    @created 1315073058943
-    @alias http://dbpedia.org/resource/Mouthwash
-    @weight 0.5
-    * :V6Hy5o1xXkFgSvbT: 
-    * :3eLhiOxvaTKC6JQc: 
-    * :OGwJBzDjRJBdJ2sC: 
+@id 4WFsuHGoK3GZugoQ
+@title mouthwash
+@alias http://dbpedia.org/resource/Mouthwash
+@created 1315073058943
+@weight 0.5
+* :V6Hy5o1xXkFgSvbT: 
+* :3eLhiOxvaTKC6JQc: 
+* :OGwJBzDjRJBdJ2sC: 

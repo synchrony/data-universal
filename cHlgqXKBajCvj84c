@@ -1,5 +1,6 @@
-* :cHlgqXKBajCvj84c: swamp
-    @created 1389765121645
-    @alias http://dbpedia.org/resource/Swamp
-    @weight 0.5
-    * :LQoD9ZGNki69m7cG: 
+@id cHlgqXKBajCvj84c
+@title swamp
+@alias http://dbpedia.org/resource/Swamp
+@created 1389765121645
+@weight 0.5
+* :LQoD9ZGNki69m7cG: 

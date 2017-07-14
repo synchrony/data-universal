@@ -1,8 +1,9 @@
-* :oU9gJL812l7QT2CC: Nutch
-    @created 1332018838702
-    @alias http://dbpedia.org/resource/Nutch
-    @weight 0.5
-    * :vfXDYRZkRUEJyX6X: 
-    * :cPGBozIy5OrOt6Vi: 
-    * :GKtl6KmPBInEDiXP: 
-    * :GtRzx7mSXK8nK0Ef: 
+@id oU9gJL812l7QT2CC
+@title Nutch
+@alias http://dbpedia.org/resource/Nutch
+@created 1332018838702
+@weight 0.5
+* :vfXDYRZkRUEJyX6X: 
+* :cPGBozIy5OrOt6Vi: 
+* :GKtl6KmPBInEDiXP: 
+* :GtRzx7mSXK8nK0Ef: 

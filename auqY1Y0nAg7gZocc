@@ -1,7 +1,8 @@
-* :auqY1Y0nAg7gZocc: speech recognition
-    @created 1338480328910
-    @alias http://dbpedia.org/resource/Speech_recognition
-    @weight 0.75
-    * :Lf2jgReveVBTSn8N: 
-    * :XGt4qu7IuCwnXlaX: 
-    * :vKMKeul9vFdDYyM7: 
+@id auqY1Y0nAg7gZocc
+@title speech recognition
+@alias http://dbpedia.org/resource/Speech_recognition
+@created 1338480328910
+@weight 0.75
+* :Lf2jgReveVBTSn8N: 
+* :XGt4qu7IuCwnXlaX: 
+* :vKMKeul9vFdDYyM7: 

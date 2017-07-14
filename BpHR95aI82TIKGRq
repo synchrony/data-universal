@@ -1,6 +1,7 @@
-* :BpHR95aI82TIKGRq: capacitor
-    @created 1316377937219
-    @alias http://dbpedia.org/resource/Capacitor
-    @weight 0.5
-    * :wnbLrlcSOf6AzyON: 
-    * :C9ydmIuBmYWLzCas: 
+@id BpHR95aI82TIKGRq
+@title capacitor
+@alias http://dbpedia.org/resource/Capacitor
+@created 1316377937219
+@weight 0.5
+* :wnbLrlcSOf6AzyON: 
+* :C9ydmIuBmYWLzCas: 

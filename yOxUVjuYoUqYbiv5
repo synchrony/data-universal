@@ -1,4 +1,5 @@
-* :yOxUVjuYoUqYbiv5: cannabis (drug)
-    @created 1345615549462
-    @alias http://dbpedia.org/resource/Cannabis_(drug)
-    @weight 0.5
+@id yOxUVjuYoUqYbiv5
+@title cannabis (drug)
+@alias http://dbpedia.org/resource/Cannabis_(drug)
+@created 1345615549462
+@weight 0.5

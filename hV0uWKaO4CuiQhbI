@@ -1,4 +1,5 @@
-* :hV0uWKaO4CuiQhbI: tropopause
-    @created 1481651916768
-    @alias http://dbpedia.org/resource/Tropopause
-    @weight 0.5
+@id hV0uWKaO4CuiQhbI
+@title tropopause
+@alias http://dbpedia.org/resource/Tropopause
+@created 1481651916768
+@weight 0.5

@@ -1,5 +1,6 @@
-* :AcN7gz8BezbltMDX: VLC media player
-    @created 1392830640927
-    @alias http://dbpedia.org/resource/VLC_media_player
-    @weight 0.75
-    * :NoWs2amn3bPbclSf: 
+@id AcN7gz8BezbltMDX
+@title VLC media player
+@alias http://dbpedia.org/resource/VLC_media_player
+@created 1392830640927
+@weight 0.75
+* :NoWs2amn3bPbclSf: 

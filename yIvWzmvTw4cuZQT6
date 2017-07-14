@@ -1,8 +1,9 @@
-* :yIvWzmvTw4cuZQT6: rhytidectomy
-    @created 1424928206556
-    @alias http://dbpedia.org/resource/Rhytidectomy
-    @weight 0.5
-    * :GVccpx4vHchOJtp8: 
-    * :dFUfTK4PuIXIP9fT: 
-    * :vNXwbJxwYhlVAPqU: 
-    * :KdMGbU448Skvnl5d: 
+@id yIvWzmvTw4cuZQT6
+@title rhytidectomy
+@alias http://dbpedia.org/resource/Rhytidectomy
+@created 1424928206556
+@weight 0.5
+* :GVccpx4vHchOJtp8: 
+* :dFUfTK4PuIXIP9fT: 
+* :vNXwbJxwYhlVAPqU: 
+* :KdMGbU448Skvnl5d: 

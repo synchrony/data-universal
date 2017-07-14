@@ -1,7 +1,8 @@
-* :9xFiaQSDqEKPc6nJ: misanthropy
-    @created 1370095646088
-    @alias http://dbpedia.org/resource/Misanthropy
-    @weight 0.5
-    * :v7uuoBLh9k6IMQ5p: 
-    * :HhcXSEff3nlzkTuG: 
-    * :ij0uEplXzIhi9TZC: 
+@id 9xFiaQSDqEKPc6nJ
+@title misanthropy
+@alias http://dbpedia.org/resource/Misanthropy
+@created 1370095646088
+@weight 0.5
+* :v7uuoBLh9k6IMQ5p: 
+* :HhcXSEff3nlzkTuG: 
+* :ij0uEplXzIhi9TZC: 

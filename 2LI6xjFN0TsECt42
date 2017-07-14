@@ -1,9 +1,10 @@
-* :2LI6xjFN0TsECt42: OpenFlow
-    @created 1452025117765
-    @alias http://dbpedia.org/resource/OpenFlow
-    @weight 0.5
-    * :z2YUUzZeJSXekj2O: 
-    * :IReeJmZ4xH5Xol7e: 
-    * :eovDghGu4vxonUAR: 
-    * :3zEqGoGhxphRuxLl: 
-    * :SBelVccHDTCTvWRH: 
+@id 2LI6xjFN0TsECt42
+@title OpenFlow
+@alias http://dbpedia.org/resource/OpenFlow
+@created 1452025117765
+@weight 0.5
+* :z2YUUzZeJSXekj2O: 
+* :IReeJmZ4xH5Xol7e: 
+* :eovDghGu4vxonUAR: 
+* :3zEqGoGhxphRuxLl: 
+* :SBelVccHDTCTvWRH: 

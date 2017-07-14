@@ -1,4 +1,5 @@
-* :H9JhWlwUQmbiqJrb: pickaxe
-    @created 1497214820421
-    @alias http://dbpedia.org/resource/Pickaxe
-    @weight 0.5
+@id H9JhWlwUQmbiqJrb
+@title pickaxe
+@alias http://dbpedia.org/resource/Pickaxe
+@created 1497214820421
+@weight 0.5

@@ -1,5 +1,6 @@
-* :rTgnPXyvWbOjQxIo: NSPACE
-    @created 1310230505366
-    @alias http://dbpedia.org/resource/NSPACE
-    @weight 0.5
-    * :fRXubWCHYLrakxkH: 
+@id rTgnPXyvWbOjQxIo
+@title NSPACE
+@alias http://dbpedia.org/resource/NSPACE
+@created 1310230505366
+@weight 0.5
+* :fRXubWCHYLrakxkH: 

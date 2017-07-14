@@ -1,5 +1,6 @@
-* :VKJx0afctLwF1S4M: tag (game)
-    @created 1376748585374
-    @alias http://dbpedia.org/resource/Tag_(game)
-    @weight 0.5
-    * :blk5IrqV6Y4ctzNG: 
+@id VKJx0afctLwF1S4M
+@title tag (game)
+@alias http://dbpedia.org/resource/Tag_(game)
+@created 1376748585374
+@weight 0.5
+* :blk5IrqV6Y4ctzNG: 

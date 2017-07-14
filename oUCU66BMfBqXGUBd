@@ -1,4 +1,5 @@
-* :oUCU66BMfBqXGUBd: gimbal
-    @created 1478881366102
-    @alias http://dbpedia.org/resource/Gimbal
-    @weight 0.5
+@id oUCU66BMfBqXGUBd
+@title gimbal
+@alias http://dbpedia.org/resource/Gimbal
+@created 1478881366102
+@weight 0.5

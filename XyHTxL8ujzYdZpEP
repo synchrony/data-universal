@@ -1,3 +1,4 @@
-* :XyHTxL8ujzYdZpEP: "Link traversal based query execution is a new query execution paradigm for the Web of Data. This approach allows the execution engine to discover potentially relevant data during the query execution [...]"
-    @created 1448857780619
-    @weight 0.5
+@id XyHTxL8ujzYdZpEP
+@title "Link traversal based query execution is a new query execution paradigm for the Web of Data. This approach allows the execution engine to discover potentially relevant data during the query execution [...]"
+@created 1448857780619
+@weight 0.5

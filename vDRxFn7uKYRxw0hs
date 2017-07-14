@@ -1,8 +1,9 @@
-* :vDRxFn7uKYRxw0hs: psychophysics
-    @created 1350753182054
-    @alias http://dbpedia.org/resource/Psychophysics
-    @weight 0.75
-    * :2VgCb0QOX5cKYovp: 
-    * :cpOkQxsFLtEeBhaq: 
-    * :5FrmE7C1Lwk0u4IN: 
-    * :i7uwntQ33m4S8frM: 
+@id vDRxFn7uKYRxw0hs
+@title psychophysics
+@alias http://dbpedia.org/resource/Psychophysics
+@created 1350753182054
+@weight 0.75
+* :2VgCb0QOX5cKYovp: 
+* :cpOkQxsFLtEeBhaq: 
+* :5FrmE7C1Lwk0u4IN: 
+* :i7uwntQ33m4S8frM: 

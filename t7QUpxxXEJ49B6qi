@@ -1,4 +1,5 @@
-* :t7QUpxxXEJ49B6qi: milk
-    @created 1439995989658
-    @alias http://dbpedia.org/resource/Milk
-    @weight 0.5
+@id t7QUpxxXEJ49B6qi
+@title milk
+@alias http://dbpedia.org/resource/Milk
+@created 1439995989658
+@weight 0.5

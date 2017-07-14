@@ -1,5 +1,6 @@
-* :Pqav8THDuzOAGXcG: towel
-    @created 1308717195940
-    @alias http://dbpedia.org/resource/Towel
-    @weight 0.75
-    * :FBg5xTVXVDJ2uSsH: 
+@id Pqav8THDuzOAGXcG
+@title towel
+@alias http://dbpedia.org/resource/Towel
+@created 1308717195940
+@weight 0.75
+* :FBg5xTVXVDJ2uSsH: 

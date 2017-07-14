@@ -1,5 +1,6 @@
-* :WO8ELwPw2FyMbTHT: smoke detector
-    @created 1494106406664
-    @alias http://dbpedia.org/resource/Smoke_detector
-    @weight 0.5
-    * :qBRICMAwfls2jIl1: 
+@id WO8ELwPw2FyMbTHT
+@title smoke detector
+@alias http://dbpedia.org/resource/Smoke_detector
+@created 1494106406664
+@weight 0.5
+* :qBRICMAwfls2jIl1: 

@@ -1,14 +1,15 @@
-* :PLrVzBV5Km91W379: infrasound
-    @created 1310544259512
-    @alias http://dbpedia.org/resource/Infrasound
-    @weight 0.5
-    * :DLpzQ2MJaY93t9GZ: 
-    * :8IxDVxLzqOSRxn9W: 
-    * :x2whgPTgIEEGMWNX: 
-    * :ctIju78pfWIlgBcc: 
-    * :GacjMjTRXHkLgs3I: 
-    * :gqkbUOr2T18WhAFF: 
-    * :1mxUJH1urTIBbLxC: 
-    * :GLxe1fpSSMlQLic7: 
-    * :hdFEe0zP5Enep1V6: 
-    * :RPOeXSwjDMZzhabQ: 
+@id PLrVzBV5Km91W379
+@title infrasound
+@alias http://dbpedia.org/resource/Infrasound
+@created 1310544259512
+@weight 0.5
+* :DLpzQ2MJaY93t9GZ: 
+* :8IxDVxLzqOSRxn9W: 
+* :x2whgPTgIEEGMWNX: 
+* :ctIju78pfWIlgBcc: 
+* :GacjMjTRXHkLgs3I: 
+* :gqkbUOr2T18WhAFF: 
+* :1mxUJH1urTIBbLxC: 
+* :GLxe1fpSSMlQLic7: 
+* :hdFEe0zP5Enep1V6: 
+* :RPOeXSwjDMZzhabQ: 

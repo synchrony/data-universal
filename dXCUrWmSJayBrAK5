@@ -1,5 +1,6 @@
-* :dXCUrWmSJayBrAK5: H.264/MPEG-4 AVC
-    @created 1330446019350
-    @alias http://dbpedia.org/resource/H.264/MPEG-4_AVC
-    @weight 0.5
-    * :dDHAgOOWS5zxZL9X: 
+@id dXCUrWmSJayBrAK5
+@title H.264/MPEG-4 AVC
+@alias http://dbpedia.org/resource/H.264/MPEG-4_AVC
+@created 1330446019350
+@weight 0.5
+* :dDHAgOOWS5zxZL9X: 

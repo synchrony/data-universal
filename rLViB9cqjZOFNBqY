@@ -1,4 +1,5 @@
-* :rLViB9cqjZOFNBqY: Edith Hamilton
-    @created 1316915545877
-    @alias http://dbpedia.org/resource/Edith_Hamilton
-    @weight 0.5
+@id rLViB9cqjZOFNBqY
+@title Edith Hamilton
+@alias http://dbpedia.org/resource/Edith_Hamilton
+@created 1316915545877
+@weight 0.5

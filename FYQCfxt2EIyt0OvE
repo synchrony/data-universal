@@ -1,9 +1,10 @@
-* :FYQCfxt2EIyt0OvE: wake turbulence
-    @created 1482126069839
-    @alias http://dbpedia.org/resource/Wake_turbulence
-    @weight 0.5
-    * :L55BlhzHVN4bfKCd: 
-    * :S3XwQPxx9QrT8TMF: 
-    * :vEgxEH0xeNxKiDbJ: 
-    * :jCNlNaHaJysnWVos: 
-    * :6HInPdlvFp1W5euG: 
+@id FYQCfxt2EIyt0OvE
+@title wake turbulence
+@alias http://dbpedia.org/resource/Wake_turbulence
+@created 1482126069839
+@weight 0.5
+* :L55BlhzHVN4bfKCd: 
+* :S3XwQPxx9QrT8TMF: 
+* :vEgxEH0xeNxKiDbJ: 
+* :jCNlNaHaJysnWVos: 
+* :6HInPdlvFp1W5euG: 

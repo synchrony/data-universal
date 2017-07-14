@@ -1,4 +1,5 @@
-* :gX49O3WVC3fDfU1p: paint
-    @created 1350600597597
-    @alias http://dbpedia.org/resource/Paint
-    @weight 0.5
+@id gX49O3WVC3fDfU1p
+@title paint
+@alias http://dbpedia.org/resource/Paint
+@created 1350600597597
+@weight 0.5

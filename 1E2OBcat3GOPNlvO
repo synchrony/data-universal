@@ -1,6 +1,7 @@
-* :1E2OBcat3GOPNlvO: fishing
-    @created 1345615400744
-    @alias http://dbpedia.org/resource/Fishing
-    @weight 0.5
-    * :HWPVK6RijzwBJr67: 
-    * :D0dI7mHENSJt0Ekd: 
+@id 1E2OBcat3GOPNlvO
+@title fishing
+@alias http://dbpedia.org/resource/Fishing
+@created 1345615400744
+@weight 0.5
+* :HWPVK6RijzwBJr67: 
+* :D0dI7mHENSJt0Ekd: 

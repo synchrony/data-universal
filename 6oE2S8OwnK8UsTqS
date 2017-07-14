@@ -1,8 +1,9 @@
-* :6oE2S8OwnK8UsTqS: International Rescue Committee
-    @created 1418828840068
-    @alias http://dbpedia.org/resource/International_Rescue_Committee
-    @weight 0.5
-    * :duLrQeeoTrQdCSdU: 
-    * :AiTvV2qf2JLDdzwv: 
-    * :uxVROs34tFgTvpNf: 
-    * :nLSWQFIYv0BY03My: 
+@id 6oE2S8OwnK8UsTqS
+@title International Rescue Committee
+@alias http://dbpedia.org/resource/International_Rescue_Committee
+@created 1418828840068
+@weight 0.5
+* :duLrQeeoTrQdCSdU: 
+* :AiTvV2qf2JLDdzwv: 
+* :uxVROs34tFgTvpNf: 
+* :nLSWQFIYv0BY03My: 

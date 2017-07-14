@@ -1,6 +1,7 @@
-* :8cu30o9YNEtqr9As: Coinbase
-    @created 1396245759412
-    @alias http://dbpedia.org/resource/Coinbase
-    @weight 0.75
-    * :NQF1u4wxA5fFZCDS: 
-    * :Y6wvmSnvJ6qcGkfj: 
+@id 8cu30o9YNEtqr9As
+@title Coinbase
+@alias http://dbpedia.org/resource/Coinbase
+@created 1396245759412
+@weight 0.75
+* :NQF1u4wxA5fFZCDS: 
+* :Y6wvmSnvJ6qcGkfj: 

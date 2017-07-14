@@ -1,7 +1,8 @@
-* :20P3usIw3hcu9fga: flatulence
-    @created 1310225573786
-    @alias http://dbpedia.org/resource/Flatulence
-    @weight 0.5
-    * :k6SsXqMncFJgHFsQ: 
-    * :ZfYWSCW0DpM8GbEb: 
-    * :4XCYwYJnV4aXrLon: 
+@id 20P3usIw3hcu9fga
+@title flatulence
+@alias http://dbpedia.org/resource/Flatulence
+@created 1310225573786
+@weight 0.5
+* :k6SsXqMncFJgHFsQ: 
+* :ZfYWSCW0DpM8GbEb: 
+* :4XCYwYJnV4aXrLon: 

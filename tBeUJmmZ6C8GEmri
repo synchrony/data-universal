@@ -1,7 +1,8 @@
-* :tBeUJmmZ6C8GEmri: open source
-    @created 1313805198690
-    @alias http://dbpedia.org/resource/Open_source
-    @weight 0.5
-    * :KikhbUAV5Wd1IC4S: 
-    * :5XJCkB1wzWO8GUdP: 
-    * :CjYZXjJjRBoDEbvi: 
+@id tBeUJmmZ6C8GEmri
+@title open source
+@alias http://dbpedia.org/resource/Open_source
+@created 1313805198690
+@weight 0.5
+* :KikhbUAV5Wd1IC4S: 
+* :5XJCkB1wzWO8GUdP: 
+* :CjYZXjJjRBoDEbvi: 

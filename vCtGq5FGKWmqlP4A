@@ -1,5 +1,6 @@
-* :vCtGq5FGKWmqlP4A: SETI@home
-    @created 1409168319123
-    @alias http://dbpedia.org/resource/SETI@home
-    @weight 0.5
-    * :4yvuEPrKuO3cOGXv: 
+@id vCtGq5FGKWmqlP4A
+@title SETI@home
+@alias http://dbpedia.org/resource/SETI@home
+@created 1409168319123
+@weight 0.5
+* :4yvuEPrKuO3cOGXv: 

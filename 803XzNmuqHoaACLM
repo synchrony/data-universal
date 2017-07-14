@@ -1,4 +1,5 @@
-* :803XzNmuqHoaACLM: San Marino
-    @created 1470040313822
-    @alias http://dbpedia.org/resource/San_Marino
-    @weight 0.5
+@id 803XzNmuqHoaACLM
+@title San Marino
+@alias http://dbpedia.org/resource/San_Marino
+@created 1470040313822
+@weight 0.5

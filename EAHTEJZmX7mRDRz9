@@ -1,4 +1,5 @@
-* :EAHTEJZmX7mRDRz9: Medicaid
-    @created 1337647575839
-    @alias http://dbpedia.org/resource/Medicaid
-    @weight 0.5
+@id EAHTEJZmX7mRDRz9
+@title Medicaid
+@alias http://dbpedia.org/resource/Medicaid
+@created 1337647575839
+@weight 0.5

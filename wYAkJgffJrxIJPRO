@@ -1,6 +1,7 @@
-* :wYAkJgffJrxIJPRO: record (computer science)
-    @created 1381025249398
-    @alias http://dbpedia.org/resource/Record_(computer_science)
-    @weight 0.5
-    * :wPneUCKHRJNMO2x9: 
-    * :8bb6gGuFTBTO1Ank: 
+@id wYAkJgffJrxIJPRO
+@title record (computer science)
+@alias http://dbpedia.org/resource/Record_(computer_science)
+@created 1381025249398
+@weight 0.5
+* :wPneUCKHRJNMO2x9: 
+* :8bb6gGuFTBTO1Ank: 

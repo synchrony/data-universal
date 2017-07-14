@@ -1,7 +1,8 @@
-* :Fz1jA3yu47qXfLMS: double-checked locking
-    @created 1380999418119
-    @alias http://dbpedia.org/resource/Double-checked_locking
-    @weight 0.5
-    * :y8LjadK9KFoqS1dl: 
-    * :oOzHRl4Jabf9BExq: 
-    * :bescsyvkxo1Y0n4c: 
+@id Fz1jA3yu47qXfLMS
+@title double-checked locking
+@alias http://dbpedia.org/resource/Double-checked_locking
+@created 1380999418119
+@weight 0.5
+* :y8LjadK9KFoqS1dl: 
+* :oOzHRl4Jabf9BExq: 
+* :bescsyvkxo1Y0n4c: 

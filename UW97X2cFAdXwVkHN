@@ -1,4 +1,5 @@
-* :UW97X2cFAdXwVkHN: New York City
-    @created 1498769892586
-    @alias http://dbpedia.org/resource/New_York_City
-    @weight 0.5
+@id UW97X2cFAdXwVkHN
+@title New York City
+@alias http://dbpedia.org/resource/New_York_City
+@created 1498769892586
+@weight 0.5

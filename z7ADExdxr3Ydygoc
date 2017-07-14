@@ -1,4 +1,5 @@
-* :z7ADExdxr3Ydygoc: echo cancellation
-    @created 1310235698360
-    @alias http://dbpedia.org/resource/Echo_cancellation
-    @weight 0.75
+@id z7ADExdxr3Ydygoc
+@title echo cancellation
+@alias http://dbpedia.org/resource/Echo_cancellation
+@created 1310235698360
+@weight 0.75

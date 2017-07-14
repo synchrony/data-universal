@@ -1,7 +1,8 @@
-* :BR4rFrrJbjPVYclH: fidelity
-    @created 1412522312286
-    @alias http://dbpedia.org/resource/Fidelity
-    @weight 0.5
-    * :jea1DVlBTZesFXic: 
-    * :Uud0pQ8alxFdIkiu: 
-    * :hGXOxW83znGchXZQ: 
+@id BR4rFrrJbjPVYclH
+@title fidelity
+@alias http://dbpedia.org/resource/Fidelity
+@created 1412522312286
+@weight 0.5
+* :jea1DVlBTZesFXic: 
+* :Uud0pQ8alxFdIkiu: 
+* :hGXOxW83znGchXZQ: 

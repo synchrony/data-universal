@@ -1,5 +1,6 @@
-* :chPOZwKL8naBYk5f: Hazelcast
-    @created 1381527839427
-    @alias http://dbpedia.org/resource/Hazelcast
-    @weight 0.5
-    * :9WzmDBETdkbpGUVm: 
+@id chPOZwKL8naBYk5f
+@title Hazelcast
+@alias http://dbpedia.org/resource/Hazelcast
+@created 1381527839427
+@weight 0.5
+* :9WzmDBETdkbpGUVm: 

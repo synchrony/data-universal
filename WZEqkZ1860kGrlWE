@@ -1,4 +1,5 @@
-* :WZEqkZ1860kGrlWE: mosquito
-    @created 1332996716208
-    @alias http://dbpedia.org/resource/Mosquito
-    @weight 0.5
+@id WZEqkZ1860kGrlWE
+@title mosquito
+@alias http://dbpedia.org/resource/Mosquito
+@created 1332996716208
+@weight 0.5

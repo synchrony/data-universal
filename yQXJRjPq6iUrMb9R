@@ -1,6 +1,7 @@
-* :yQXJRjPq6iUrMb9R: XMPP
-    @created 1380281515058
-    @alias http://dbpedia.org/resource/XMPP
-    @weight 0.5
-    * :DpDbsqdX0q2fPwmN: 
-    * :suqZ5goQWrO7xgll: 
+@id yQXJRjPq6iUrMb9R
+@title XMPP
+@alias http://dbpedia.org/resource/XMPP
+@created 1380281515058
+@weight 0.5
+* :DpDbsqdX0q2fPwmN: 
+* :suqZ5goQWrO7xgll: 

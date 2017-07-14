@@ -1,4 +1,5 @@
-* :teQi3xMicJTp5DGN: trout
-    @created 1429470826861
-    @alias http://dbpedia.org/resource/Trout
-    @weight 0.5
+@id teQi3xMicJTp5DGN
+@title trout
+@alias http://dbpedia.org/resource/Trout
+@created 1429470826861
+@weight 0.5

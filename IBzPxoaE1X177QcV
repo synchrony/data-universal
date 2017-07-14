@@ -1,4 +1,5 @@
-* :IBzPxoaE1X177QcV: monkey
-    @created 1360475802959
-    @alias http://dbpedia.org/resource/Monkey
-    @weight 0.5
+@id IBzPxoaE1X177QcV
+@title monkey
+@alias http://dbpedia.org/resource/Monkey
+@created 1360475802959
+@weight 0.5

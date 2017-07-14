@@ -1,4 +1,5 @@
-* :KJ4mXTk4aEZZvT5S: timecode
-    @created 1330381494721
-    @alias http://dbpedia.org/resource/Timecode
-    @weight 0.5
+@id KJ4mXTk4aEZZvT5S
+@title timecode
+@alias http://dbpedia.org/resource/Timecode
+@created 1330381494721
+@weight 0.5

@@ -1,5 +1,6 @@
-* :nXwTrpSKRdJhr95y: remorse
-    @created 1415288363024
-    @alias http://dbpedia.org/resource/Remorse
-    @weight 0.5
-    * :BgLfIXfaIJpLKU82: 
+@id nXwTrpSKRdJhr95y
+@title remorse
+@alias http://dbpedia.org/resource/Remorse
+@created 1415288363024
+@weight 0.5
+* :BgLfIXfaIJpLKU82: 

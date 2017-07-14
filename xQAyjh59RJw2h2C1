@@ -1,4 +1,5 @@
-* :xQAyjh59RJw2h2C1: scissors
-    @created 1308717195220
-    @alias http://dbpedia.org/resource/Scissors
-    @weight 0.5
+@id xQAyjh59RJw2h2C1
+@title scissors
+@alias http://dbpedia.org/resource/Scissors
+@created 1308717195220
+@weight 0.5

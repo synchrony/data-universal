@@ -1,6 +1,7 @@
-* :Zx8frJBN4v4ml5d3: beetroot
-    @created 1327526343542
-    @alias http://dbpedia.org/resource/Beetroot
-    @weight 0.5
-    * :bHrw4kMhGoDNA3NI: 
-    * :Az3hVm716wpH9fOE: 
+@id Zx8frJBN4v4ml5d3
+@title beetroot
+@alias http://dbpedia.org/resource/Beetroot
+@created 1327526343542
+@weight 0.5
+* :bHrw4kMhGoDNA3NI: 
+* :Az3hVm716wpH9fOE: 

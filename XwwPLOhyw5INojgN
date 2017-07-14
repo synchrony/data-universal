@@ -1,8 +1,9 @@
-* :XwwPLOhyw5INojgN: timbre
-    @created 1436038909332
-    @alias http://dbpedia.org/resource/Timbre
-    @weight 0.5
-    * :rkEZF9Kqh6LwIcZc: 
-    * :bdzHUFTbI2f9MSt0: 
-    * :7X5lzLX5s7j6VXJ3: 
-    * :85alrOBLgTjRCigF: 
+@id XwwPLOhyw5INojgN
+@title timbre
+@alias http://dbpedia.org/resource/Timbre
+@created 1436038909332
+@weight 0.5
+* :rkEZF9Kqh6LwIcZc: 
+* :bdzHUFTbI2f9MSt0: 
+* :7X5lzLX5s7j6VXJ3: 
+* :85alrOBLgTjRCigF: 

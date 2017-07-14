@@ -1,9 +1,10 @@
-* :X9zRS0HLFiu9l2Ti: feedback
-    @created 1343775836918
-    @alias http://dbpedia.org/resource/Feedback
-    @weight 0.5
-    * :RQwlGHC34VYd2sVG: 
-    * :YhkIzJhDhAokH12U: 
-    * :jUfzmopZqBdTIGBQ: 
-    * :46cYl8slBSVYCYc1: 
-    * :5E6WnSiRatf756Y9: 
+@id X9zRS0HLFiu9l2Ti
+@title feedback
+@alias http://dbpedia.org/resource/Feedback
+@created 1343775836918
+@weight 0.5
+* :RQwlGHC34VYd2sVG: 
+* :YhkIzJhDhAokH12U: 
+* :jUfzmopZqBdTIGBQ: 
+* :46cYl8slBSVYCYc1: 
+* :5E6WnSiRatf756Y9: 

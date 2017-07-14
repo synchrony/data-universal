@@ -1,6 +1,7 @@
-* :QQcSk0rjaTVDEnOC: commonsense knowledge base
-    @created 1344141174254
-    @alias http://dbpedia.org/resource/Commonsense_knowledge_base
-    @weight 0.75
-    * :wkTneKaApyixtubd: 
-    * :aGWPthQmlb3ItMnD: 
+@id QQcSk0rjaTVDEnOC
+@title commonsense knowledge base
+@alias http://dbpedia.org/resource/Commonsense_knowledge_base
+@created 1344141174254
+@weight 0.75
+* :wkTneKaApyixtubd: 
+* :aGWPthQmlb3ItMnD: 

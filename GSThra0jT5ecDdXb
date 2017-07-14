@@ -1,5 +1,6 @@
-* :GSThra0jT5ecDdXb: hemodialysis
-    @created 1378833150725
-    @alias http://dbpedia.org/resource/Hemodialysis
-    @weight 0.5
-    * :ZSni4icXBg1TfDUf: 
+@id GSThra0jT5ecDdXb
+@title hemodialysis
+@alias http://dbpedia.org/resource/Hemodialysis
+@created 1378833150725
+@weight 0.5
+* :ZSni4icXBg1TfDUf: 

@@ -1,5 +1,6 @@
-* :dgVJgqj65zm1lzIb: baseball
-    @created 1375451464643
-    @alias http://dbpedia.org/resource/Baseball
-    @weight 0.5
-    * :1jWQIgpZbb7wPrU8: 
+@id dgVJgqj65zm1lzIb
+@title baseball
+@alias http://dbpedia.org/resource/Baseball
+@created 1375451464643
+@weight 0.5
+* :1jWQIgpZbb7wPrU8: 

@@ -1,7 +1,8 @@
-* :sxiEkiRPJBdCp0i5: exome
-    @created 1388640003374
-    @alias http://dbpedia.org/resource/Exome
-    @weight 0.5
-    * :FDWe5xShg7wEWWMB: 
-    * :8tOijb3Wc5aEbR7H: 
-    * :5jdwYew18x5XgI4w: 
+@id sxiEkiRPJBdCp0i5
+@title exome
+@alias http://dbpedia.org/resource/Exome
+@created 1388640003374
+@weight 0.5
+* :FDWe5xShg7wEWWMB: 
+* :8tOijb3Wc5aEbR7H: 
+* :5jdwYew18x5XgI4w: 

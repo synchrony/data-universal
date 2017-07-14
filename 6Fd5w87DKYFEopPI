@@ -1,6 +1,7 @@
-* :6Fd5w87DKYFEopPI: Platonic solid
-    @created 1376598724783
-    @alias http://dbpedia.org/resource/Platonic_solid
-    @weight 0.5
-    * :yGe937ltyxfyGLKc: 
-    * :LGhAp12ytPskTyap: 
+@id 6Fd5w87DKYFEopPI
+@title Platonic solid
+@alias http://dbpedia.org/resource/Platonic_solid
+@created 1376598724783
+@weight 0.5
+* :yGe937ltyxfyGLKc: 
+* :LGhAp12ytPskTyap: 

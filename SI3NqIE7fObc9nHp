@@ -1,4 +1,5 @@
-* :SI3NqIE7fObc9nHp: Pi (film)
-    @created 1322932569955
-    @alias http://dbpedia.org/resource/Pi_(film)
-    @weight 0.75
+@id SI3NqIE7fObc9nHp
+@title Pi (film)
+@alias http://dbpedia.org/resource/Pi_(film)
+@created 1322932569955
+@weight 0.75

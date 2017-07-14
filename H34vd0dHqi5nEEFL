@@ -1,6 +1,7 @@
-* :H34vd0dHqi5nEEFL: Law of Demeter
-    @created 1471550438266
-    @alias http://dbpedia.org/resource/Law_of_Demeter
-    @weight 0.5
-    * :tZRfMN8knREMaSdu: 
-    * :QvIp10BGzRkeBS3w: 
+@id H34vd0dHqi5nEEFL
+@title Law of Demeter
+@alias http://dbpedia.org/resource/Law_of_Demeter
+@created 1471550438266
+@weight 0.5
+* :tZRfMN8knREMaSdu: 
+* :QvIp10BGzRkeBS3w: 

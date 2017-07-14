@@ -1,4 +1,5 @@
-* :x1ClNrZOsvSfDrEt: Nevada
-    @created 1385053431868
-    @alias http://dbpedia.org/resource/Nevada
-    @weight 0.5
+@id x1ClNrZOsvSfDrEt
+@title Nevada
+@alias http://dbpedia.org/resource/Nevada
+@created 1385053431868
+@weight 0.5

@@ -1,4 +1,5 @@
-* :AWluKGnvDkdHqlHd: Sedum
-    @created 1493525596932
-    @alias http://dbpedia.org/resource/Sedum
-    @weight 0.5
+@id AWluKGnvDkdHqlHd
+@title Sedum
+@alias http://dbpedia.org/resource/Sedum
+@created 1493525596932
+@weight 0.5

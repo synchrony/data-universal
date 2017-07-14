@@ -1,5 +1,6 @@
-* :Ycol9Vhjrb3FkvLy: poultry
-    @created 1415291732128
-    @alias http://dbpedia.org/resource/Poultry
-    @weight 0.5
-    * :Cj8NwqR82Dguy5Fg: 
+@id Ycol9Vhjrb3FkvLy
+@title poultry
+@alias http://dbpedia.org/resource/Poultry
+@created 1415291732128
+@weight 0.5
+* :Cj8NwqR82Dguy5Fg: 

@@ -1,6 +1,7 @@
-* :dGbMksQv3kpBbfJ3: multiversion concurrency control
-    @created 1463340012540
-    @alias http://dbpedia.org/resource/Multiversion_concurrency_control
-    @weight 0.5
-    * :smLTYdKVyLLDeX05: 
-    * :UD4RxxlSCgeHOlg7: 
+@id dGbMksQv3kpBbfJ3
+@title multiversion concurrency control
+@alias http://dbpedia.org/resource/Multiversion_concurrency_control
+@created 1463340012540
+@weight 0.5
+* :smLTYdKVyLLDeX05: 
+* :UD4RxxlSCgeHOlg7: 

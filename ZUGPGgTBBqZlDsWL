@@ -1,4 +1,5 @@
-* :ZUGPGgTBBqZlDsWL: Charles Babbage
-    @created 1344485606836
-    @alias http://dbpedia.org/resource/Charles_Babbage
-    @weight 0.5
+@id ZUGPGgTBBqZlDsWL
+@title Charles Babbage
+@alias http://dbpedia.org/resource/Charles_Babbage
+@created 1344485606836
+@weight 0.5

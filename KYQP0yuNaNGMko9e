@@ -1,6 +1,7 @@
-* :KYQP0yuNaNGMko9e: knowledge
-    @created 1363186258073
-    @alias http://dbpedia.org/resource/Knowledge
-    @weight 0.5
-    * :xHqFVRMAci8Dnau0: 
-    * :jZGBPa9ijBeZEZgT: 
+@id KYQP0yuNaNGMko9e
+@title knowledge
+@alias http://dbpedia.org/resource/Knowledge
+@created 1363186258073
+@weight 0.5
+* :xHqFVRMAci8Dnau0: 
+* :jZGBPa9ijBeZEZgT: 

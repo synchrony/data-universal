@@ -1,5 +1,6 @@
-* :M2jEDLCHyKCuHuZh: cyborg
-    @created 1380001417299
-    @alias http://dbpedia.org/resource/Cyborg
-    @weight 0.5
-    * :4FW2OzUPrxqcPOaL: 
+@id M2jEDLCHyKCuHuZh
+@title cyborg
+@alias http://dbpedia.org/resource/Cyborg
+@created 1380001417299
+@weight 0.5
+* :4FW2OzUPrxqcPOaL: 

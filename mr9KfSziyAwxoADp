@@ -1,4 +1,5 @@
-* :mr9KfSziyAwxoADp: phosphorus
-    @created 1344309326552
-    @alias http://dbpedia.org/resource/Phosphorus
-    @weight 0.75
+@id mr9KfSziyAwxoADp
+@title phosphorus
+@alias http://dbpedia.org/resource/Phosphorus
+@created 1344309326552
+@weight 0.75

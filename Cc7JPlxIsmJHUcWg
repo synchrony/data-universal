@@ -1,4 +1,5 @@
-* :Cc7JPlxIsmJHUcWg: star (polygon)
-    @created 1406300608719
-    @alias http://dbpedia.org/resource/Star_(polygon)
-    @weight 0.5
+@id Cc7JPlxIsmJHUcWg
+@title star (polygon)
+@alias http://dbpedia.org/resource/Star_(polygon)
+@created 1406300608719
+@weight 0.5

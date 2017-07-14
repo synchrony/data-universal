@@ -1,7 +1,8 @@
-* :jZKO1B0KmFd6BiiZ: New Scientist
-    @created 1353868497741
-    @alias http://dbpedia.org/resource/New_Scientist
-    @weight 0.75
-    * :VPKUAIHAdO67inVA: 
-    * :CUnUJxtY2dC8q5zl: 
-    * :HPEmWgKZ8Zx7E2jk: 
+@id jZKO1B0KmFd6BiiZ
+@title New Scientist
+@alias http://dbpedia.org/resource/New_Scientist
+@created 1353868497741
+@weight 0.75
+* :VPKUAIHAdO67inVA: 
+* :CUnUJxtY2dC8q5zl: 
+* :HPEmWgKZ8Zx7E2jk: 

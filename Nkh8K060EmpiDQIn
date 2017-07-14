@@ -1,4 +1,5 @@
-* :Nkh8K060EmpiDQIn: ear canal
-    @created 1374742297750
-    @alias http://dbpedia.org/resource/Ear_canal
-    @weight 0.5
+@id Nkh8K060EmpiDQIn
+@title ear canal
+@alias http://dbpedia.org/resource/Ear_canal
+@created 1374742297750
+@weight 0.5

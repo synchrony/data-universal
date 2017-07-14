@@ -1,7 +1,8 @@
-* :Spgtk5XXTSfLhF8T: Proterozoic
-    @created 1388040806583
-    @alias http://dbpedia.org/resource/Proterozoic
-    @weight 0.5
-    * :SjlZQOBOgksQWz2C: 
-    * :NtcbQTGesoVYo1P1: 
-    * :hY55T0z3IpLoLg17: 
+@id Spgtk5XXTSfLhF8T
+@title Proterozoic
+@alias http://dbpedia.org/resource/Proterozoic
+@created 1388040806583
+@weight 0.5
+* :SjlZQOBOgksQWz2C: 
+* :NtcbQTGesoVYo1P1: 
+* :hY55T0z3IpLoLg17: 

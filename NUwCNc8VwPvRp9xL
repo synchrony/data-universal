@@ -1,4 +1,5 @@
-* :NUwCNc8VwPvRp9xL: child care
-    @created 1342996008542
-    @alias http://dbpedia.org/resource/Child_care
-    @weight 0.5
+@id NUwCNc8VwPvRp9xL
+@title child care
+@alias http://dbpedia.org/resource/Child_care
+@created 1342996008542
+@weight 0.5

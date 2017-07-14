@@ -1,6 +1,7 @@
-* :rFdbV6ug5Jn0BGBC: satyagraha
-    @created 1415973874971
-    @alias http://dbpedia.org/resource/Satyagraha
-    @weight 0.5
-    * :aUllm5jCUsZqYKd1: 
-    * :09SJk1LgqeEX3tFG: 
+@id rFdbV6ug5Jn0BGBC
+@title satyagraha
+@alias http://dbpedia.org/resource/Satyagraha
+@created 1415973874971
+@weight 0.5
+* :aUllm5jCUsZqYKd1: 
+* :09SJk1LgqeEX3tFG: 

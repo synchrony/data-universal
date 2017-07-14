@@ -1,4 +1,5 @@
-* :TYYci2jEymGrA3JY: romaine lettuce
-    @created 1309178124738
-    @alias http://dbpedia.org/resource/Romaine_lettuce
-    @weight 0.5
+@id TYYci2jEymGrA3JY
+@title romaine lettuce
+@alias http://dbpedia.org/resource/Romaine_lettuce
+@created 1309178124738
+@weight 0.5

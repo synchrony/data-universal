@@ -1,13 +1,14 @@
-* :KbsV2wcE6gTixzYL: omega-3 fatty acid
-    @created 1429472001856
-    @alias http://dbpedia.org/resource/Omega-3_fatty_acid
-    @weight 0.5
-    * :eCCjU0LNGqvIwpV7: 
-    * :PNu2Evl2AETFxFCG: 
-    * :utl128rtRs9244x6: 
-    * :Kw8qZFkO1nr4rlp5: 
-    * :rZSWqkyoEsfiRPKB: 
-    * :PAD4KwKGCsnjLVOa: 
-    * :YC39ctXxmzHcgGS8: 
-    * :D1NyJP957M120Aju: 
-    * :ObEyEPoAXaNgZ7AN: 
+@id KbsV2wcE6gTixzYL
+@title omega-3 fatty acid
+@alias http://dbpedia.org/resource/Omega-3_fatty_acid
+@created 1429472001856
+@weight 0.5
+* :eCCjU0LNGqvIwpV7: 
+* :PNu2Evl2AETFxFCG: 
+* :utl128rtRs9244x6: 
+* :Kw8qZFkO1nr4rlp5: 
+* :rZSWqkyoEsfiRPKB: 
+* :PAD4KwKGCsnjLVOa: 
+* :YC39ctXxmzHcgGS8: 
+* :D1NyJP957M120Aju: 
+* :ObEyEPoAXaNgZ7AN: 

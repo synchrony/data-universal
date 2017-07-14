@@ -1,6 +1,7 @@
-* :kdw3PNfJrybKAtYw: Graduate Record Examinations
-    @created 1342243378035
-    @alias http://dbpedia.org/resource/Graduate_Record_Examinations
-    @weight 0.5
-    * :Ju0iEn4AaBCJX8SU: 
-    * :LfI8AsLRyNSEnIdL: 
+@id kdw3PNfJrybKAtYw
+@title Graduate Record Examinations
+@alias http://dbpedia.org/resource/Graduate_Record_Examinations
+@created 1342243378035
+@weight 0.5
+* :Ju0iEn4AaBCJX8SU: 
+* :LfI8AsLRyNSEnIdL: 

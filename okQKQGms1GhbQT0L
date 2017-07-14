@@ -1,4 +1,5 @@
-* :okQKQGms1GhbQT0L: automobile
-    @created 1347145894702
-    @alias http://dbpedia.org/resource/Automobile
-    @weight 0.5
+@id okQKQGms1GhbQT0L
+@title automobile
+@alias http://dbpedia.org/resource/Automobile
+@created 1347145894702
+@weight 0.5

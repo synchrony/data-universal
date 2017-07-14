@@ -1,5 +1,6 @@
-* :ro1g90jUu0PnZbg1: orange juice
-    @created 1309178132121
-    @alias http://dbpedia.org/resource/Orange_juice
-    @weight 0.5
-    * :N8QHwKrXlowJM3Q9: 
+@id ro1g90jUu0PnZbg1
+@title orange juice
+@alias http://dbpedia.org/resource/Orange_juice
+@created 1309178132121
+@weight 0.5
+* :N8QHwKrXlowJM3Q9: 

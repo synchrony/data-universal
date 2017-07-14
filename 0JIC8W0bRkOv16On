@@ -1,4 +1,5 @@
-* :0JIC8W0bRkOv16On: rat
-    @created 1360475568330
-    @alias http://dbpedia.org/resource/Rat
-    @weight 0.5
+@id 0JIC8W0bRkOv16On
+@title rat
+@alias http://dbpedia.org/resource/Rat
+@created 1360475568330
+@weight 0.5

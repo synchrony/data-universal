@@ -1,5 +1,6 @@
-* :r9wL1MtBMkd5CFRq: observation
-    @created 1447142078466
-    @alias http://dbpedia.org/resource/Observation
-    @weight 0.5
-    * :teJQ9NNAmnhJKkuG: 
+@id r9wL1MtBMkd5CFRq
+@title observation
+@alias http://dbpedia.org/resource/Observation
+@created 1447142078466
+@weight 0.5
+* :teJQ9NNAmnhJKkuG: 

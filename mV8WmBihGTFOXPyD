@@ -1,7 +1,8 @@
-* :mV8WmBihGTFOXPyD: International Symposium on Wearable Computers
-    @created 1437052685955
-    @alias http://dbpedia.org/resource/International_Symposium_on_Wearable_Computers
-    @weight 0.75
-    @priority 0.25
-    * :anoxzHIKyqzR3IBL: 
-    * :dTaeOSkB5JvaBfgO: 
+@id mV8WmBihGTFOXPyD
+@title International Symposium on Wearable Computers
+@alias http://dbpedia.org/resource/International_Symposium_on_Wearable_Computers
+@created 1437052685955
+@weight 0.75
+@priority 0.25
+* :anoxzHIKyqzR3IBL: 
+* :dTaeOSkB5JvaBfgO: 

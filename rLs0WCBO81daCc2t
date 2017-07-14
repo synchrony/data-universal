@@ -1,5 +1,6 @@
-* :rLs0WCBO81daCc2t: bitterroot
-    @created 1326084761979
-    @alias http://dbpedia.org/resource/Bitterroot
-    @weight 0.5
-    * :efzVCYGtsaNUQAOc: 
+@id rLs0WCBO81daCc2t
+@title bitterroot
+@alias http://dbpedia.org/resource/Bitterroot
+@created 1326084761979
+@weight 0.5
+* :efzVCYGtsaNUQAOc: 

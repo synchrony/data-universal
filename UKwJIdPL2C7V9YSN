@@ -1,6 +1,7 @@
-* :UKwJIdPL2C7V9YSN: ginger
-    @created 1435186982326
-    @alias http://dbpedia.org/resource/Ginger
-    @weight 0.75
-    * :Z1CiCQtjdnudH44F: 
-    * :hbgc4vuPePN1yxYj: 
+@id UKwJIdPL2C7V9YSN
+@title ginger
+@alias http://dbpedia.org/resource/Ginger
+@created 1435186982326
+@weight 0.75
+* :Z1CiCQtjdnudH44F: 
+* :hbgc4vuPePN1yxYj: 

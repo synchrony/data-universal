@@ -1,4 +1,5 @@
-* :8qwWeACq97SB6stO: Hall effect sensor
-    @created 1316379065091
-    @alias http://dbpedia.org/resource/Hall_effect_sensor
-    @weight 0.75
+@id 8qwWeACq97SB6stO
+@title Hall effect sensor
+@alias http://dbpedia.org/resource/Hall_effect_sensor
+@created 1316379065091
+@weight 0.75

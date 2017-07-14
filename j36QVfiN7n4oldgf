@@ -1,6 +1,7 @@
-* :j36QVfiN7n4oldgf: Piano Sonata No. 8 (Beethoven)
-    @created 1339568071623
-    @alias http://dbpedia.org/resource/Piano_Sonata_No._8_(Beethoven)
-    @weight 0.5
-    * :J6p5qRf1Arhpe9uK: 
-    * :EbYqtF86Ynule4kn: 
+@id j36QVfiN7n4oldgf
+@title Piano Sonata No. 8 (Beethoven)
+@alias http://dbpedia.org/resource/Piano_Sonata_No._8_(Beethoven)
+@created 1339568071623
+@weight 0.5
+* :J6p5qRf1Arhpe9uK: 
+* :EbYqtF86Ynule4kn: 

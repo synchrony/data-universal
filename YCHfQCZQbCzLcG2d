@@ -1,6 +1,7 @@
-* :YCHfQCZQbCzLcG2d: human–robot interaction
-    @created 1429106998425
-    @alias http://dbpedia.org/resource/Human%E2%80%93robot_interaction
-    @weight 0.5
-    * :mK9TfZCeyH34jhZH: 
-    * :y6T5CklfvJZkawxv: 
+@id YCHfQCZQbCzLcG2d
+@title human–robot interaction
+@alias http://dbpedia.org/resource/Human%E2%80%93robot_interaction
+@created 1429106998425
+@weight 0.5
+* :mK9TfZCeyH34jhZH: 
+* :y6T5CklfvJZkawxv: 

@@ -1,9 +1,10 @@
-* :cyn4bAqfBPTAXRQR: first-order logic
-    @created 1316457962757
-    @alias http://dbpedia.org/resource/First-order_logic
-    @weight 0.75
-    * :mmcMTHswuzNcEOgs: 
-    * :afqW6020l1tVBYRo: 
-    * :foCmejkW7BZTsEOq: 
-    * :S8ZJY9nirh2uInOv: 
-    * :MRr8mwrGht6uvGQ0: 
+@id cyn4bAqfBPTAXRQR
+@title first-order logic
+@alias http://dbpedia.org/resource/First-order_logic
+@created 1316457962757
+@weight 0.75
+* :mmcMTHswuzNcEOgs: 
+* :afqW6020l1tVBYRo: 
+* :foCmejkW7BZTsEOq: 
+* :S8ZJY9nirh2uInOv: 
+* :MRr8mwrGht6uvGQ0: 

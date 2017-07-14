@@ -1,4 +1,5 @@
-* :QDLWP306aM9zfCKN: compact disc
-    @created 1451862016366
-    @alias http://dbpedia.org/resource/Compact_disc
-    @weight 0.5
+@id QDLWP306aM9zfCKN
+@title compact disc
+@alias http://dbpedia.org/resource/Compact_disc
+@created 1451862016366
+@weight 0.5

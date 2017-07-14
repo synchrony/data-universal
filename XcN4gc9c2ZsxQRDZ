@@ -1,4 +1,5 @@
-* :XcN4gc9c2ZsxQRDZ: oboe
-    @created 1332625470689
-    @alias http://dbpedia.org/resource/Oboe
-    @weight 0.5
+@id XcN4gc9c2ZsxQRDZ
+@title oboe
+@alias http://dbpedia.org/resource/Oboe
+@created 1332625470689
+@weight 0.5

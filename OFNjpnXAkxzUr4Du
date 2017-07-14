@@ -1,6 +1,7 @@
-* :OFNjpnXAkxzUr4Du: P-factor
-    @created 1479405239230
-    @alias http://dbpedia.org/resource/P-factor
-    @weight 0.5
-    * :u7MiVzZK1Q9ahchq: 
-    * :0HvTfO6jLJmjBExI: 
+@id OFNjpnXAkxzUr4Du
+@title P-factor
+@alias http://dbpedia.org/resource/P-factor
+@created 1479405239230
+@weight 0.5
+* :u7MiVzZK1Q9ahchq: 
+* :0HvTfO6jLJmjBExI: 

@@ -1,5 +1,6 @@
-* :bScWn9a1DdFtRIEy: health information exchange (HIE)
-    @created 1327090801938
-    @alias http://dbpedia.org/resource/Health_information_exchange_(HIE)
-    @weight 0.75
-    * :YsG0SaOB8VFP8bBF: 
+@id bScWn9a1DdFtRIEy
+@title health information exchange (HIE)
+@alias http://dbpedia.org/resource/Health_information_exchange_(HIE)
+@created 1327090801938
+@weight 0.75
+* :YsG0SaOB8VFP8bBF: 

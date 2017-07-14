@@ -1,5 +1,6 @@
-* :s6o1qbD8hXNaLbUv: activity tracker
-    @created 1427822820583
-    @alias http://dbpedia.org/resource/Activity_tracker
-    @weight 0.5
-    * :aTQYlRrLqZR3Tzh9: 
+@id s6o1qbD8hXNaLbUv
+@title activity tracker
+@alias http://dbpedia.org/resource/Activity_tracker
+@created 1427822820583
+@weight 0.5
+* :aTQYlRrLqZR3Tzh9: 

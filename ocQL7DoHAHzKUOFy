@@ -1,6 +1,7 @@
-* :ocQL7DoHAHzKUOFy: runway
-    @created 1489679296040
-    @alias http://dbpedia.org/resource/Runway
-    @weight 0.5
-    * :ZWVGJv1KYGFipRNq: 
-    * :rWzvshLDL3ohrM6K: 
+@id ocQL7DoHAHzKUOFy
+@title runway
+@alias http://dbpedia.org/resource/Runway
+@created 1489679296040
+@weight 0.5
+* :ZWVGJv1KYGFipRNq: 
+* :rWzvshLDL3ohrM6K: 

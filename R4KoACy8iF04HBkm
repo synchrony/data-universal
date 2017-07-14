@@ -1,4 +1,5 @@
-* :R4KoACy8iF04HBkm: chest pain
-    @created 1360945767002
-    @alias http://dbpedia.org/resource/Chest_pain
-    @weight 0.5
+@id R4KoACy8iF04HBkm
+@title chest pain
+@alias http://dbpedia.org/resource/Chest_pain
+@created 1360945767002
+@weight 0.5

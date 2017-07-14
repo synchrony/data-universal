@@ -1,4 +1,5 @@
-* :COStvP1XYX0GBRLC: Rain Man
-    @created 1373451658388
-    @alias http://dbpedia.org/resource/Rain_Man
-    @weight 0.5
+@id COStvP1XYX0GBRLC
+@title Rain Man
+@alias http://dbpedia.org/resource/Rain_Man
+@created 1373451658388
+@weight 0.5

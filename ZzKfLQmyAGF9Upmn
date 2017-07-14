@@ -1,4 +1,5 @@
-* :ZzKfLQmyAGF9Upmn: Tijuana
-    @created 1454822073060
-    @alias http://dbpedia.org/resource/Tijuana
-    @weight 0.5
+@id ZzKfLQmyAGF9Upmn
+@title Tijuana
+@alias http://dbpedia.org/resource/Tijuana
+@created 1454822073060
+@weight 0.5

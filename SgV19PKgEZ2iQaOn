@@ -1,7 +1,8 @@
-* :SgV19PKgEZ2iQaOn: Charles Spence
-    @created 1433557017535
-    @alias http://dbpedia.org/resource/Charles_Spence
-    @weight 0.75
-    * :R6ZabNMehps6xJZu: 
-    * :owQIspIdYfzhCc9A: 
-    * :Y3gEvbFHmL1APPNK: 
+@id SgV19PKgEZ2iQaOn
+@title Charles Spence
+@alias http://dbpedia.org/resource/Charles_Spence
+@created 1433557017535
+@weight 0.75
+* :R6ZabNMehps6xJZu: 
+* :owQIspIdYfzhCc9A: 
+* :Y3gEvbFHmL1APPNK: 

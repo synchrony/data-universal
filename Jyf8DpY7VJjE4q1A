@@ -1,5 +1,6 @@
-* :Jyf8DpY7VJjE4q1A: found object
-    @created 1380650802849
-    @alias http://dbpedia.org/resource/Found_object
-    @weight 0.5
-    * :rFymcwBWTrvyJxWp: 
+@id Jyf8DpY7VJjE4q1A
+@title found object
+@alias http://dbpedia.org/resource/Found_object
+@created 1380650802849
+@weight 0.5
+* :rFymcwBWTrvyJxWp: 

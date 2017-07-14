@@ -1,6 +1,7 @@
-* :rgnOWGqJZoc5nfGA: stern
-    @created 1375493588736
-    @alias http://dbpedia.org/resource/Stern
-    @weight 0.5
-    * :do74dT0RHzAx3ZQL: 
-    * :GENJZjONWsIdScCu: 
+@id rgnOWGqJZoc5nfGA
+@title stern
+@alias http://dbpedia.org/resource/Stern
+@created 1375493588736
+@weight 0.5
+* :do74dT0RHzAx3ZQL: 
+* :GENJZjONWsIdScCu: 

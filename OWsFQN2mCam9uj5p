@@ -1,11 +1,12 @@
-* :OWsFQN2mCam9uj5p: real-time database
-    @created 1349466363018
-    @alias http://dbpedia.org/resource/Real-time_database
-    @weight 0.75
-    * :Xe7rKQfMWCJ5hWvL: 
-    * :baVo3PNOjnyVrD6J: 
-    * :gKrcAnfBzFTp5O1H: 
-    * :g8SGvAeP1pnIJuem: 
-    * :w3vonjZbwVIheA1M: 
-    * :aDHsX6Hz1sgXMopE: 
-    * :TmSriD5KQYZNtEUg: 
+@id OWsFQN2mCam9uj5p
+@title real-time database
+@alias http://dbpedia.org/resource/Real-time_database
+@created 1349466363018
+@weight 0.75
+* :Xe7rKQfMWCJ5hWvL: 
+* :baVo3PNOjnyVrD6J: 
+* :gKrcAnfBzFTp5O1H: 
+* :g8SGvAeP1pnIJuem: 
+* :w3vonjZbwVIheA1M: 
+* :aDHsX6Hz1sgXMopE: 
+* :TmSriD5KQYZNtEUg: 

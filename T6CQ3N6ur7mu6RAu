@@ -1,6 +1,7 @@
-* :T6CQ3N6ur7mu6RAu: active object
-    @created 1380998957230
-    @alias http://dbpedia.org/resource/Active_object
-    @weight 0.5
-    * :BMvjdxzyZ4aBEP6u: 
-    * :4AT5lHVgm6zlOUWz: 
+@id T6CQ3N6ur7mu6RAu
+@title active object
+@alias http://dbpedia.org/resource/Active_object
+@created 1380998957230
+@weight 0.5
+* :BMvjdxzyZ4aBEP6u: 
+* :4AT5lHVgm6zlOUWz: 

@@ -1,4 +1,5 @@
-* :DUsxPlKjKNUBiqVN: Vanderbilt University
-    @created 1349455897652
-    @alias http://dbpedia.org/resource/Vanderbilt_University
-    @weight 0.5
+@id DUsxPlKjKNUBiqVN
+@title Vanderbilt University
+@alias http://dbpedia.org/resource/Vanderbilt_University
+@created 1349455897652
+@weight 0.5

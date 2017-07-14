@@ -1,5 +1,6 @@
-* :9GFVv0e3q5I3Iu8R: teacher
-    @created 1379961349026
-    @alias http://dbpedia.org/resource/Teacher
-    @weight 0.5
-    * :bgA72f99bw8vCGhl: 
+@id 9GFVv0e3q5I3Iu8R
+@title teacher
+@alias http://dbpedia.org/resource/Teacher
+@created 1379961349026
+@weight 0.5
+* :bgA72f99bw8vCGhl: 

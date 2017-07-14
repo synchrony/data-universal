@@ -1,4 +1,5 @@
-* :LbPzIJyLrRxmFTxO: antimony
-    @created 1344309326596
-    @alias http://dbpedia.org/resource/Antimony
-    @weight 0.5
+@id LbPzIJyLrRxmFTxO
+@title antimony
+@alias http://dbpedia.org/resource/Antimony
+@created 1344309326596
+@weight 0.5

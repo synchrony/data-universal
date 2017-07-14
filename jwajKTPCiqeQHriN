@@ -1,4 +1,5 @@
-* :jwajKTPCiqeQHriN: human height
-    @created 1432342145724
-    @alias http://dbpedia.org/resource/Human_height
-    @weight 0.5
+@id jwajKTPCiqeQHriN
+@title human height
+@alias http://dbpedia.org/resource/Human_height
+@created 1432342145724
+@weight 0.5

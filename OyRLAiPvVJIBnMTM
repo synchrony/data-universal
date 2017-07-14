@@ -1,4 +1,5 @@
-* :OyRLAiPvVJIBnMTM: The Breakfast Club
-    @created 1312862545760
-    @alias http://dbpedia.org/resource/The_Breakfast_Club
-    @weight 0.75
+@id OyRLAiPvVJIBnMTM
+@title The Breakfast Club
+@alias http://dbpedia.org/resource/The_Breakfast_Club
+@created 1312862545760
+@weight 0.75

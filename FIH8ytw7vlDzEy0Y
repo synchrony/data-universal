@@ -1,8 +1,9 @@
-* :FIH8ytw7vlDzEy0Y: opkg
-    @created 1473806148377
-    @alias http://dbpedia.org/resource/Opkg
-    @weight 0.5
-    * :41cgD7rTzC5cIRoi: 
-    * :iZWgYj33NUbCxWCM: 
-    * :ni4w7mUz8m7y1KUe: 
-    * :vrulP6gAjPeCWpPX: 
+@id FIH8ytw7vlDzEy0Y
+@title opkg
+@alias http://dbpedia.org/resource/Opkg
+@created 1473806148377
+@weight 0.5
+* :41cgD7rTzC5cIRoi: 
+* :iZWgYj33NUbCxWCM: 
+* :ni4w7mUz8m7y1KUe: 
+* :vrulP6gAjPeCWpPX: 

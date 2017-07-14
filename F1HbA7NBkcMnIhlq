@@ -1,4 +1,5 @@
-* :F1HbA7NBkcMnIhlq: oxygen
-    @created 1344309326551
-    @alias http://dbpedia.org/resource/Oxygen
-    @weight 0.75
+@id F1HbA7NBkcMnIhlq
+@title oxygen
+@alias http://dbpedia.org/resource/Oxygen
+@created 1344309326551
+@weight 0.75

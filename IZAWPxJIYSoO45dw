@@ -1,4 +1,5 @@
-* :IZAWPxJIYSoO45dw: addition
-    @created 1363805395625
-    @alias http://dbpedia.org/resource/Addition
-    @weight 0.5
+@id IZAWPxJIYSoO45dw
+@title addition
+@alias http://dbpedia.org/resource/Addition
+@created 1363805395625
+@weight 0.5

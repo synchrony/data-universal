@@ -1,4 +1,5 @@
-* :TAY5SoM7PbfsMF0C: California
-    @created 1308801949639
-    @alias http://dbpedia.org/resource/California
-    @weight 0.75
+@id TAY5SoM7PbfsMF0C
+@title California
+@alias http://dbpedia.org/resource/California
+@created 1308801949639
+@weight 0.75

@@ -1,5 +1,6 @@
-* :hPcFL8SZ4jApkRAH: open access
-    @created 1360125712343
-    @alias http://dbpedia.org/resource/Open_access
-    @weight 0.5
-    * :UTRpgX24SUvQJxDM: 
+@id hPcFL8SZ4jApkRAH
+@title open access
+@alias http://dbpedia.org/resource/Open_access
+@created 1360125712343
+@weight 0.5
+* :UTRpgX24SUvQJxDM: 

@@ -1,4 +1,5 @@
-* :MoxDI7aHBbnIu5i0: urine
-    @created 1409775223860
-    @alias http://dbpedia.org/resource/Urine
-    @weight 0.5
+@id MoxDI7aHBbnIu5i0
+@title urine
+@alias http://dbpedia.org/resource/Urine
+@created 1409775223860
+@weight 0.5

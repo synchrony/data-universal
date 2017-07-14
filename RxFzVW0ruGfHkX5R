@@ -1,5 +1,6 @@
-* :RxFzVW0ruGfHkX5R: sesame oil
-    @created 1429478671956
-    @alias http://dbpedia.org/resource/Sesame_oil
-    @weight 0.5
-    * :gXWm1QxFPC64j5QB: 
+@id RxFzVW0ruGfHkX5R
+@title sesame oil
+@alias http://dbpedia.org/resource/Sesame_oil
+@created 1429478671956
+@weight 0.5
+* :gXWm1QxFPC64j5QB: 

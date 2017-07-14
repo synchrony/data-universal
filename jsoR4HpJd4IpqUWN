@@ -1,5 +1,6 @@
-* :jsoR4HpJd4IpqUWN: wool
-    @created 1415292439469
-    @alias http://dbpedia.org/resource/Wool
-    @weight 0.5
-    * :heZ7xe5gv49DFNbE: 
+@id jsoR4HpJd4IpqUWN
+@title wool
+@alias http://dbpedia.org/resource/Wool
+@created 1415292439469
+@weight 0.5
+* :heZ7xe5gv49DFNbE: 

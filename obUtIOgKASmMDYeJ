@@ -1,9 +1,10 @@
-* :obUtIOgKASmMDYeJ: eidetic imagery
-    @created 1452056607467
-    @alias http://dbpedia.org/resource/Eidetic_imagery
-    @weight 0.5
-    * :CunQJFyXtRz3Ryiy: 
-    * :rzIDtWhBTLJcxnWK: 
-    * :Yk7iSG0LbIKcgMjf: 
-    * :kz9sinuA5GAlNQvS: 
-    * :EnhPqKbDlL5vnPVJ: 
+@id obUtIOgKASmMDYeJ
+@title eidetic imagery
+@alias http://dbpedia.org/resource/Eidetic_imagery
+@created 1452056607467
+@weight 0.5
+* :CunQJFyXtRz3Ryiy: 
+* :rzIDtWhBTLJcxnWK: 
+* :Yk7iSG0LbIKcgMjf: 
+* :kz9sinuA5GAlNQvS: 
+* :EnhPqKbDlL5vnPVJ: 

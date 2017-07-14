@@ -1,4 +1,5 @@
-* :kHHJhXblF2U4nNb2: convolutional neural network
-    @created 1499898413953
-    @alias http://dbpedia.org/resource/Convolutional_neural_network
-    @weight 0.5
+@id kHHJhXblF2U4nNb2
+@title convolutional neural network
+@alias http://dbpedia.org/resource/Convolutional_neural_network
+@created 1499898413953
+@weight 0.5

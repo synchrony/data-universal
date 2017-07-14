@@ -1,7 +1,8 @@
-* :DWdFc0Q5BywcI0xy: light-emitting diode
-    @created 1339440033219
-    @alias http://dbpedia.org/resource/Light-emitting_diode
-    @weight 0.5
-    * :E7i0nwRY8qA453Zb: 
-    * :ZZpz04ClpUMTjBHJ: 
-    * :D9QGJWGghewHHq2d: 
+@id DWdFc0Q5BywcI0xy
+@title light-emitting diode
+@alias http://dbpedia.org/resource/Light-emitting_diode
+@created 1339440033219
+@weight 0.5
+* :E7i0nwRY8qA453Zb: 
+* :ZZpz04ClpUMTjBHJ: 
+* :D9QGJWGghewHHq2d: 

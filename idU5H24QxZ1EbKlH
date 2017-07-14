@@ -1,6 +1,7 @@
-* :idU5H24QxZ1EbKlH: indoor positioning system
-    @created 1310281444999
-    @alias http://dbpedia.org/resource/Indoor_positioning_system
-    @weight 0.5
-    * :62IpSntmanZ9GiBX: 
-    * :928JweCZHR6fFxmA: 
+@id idU5H24QxZ1EbKlH
+@title indoor positioning system
+@alias http://dbpedia.org/resource/Indoor_positioning_system
+@created 1310281444999
+@weight 0.5
+* :62IpSntmanZ9GiBX: 
+* :928JweCZHR6fFxmA: 

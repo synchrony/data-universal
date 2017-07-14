@@ -1,4 +1,5 @@
-* :vdWX5EXtdWhnhWK1: housefly
-    @created 1332996663400
-    @alias http://dbpedia.org/resource/Housefly
-    @weight 0.5
+@id vdWX5EXtdWhnhWK1
+@title housefly
+@alias http://dbpedia.org/resource/Housefly
+@created 1332996663400
+@weight 0.5

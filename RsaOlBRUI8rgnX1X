@@ -1,5 +1,6 @@
-* :RsaOlBRUI8rgnX1X: lotion
-    @created 1415676014854
-    @alias http://dbpedia.org/resource/Lotion
-    @weight 0.5
-    * :loduLDgr34Fd3uqB: 
+@id RsaOlBRUI8rgnX1X
+@title lotion
+@alias http://dbpedia.org/resource/Lotion
+@created 1415676014854
+@weight 0.5
+* :loduLDgr34Fd3uqB: 

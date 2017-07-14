@@ -1,4 +1,5 @@
-* :BBNzqemJ610oFNYa: request-response
-    @created 1323064552675
-    @alias http://dbpedia.org/resource/Request-response
-    @weight 0.5
+@id BBNzqemJ610oFNYa
+@title request-response
+@alias http://dbpedia.org/resource/Request-response
+@created 1323064552675
+@weight 0.5

@@ -1,4 +1,5 @@
-* :dmGeXRPrcO5PWPnV: aircraft registration
-    @created 1373256042608
-    @alias http://dbpedia.org/resource/Aircraft_registration
-    @weight 0.5
+@id dmGeXRPrcO5PWPnV
+@title aircraft registration
+@alias http://dbpedia.org/resource/Aircraft_registration
+@created 1373256042608
+@weight 0.5

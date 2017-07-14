@@ -1,8 +1,9 @@
-* :DswVQxFh6DiTEC2z: artificial intelligence
-    @created 1342995475112
-    @alias http://dbpedia.org/resource/Artificial_intelligence
-    @weight 0.75
-    * :jMel4zhfEpjMWR5q: 
-    * :gYhsF7skI3qmYNNp: 
-    * :OKcXFTh386rgSQKk: 
-    * :8ueHdDeG1Ru5BEUZ: 
+@id DswVQxFh6DiTEC2z
+@title artificial intelligence
+@alias http://dbpedia.org/resource/Artificial_intelligence
+@created 1342995475112
+@weight 0.75
+* :jMel4zhfEpjMWR5q: 
+* :gYhsF7skI3qmYNNp: 
+* :OKcXFTh386rgSQKk: 
+* :8ueHdDeG1Ru5BEUZ: 

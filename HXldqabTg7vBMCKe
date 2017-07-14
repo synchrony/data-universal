@@ -1,7 +1,8 @@
-* :HXldqabTg7vBMCKe: Rorschach test
-    @created 1342243629235
-    @alias http://dbpedia.org/resource/Rorschach_test
-    @weight 0.5
-    * :cu3dk14v5pTHZby2: 
-    * :bdOfZZ1sBYUjuUui: 
-    * :Sannco6fVUu6oYhO: 
+@id HXldqabTg7vBMCKe
+@title Rorschach test
+@alias http://dbpedia.org/resource/Rorschach_test
+@created 1342243629235
+@weight 0.5
+* :cu3dk14v5pTHZby2: 
+* :bdOfZZ1sBYUjuUui: 
+* :Sannco6fVUu6oYhO: 

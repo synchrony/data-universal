@@ -1,6 +1,7 @@
-* :A8rbYuOI3NVmLY1H: tomato juice
-    @created 1309178131970
-    @alias http://dbpedia.org/resource/Tomato_juice
-    @weight 0.5
-    * :fqwMrEhyKOPtMFBZ: 
-    * :3chXGUwfuvFkfuah: 
+@id A8rbYuOI3NVmLY1H
+@title tomato juice
+@alias http://dbpedia.org/resource/Tomato_juice
+@created 1309178131970
+@weight 0.5
+* :fqwMrEhyKOPtMFBZ: 
+* :3chXGUwfuvFkfuah: 

@@ -1,4 +1,5 @@
-* :na7rMoUDZyMwrb7j: sweet potato
-    @created 1353615263337
-    @alias http://dbpedia.org/resource/Sweet_potato
-    @weight 0.5
+@id na7rMoUDZyMwrb7j
+@title sweet potato
+@alias http://dbpedia.org/resource/Sweet_potato
+@created 1353615263337
+@weight 0.5

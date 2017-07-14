@@ -1,5 +1,6 @@
-* :1NpcnRogJOxzQT9A: Psilocybe silvatica
-    @created 1310320779823
-    @alias http://dbpedia.org/resource/Psilocybe_silvatica
-    @weight 0.5
-    * :i5DK9njXZ78iYpVM: 
+@id 1NpcnRogJOxzQT9A
+@title Psilocybe silvatica
+@alias http://dbpedia.org/resource/Psilocybe_silvatica
+@created 1310320779823
+@weight 0.5
+* :i5DK9njXZ78iYpVM: 

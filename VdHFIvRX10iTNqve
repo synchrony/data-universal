@@ -1,4 +1,5 @@
-* :VdHFIvRX10iTNqve: right whale
-    @created 1376275494054
-    @alias http://dbpedia.org/resource/Right_whale
-    @weight 0.5
+@id VdHFIvRX10iTNqve
+@title right whale
+@alias http://dbpedia.org/resource/Right_whale
+@created 1376275494054
+@weight 0.5

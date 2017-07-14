@@ -1,5 +1,6 @@
-* :lFHrqaULZx8TZg33: primary source
-    @created 1376288217120
-    @alias http://dbpedia.org/resource/Primary_source
-    @weight 0.5
-    * :ChuhoYMQJiuAPEpE: 
+@id lFHrqaULZx8TZg33
+@title primary source
+@alias http://dbpedia.org/resource/Primary_source
+@created 1376288217120
+@weight 0.5
+* :ChuhoYMQJiuAPEpE: 

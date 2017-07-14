@@ -1,5 +1,6 @@
-* :eZxbA9xR7U8M7hy7: OPeNDAP
-    @created 1310276699407
-    @alias http://dbpedia.org/resource/OPeNDAP
-    @weight 0.5
-    * :OnRu639EbQTKFAPR: 
+@id eZxbA9xR7U8M7hy7
+@title OPeNDAP
+@alias http://dbpedia.org/resource/OPeNDAP
+@created 1310276699407
+@weight 0.5
+* :OnRu639EbQTKFAPR: 

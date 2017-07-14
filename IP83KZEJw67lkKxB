@@ -1,5 +1,6 @@
-* :IP83KZEJw67lkKxB: blink
-    @created 1427724793593
-    @alias http://dbpedia.org/resource/Blink
-    @weight 0.5
-    * :nAWYTinR0XsqYCSc: 
+@id IP83KZEJw67lkKxB
+@title blink
+@alias http://dbpedia.org/resource/Blink
+@created 1427724793593
+@weight 0.5
+* :nAWYTinR0XsqYCSc: 

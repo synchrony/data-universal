@@ -1,4 +1,5 @@
-* :KnjmgrniRRIruuTF: William Gibson
-    @created 1310235698353
-    @alias http://dbpedia.org/resource/William_Gibson
-    @weight 0.75
+@id KnjmgrniRRIruuTF
+@title William Gibson
+@alias http://dbpedia.org/resource/William_Gibson
+@created 1310235698353
+@weight 0.75

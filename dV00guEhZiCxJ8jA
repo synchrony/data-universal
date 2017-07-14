@@ -1,5 +1,6 @@
-* :dV00guEhZiCxJ8jA: peanut
-    @created 1416063869468
-    @alias http://dbpedia.org/resource/Peanut
-    @weight 0.5
-    * :d7MECJEvPTlLyxSU: 
+@id dV00guEhZiCxJ8jA
+@title peanut
+@alias http://dbpedia.org/resource/Peanut
+@created 1416063869468
+@weight 0.5
+* :d7MECJEvPTlLyxSU: 

@@ -1,4 +1,5 @@
-* :nEZjuvWaRXF8p0hp: shovel
-    @created 1497214594973
-    @alias http://dbpedia.org/resource/Shovel
-    @weight 0.5
+@id nEZjuvWaRXF8p0hp
+@title shovel
+@alias http://dbpedia.org/resource/Shovel
+@created 1497214594973
+@weight 0.5

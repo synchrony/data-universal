@@ -1,8 +1,9 @@
-* :WtB6SdU9qq7egtkZ: theory
-    @created 1335835911490
-    @alias http://dbpedia.org/resource/Theory
-    @weight 0.75
-    * :ls2RoknWnEg8eGVX: 
-    * :eq5MuI4K8nDwZUWd: 
-    * :Hp51IdbyFZQHsTDE: 
-    * :nGcMElrtWA6VjEo0: 
+@id WtB6SdU9qq7egtkZ
+@title theory
+@alias http://dbpedia.org/resource/Theory
+@created 1335835911490
+@weight 0.75
+* :ls2RoknWnEg8eGVX: 
+* :eq5MuI4K8nDwZUWd: 
+* :Hp51IdbyFZQHsTDE: 
+* :nGcMElrtWA6VjEo0: 

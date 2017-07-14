@@ -1,6 +1,7 @@
-* :gpgpBYj7v11NhgvE: watt
-    @created 1425236168095
-    @alias http://dbpedia.org/resource/Watt
-    @weight 0.5
-    * :DsM8FbQMKs6dauDD: 
-    * :4BOak4HtwR2y2XHF: 
+@id gpgpBYj7v11NhgvE
+@title watt
+@alias http://dbpedia.org/resource/Watt
+@created 1425236168095
+@weight 0.5
+* :DsM8FbQMKs6dauDD: 
+* :4BOak4HtwR2y2XHF: 

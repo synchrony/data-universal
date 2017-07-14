@@ -1,7 +1,8 @@
-* :XcW4nE7M4nZTZI5e: Enûma Eliš
-    @created 1343320069266
-    @alias http://dbpedia.org/resource/En%C3%BBma_Eli%C5%A1
-    @weight 0.5
-    * :I6DOYVhSYj5Xjl7D: 
-    * :bD2C04iHQpL1ihqL: 
-    * :91Cy0BsVLwAsCMek: 
+@id XcW4nE7M4nZTZI5e
+@title Enûma Eliš
+@alias http://dbpedia.org/resource/En%C3%BBma_Eli%C5%A1
+@created 1343320069266
+@weight 0.5
+* :I6DOYVhSYj5Xjl7D: 
+* :bD2C04iHQpL1ihqL: 
+* :91Cy0BsVLwAsCMek: 

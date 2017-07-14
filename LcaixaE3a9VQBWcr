@@ -1,4 +1,5 @@
-* :LcaixaE3a9VQBWcr: tandoor
-    @created 1348447545554
-    @alias http://dbpedia.org/resource/Tandoor
-    @weight 0.5
+@id LcaixaE3a9VQBWcr
+@title tandoor
+@alias http://dbpedia.org/resource/Tandoor
+@created 1348447545554
+@weight 0.5

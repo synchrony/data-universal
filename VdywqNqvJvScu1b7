@@ -1,5 +1,6 @@
-* :VdywqNqvJvScu1b7: relation (database)
-    @created 1352134153782
-    @alias http://dbpedia.org/resource/Relation_(database)
-    @weight 0.5
-    * :rXByo9Cgc7Rxu1wc: 
+@id VdywqNqvJvScu1b7
+@title relation (database)
+@alias http://dbpedia.org/resource/Relation_(database)
+@created 1352134153782
+@weight 0.5
+* :rXByo9Cgc7Rxu1wc: 

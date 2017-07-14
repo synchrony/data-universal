@@ -1,4 +1,5 @@
-* :HJ6rD2k4ayrj7KFx: 99 Bottles of Beer
-    @created 1345854012253
-    @alias http://dbpedia.org/resource/99_Bottles_of_Beer
-    @weight 0.5
+@id HJ6rD2k4ayrj7KFx
+@title 99 Bottles of Beer
+@alias http://dbpedia.org/resource/99_Bottles_of_Beer
+@created 1345854012253
+@weight 0.5

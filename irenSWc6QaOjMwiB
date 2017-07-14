@@ -1,6 +1,7 @@
-* :irenSWc6QaOjMwiB: kite
-    @created 1467562730871
-    @alias http://dbpedia.org/resource/Kite
-    @weight 0.5
-    * :Vc0g3Epcjxa5iHxe: 
-    * :Rpf4OKiEcUn2B8Vk: 
+@id irenSWc6QaOjMwiB
+@title kite
+@alias http://dbpedia.org/resource/Kite
+@created 1467562730871
+@weight 0.5
+* :Vc0g3Epcjxa5iHxe: 
+* :Rpf4OKiEcUn2B8Vk: 

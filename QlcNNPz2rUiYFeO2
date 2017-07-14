@@ -1,6 +1,7 @@
-* :QlcNNPz2rUiYFeO2: specification pattern
-    @created 1380998244639
-    @alias http://dbpedia.org/resource/Specification_pattern
-    @weight 0.5
-    * :5Xf1VK0R6BSs9Lak: 
-    * :2hJoBCVTKcfmsNQ2: 
+@id QlcNNPz2rUiYFeO2
+@title specification pattern
+@alias http://dbpedia.org/resource/Specification_pattern
+@created 1380998244639
+@weight 0.5
+* :5Xf1VK0R6BSs9Lak: 
+* :2hJoBCVTKcfmsNQ2: 

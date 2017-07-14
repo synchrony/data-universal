@@ -1,5 +1,6 @@
-* :KzU5x3BADPas85IN: VORTAC
-    @created 1485061317892
-    @alias http://dbpedia.org/resource/VORTAC
-    @weight 0.5
-    * :jLS7AEvOLnIdFFsW: 
+@id KzU5x3BADPas85IN
+@title VORTAC
+@alias http://dbpedia.org/resource/VORTAC
+@created 1485061317892
+@weight 0.5
+* :jLS7AEvOLnIdFFsW: 

@@ -1,4 +1,5 @@
-* :ChBVrGKRONhOSg9N: ganglion
-    @created 1347853777353
-    @alias http://dbpedia.org/resource/Ganglion
-    @weight 0.5
+@id ChBVrGKRONhOSg9N
+@title ganglion
+@alias http://dbpedia.org/resource/Ganglion
+@created 1347853777353
+@weight 0.5

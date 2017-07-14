@@ -1,9 +1,10 @@
-* :TGLuI5RFrFrlCSAj: Noam Chomsky
-    @created 1325402135336
-    @alias http://dbpedia.org/resource/Noam_Chomsky
-    @weight 0.75
-    * :d3J4WjElNEj7oBGn: 
-    * :O9FOcFMmGtTLLKK9: 
-    * :zVT9t4bkg5CdkYd4: 
-    * :HcNBoKwDQzMp9KxK: 
-    * :ETv8VBJPgGwFaoYZ: 
+@id TGLuI5RFrFrlCSAj
+@title Noam Chomsky
+@alias http://dbpedia.org/resource/Noam_Chomsky
+@created 1325402135336
+@weight 0.75
+* :d3J4WjElNEj7oBGn: 
+* :O9FOcFMmGtTLLKK9: 
+* :zVT9t4bkg5CdkYd4: 
+* :HcNBoKwDQzMp9KxK: 
+* :ETv8VBJPgGwFaoYZ: 

@@ -1,5 +1,6 @@
-* :FPXG5SHBDr8JkgFG: stenotype
-    @created 1336970470942
-    @alias http://dbpedia.org/resource/Stenotype
-    @weight 0.5
-    * :gCClqvpopjBMuqXB: 
+@id FPXG5SHBDr8JkgFG
+@title stenotype
+@alias http://dbpedia.org/resource/Stenotype
+@created 1336970470942
+@weight 0.5
+* :gCClqvpopjBMuqXB: 

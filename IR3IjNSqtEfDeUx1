@@ -1,4 +1,5 @@
-* :IR3IjNSqtEfDeUx1: epilepsy
-    @created 1344134719407
-    @alias http://dbpedia.org/resource/Epilepsy
-    @weight 0.5
+@id IR3IjNSqtEfDeUx1
+@title epilepsy
+@alias http://dbpedia.org/resource/Epilepsy
+@created 1344134719407
+@weight 0.5

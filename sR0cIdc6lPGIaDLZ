@@ -1,5 +1,6 @@
-* :sR0cIdc6lPGIaDLZ: geocaching
-    @created 1381862587396
-    @alias http://dbpedia.org/resource/Geocaching
-    @weight 0.5
-    * :PUje3mGgeTUFqUR6: 
+@id sR0cIdc6lPGIaDLZ
+@title geocaching
+@alias http://dbpedia.org/resource/Geocaching
+@created 1381862587396
+@weight 0.5
+* :PUje3mGgeTUFqUR6: 

@@ -1,4 +1,5 @@
-* :APNVMecgeOTgdHu4: ciabatta
-    @created 1309178129106
-    @alias http://dbpedia.org/resource/Ciabatta
-    @weight 0.5
+@id APNVMecgeOTgdHu4
+@title ciabatta
+@alias http://dbpedia.org/resource/Ciabatta
+@created 1309178129106
+@weight 0.5

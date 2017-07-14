@@ -1,7 +1,8 @@
-* :aIsHqm6UToCWwG2O: NP-hard
-    @created 1364620846908
-    @alias http://dbpedia.org/resource/NP-hard
-    @weight 0.75
-    * :Exb6tSZYzfRW94mm: 
-    * :tJ7saKkKtZ2KWhze: 
-    * :3ejma3UhrMHCFolf: 
+@id aIsHqm6UToCWwG2O
+@title NP-hard
+@alias http://dbpedia.org/resource/NP-hard
+@created 1364620846908
+@weight 0.75
+* :Exb6tSZYzfRW94mm: 
+* :tJ7saKkKtZ2KWhze: 
+* :3ejma3UhrMHCFolf: 

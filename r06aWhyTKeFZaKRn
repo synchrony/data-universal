@@ -1,6 +1,7 @@
-* :r06aWhyTKeFZaKRn: Blue Velvet (film)
-    @created 1316742690965
-    @alias http://dbpedia.org/resource/Blue_Velvet_(film)
-    @weight 0.75
-    * :GC2sHL4prNUMszub: 
-    * :IDjW0kyeGCuBLiZp: 
+@id r06aWhyTKeFZaKRn
+@title Blue Velvet (film)
+@alias http://dbpedia.org/resource/Blue_Velvet_(film)
+@created 1316742690965
+@weight 0.75
+* :GC2sHL4prNUMszub: 
+* :IDjW0kyeGCuBLiZp: 

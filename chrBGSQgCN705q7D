@@ -1,4 +1,5 @@
-* :chrBGSQgCN705q7D: Georgia (U.S. state)
-    @created 1385053431856
-    @alias http://dbpedia.org/resource/Georgia_(U.S._state)
-    @weight 0.5
+@id chrBGSQgCN705q7D
+@title Georgia (U.S. state)
+@alias http://dbpedia.org/resource/Georgia_(U.S._state)
+@created 1385053431856
+@weight 0.5

@@ -1,12 +1,13 @@
-* :llBbxretqKMn2Och: social computing
-    @created 1345177395173
-    @alias http://dbpedia.org/resource/Social_computing
-    @weight 0.5
-    * :qvCC7gmj638zVH8C: 
-    * :xgLrRMq0l80DIfsG: 
-    * :gmIsalVAxT2KbePA: 
-    * :hFTxAlKfCdUgKSDt: 
-    * :Tz1dG3m2oYCILxY2: 
-    * :OGhFZUrtNsa3Gmi6: 
-    * :SYOaUytMh2GjpF7q: 
-    * :VdwtEKwaAUV0H5Zf: 
+@id llBbxretqKMn2Och
+@title social computing
+@alias http://dbpedia.org/resource/Social_computing
+@created 1345177395173
+@weight 0.5
+* :qvCC7gmj638zVH8C: 
+* :xgLrRMq0l80DIfsG: 
+* :gmIsalVAxT2KbePA: 
+* :hFTxAlKfCdUgKSDt: 
+* :Tz1dG3m2oYCILxY2: 
+* :OGhFZUrtNsa3Gmi6: 
+* :SYOaUytMh2GjpF7q: 
+* :VdwtEKwaAUV0H5Zf: 

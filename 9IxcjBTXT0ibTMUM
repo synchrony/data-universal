@@ -1,5 +1,6 @@
-* :9IxcjBTXT0ibTMUM: divorce
-    @created 1441118999598
-    @alias http://dbpedia.org/resource/Divorce
-    @weight 0.5
-    * :0IkxvyQmCAmskUbo: 
+@id 9IxcjBTXT0ibTMUM
+@title divorce
+@alias http://dbpedia.org/resource/Divorce
+@created 1441118999598
+@weight 0.5
+* :0IkxvyQmCAmskUbo: 

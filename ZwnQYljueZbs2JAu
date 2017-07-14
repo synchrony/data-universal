@@ -1,5 +1,6 @@
-* :ZwnQYljueZbs2JAu: spaghetti
-    @created 1309178124309
-    @alias http://dbpedia.org/resource/Spaghetti
-    @weight 0.5
-    * :KnNzYlfUVWrmdU1v: 
+@id ZwnQYljueZbs2JAu
+@title spaghetti
+@alias http://dbpedia.org/resource/Spaghetti
+@created 1309178124309
+@weight 0.5
+* :KnNzYlfUVWrmdU1v: 

@@ -1,6 +1,7 @@
-* :IRvXvLScOJcyhGap: planar graph
-    @created 1380830371101
-    @alias http://dbpedia.org/resource/Planar_graph
-    @weight 0.5
-    * :F8fR65WejtoDEczI: 
-    * :leFf0LYuMAjBWKuB: 
+@id IRvXvLScOJcyhGap
+@title planar graph
+@alias http://dbpedia.org/resource/Planar_graph
+@created 1380830371101
+@weight 0.5
+* :F8fR65WejtoDEczI: 
+* :leFf0LYuMAjBWKuB: 

@@ -1,5 +1,6 @@
-* :9Fi12dcPoRC3L2LC: aerodrome beacon
-    @created 1489709569605
-    @alias http://dbpedia.org/resource/Aerodrome_beacon
-    @weight 0.5
-    * :g4lUMAShAtkMk6Li: 
+@id 9Fi12dcPoRC3L2LC
+@title aerodrome beacon
+@alias http://dbpedia.org/resource/Aerodrome_beacon
+@created 1489709569605
+@weight 0.5
+* :g4lUMAShAtkMk6Li: 

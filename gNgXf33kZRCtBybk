@@ -1,5 +1,6 @@
-* :gNgXf33kZRCtBybk: conceptual graph
-    @created 1331354884979
-    @alias http://dbpedia.org/resource/Conceptual_graph
-    @weight 0.5
-    * :AmBhTudiIxDkn4Jo: 
+@id gNgXf33kZRCtBybk
+@title conceptual graph
+@alias http://dbpedia.org/resource/Conceptual_graph
+@created 1331354884979
+@weight 0.5
+* :AmBhTudiIxDkn4Jo: 

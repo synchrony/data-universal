@@ -1,4 +1,5 @@
-* :LwyslnPJDgqzaVsq: muscle tone
-    @created 1350480609320
-    @alias http://dbpedia.org/resource/Muscle_tone
-    @weight 0.5
+@id LwyslnPJDgqzaVsq
+@title muscle tone
+@alias http://dbpedia.org/resource/Muscle_tone
+@created 1350480609320
+@weight 0.5

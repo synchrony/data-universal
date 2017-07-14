@@ -1,5 +1,6 @@
-* :CRaaqKAlfV2Dg8TC: budgerigar
-    @created 1325651243286
-    @alias http://dbpedia.org/resource/Budgerigar
-    @weight 0.5
-    * :HfHDe2oORMjyAJvn: 
+@id CRaaqKAlfV2Dg8TC
+@title budgerigar
+@alias http://dbpedia.org/resource/Budgerigar
+@created 1325651243286
+@weight 0.5
+* :HfHDe2oORMjyAJvn: 

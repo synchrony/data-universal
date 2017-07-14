@@ -1,4 +1,5 @@
-* :yTctxHmqM7Z7OjmB: Eleanor Roosevelt
-    @created 1362454436046
-    @alias http://dbpedia.org/resource/Eleanor_Roosevelt
-    @weight 0.5
+@id yTctxHmqM7Z7OjmB
+@title Eleanor Roosevelt
+@alias http://dbpedia.org/resource/Eleanor_Roosevelt
+@created 1362454436046
+@weight 0.5

@@ -1,6 +1,7 @@
-* :j32xeEa4j7NA6haf: eraser
-    @created 1378400198514
-    @alias http://dbpedia.org/resource/Eraser
-    @weight 0.5
-    * :TPOh21dNjdatViHu: 
-    * :M50yzPPweCYEdhs4: 
+@id j32xeEa4j7NA6haf
+@title eraser
+@alias http://dbpedia.org/resource/Eraser
+@created 1378400198514
+@weight 0.5
+* :TPOh21dNjdatViHu: 
+* :M50yzPPweCYEdhs4: 

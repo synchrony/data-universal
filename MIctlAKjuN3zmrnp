@@ -1,4 +1,5 @@
-* :MIctlAKjuN3zmrnp: neon
-    @created 1344309326549
-    @alias http://dbpedia.org/resource/Neon
-    @weight 0.75
+@id MIctlAKjuN3zmrnp
+@title neon
+@alias http://dbpedia.org/resource/Neon
+@created 1344309326549
+@weight 0.75

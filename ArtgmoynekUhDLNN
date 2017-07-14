@@ -1,4 +1,5 @@
-* :ArtgmoynekUhDLNN: data set
-    @created 1351452315147
-    @alias http://dbpedia.org/resource/Data_set
-    @weight 0.5
+@id ArtgmoynekUhDLNN
+@title data set
+@alias http://dbpedia.org/resource/Data_set
+@created 1351452315147
+@weight 0.5

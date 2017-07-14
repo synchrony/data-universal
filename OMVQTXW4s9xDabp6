@@ -1,7 +1,8 @@
-* :OMVQTXW4s9xDabp6: Romalea guttata
-    @created 1403897701555
-    @alias http://dbpedia.org/resource/Romalea_guttata
-    @weight 0.5
-    * :fB8yJzpZTTCKeOmR: 
-    * :1uw8bvv5UiYeJOvJ: 
-    * :Ob6Vlje9UdKeoic0: 
+@id OMVQTXW4s9xDabp6
+@title Romalea guttata
+@alias http://dbpedia.org/resource/Romalea_guttata
+@created 1403897701555
+@weight 0.5
+* :fB8yJzpZTTCKeOmR: 
+* :1uw8bvv5UiYeJOvJ: 
+* :Ob6Vlje9UdKeoic0: 

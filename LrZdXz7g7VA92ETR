@@ -1,5 +1,6 @@
-* :LrZdXz7g7VA92ETR: PandaBoard
-    @created 1339532257337
-    @alias http://dbpedia.org/resource/PandaBoard
-    @weight 0.5
-    * :0BbPhDj0b5MpjLdd: 
+@id LrZdXz7g7VA92ETR
+@title PandaBoard
+@alias http://dbpedia.org/resource/PandaBoard
+@created 1339532257337
+@weight 0.5
+* :0BbPhDj0b5MpjLdd: 

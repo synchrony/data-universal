@@ -1,4 +1,5 @@
-* :10RB4IlKGXyn98l9: rope
-    @created 1467562730856
-    @alias http://dbpedia.org/resource/Rope
-    @weight 0.5
+@id 10RB4IlKGXyn98l9
+@title rope
+@alias http://dbpedia.org/resource/Rope
+@created 1467562730856
+@weight 0.5

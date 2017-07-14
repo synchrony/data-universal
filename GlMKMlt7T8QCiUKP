@@ -1,10 +1,11 @@
-* :GlMKMlt7T8QCiUKP: calm technology
-    @created 1346355092303
-    @alias http://dbpedia.org/resource/Calm_technology
-    @weight 0.75
-    * :k5FJK1neqTrcdGrq: 
-    * :dfSK2DncgoinSN3v: 
-    * :KYIJxbXKojjKUIkM: 
-    * :j0PtXW9RkE4XIGxh: 
-    * :GIKizC7egX7qfsWM: 
-    * :rYrPrSUrQgLzM8W9: 
+@id GlMKMlt7T8QCiUKP
+@title calm technology
+@alias http://dbpedia.org/resource/Calm_technology
+@created 1346355092303
+@weight 0.75
+* :k5FJK1neqTrcdGrq: 
+* :dfSK2DncgoinSN3v: 
+* :KYIJxbXKojjKUIkM: 
+* :j0PtXW9RkE4XIGxh: 
+* :GIKizC7egX7qfsWM: 
+* :rYrPrSUrQgLzM8W9: 

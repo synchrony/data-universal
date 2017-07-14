@@ -1,4 +1,5 @@
-* :DvQXlVgDgFVDFBTm: Troy, New York
-    @created 1340737831144
-    @alias http://dbpedia.org/resource/Troy,_New_York
-    @weight 0.75
+@id DvQXlVgDgFVDFBTm
+@title Troy, New York
+@alias http://dbpedia.org/resource/Troy,_New_York
+@created 1340737831144
+@weight 0.75

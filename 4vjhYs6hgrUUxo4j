@@ -1,8 +1,9 @@
-* :4vjhYs6hgrUUxo4j: Skype
-    @created 1309436742637
-    @alias http://dbpedia.org/resource/Skype
-    @weight 0.75
-    * :S12VyD5DUs4jtIiG: 
-    * :P0F1M2p3liDXck3B: 
-    * :n451mGDdx9dIOb5m: 
-    * :T32gurceiYIvNECM: 
+@id 4vjhYs6hgrUUxo4j
+@title Skype
+@alias http://dbpedia.org/resource/Skype
+@created 1309436742637
+@weight 0.75
+* :S12VyD5DUs4jtIiG: 
+* :P0F1M2p3liDXck3B: 
+* :n451mGDdx9dIOb5m: 
+* :T32gurceiYIvNECM: 

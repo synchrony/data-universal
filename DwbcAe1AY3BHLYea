@@ -1,5 +1,6 @@
-* :DwbcAe1AY3BHLYea: apatosaurus
-    @created 1378053354968
-    @alias http://dbpedia.org/resource/Apatosaurus
-    @weight 0.5
-    * :nvIa5C7dRjLKO0x1: 
+@id DwbcAe1AY3BHLYea
+@title apatosaurus
+@alias http://dbpedia.org/resource/Apatosaurus
+@created 1378053354968
+@weight 0.5
+* :nvIa5C7dRjLKO0x1: 

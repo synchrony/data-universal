@@ -1,5 +1,6 @@
-* :s3iBaawxcub725Ub: voltage source
-    @created 1475263398267
-    @alias http://dbpedia.org/resource/Voltage_source
-    @weight 0.5
-    * :Lp6vx2uh8sJBekFe: 
+@id s3iBaawxcub725Ub
+@title voltage source
+@alias http://dbpedia.org/resource/Voltage_source
+@created 1475263398267
+@weight 0.5
+* :Lp6vx2uh8sJBekFe: 

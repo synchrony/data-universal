@@ -1,4 +1,5 @@
-* :UYNucB59JkfNWuTs: Lucky Luke
-    @created 1477900620499
-    @alias http://dbpedia.org/resource/Lucky_Luke
-    @weight 0.5
+@id UYNucB59JkfNWuTs
+@title Lucky Luke
+@alias http://dbpedia.org/resource/Lucky_Luke
+@created 1477900620499
+@weight 0.5

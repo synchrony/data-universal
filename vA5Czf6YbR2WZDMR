@@ -1,6 +1,7 @@
-* :vA5Czf6YbR2WZDMR: freighthopping
-    @created 1353643772839
-    @alias http://dbpedia.org/resource/Freighthopping
-    @weight 0.5
-    * :GW0D6b2NRNf6fPcM: 
-    * :lf2bjyqWDgZHV2sV: 
+@id vA5Czf6YbR2WZDMR
+@title freighthopping
+@alias http://dbpedia.org/resource/Freighthopping
+@created 1353643772839
+@weight 0.5
+* :GW0D6b2NRNf6fPcM: 
+* :lf2bjyqWDgZHV2sV: 

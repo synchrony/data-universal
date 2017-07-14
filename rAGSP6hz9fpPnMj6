@@ -1,4 +1,5 @@
-* :rAGSP6hz9fpPnMj6: John Muir
-    @created 1491081092063
-    @alias http://dbpedia.org/resource/John_Muir
-    @weight 0.5
+@id rAGSP6hz9fpPnMj6
+@title John Muir
+@alias http://dbpedia.org/resource/John_Muir
+@created 1491081092063
+@weight 0.5

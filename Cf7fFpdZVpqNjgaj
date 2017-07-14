@@ -1,6 +1,7 @@
-* :Cf7fFpdZVpqNjgaj: ammeter
-    @created 1478768251121
-    @alias http://dbpedia.org/resource/Ammeter
-    @weight 0.5
-    * :qC4L43m9jPMISvXq: 
-    * :uwjVxwXtNVnAiavh: 
+@id Cf7fFpdZVpqNjgaj
+@title ammeter
+@alias http://dbpedia.org/resource/Ammeter
+@created 1478768251121
+@weight 0.5
+* :qC4L43m9jPMISvXq: 
+* :uwjVxwXtNVnAiavh: 

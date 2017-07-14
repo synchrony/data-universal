@@ -1,5 +1,6 @@
-* :rqakN9UvSjGSqPv0: crime
-    @created 1466734035968
-    @alias http://dbpedia.org/resource/Crime
-    @weight 0.5
-    * :szsRmQGNC5VzMWzG: 
+@id rqakN9UvSjGSqPv0
+@title crime
+@alias http://dbpedia.org/resource/Crime
+@created 1466734035968
+@weight 0.5
+* :szsRmQGNC5VzMWzG: 

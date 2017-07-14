@@ -1,19 +1,20 @@
-* :Z462voJqJrRvupAO: art
-    @created 1315175133894
-    @alias http://dbpedia.org/resource/Art
-    @weight 0.75
-    * :TnhsMxSdMtqEjLEL: 
-    * :tlhiQbjhWiC7cMFm: 
-    * :v974uJoddh3F9NVS: 
-    * :lLYHBYyfJj7Ov8kb: 
-    * :VoMY487VQnH5PfSR: 
-    * :ZRxpg8vGSH1Py1qk: 
-    * :FuNGv5bkTyW8JDpB: 
-    * :aH8gwfEHuXjM0J3p: 
-    * :y1ANL0K8yZygVm57: 
-    * :vq8aCMHCdbyAUKlM: 
-    * :GrHwXOn7rr3vQg5f: 
-    * :xl9fRjN7fhb6p3bA: 
-    * :6iG0Smn2hn7v0DWv: 
-    * :1hXUcZVVoc3WUHfb: 
-    * :LgdBGYHmd7b9IlMW: 
+@id Z462voJqJrRvupAO
+@title art
+@alias http://dbpedia.org/resource/Art
+@created 1315175133894
+@weight 0.75
+* :TnhsMxSdMtqEjLEL: 
+* :tlhiQbjhWiC7cMFm: 
+* :v974uJoddh3F9NVS: 
+* :lLYHBYyfJj7Ov8kb: 
+* :VoMY487VQnH5PfSR: 
+* :ZRxpg8vGSH1Py1qk: 
+* :FuNGv5bkTyW8JDpB: 
+* :aH8gwfEHuXjM0J3p: 
+* :y1ANL0K8yZygVm57: 
+* :vq8aCMHCdbyAUKlM: 
+* :GrHwXOn7rr3vQg5f: 
+* :xl9fRjN7fhb6p3bA: 
+* :6iG0Smn2hn7v0DWv: 
+* :1hXUcZVVoc3WUHfb: 
+* :LgdBGYHmd7b9IlMW: 

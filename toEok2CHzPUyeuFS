@@ -1,8 +1,9 @@
-* :toEok2CHzPUyeuFS: just-noticeable difference
-    @created 1433262181186
-    @alias http://dbpedia.org/resource/Just-noticeable_difference
-    @weight 0.75
-    * :x3DWZ2vBpOtj6fRy: 
-    * :gaZ9rU6xyNFEp1lQ: 
-    * :CT5T8Hph6zp7hvxP: 
-    * :RQiqq3D0FsTZizyu: 
+@id toEok2CHzPUyeuFS
+@title just-noticeable difference
+@alias http://dbpedia.org/resource/Just-noticeable_difference
+@created 1433262181186
+@weight 0.75
+* :x3DWZ2vBpOtj6fRy: 
+* :gaZ9rU6xyNFEp1lQ: 
+* :CT5T8Hph6zp7hvxP: 
+* :RQiqq3D0FsTZizyu: 

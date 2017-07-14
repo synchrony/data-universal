@@ -1,6 +1,7 @@
-* :HfxuALH26lcHWPcW: Mission Aviation Fellowship
-    @created 1477202015145
-    @alias http://dbpedia.org/resource/Mission_Aviation_Fellowship
-    @weight 0.5
-    * :fSl0Y35kXCqHCFki: 
-    * :KTOAGc0jHn6sGJM4: 
+@id HfxuALH26lcHWPcW
+@title Mission Aviation Fellowship
+@alias http://dbpedia.org/resource/Mission_Aviation_Fellowship
+@created 1477202015145
+@weight 0.5
+* :fSl0Y35kXCqHCFki: 
+* :KTOAGc0jHn6sGJM4: 

@@ -1,4 +1,5 @@
-* :QaR6GpQEfVDqdJon: cyanide poisoning
-    @created 1417139094713
-    @alias http://dbpedia.org/resource/Cyanide_poisoning
-    @weight 0.5
+@id QaR6GpQEfVDqdJon
+@title cyanide poisoning
+@alias http://dbpedia.org/resource/Cyanide_poisoning
+@created 1417139094713
+@weight 0.5

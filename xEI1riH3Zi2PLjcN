@@ -1,6 +1,7 @@
-* :xEI1riH3Zi2PLjcN: uniq
-    @created 1373487042117
-    @alias http://dbpedia.org/resource/Uniq
-    @weight 0.75
-    * :F0YurU3cETKa0r9f: 
-    * :eTGEhAbUMfLXd8Oi: 
+@id xEI1riH3Zi2PLjcN
+@title uniq
+@alias http://dbpedia.org/resource/Uniq
+@created 1373487042117
+@weight 0.75
+* :F0YurU3cETKa0r9f: 
+* :eTGEhAbUMfLXd8Oi: 

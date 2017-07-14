@@ -1,7 +1,8 @@
-* :2LbFIDPEMgNJ041z: Ubuntu Linux
-    @created 1311219231742
-    @alias http://dbpedia.org/resource/Ubuntu_Linux
-    @weight 0.75
-    * :JImv6zqPtNPZNXhC: 
-    * :HuAkS2ys4oBYRuU1: 
-    * :Nt29hwXCcI5Ihf1x: 
+@id 2LbFIDPEMgNJ041z
+@title Ubuntu Linux
+@alias http://dbpedia.org/resource/Ubuntu_Linux
+@created 1311219231742
+@weight 0.75
+* :JImv6zqPtNPZNXhC: 
+* :HuAkS2ys4oBYRuU1: 
+* :Nt29hwXCcI5Ihf1x: 

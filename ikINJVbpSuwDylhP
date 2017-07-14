@@ -1,4 +1,5 @@
-* :ikINJVbpSuwDylhP: Cat Stevens
-    @created 1316364772298
-    @alias http://dbpedia.org/resource/Cat_Stevens
-    @weight 0.5
+@id ikINJVbpSuwDylhP
+@title Cat Stevens
+@alias http://dbpedia.org/resource/Cat_Stevens
+@created 1316364772298
+@weight 0.5

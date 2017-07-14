@@ -1,4 +1,5 @@
-* :v1HuuPgex416Lsf1: Greek alphabet
-    @created 1334117162272
-    @alias http://dbpedia.org/resource/Greek_alphabet
-    @weight 0.5
+@id v1HuuPgex416Lsf1
+@title Greek alphabet
+@alias http://dbpedia.org/resource/Greek_alphabet
+@created 1334117162272
+@weight 0.5

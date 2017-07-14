@@ -1,8 +1,9 @@
-* :IfQr7ruLBk3MkKFm: paan
-    @created 1439324293517
-    @alias http://dbpedia.org/resource/Paan
-    @weight 0.5
-    * :1e71eByK3EM9C5N2: 
-    * :KYaMGL1cPsddotID: 
-    * :5F0akBDyTj9GpGY1: 
-    * :lSgR8k678ufhnhhf: 
+@id IfQr7ruLBk3MkKFm
+@title paan
+@alias http://dbpedia.org/resource/Paan
+@created 1439324293517
+@weight 0.5
+* :1e71eByK3EM9C5N2: 
+* :KYaMGL1cPsddotID: 
+* :5F0akBDyTj9GpGY1: 
+* :lSgR8k678ufhnhhf: 

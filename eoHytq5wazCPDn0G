@@ -1,8 +1,9 @@
-* :eoHytq5wazCPDn0G: plagiarism
-    @created 1413389945016
-    @alias http://dbpedia.org/resource/Plagiarism
-    @weight 0.5
-    * :5g9UvTFydfpGolND: 
-    * :na835EMqvNMqsRJT: 
-    * :oA6S0Yc8Y671iTvR: 
-    * :ghOpuBdCTui5KzLk: 
+@id eoHytq5wazCPDn0G
+@title plagiarism
+@alias http://dbpedia.org/resource/Plagiarism
+@created 1413389945016
+@weight 0.5
+* :5g9UvTFydfpGolND: 
+* :na835EMqvNMqsRJT: 
+* :oA6S0Yc8Y671iTvR: 
+* :ghOpuBdCTui5KzLk: 

@@ -1,6 +1,7 @@
-* :LDkCCurXFHcDo64z: Simple Knowledge Organization System
-    @created 1326064356064
-    @alias http://dbpedia.org/resource/Simple_Knowledge_Organization_System
-    @weight 0.75
-    * :IHWUHZtTwlEH9VzC: 
-    * :UiHKjRJXVBe6ckAj: 
+@id LDkCCurXFHcDo64z
+@title Simple Knowledge Organization System
+@alias http://dbpedia.org/resource/Simple_Knowledge_Organization_System
+@created 1326064356064
+@weight 0.75
+* :IHWUHZtTwlEH9VzC: 
+* :UiHKjRJXVBe6ckAj: 

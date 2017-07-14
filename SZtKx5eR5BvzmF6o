@@ -1,5 +1,6 @@
-* :SZtKx5eR5BvzmF6o: cupola
-    @created 1374742540590
-    @alias http://dbpedia.org/resource/Cupola
-    @weight 0.5
-    * :uj8bXgScuSz5sVxx: 
+@id SZtKx5eR5BvzmF6o
+@title cupola
+@alias http://dbpedia.org/resource/Cupola
+@created 1374742540590
+@weight 0.5
+* :uj8bXgScuSz5sVxx: 

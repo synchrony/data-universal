@@ -1,4 +1,5 @@
-* :SndMJP6lajUcCRsh: amateur radio
-    @created 1337401711393
-    @alias http://dbpedia.org/resource/Amateur_radio
-    @weight 0.5
+@id SndMJP6lajUcCRsh
+@title amateur radio
+@alias http://dbpedia.org/resource/Amateur_radio
+@created 1337401711393
+@weight 0.5

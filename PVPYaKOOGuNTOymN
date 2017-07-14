@@ -1,4 +1,5 @@
-* :PVPYaKOOGuNTOymN: tick
-    @created 1332996838649
-    @alias http://dbpedia.org/resource/Tick
-    @weight 0.5
+@id PVPYaKOOGuNTOymN
+@title tick
+@alias http://dbpedia.org/resource/Tick
+@created 1332996838649
+@weight 0.5

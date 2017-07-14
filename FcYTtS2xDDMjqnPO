@@ -1,4 +1,5 @@
-* :FcYTtS2xDDMjqnPO: daytime (astronomy)
-    @created 1351087921732
-    @alias http://dbpedia.org/resource/Daytime_(astronomy)
-    @weight 0.5
+@id FcYTtS2xDDMjqnPO
+@title daytime (astronomy)
+@alias http://dbpedia.org/resource/Daytime_(astronomy)
+@created 1351087921732
+@weight 0.5

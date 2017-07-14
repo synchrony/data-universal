@@ -1,5 +1,6 @@
-* :4ZebiEGC3ykLffvA: aquarium
-    @created 1495172655658
-    @alias http://dbpedia.org/resource/Aquarium
-    @weight 0.5
-    * :AdbNwMdAIa9EirQt: 
+@id 4ZebiEGC3ykLffvA
+@title aquarium
+@alias http://dbpedia.org/resource/Aquarium
+@created 1495172655658
+@weight 0.5
+* :AdbNwMdAIa9EirQt: 

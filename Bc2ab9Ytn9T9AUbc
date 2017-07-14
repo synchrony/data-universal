@@ -1,5 +1,6 @@
-* :Bc2ab9Ytn9T9AUbc: coconut
-    @created 1439995989662
-    @alias http://dbpedia.org/resource/Coconut
-    @weight 0.5
-    * :gSx5IdwvHxeVrjDm: 
+@id Bc2ab9Ytn9T9AUbc
+@title coconut
+@alias http://dbpedia.org/resource/Coconut
+@created 1439995989662
+@weight 0.5
+* :gSx5IdwvHxeVrjDm: 

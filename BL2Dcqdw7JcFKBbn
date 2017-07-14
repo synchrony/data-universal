@@ -1,5 +1,6 @@
-* :BL2Dcqdw7JcFKBbn: Systematized Nomenclature of Medicine
-    @created 1346524509380
-    @alias http://dbpedia.org/resource/Systematized_Nomenclature_of_Medicine
-    @weight 0.5
-    * :3vf3NGfWXlz1O82t: 
+@id BL2Dcqdw7JcFKBbn
+@title Systematized Nomenclature of Medicine
+@alias http://dbpedia.org/resource/Systematized_Nomenclature_of_Medicine
+@created 1346524509380
+@weight 0.5
+* :3vf3NGfWXlz1O82t: 

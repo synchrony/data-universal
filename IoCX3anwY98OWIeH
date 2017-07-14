@@ -1,6 +1,7 @@
-* :IoCX3anwY98OWIeH: loupe
-    @created 1342753427592
-    @alias http://dbpedia.org/resource/Loupe
-    @weight 0.5
-    * :4MdnwSZqyPgm7C3a: 
-    * :IJiQIPuz8WnQ792I: 
+@id IoCX3anwY98OWIeH
+@title loupe
+@alias http://dbpedia.org/resource/Loupe
+@created 1342753427592
+@weight 0.5
+* :4MdnwSZqyPgm7C3a: 
+* :IJiQIPuz8WnQ792I: 

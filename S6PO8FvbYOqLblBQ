@@ -1,5 +1,6 @@
-* :S6PO8FvbYOqLblBQ: pedometer
-    @created 1337740014338
-    @alias http://dbpedia.org/resource/Pedometer
-    @weight 0.5
-    * :Qb1vhZcJWW1L6kwC: 
+@id S6PO8FvbYOqLblBQ
+@title pedometer
+@alias http://dbpedia.org/resource/Pedometer
+@created 1337740014338
+@weight 0.5
+* :Qb1vhZcJWW1L6kwC: 

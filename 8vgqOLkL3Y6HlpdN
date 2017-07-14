@@ -1,4 +1,5 @@
-* :8vgqOLkL3Y6HlpdN: referent
-    @created 1433191363955
-    @alias http://dbpedia.org/resource/Referent
-    @weight 0.5
+@id 8vgqOLkL3Y6HlpdN
+@title referent
+@alias http://dbpedia.org/resource/Referent
+@created 1433191363955
+@weight 0.5

@@ -1,7 +1,8 @@
-* :f2hD76oqmrGi5cmD: Google X
-    @created 1381016422962
-    @alias http://dbpedia.org/resource/Google_X
-    @weight 0.5
-    * :NtFdzWGa52yh64XK: 
-    * :Ge7ksF5wd4R4LJDi: 
-    * :cD9ALb1SpOyI2WIY: 
+@id f2hD76oqmrGi5cmD
+@title Google X
+@alias http://dbpedia.org/resource/Google_X
+@created 1381016422962
+@weight 0.5
+* :NtFdzWGa52yh64XK: 
+* :Ge7ksF5wd4R4LJDi: 
+* :cD9ALb1SpOyI2WIY: 

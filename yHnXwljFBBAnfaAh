@@ -1,4 +1,5 @@
-* :yHnXwljFBBAnfaAh: motion sickness
-    @created 1360948063048
-    @alias http://dbpedia.org/resource/Motion_sickness
-    @weight 0.5
+@id yHnXwljFBBAnfaAh
+@title motion sickness
+@alias http://dbpedia.org/resource/Motion_sickness
+@created 1360948063048
+@weight 0.5

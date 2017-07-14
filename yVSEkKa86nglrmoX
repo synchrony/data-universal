@@ -1,5 +1,6 @@
-* :yVSEkKa86nglrmoX: ssh-keygen
-    @created 1342581004159
-    @alias http://dbpedia.org/resource/Ssh-keygen
-    @weight 0.75
-    * :fvWbhPWEtmiZiR7b: 
+@id yVSEkKa86nglrmoX
+@title ssh-keygen
+@alias http://dbpedia.org/resource/Ssh-keygen
+@created 1342581004159
+@weight 0.75
+* :fvWbhPWEtmiZiR7b: 

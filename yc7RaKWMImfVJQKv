@@ -1,4 +1,5 @@
-* :yc7RaKWMImfVJQKv: iodine
-    @created 1344309326544
-    @alias http://dbpedia.org/resource/Iodine
-    @weight 0.75
+@id yc7RaKWMImfVJQKv
+@title iodine
+@alias http://dbpedia.org/resource/Iodine
+@created 1344309326544
+@weight 0.75

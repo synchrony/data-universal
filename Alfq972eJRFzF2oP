@@ -1,6 +1,7 @@
-* :Alfq972eJRFzF2oP: self-hypnosis
-    @created 1432873487188
-    @alias http://dbpedia.org/resource/Self-hypnosis
-    @weight 0.5
-    @priority 0.25
-    * :LXgn5tSNyC7VPvJc: 
+@id Alfq972eJRFzF2oP
+@title self-hypnosis
+@alias http://dbpedia.org/resource/Self-hypnosis
+@created 1432873487188
+@weight 0.5
+@priority 0.25
+* :LXgn5tSNyC7VPvJc: 

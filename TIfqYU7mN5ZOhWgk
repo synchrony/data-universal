@@ -1,5 +1,6 @@
-* :TIfqYU7mN5ZOhWgk: butler
-    @created 1372372620712
-    @alias http://dbpedia.org/resource/Butler
-    @weight 0.5
-    * :2rc5s3pYVKx38Oke: 
+@id TIfqYU7mN5ZOhWgk
+@title butler
+@alias http://dbpedia.org/resource/Butler
+@created 1372372620712
+@weight 0.5
+* :2rc5s3pYVKx38Oke: 

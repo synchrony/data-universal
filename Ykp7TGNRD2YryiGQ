@@ -1,5 +1,6 @@
-* :Ykp7TGNRD2YryiGQ: OpenStreetMap
-    @created 1310277860637
-    @alias http://dbpedia.org/resource/OpenStreetMap
-    @weight 0.5
-    * :xEhU9xhdchcpMjX3: 
+@id Ykp7TGNRD2YryiGQ
+@title OpenStreetMap
+@alias http://dbpedia.org/resource/OpenStreetMap
+@created 1310277860637
+@weight 0.5
+* :xEhU9xhdchcpMjX3: 

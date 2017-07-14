@@ -1,6 +1,7 @@
-* :yl45L3hEl9zqDcUY: guitar
-    @created 1330377475235
-    @alias http://dbpedia.org/resource/Guitar
-    @weight 0.5
-    * :O9Bd12d82TIyR8ux: 
-    * :9gjO3lSNBaggpa3n: 
+@id yl45L3hEl9zqDcUY
+@title guitar
+@alias http://dbpedia.org/resource/Guitar
+@created 1330377475235
+@weight 0.5
+* :O9Bd12d82TIyR8ux: 
+* :9gjO3lSNBaggpa3n: 

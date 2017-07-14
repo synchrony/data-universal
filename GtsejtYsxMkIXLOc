@@ -1,4 +1,5 @@
-* :GtsejtYsxMkIXLOc: Pythagorean theorem
-    @created 1353641064880
-    @alias http://dbpedia.org/resource/Pythagorean_theorem
-    @weight 0.5
+@id GtsejtYsxMkIXLOc
+@title Pythagorean theorem
+@alias http://dbpedia.org/resource/Pythagorean_theorem
+@created 1353641064880
+@weight 0.5

@@ -1,6 +1,7 @@
-* :yqSLfKBCzMCbFvjQ: ELIZA effect
-    @created 1374001034906
-    @alias http://dbpedia.org/resource/ELIZA_effect
-    @weight 0.5
-    * :g2XW2fsa2FFAhSJK: 
-    * :CXRp9rrPsgXXhctG: 
+@id yqSLfKBCzMCbFvjQ
+@title ELIZA effect
+@alias http://dbpedia.org/resource/ELIZA_effect
+@created 1374001034906
+@weight 0.5
+* :g2XW2fsa2FFAhSJK: 
+* :CXRp9rrPsgXXhctG: 

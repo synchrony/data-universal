@@ -1,7 +1,8 @@
-* :DfMQgGu7wZdMrNqf: paternity fraud
-    @created 1433613151367
-    @alias http://dbpedia.org/resource/Paternity_fraud
-    @weight 0.5
-    * :FrSecVjS11jGEtv0: 
-    * :ifdYgJSbDHg4oY9u: 
-    * :ON5DGH70JyJ1QuHV: 
+@id DfMQgGu7wZdMrNqf
+@title paternity fraud
+@alias http://dbpedia.org/resource/Paternity_fraud
+@created 1433613151367
+@weight 0.5
+* :FrSecVjS11jGEtv0: 
+* :ifdYgJSbDHg4oY9u: 
+* :ON5DGH70JyJ1QuHV: 

@@ -1,5 +1,6 @@
-* :SarEpFmxywmpaAKr: aberration
-    @created 1310545726465
-    @alias http://dbpedia.org/resource/Aberration
-    @weight 0.5
-    * :HZ8t8MlBdOK91LqU: 
+@id SarEpFmxywmpaAKr
+@title aberration
+@alias http://dbpedia.org/resource/Aberration
+@created 1310545726465
+@weight 0.5
+* :HZ8t8MlBdOK91LqU: 

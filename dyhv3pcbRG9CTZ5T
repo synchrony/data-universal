@@ -1,4 +1,5 @@
-* :dyhv3pcbRG9CTZ5T: home server
-    @created 1332895588630
-    @alias http://dbpedia.org/resource/Home_server
-    @weight 0.5
+@id dyhv3pcbRG9CTZ5T
+@title home server
+@alias http://dbpedia.org/resource/Home_server
+@created 1332895588630
+@weight 0.5

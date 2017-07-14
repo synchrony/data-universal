@@ -1,6 +1,7 @@
-* :EtRd1yLFyWpQQ6sQ: auditory display
-    @created 1447119562248
-    @alias http://dbpedia.org/resource/Auditory_display
-    @weight 0.75
-    * :A6Uuf4DFn4YiDYYm: 
-    * :zKkT10GXnOIHzM0x: 
+@id EtRd1yLFyWpQQ6sQ
+@title auditory display
+@alias http://dbpedia.org/resource/Auditory_display
+@created 1447119562248
+@weight 0.75
+* :A6Uuf4DFn4YiDYYm: 
+* :zKkT10GXnOIHzM0x: 

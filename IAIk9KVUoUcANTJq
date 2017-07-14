@@ -1,5 +1,6 @@
-* :IAIk9KVUoUcANTJq: hygrometer
-    @created 1338487318783
-    @alias http://dbpedia.org/resource/Hygrometer
-    @weight 0.75
-    * :UU5MWZfMAag3oSTd: 
+@id IAIk9KVUoUcANTJq
+@title hygrometer
+@alias http://dbpedia.org/resource/Hygrometer
+@created 1338487318783
+@weight 0.75
+* :UU5MWZfMAag3oSTd: 

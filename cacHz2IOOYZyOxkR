@@ -1,5 +1,6 @@
-* :cacHz2IOOYZyOxkR: game
-    @created 1381300034032
-    @alias http://dbpedia.org/resource/Game
-    @weight 0.5
-    * :QydsT7ngZ8HaWVJ3: 
+@id cacHz2IOOYZyOxkR
+@title game
+@alias http://dbpedia.org/resource/Game
+@created 1381300034032
+@weight 0.5
+* :QydsT7ngZ8HaWVJ3: 

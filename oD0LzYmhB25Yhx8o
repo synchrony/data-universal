@@ -1,6 +1,7 @@
-* :oD0LzYmhB25Yhx8o: libvirt
-    @created 1438988993395
-    @alias http://dbpedia.org/resource/Libvirt
-    @weight 0.5
-    * :DKhKZWmcW319jMTN: 
-    * :L4oxK7rNXRhcQ5zp: 
+@id oD0LzYmhB25Yhx8o
+@title libvirt
+@alias http://dbpedia.org/resource/Libvirt
+@created 1438988993395
+@weight 0.5
+* :DKhKZWmcW319jMTN: 
+* :L4oxK7rNXRhcQ5zp: 

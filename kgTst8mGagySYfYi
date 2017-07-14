@@ -1,3 +1,4 @@
-* :kgTst8mGagySYfYi: "The name of a class should describe what responsibilities it fulfills. In fact, naming is probably the first way of helping determine class size. If we cannot derive a concise name for a class, then it’s likely too large."
-    @created 1473224557348
-    @weight 0.5
+@id kgTst8mGagySYfYi
+@title "The name of a class should describe what responsibilities it fulfills. In fact, naming is probably the first way of helping determine class size. If we cannot derive a concise name for a class, then it’s likely too large."
+@created 1473224557348
+@weight 0.5

@@ -1,6 +1,7 @@
-* :eZlQ6NNh17KnZuGg: neocortex
-    @created 1312617624856
-    @alias http://dbpedia.org/resource/Neocortex
-    @weight 0.5
-    * :PFTTmGHR9hdbWPlP: 
-    * :4600a5TZofIPacSY: 
+@id eZlQ6NNh17KnZuGg
+@title neocortex
+@alias http://dbpedia.org/resource/Neocortex
+@created 1312617624856
+@weight 0.5
+* :PFTTmGHR9hdbWPlP: 
+* :4600a5TZofIPacSY: 

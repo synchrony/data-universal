@@ -1,8 +1,9 @@
-* :DgKEPlwUjVv0SN6b: greed =? excessive accumulation
-    @created 1408332621823
-    @alias http://dbpedia.org/resource/Greed
-    @weight 0.5
-    * :ExMiAdBrQSEIEYgi: 
-    * :xhaDCsSnx72YwXSS: 
-    * :MiVYu0BuK68zbJVc: 
-    * :FHtJGBhihvm9U0Ff: 
+@id DgKEPlwUjVv0SN6b
+@title greed =? excessive accumulation
+@alias http://dbpedia.org/resource/Greed
+@created 1408332621823
+@weight 0.5
+* :ExMiAdBrQSEIEYgi: 
+* :xhaDCsSnx72YwXSS: 
+* :MiVYu0BuK68zbJVc: 
+* :FHtJGBhihvm9U0Ff: 

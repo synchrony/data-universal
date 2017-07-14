@@ -1,10 +1,11 @@
-* :OuXXzD6DDNMxgScF: The Art of Computer Programming
-    @created 1445144401621
-    @alias http://dbpedia.org/resource/The_Art_of_Computer_Programming
-    @weight 0.75
-    * :rLtqkEw8lpiTSdE8: 
-    * :dNe8t2Byh5A7eRjt: 
-    * :hDb6Vweq91Gt2sAo: 
-    * :xoFrcu3uhaVapJrx: 
-    * :IakCkD0jNviMG3AA: 
-    * :AJRPBDohqC0OZ9t6: 
+@id OuXXzD6DDNMxgScF
+@title The Art of Computer Programming
+@alias http://dbpedia.org/resource/The_Art_of_Computer_Programming
+@created 1445144401621
+@weight 0.75
+* :rLtqkEw8lpiTSdE8: 
+* :dNe8t2Byh5A7eRjt: 
+* :hDb6Vweq91Gt2sAo: 
+* :xoFrcu3uhaVapJrx: 
+* :IakCkD0jNviMG3AA: 
+* :AJRPBDohqC0OZ9t6: 

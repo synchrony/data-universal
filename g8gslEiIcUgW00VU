@@ -1,4 +1,5 @@
-* :g8gslEiIcUgW00VU: Vancouver
-    @created 1361166908144
-    @alias http://dbpedia.org/resource/Vancouver
-    @weight 0.5
+@id g8gslEiIcUgW00VU
+@title Vancouver
+@alias http://dbpedia.org/resource/Vancouver
+@created 1361166908144
+@weight 0.5

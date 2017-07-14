@@ -1,4 +1,5 @@
-* :cPPS0Ug5qxJ5n9Nw: green
-    @created 1464919974919
-    @alias http://dbpedia.org/resource/Green
-    @weight 0.5
+@id cPPS0Ug5qxJ5n9Nw
+@title green
+@alias http://dbpedia.org/resource/Green
+@created 1464919974919
+@weight 0.5

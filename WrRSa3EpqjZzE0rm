@@ -1,5 +1,6 @@
-* :WrRSa3EpqjZzE0rm: logical disjunction
-    @created 1316491712189
-    @alias http://dbpedia.org/resource/Logical_disjunction
-    @weight 0.5
-    * :HnvHCXryOl3sd4GR: 
+@id WrRSa3EpqjZzE0rm
+@title logical disjunction
+@alias http://dbpedia.org/resource/Logical_disjunction
+@created 1316491712189
+@weight 0.5
+* :HnvHCXryOl3sd4GR: 

@@ -1,5 +1,6 @@
-* :5QjZLkWap6CZpUK7: network tap
-    @created 1452111130255
-    @alias http://dbpedia.org/resource/Network_tap
-    @weight 0.5
-    * :JBFjOd1fB7oKCs5Z: 
+@id 5QjZLkWap6CZpUK7
+@title network tap
+@alias http://dbpedia.org/resource/Network_tap
+@created 1452111130255
+@weight 0.5
+* :JBFjOd1fB7oKCs5Z: 

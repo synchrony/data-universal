@@ -1,4 +1,5 @@
-* :QEqDaCEsHwFZz7dO: Vatican City
-    @created 1470039572873
-    @alias http://dbpedia.org/resource/Vatican_City
-    @weight 0.5
+@id QEqDaCEsHwFZz7dO
+@title Vatican City
+@alias http://dbpedia.org/resource/Vatican_City
+@created 1470039572873
+@weight 0.5

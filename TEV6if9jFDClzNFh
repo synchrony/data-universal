@@ -1,7 +1,8 @@
-* :TEV6if9jFDClzNFh: Ubu Roi
-    @created 1309272377723
-    @alias http://dbpedia.org/resource/Ubu_Roi
-    @weight 0.75
-    * :BwHw8zqHGMZvjV6n: 
-    * :fVZHTzaVVNCUBG8t: 
-    * :xy7ol8Rp6Ia1cul8: 
+@id TEV6if9jFDClzNFh
+@title Ubu Roi
+@alias http://dbpedia.org/resource/Ubu_Roi
+@created 1309272377723
+@weight 0.75
+* :BwHw8zqHGMZvjV6n: 
+* :fVZHTzaVVNCUBG8t: 
+* :xy7ol8Rp6Ia1cul8: 

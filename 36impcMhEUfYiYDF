@@ -1,6 +1,7 @@
-* :36impcMhEUfYiYDF: Galaxy Zoo
-    @created 1310231362413
-    @alias http://dbpedia.org/resource/Galaxy_Zoo
-    @weight 0.5
-    * :0Rpy4kTeI950AZr1: 
-    * :50wqlh1ux73mJpRG: 
+@id 36impcMhEUfYiYDF
+@title Galaxy Zoo
+@alias http://dbpedia.org/resource/Galaxy_Zoo
+@created 1310231362413
+@weight 0.5
+* :0Rpy4kTeI950AZr1: 
+* :50wqlh1ux73mJpRG: 

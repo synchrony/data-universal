@@ -1,6 +1,7 @@
-* :KA4Qdr0Cd8WzkXM7: solenoid
-    @created 1350703481595
-    @alias http://dbpedia.org/resource/Solenoid
-    @weight 0.5
-    * :W8uTnQ2a6GMUp6jY: 
-    * :EwS1BgbX9k7CwF0L: 
+@id KA4Qdr0Cd8WzkXM7
+@title solenoid
+@alias http://dbpedia.org/resource/Solenoid
+@created 1350703481595
+@weight 0.5
+* :W8uTnQ2a6GMUp6jY: 
+* :EwS1BgbX9k7CwF0L: 

@@ -1,7 +1,8 @@
-* :yhZbBisXJ5cwm3Nq: afterimage
-    @created 1453367661268
-    @alias http://dbpedia.org/resource/Afterimage
-    @weight 0.5
-    * :R7KYIUmY0Sc9IEu0: 
-    * :33mf1N9UZbnm6EOm: 
-    * :YdY4odx0lP8fiq2f: 
+@id yhZbBisXJ5cwm3Nq
+@title afterimage
+@alias http://dbpedia.org/resource/Afterimage
+@created 1453367661268
+@weight 0.5
+* :R7KYIUmY0Sc9IEu0: 
+* :33mf1N9UZbnm6EOm: 
+* :YdY4odx0lP8fiq2f: 

@@ -1,4 +1,5 @@
-* :1eI5Y9pWudoSJm9U: The Jetsons
-    @created 1316408831674
-    @alias http://dbpedia.org/resource/The_Jetsons
-    @weight 0.75
+@id 1eI5Y9pWudoSJm9U
+@title The Jetsons
+@alias http://dbpedia.org/resource/The_Jetsons
+@created 1316408831674
+@weight 0.75

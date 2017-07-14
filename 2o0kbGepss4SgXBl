@@ -1,7 +1,8 @@
-* :2o0kbGepss4SgXBl: Google Chrome
-    @created 1336747625194
-    @alias http://dbpedia.org/resource/Google_Chrome
-    @weight 0.75
-    * :wuVvrWJgYwvLcqe9: 
-    * :RQyEJNfpwEZm2p7r: 
-    * :lIhjVRm0KuFoXF3E: 
+@id 2o0kbGepss4SgXBl
+@title Google Chrome
+@alias http://dbpedia.org/resource/Google_Chrome
+@created 1336747625194
+@weight 0.75
+* :wuVvrWJgYwvLcqe9: 
+* :RQyEJNfpwEZm2p7r: 
+* :lIhjVRm0KuFoXF3E: 

@@ -1,4 +1,5 @@
-* :NOMeWAshWj1tSF49: interlibrary loan
-    @created 1451415401865
-    @alias http://dbpedia.org/resource/Interlibrary_loan
-    @weight 0.5
+@id NOMeWAshWj1tSF49
+@title interlibrary loan
+@alias http://dbpedia.org/resource/Interlibrary_loan
+@created 1451415401865
+@weight 0.5

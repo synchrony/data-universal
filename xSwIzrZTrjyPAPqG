@@ -1,4 +1,5 @@
-* :xSwIzrZTrjyPAPqG: Robin Hood
-    @created 1413171353693
-    @alias http://dbpedia.org/resource/Robin_Hood
-    @weight 0.5
+@id xSwIzrZTrjyPAPqG
+@title Robin Hood
+@alias http://dbpedia.org/resource/Robin_Hood
+@created 1413171353693
+@weight 0.5

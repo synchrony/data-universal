@@ -1,7 +1,8 @@
-* :OUqygi9WPeSOatek: cashew
-    @created 1416060249094
-    @alias http://dbpedia.org/resource/Cashew
-    @weight 0.5
-    * :cVjTGRKoFQ5lIJKQ: 
-    * :pA3W20IBgb4Y48IN: 
-    * :Mf9tJrcprcRxFdgt: 
+@id OUqygi9WPeSOatek
+@title cashew
+@alias http://dbpedia.org/resource/Cashew
+@created 1416060249094
+@weight 0.5
+* :cVjTGRKoFQ5lIJKQ: 
+* :pA3W20IBgb4Y48IN: 
+* :Mf9tJrcprcRxFdgt: 

@@ -1,4 +1,5 @@
-* :oKoNxerlFtFFkApf: hi-hat
-    @created 1332625514581
-    @alias http://dbpedia.org/resource/Hi-hat
-    @weight 0.5
+@id oKoNxerlFtFFkApf
+@title hi-hat
+@alias http://dbpedia.org/resource/Hi-hat
+@created 1332625514581
+@weight 0.5

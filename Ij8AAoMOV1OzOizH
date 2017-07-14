@@ -1,9 +1,10 @@
-* :Ij8AAoMOV1OzOizH: Parvati
-    @created 1367131016786
-    @alias http://dbpedia.org/resource/Parvati
-    @weight 0.5
-    * :92Skb1gMQEasSF0c: 
-    * :lG8amuHkjsdhdSnG: 
-    * :fdT4jqIepDJpb7Zw: 
-    * :3vILfTVtiAwgfBEm: 
-    * :HKqiX0EHcgF6lBy8: 
+@id Ij8AAoMOV1OzOizH
+@title Parvati
+@alias http://dbpedia.org/resource/Parvati
+@created 1367131016786
+@weight 0.5
+* :92Skb1gMQEasSF0c: 
+* :lG8amuHkjsdhdSnG: 
+* :fdT4jqIepDJpb7Zw: 
+* :3vILfTVtiAwgfBEm: 
+* :HKqiX0EHcgF6lBy8: 

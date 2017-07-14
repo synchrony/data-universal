@@ -1,5 +1,6 @@
-* :GdmTEE0ZroBM3HnS: organic food
-    @created 1454435899956
-    @alias http://dbpedia.org/resource/Organic_food
-    @weight 0.5
-    * :Z9M6Pr2YMywjxpkW: 
+@id GdmTEE0ZroBM3HnS
+@title organic food
+@alias http://dbpedia.org/resource/Organic_food
+@created 1454435899956
+@weight 0.5
+* :Z9M6Pr2YMywjxpkW: 

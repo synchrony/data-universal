@@ -1,4 +1,5 @@
-* :WRZ4VyLDkpXquPQ1: roentgenium
-    @created 1347304602080
-    @alias http://dbpedia.org/resource/Roentgenium
-    @weight 0.5
+@id WRZ4VyLDkpXquPQ1
+@title roentgenium
+@alias http://dbpedia.org/resource/Roentgenium
+@created 1347304602080
+@weight 0.5

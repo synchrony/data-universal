@@ -1,7 +1,8 @@
-* :qwjgkzGfsxTIQ9og: join-pattern
-    @created 1381000503623
-    @alias http://dbpedia.org/resource/Join-pattern
-    @weight 0.5
-    * :9jfGaOnx9TjViX8W: 
-    * :YRZulcxv2vTJhAvn: 
-    * :byXZJtyoIlojzqw2: 
+@id qwjgkzGfsxTIQ9og
+@title join-pattern
+@alias http://dbpedia.org/resource/Join-pattern
+@created 1381000503623
+@weight 0.5
+* :9jfGaOnx9TjViX8W: 
+* :YRZulcxv2vTJhAvn: 
+* :byXZJtyoIlojzqw2: 

@@ -1,9 +1,10 @@
-* :48dCUGfCfaBTgN0E: General formal ontology
-    @created 1330151198108
-    @alias http://dbpedia.org/resource/General_formal_ontology
-    @weight 0.5
-    * :Oqu4XKeuh30tHshZ: 
-    * :NaCvOgg7dT5Os0I7: 
-    * :NLyLHCzFJPMfEykQ: 
-    * :0aXqBosntNeVSWQv: 
-    * :Lfr7KkjUicbzT8CQ: 
+@id 48dCUGfCfaBTgN0E
+@title General formal ontology
+@alias http://dbpedia.org/resource/General_formal_ontology
+@created 1330151198108
+@weight 0.5
+* :Oqu4XKeuh30tHshZ: 
+* :NaCvOgg7dT5Os0I7: 
+* :NLyLHCzFJPMfEykQ: 
+* :0aXqBosntNeVSWQv: 
+* :Lfr7KkjUicbzT8CQ: 

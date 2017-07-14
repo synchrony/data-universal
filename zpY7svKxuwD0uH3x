@@ -1,4 +1,5 @@
-* :zpY7svKxuwD0uH3x: Australia (continent)
-    @created 1388639673937
-    @alias http://dbpedia.org/resource/Australia_(continent)
-    @weight 0.5
+@id zpY7svKxuwD0uH3x
+@title Australia (continent)
+@alias http://dbpedia.org/resource/Australia_(continent)
+@created 1388639673937
+@weight 0.5

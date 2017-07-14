@@ -1,6 +1,7 @@
-* :PoUt8cDRaHlflZU1: Unix time
-    @created 1449539649704
-    @alias http://dbpedia.org/resource/Unix_time
-    @weight 0.5
-    * :45PopDmKzmAMBnWw: 
-    * :AnTbGjQeBR0zObb7: 
+@id PoUt8cDRaHlflZU1
+@title Unix time
+@alias http://dbpedia.org/resource/Unix_time
+@created 1449539649704
+@weight 0.5
+* :45PopDmKzmAMBnWw: 
+* :AnTbGjQeBR0zObb7: 

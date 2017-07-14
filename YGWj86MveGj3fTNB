@@ -1,11 +1,12 @@
-* :YGWj86MveGj3fTNB: psychology
-    @created 1433364909404
-    @alias http://dbpedia.org/resource/Psychology
-    @weight 0.5
-    * :vDRxFn7uKYRxw0hs: 
-    * :gtmostUTMRIkLEtW: 
-    * :gjXivqB41I1iMvbw: 
-    * :rDYedhMGp6Nr8IYG: 
-    * :UFJgRDMZdcHfhGq2: 
-    * :6BqzlvNu2vKiiepW: 
-    * :7Yzq3kFvpgbb6ASA: 
+@id YGWj86MveGj3fTNB
+@title psychology
+@alias http://dbpedia.org/resource/Psychology
+@created 1433364909404
+@weight 0.5
+* :vDRxFn7uKYRxw0hs: 
+* :gtmostUTMRIkLEtW: 
+* :gjXivqB41I1iMvbw: 
+* :rDYedhMGp6Nr8IYG: 
+* :UFJgRDMZdcHfhGq2: 
+* :6BqzlvNu2vKiiepW: 
+* :7Yzq3kFvpgbb6ASA: 

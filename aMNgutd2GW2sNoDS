@@ -1,4 +1,5 @@
-* :aMNgutd2GW2sNoDS: insect
-    @created 1464923786110
-    @alias http://dbpedia.org/resource/Insect
-    @weight 0.5
+@id aMNgutd2GW2sNoDS
+@title insect
+@alias http://dbpedia.org/resource/Insect
+@created 1464923786110
+@weight 0.5

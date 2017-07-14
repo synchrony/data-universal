@@ -1,6 +1,7 @@
-* :I9a9OxMjWqwrkVYQ: sequence database
-    @created 1351740872014
-    @alias http://dbpedia.org/resource/Sequence_database
-    @weight 0.5
-    * :5wN2X5Hjq2x6a34B: 
-    * :p97DBag1jbwRib3M: 
+@id I9a9OxMjWqwrkVYQ
+@title sequence database
+@alias http://dbpedia.org/resource/Sequence_database
+@created 1351740872014
+@weight 0.5
+* :5wN2X5Hjq2x6a34B: 
+* :p97DBag1jbwRib3M: 

@@ -1,4 +1,5 @@
-* :PjUF5dxuqnxgE1PO: slow cinema
-    @created 1341880250368
-    @alias http://dbpedia.org/resource/Slow_cinema
-    @weight 0.5
+@id PjUF5dxuqnxgE1PO
+@title slow cinema
+@alias http://dbpedia.org/resource/Slow_cinema
+@created 1341880250368
+@weight 0.5

@@ -1,7 +1,8 @@
-* :6BN67KhA8AOPJYKJ: boredom
-    @created 1346165211696
-    @alias http://dbpedia.org/resource/Boredom
-    @weight 0.5
-    * :bZ5eDfqtD7MzU7My: 
-    * :9GuzYLJNXfVQLP8V: 
-    * :Aa4edoFpyX4tslvJ: 
+@id 6BN67KhA8AOPJYKJ
+@title boredom
+@alias http://dbpedia.org/resource/Boredom
+@created 1346165211696
+@weight 0.5
+* :bZ5eDfqtD7MzU7My: 
+* :9GuzYLJNXfVQLP8V: 
+* :Aa4edoFpyX4tslvJ: 

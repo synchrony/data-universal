@@ -1,4 +1,5 @@
-* :QqPa5wQHq4yB22xR: University of Haifa
-    @created 1349985385765
-    @alias http://dbpedia.org/resource/University_of_Haifa
-    @weight 0.5
+@id QqPa5wQHq4yB22xR
+@title University of Haifa
+@alias http://dbpedia.org/resource/University_of_Haifa
+@created 1349985385765
+@weight 0.5

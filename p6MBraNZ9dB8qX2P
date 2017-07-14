@@ -1,12 +1,13 @@
-* :p6MBraNZ9dB8qX2P: NP-complete
-    @created 1364620829012
-    @alias http://dbpedia.org/resource/NP-complete
-    @weight 0.75
-    * :7VkbnnV9tF2zSxb2: 
-    * :af9KfbLHpe2otTUj: 
-    * :X1qb1vu1VRHRxLQW: 
-    * :E0KgunNXitOkyk14: 
-    * :JdD5FiuzzpBGujeQ: 
-    * :gVh16HRmDqFK7ZWO: 
-    * :KRsK4Lq9IRnWfaqn: 
-    * :eB3guy24DpxBDQwr: 
+@id p6MBraNZ9dB8qX2P
+@title NP-complete
+@alias http://dbpedia.org/resource/NP-complete
+@created 1364620829012
+@weight 0.75
+* :7VkbnnV9tF2zSxb2: 
+* :af9KfbLHpe2otTUj: 
+* :X1qb1vu1VRHRxLQW: 
+* :E0KgunNXitOkyk14: 
+* :JdD5FiuzzpBGujeQ: 
+* :gVh16HRmDqFK7ZWO: 
+* :KRsK4Lq9IRnWfaqn: 
+* :eB3guy24DpxBDQwr: 

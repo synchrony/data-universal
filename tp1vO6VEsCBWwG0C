@@ -1,7 +1,8 @@
-* :tp1vO6VEsCBWwG0C: formant
-    @created 1450581209677
-    @alias http://dbpedia.org/resource/Formant
-    @weight 0.5
-    * :nSWmrv9nohjv8XTR: 
-    * :xiZJSBV3QOANmoDF: 
-    * :pF674CqHKkRfT8WY: 
+@id tp1vO6VEsCBWwG0C
+@title formant
+@alias http://dbpedia.org/resource/Formant
+@created 1450581209677
+@weight 0.5
+* :nSWmrv9nohjv8XTR: 
+* :xiZJSBV3QOANmoDF: 
+* :pF674CqHKkRfT8WY: 

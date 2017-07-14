@@ -1,9 +1,10 @@
-* :rZSWqkyoEsfiRPKB: docosahexaenoic acid
-    @created 1429472129580
-    @alias http://dbpedia.org/resource/Docosahexaenoic_acid
-    @weight 0.5
-    * :gUYzscPqtvo5ahVe: 
-    * :kZ765mBzLmnZnc8z: 
-    * :nO0yGIOhqIusjxnZ: 
-    * :2KKxX0CkFZjuJHcA: 
-    * :4mc0qfYoUxAMVFdf: 
+@id rZSWqkyoEsfiRPKB
+@title docosahexaenoic acid
+@alias http://dbpedia.org/resource/Docosahexaenoic_acid
+@created 1429472129580
+@weight 0.5
+* :gUYzscPqtvo5ahVe: 
+* :kZ765mBzLmnZnc8z: 
+* :nO0yGIOhqIusjxnZ: 
+* :2KKxX0CkFZjuJHcA: 
+* :4mc0qfYoUxAMVFdf: 

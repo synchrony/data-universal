@@ -1,5 +1,6 @@
-* :WWPFGV5w1whdfKGG: Mars
-    @created 1342062615309
-    @alias http://dbpedia.org/resource/Mars
-    @weight 0.5
-    * :mGBADsfz2yDubKBA: 
+@id WWPFGV5w1whdfKGG
+@title Mars
+@alias http://dbpedia.org/resource/Mars
+@created 1342062615309
+@weight 0.5
+* :mGBADsfz2yDubKBA: 

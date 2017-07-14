@@ -1,4 +1,5 @@
-* :hsHBc1H39kCFfQfx: Cornell University
-    @created 1352407839390
-    @alias http://dbpedia.org/resource/Cornell_University
-    @weight 0.5
+@id hsHBc1H39kCFfQfx
+@title Cornell University
+@alias http://dbpedia.org/resource/Cornell_University
+@created 1352407839390
+@weight 0.5

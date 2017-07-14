@@ -1,6 +1,7 @@
-* :UFJgRDMZdcHfhGq2: values scale
-    @created 1451530640922
-    @alias http://dbpedia.org/resource/Values_scale
-    @weight 0.5
-    * :AY545SYg9ZnBQWPv: 
-    * :Qmele4zFHRHiLK8b: 
+@id UFJgRDMZdcHfhGq2
+@title values scale
+@alias http://dbpedia.org/resource/Values_scale
+@created 1451530640922
+@weight 0.5
+* :AY545SYg9ZnBQWPv: 
+* :Qmele4zFHRHiLK8b: 

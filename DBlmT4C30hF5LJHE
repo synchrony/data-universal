@@ -1,6 +1,7 @@
-* :DBlmT4C30hF5LJHE: brain-computer interface
-    @created 1336802474492
-    @alias http://dbpedia.org/resource/Brain-computer_interface
-    @weight 0.5
-    * :2PIUlh7ugKBPoV4L: 
-    * :1ztb8VhqHm2fM3uc: 
+@id DBlmT4C30hF5LJHE
+@title brain-computer interface
+@alias http://dbpedia.org/resource/Brain-computer_interface
+@created 1336802474492
+@weight 0.5
+* :2PIUlh7ugKBPoV4L: 
+* :1ztb8VhqHm2fM3uc: 

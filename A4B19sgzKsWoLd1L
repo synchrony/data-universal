@@ -1,5 +1,6 @@
-* :A4B19sgzKsWoLd1L: vegetable
-    @created 1416063678011
-    @alias http://dbpedia.org/resource/Vegetable
-    @weight 0.5
-    * :978eyd3ZHo2pvt4t: 
+@id A4B19sgzKsWoLd1L
+@title vegetable
+@alias http://dbpedia.org/resource/Vegetable
+@created 1416063678011
+@weight 0.5
+* :978eyd3ZHo2pvt4t: 

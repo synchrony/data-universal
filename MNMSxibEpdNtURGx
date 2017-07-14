@@ -1,4 +1,5 @@
-* :MNMSxibEpdNtURGx: afternoon
-    @created 1351088121324
-    @alias http://dbpedia.org/resource/Afternoon
-    @weight 0.5
+@id MNMSxibEpdNtURGx
+@title afternoon
+@alias http://dbpedia.org/resource/Afternoon
+@created 1351088121324
+@weight 0.5

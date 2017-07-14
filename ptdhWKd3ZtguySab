@@ -1,7 +1,8 @@
-* :ptdhWKd3ZtguySab: Ge Wang
-    @created 1452799301326
-    @alias http://dbpedia.org/resource/Ge_Wang
-    @weight 0.5
-    * :gtXl2jmlYKj4NUOX: 
-    * :ILpbeT8fH8zR2pPO: 
-    * :wmgvwOBE3e1oJBWY: 
+@id ptdhWKd3ZtguySab
+@title Ge Wang
+@alias http://dbpedia.org/resource/Ge_Wang
+@created 1452799301326
+@weight 0.5
+* :gtXl2jmlYKj4NUOX: 
+* :ILpbeT8fH8zR2pPO: 
+* :wmgvwOBE3e1oJBWY: 

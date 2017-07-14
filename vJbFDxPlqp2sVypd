@@ -1,5 +1,6 @@
-* :vJbFDxPlqp2sVypd: CN Tower
-    @created 1383450911471
-    @alias http://dbpedia.org/resource/CN_Tower
-    @weight 0.5
-    * :JVTUmuaoH78K1bzP: 
+@id vJbFDxPlqp2sVypd
+@title CN Tower
+@alias http://dbpedia.org/resource/CN_Tower
+@created 1383450911471
+@weight 0.5
+* :JVTUmuaoH78K1bzP: 

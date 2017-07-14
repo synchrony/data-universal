@@ -1,5 +1,6 @@
-* :VRyMP8fg7lnwrFtV: pressure
-    @created 1420053474191
-    @alias http://dbpedia.org/resource/Pressure
-    @weight 0.5
-    * :bc20Rd4FiNWHbJJU: 
+@id VRyMP8fg7lnwrFtV
+@title pressure
+@alias http://dbpedia.org/resource/Pressure
+@created 1420053474191
+@weight 0.5
+* :bc20Rd4FiNWHbJJU: 

@@ -1,5 +1,6 @@
-* :GJM0tZbWJFnbQWTU: least publishable unit
-    @created 1310235698347
-    @alias http://dbpedia.org/resource/Least_publishable_unit
-    @weight 0.5
-    * :19zQGSpFzXsZF6ov: 
+@id GJM0tZbWJFnbQWTU
+@title least publishable unit
+@alias http://dbpedia.org/resource/Least_publishable_unit
+@created 1310235698347
+@weight 0.5
+* :19zQGSpFzXsZF6ov: 

@@ -1,6 +1,7 @@
-* :b2lRXtRckVzM4uHF: human self-reflection
-    @created 1370030717396
-    @alias http://dbpedia.org/resource/Human_self-reflection
-    @weight 0.5
-    * :vYQxsvtdJHyaufuv: 
-    * :InNTUKU8Xu0mGqTE: 
+@id b2lRXtRckVzM4uHF
+@title human self-reflection
+@alias http://dbpedia.org/resource/Human_self-reflection
+@created 1370030717396
+@weight 0.5
+* :vYQxsvtdJHyaufuv: 
+* :InNTUKU8Xu0mGqTE: 

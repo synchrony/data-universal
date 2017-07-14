@@ -1,4 +1,5 @@
-* :zuZcqu6AIl1esOkx: precipitation
-    @created 1481907537030
-    @alias http://dbpedia.org/resource/Precipitation
-    @weight 0.5
+@id zuZcqu6AIl1esOkx
+@title precipitation
+@alias http://dbpedia.org/resource/Precipitation
+@created 1481907537030
+@weight 0.5

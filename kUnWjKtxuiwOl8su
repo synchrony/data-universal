@@ -1,3 +1,4 @@
-* :kUnWjKtxuiwOl8su: "If a function is going to transform its input argument, the transformation should appear as the return value."
-    @created 1467095444545
-    @weight 0.5
+@id kUnWjKtxuiwOl8su
+@title "If a function is going to transform its input argument, the transformation should appear as the return value."
+@created 1467095444545
+@weight 0.5

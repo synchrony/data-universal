@@ -1,4 +1,5 @@
-* :cl7yFWIjJ69T7GOa: spider web
-    @created 1350136818418
-    @alias http://dbpedia.org/resource/Spider_web
-    @weight 0.5
+@id cl7yFWIjJ69T7GOa
+@title spider web
+@alias http://dbpedia.org/resource/Spider_web
+@created 1350136818418
+@weight 0.5

@@ -1,5 +1,6 @@
-* :E11jTsfGiOP1GZYa: tetracycline
-    @created 1315270804513
-    @alias http://dbpedia.org/resource/Tetracycline
-    @weight 0.5
-    * :MvdVlA56qv82X34N: 
+@id E11jTsfGiOP1GZYa
+@title tetracycline
+@alias http://dbpedia.org/resource/Tetracycline
+@created 1315270804513
+@weight 0.5
+* :MvdVlA56qv82X34N: 

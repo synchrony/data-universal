@@ -1,5 +1,6 @@
-* :Wv2SbYyrPODFTP72: cheese
-    @created 1326209722489
-    @alias http://dbpedia.org/resource/Cheese
-    @weight 0.75
-    * :WGwfs3D70zKP82Fl: 
+@id Wv2SbYyrPODFTP72
+@title cheese
+@alias http://dbpedia.org/resource/Cheese
+@created 1326209722489
+@weight 0.75
+* :WGwfs3D70zKP82Fl: 

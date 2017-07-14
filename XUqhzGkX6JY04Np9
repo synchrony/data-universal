@@ -1,4 +1,5 @@
-* :XUqhzGkX6JY04Np9: cactus
-    @created 1339566058206
-    @alias http://dbpedia.org/resource/Cactus
-    @weight 0.5
+@id XUqhzGkX6JY04Np9
+@title cactus
+@alias http://dbpedia.org/resource/Cactus
+@created 1339566058206
+@weight 0.5

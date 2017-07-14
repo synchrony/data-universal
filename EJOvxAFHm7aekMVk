@@ -1,4 +1,5 @@
-* :EJOvxAFHm7aekMVk: vanity plate
-    @created 1373774064742
-    @alias http://dbpedia.org/resource/Vanity_plate
-    @weight 0.5
+@id EJOvxAFHm7aekMVk
+@title vanity plate
+@alias http://dbpedia.org/resource/Vanity_plate
+@created 1373774064742
+@weight 0.5

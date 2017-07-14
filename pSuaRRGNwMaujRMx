@@ -1,6 +1,7 @@
-* :pSuaRRGNwMaujRMx: bench press
-    @created 1331182923065
-    @alias http://dbpedia.org/resource/Bench_press
-    @weight 0.5
-    * :gJ6BebUL9beTfKtJ: 
-    * :ooiV26gSdNUgRLc9: 
+@id pSuaRRGNwMaujRMx
+@title bench press
+@alias http://dbpedia.org/resource/Bench_press
+@created 1331182923065
+@weight 0.5
+* :gJ6BebUL9beTfKtJ: 
+* :ooiV26gSdNUgRLc9: 

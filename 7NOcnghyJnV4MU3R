@@ -1,4 +1,5 @@
-* :7NOcnghyJnV4MU3R: ulnar nerve
-    @created 1329446890066
-    @alias http://dbpedia.org/resource/Ulnar_nerve
-    @weight 0.5
+@id 7NOcnghyJnV4MU3R
+@title ulnar nerve
+@alias http://dbpedia.org/resource/Ulnar_nerve
+@created 1329446890066
+@weight 0.5

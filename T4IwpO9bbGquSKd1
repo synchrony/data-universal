@@ -1,9 +1,10 @@
-* :T4IwpO9bbGquSKd1: audio feedback
-    @created 1351363012258
-    @alias http://dbpedia.org/resource/Audio_feedback
-    @weight 0.75
-    * :Qqrq1mouRBIK7x8Z: 
-    * :QIKbdyONRx0CyEmQ: 
-    * :nFqpUFzMtDXuZV3y: 
-    * :LjOYjTHJXgtBf4GS: 
-    * :4GmktJ8lPjYvj8WU: 
+@id T4IwpO9bbGquSKd1
+@title audio feedback
+@alias http://dbpedia.org/resource/Audio_feedback
+@created 1351363012258
+@weight 0.75
+* :Qqrq1mouRBIK7x8Z: 
+* :QIKbdyONRx0CyEmQ: 
+* :nFqpUFzMtDXuZV3y: 
+* :LjOYjTHJXgtBf4GS: 
+* :4GmktJ8lPjYvj8WU: 

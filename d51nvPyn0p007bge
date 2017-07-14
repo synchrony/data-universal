@@ -1,11 +1,12 @@
-* :d51nvPyn0p007bge: Albert Einstein
-    @shortcut ae
-    @created 1309177312666
-    @alias http://dbpedia.org/resource/Albert_Einstein
-    @weight 1.0
-    * :6iMujUi21wA5F1bI: 
-    * :eYSiAySfba2dO2L7: 
-    * :rh1v4hAQXkLqP22H: 
-    * :lsR2dWQA9H2K0YEy: 
-    * :X1SPPmoxww9xXhn4: 
-    * :vT8Vvg8u5oEUormG: 
+@id d51nvPyn0p007bge
+@title Albert Einstein
+@alias http://dbpedia.org/resource/Albert_Einstein
+@created 1309177312666
+@shortcut ae
+@weight 1.0
+* :6iMujUi21wA5F1bI: 
+* :eYSiAySfba2dO2L7: 
+* :rh1v4hAQXkLqP22H: 
+* :lsR2dWQA9H2K0YEy: 
+* :X1SPPmoxww9xXhn4: 
+* :vT8Vvg8u5oEUormG: 

@@ -1,4 +1,5 @@
-* :M9plAR3niNE1zZtV: foot
-    @created 1349315161895
-    @alias http://dbpedia.org/resource/Foot
-    @weight 0.5
+@id M9plAR3niNE1zZtV
+@title foot
+@alias http://dbpedia.org/resource/Foot
+@created 1349315161895
+@weight 0.5

@@ -1,4 +1,5 @@
-* :KYxfd1PwdJhZXX25: Banksy
-    @created 1326872846151
-    @alias http://dbpedia.org/resource/Banksy
-    @weight 0.75
+@id KYxfd1PwdJhZXX25
+@title Banksy
+@alias http://dbpedia.org/resource/Banksy
+@created 1326872846151
+@weight 0.75

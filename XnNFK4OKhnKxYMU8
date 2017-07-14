@@ -1,9 +1,10 @@
-* :XnNFK4OKhnKxYMU8: flicker fusion threshold
-    @created 1345176975973
-    @alias http://dbpedia.org/resource/Flicker_fusion_threshold
-    @weight 0.75
-    * :eDPTt0F35ITr4u5y: 
-    * :iEe77sUkWHk15IIk: 
-    * :G6ZUnBYRaOtMIE5O: 
-    * :tPTrBAeDCzlaDcY1: 
-    * :uATcPuQEa6jl2SGO: 
+@id XnNFK4OKhnKxYMU8
+@title flicker fusion threshold
+@alias http://dbpedia.org/resource/Flicker_fusion_threshold
+@created 1345176975973
+@weight 0.75
+* :eDPTt0F35ITr4u5y: 
+* :iEe77sUkWHk15IIk: 
+* :G6ZUnBYRaOtMIE5O: 
+* :tPTrBAeDCzlaDcY1: 
+* :uATcPuQEa6jl2SGO: 

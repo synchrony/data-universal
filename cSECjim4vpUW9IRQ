@@ -1,4 +1,5 @@
-* :cSECjim4vpUW9IRQ: curriculum vitae
-    @created 1412784496276
-    @alias http://dbpedia.org/resource/Curriculum_vitae
-    @weight 0.5
+@id cSECjim4vpUW9IRQ
+@title curriculum vitae
+@alias http://dbpedia.org/resource/Curriculum_vitae
+@created 1412784496276
+@weight 0.5

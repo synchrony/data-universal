@@ -1,4 +1,5 @@
-* :zPZDVKITkg9sxB4B: father
-    @created 1413637688236
-    @alias http://dbpedia.org/resource/Father
-    @weight 0.5
+@id zPZDVKITkg9sxB4B
+@title father
+@alias http://dbpedia.org/resource/Father
+@created 1413637688236
+@weight 0.5

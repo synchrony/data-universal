@@ -1,5 +1,6 @@
-* :KfLfYzTZgdLqJtHA: apotheosis
-    @created 1415376663209
-    @alias http://dbpedia.org/resource/Apotheosis
-    @weight 0.5
-    * :sdtXCY1DPJi8md91: 
+@id KfLfYzTZgdLqJtHA
+@title apotheosis
+@alias http://dbpedia.org/resource/Apotheosis
+@created 1415376663209
+@weight 0.5
+* :sdtXCY1DPJi8md91: 

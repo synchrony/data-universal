@@ -1,6 +1,7 @@
-* :lVxWfODvnCVSBD6x: Mesoproterozoic
-    @created 1388041000879
-    @alias http://dbpedia.org/resource/Mesoproterozoic
-    @weight 0.5
-    * :8DH7geMaFKL9gsSu: 
-    * :9kYf9E40dAbDiceb: 
+@id lVxWfODvnCVSBD6x
+@title Mesoproterozoic
+@alias http://dbpedia.org/resource/Mesoproterozoic
+@created 1388041000879
+@weight 0.5
+* :8DH7geMaFKL9gsSu: 
+* :9kYf9E40dAbDiceb: 

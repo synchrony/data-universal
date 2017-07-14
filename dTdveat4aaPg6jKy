@@ -1,8 +1,9 @@
-* :dTdveat4aaPg6jKy: GraphML
-    @created 1489334001576
-    @alias http://dbpedia.org/resource/GraphML
-    @weight 0.5
-    * :yX5rBSbodaq4NGWp: 
-    * :16HpCjWHfNvTkIOO: 
-    * :B026exTACVoVlbRU: 
-    * :7mkHEe3q9FjkLkNI: 
+@id dTdveat4aaPg6jKy
+@title GraphML
+@alias http://dbpedia.org/resource/GraphML
+@created 1489334001576
+@weight 0.5
+* :yX5rBSbodaq4NGWp: 
+* :16HpCjWHfNvTkIOO: 
+* :B026exTACVoVlbRU: 
+* :7mkHEe3q9FjkLkNI: 

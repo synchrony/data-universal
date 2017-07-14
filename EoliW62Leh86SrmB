@@ -1,5 +1,6 @@
-* :EoliW62Leh86SrmB: voiced alveolar stop
-    @created 1366004038498
-    @alias http://dbpedia.org/resource/Voiced_alveolar_stop
-    @weight 0.5
-    * :8Av3J1G7ReXCPIiL: 
+@id EoliW62Leh86SrmB
+@title voiced alveolar stop
+@alias http://dbpedia.org/resource/Voiced_alveolar_stop
+@created 1366004038498
+@weight 0.5
+* :8Av3J1G7ReXCPIiL: 

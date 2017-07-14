@@ -1,4 +1,5 @@
-* :7HxTTXZxa4mwF3xw: Sudoku
-    @created 1312618585937
-    @alias http://dbpedia.org/resource/Sudoku
-    @weight 0.5
+@id 7HxTTXZxa4mwF3xw
+@title Sudoku
+@alias http://dbpedia.org/resource/Sudoku
+@created 1312618585937
+@weight 0.5

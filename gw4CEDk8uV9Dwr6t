@@ -1,7 +1,8 @@
-* :gw4CEDk8uV9Dwr6t: Hindi languages
-    @created 1341632443692
-    @alias http://dbpedia.org/resource/Hindi_languages
-    @weight 0.5
-    * :CtIougbQoRQCQQbD: 
-    * :tB49BNqlpW77ZhQG: 
-    * :dM8G9r7M9y9wDon6: 
+@id gw4CEDk8uV9Dwr6t
+@title Hindi languages
+@alias http://dbpedia.org/resource/Hindi_languages
+@created 1341632443692
+@weight 0.5
+* :CtIougbQoRQCQQbD: 
+* :tB49BNqlpW77ZhQG: 
+* :dM8G9r7M9y9wDon6: 

@@ -1,4 +1,5 @@
-* :c7lqbgCMbHaGDMEW: Reddit
-    @created 1360105821703
-    @alias http://dbpedia.org/resource/Reddit
-    @weight 0.5
+@id c7lqbgCMbHaGDMEW
+@title Reddit
+@alias http://dbpedia.org/resource/Reddit
+@created 1360105821703
+@weight 0.5

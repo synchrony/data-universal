@@ -1,4 +1,5 @@
-* :UbsMBTbCIjiC1Y5A: San Mateo County, California
-    @created 1451360647527
-    @alias http://dbpedia.org/resource/San_Mateo_County,_California
-    @weight 0.5
+@id UbsMBTbCIjiC1Y5A
+@title San Mateo County, California
+@alias http://dbpedia.org/resource/San_Mateo_County,_California
+@created 1451360647527
+@weight 0.5

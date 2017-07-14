@@ -1,4 +1,5 @@
-* :DvM8mAOaYpuv0QmS: Bryce Canyon National Park
-    @created 1328651732198
-    @alias http://dbpedia.org/resource/Bryce_Canyon_National_Park
-    @weight 0.5
+@id DvM8mAOaYpuv0QmS
+@title Bryce Canyon National Park
+@alias http://dbpedia.org/resource/Bryce_Canyon_National_Park
+@created 1328651732198
+@weight 0.5

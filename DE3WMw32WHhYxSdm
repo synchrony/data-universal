@@ -1,5 +1,6 @@
-* :DE3WMw32WHhYxSdm: prismatic joint
-    @created 1379952424564
-    @alias http://dbpedia.org/resource/Prismatic_joint
-    @weight 0.5
-    * :wXMeO99BkouoAQ2r: 
+@id DE3WMw32WHhYxSdm
+@title prismatic joint
+@alias http://dbpedia.org/resource/Prismatic_joint
+@created 1379952424564
+@weight 0.5
+* :wXMeO99BkouoAQ2r: 

@@ -1,4 +1,5 @@
-* :4mlqW73OzgVYeiKH: Toy Story
-    @created 1326212115691
-    @alias http://dbpedia.org/resource/Toy_Story
-    @weight 0.5
+@id 4mlqW73OzgVYeiKH
+@title Toy Story
+@alias http://dbpedia.org/resource/Toy_Story
+@created 1326212115691
+@weight 0.5

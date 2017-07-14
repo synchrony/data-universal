@@ -1,5 +1,6 @@
-* :AYLdGDUbhWlkbzlU: chronic obstructive pulmonary disease
-    @created 1353306480026
-    @alias http://dbpedia.org/resource/Chronic_obstructive_pulmonary_disease
-    @weight 0.5
-    * :ZdxyScDJ1zOpCbgN: 
+@id AYLdGDUbhWlkbzlU
+@title chronic obstructive pulmonary disease
+@alias http://dbpedia.org/resource/Chronic_obstructive_pulmonary_disease
+@created 1353306480026
+@weight 0.5
+* :ZdxyScDJ1zOpCbgN: 

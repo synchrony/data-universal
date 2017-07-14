@@ -1,5 +1,6 @@
-* :CTuseUgFeFZTh2Di: melody
-    @created 1436039446569
-    @alias http://dbpedia.org/resource/Melody
-    @weight 0.5
-    * :FhTU3CCLp1JLXvoC: 
+@id CTuseUgFeFZTh2Di
+@title melody
+@alias http://dbpedia.org/resource/Melody
+@created 1436039446569
+@weight 0.5
+* :FhTU3CCLp1JLXvoC: 

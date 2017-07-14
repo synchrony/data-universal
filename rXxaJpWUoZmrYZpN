@@ -1,4 +1,5 @@
-* :rXxaJpWUoZmrYZpN: staff (music)
-    @created 1310281445039
-    @alias http://dbpedia.org/resource/Staff_(music)
-    @weight 0.5
+@id rXxaJpWUoZmrYZpN
+@title staff (music)
+@alias http://dbpedia.org/resource/Staff_(music)
+@created 1310281445039
+@weight 0.5

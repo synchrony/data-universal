@@ -1,4 +1,5 @@
-* :8F54M7U20cihlgJ4: duck (food)
-    @created 1354413579139
-    @alias http://dbpedia.org/resource/Duck_(food)
-    @weight 0.5
+@id 8F54M7U20cihlgJ4
+@title duck (food)
+@alias http://dbpedia.org/resource/Duck_(food)
+@created 1354413579139
+@weight 0.5

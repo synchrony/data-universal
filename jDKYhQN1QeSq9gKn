@@ -1,4 +1,5 @@
-* :jDKYhQN1QeSq9gKn: exosphere
-    @created 1481651664609
-    @alias http://dbpedia.org/resource/Exosphere
-    @weight 0.5
+@id jDKYhQN1QeSq9gKn
+@title exosphere
+@alias http://dbpedia.org/resource/Exosphere
+@created 1481651664609
+@weight 0.5

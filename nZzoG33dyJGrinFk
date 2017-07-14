@@ -1,12 +1,13 @@
-* :nZzoG33dyJGrinFk: sushi
-    @created 1358713146380
-    @alias http://dbpedia.org/resource/Sushi
-    @weight 0.5
-    * :LX45hTSHNOr6jp3s: 
-    * :VzJDmccUdtT9hhzS: 
-    * :uRKhEFxCYS60kPqc: 
-    * :wyL8tl7FR7Z6CGsg: 
-    * :BU3UsKQWlS4WhzL4: 
-    * :62ALR7S01DtctRQL: 
-    * :08CwFdQS2YaE39cS: 
-    * :TFBrkKOU2qgLQP8F: 
+@id nZzoG33dyJGrinFk
+@title sushi
+@alias http://dbpedia.org/resource/Sushi
+@created 1358713146380
+@weight 0.5
+* :LX45hTSHNOr6jp3s: 
+* :VzJDmccUdtT9hhzS: 
+* :uRKhEFxCYS60kPqc: 
+* :wyL8tl7FR7Z6CGsg: 
+* :BU3UsKQWlS4WhzL4: 
+* :62ALR7S01DtctRQL: 
+* :08CwFdQS2YaE39cS: 
+* :TFBrkKOU2qgLQP8F: 

@@ -1,6 +1,7 @@
-* :5r29jwgbBvzH0Sum: radix sort
-    @created 1380989848677
-    @alias http://dbpedia.org/resource/Radix_sort
-    @weight 0.5
-    * :obAI6NGD5mIKJsXp: 
-    * :lwuW4MXd4xZxKpG8: 
+@id 5r29jwgbBvzH0Sum
+@title radix sort
+@alias http://dbpedia.org/resource/Radix_sort
+@created 1380989848677
+@weight 0.5
+* :obAI6NGD5mIKJsXp: 
+* :lwuW4MXd4xZxKpG8: 

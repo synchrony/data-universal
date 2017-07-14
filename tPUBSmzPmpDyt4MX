@@ -1,4 +1,5 @@
-* :tPUBSmzPmpDyt4MX: pareidolia
-    @created 1349925549455
-    @alias http://dbpedia.org/resource/Pareidolia
-    @weight 0.5
+@id tPUBSmzPmpDyt4MX
+@title pareidolia
+@alias http://dbpedia.org/resource/Pareidolia
+@created 1349925549455
+@weight 0.5

@@ -1,4 +1,5 @@
-* :EMX2dKjcDnemLKKJ: AT&T
-    @created 1493573398462
-    @alias http://dbpedia.org/resource/AT%26T
-    @weight 0.5
+@id EMX2dKjcDnemLKKJ
+@title AT&T
+@alias http://dbpedia.org/resource/AT%26T
+@created 1493573398462
+@weight 0.5

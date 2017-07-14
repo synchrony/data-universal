@@ -1,4 +1,5 @@
-* :eiyRpQfbvzByFGyS: bureaucracy
-    @created 1494691294885
-    @alias http://dbpedia.org/resource/Bureaucracy
-    @weight 0.5
+@id eiyRpQfbvzByFGyS
+@title bureaucracy
+@alias http://dbpedia.org/resource/Bureaucracy
+@created 1494691294885
+@weight 0.5

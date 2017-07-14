@@ -1,9 +1,10 @@
-* :GGrxxRozf6uyDqPM: moral character
-    @created 1454006530200
-    @alias http://dbpedia.org/resource/Moral_character
-    @weight 0.5
-    * :XrKGd8jCH2fRAEcc: 
-    * :NF4Cbf89ibg4ixN7: 
-    * :w1UuG6Ic8ZSfMHms: 
-    * :BZiYCdixh9KAbtST: 
-    * :AeXWfocAjVl7CiNF: 
+@id GGrxxRozf6uyDqPM
+@title moral character
+@alias http://dbpedia.org/resource/Moral_character
+@created 1454006530200
+@weight 0.5
+* :XrKGd8jCH2fRAEcc: 
+* :NF4Cbf89ibg4ixN7: 
+* :w1UuG6Ic8ZSfMHms: 
+* :BZiYCdixh9KAbtST: 
+* :AeXWfocAjVl7CiNF: 

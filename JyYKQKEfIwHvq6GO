@@ -1,6 +1,7 @@
-* :JyYKQKEfIwHvq6GO: The Matrix
-    @created 1322930221131
-    @alias http://dbpedia.org/resource/The_Matrix
-    @weight 0.75
-    * :Z5hrlCplEm2yPUAQ: 
-    * :YmkjzeTw0mpOOVFa: 
+@id JyYKQKEfIwHvq6GO
+@title The Matrix
+@alias http://dbpedia.org/resource/The_Matrix
+@created 1322930221131
+@weight 0.75
+* :Z5hrlCplEm2yPUAQ: 
+* :YmkjzeTw0mpOOVFa: 

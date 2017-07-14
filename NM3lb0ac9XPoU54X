@@ -1,9 +1,10 @@
-* :NM3lb0ac9XPoU54X: human voice
-    @created 1450513742841
-    @alias http://dbpedia.org/resource/Human_voice
-    @weight 0.5
-    * :ETbRv4DFGeG39dz1: 
-    * :vrZOw7VeTXIxXQXu: 
-    * :57BAByZSHAdEvXqB: 
-    * :XJ6g3SSan37oS2g6: 
-    * :hTFo98sSVGGOCjsN: 
+@id NM3lb0ac9XPoU54X
+@title human voice
+@alias http://dbpedia.org/resource/Human_voice
+@created 1450513742841
+@weight 0.5
+* :ETbRv4DFGeG39dz1: 
+* :vrZOw7VeTXIxXQXu: 
+* :57BAByZSHAdEvXqB: 
+* :XJ6g3SSan37oS2g6: 
+* :hTFo98sSVGGOCjsN: 

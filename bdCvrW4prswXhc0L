@@ -1,4 +1,5 @@
-* :bdCvrW4prswXhc0L: /dev/parport[0-9]+
-    @created 1327867305531
-    @weight 0.5
-    * :OySxLd802fE6Tmfb: 
+@id bdCvrW4prswXhc0L
+@title /dev/parport[0-9]+
+@created 1327867305531
+@weight 0.5
+* :OySxLd802fE6Tmfb: 

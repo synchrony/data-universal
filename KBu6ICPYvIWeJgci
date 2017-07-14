@@ -1,12 +1,13 @@
-* :KBu6ICPYvIWeJgci: sensor fusion
-    @created 1444412632622
-    @alias http://dbpedia.org/resource/Sensor_fusion
-    @weight 0.75
-    * :zdkFXcmRiCK64MyO: 
-    * :atVvGImjhTknK8Ul: 
-    * :GIsasijiRGv43Q8b: 
-    * :Ko7IKh58xFKKzsMC: 
-    * :3ozGD1r7T5nMo6ID: 
-    * :NY2YSsRh7czaZITk: 
-    * :CH1fkVHRgWRFi0M6: 
-    * :ACusQ6DRLCwFaWfa: 
+@id KBu6ICPYvIWeJgci
+@title sensor fusion
+@alias http://dbpedia.org/resource/Sensor_fusion
+@created 1444412632622
+@weight 0.75
+* :zdkFXcmRiCK64MyO: 
+* :atVvGImjhTknK8Ul: 
+* :GIsasijiRGv43Q8b: 
+* :Ko7IKh58xFKKzsMC: 
+* :3ozGD1r7T5nMo6ID: 
+* :NY2YSsRh7czaZITk: 
+* :CH1fkVHRgWRFi0M6: 
+* :ACusQ6DRLCwFaWfa: 

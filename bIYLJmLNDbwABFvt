@@ -1,4 +1,5 @@
-* :bIYLJmLNDbwABFvt: Lewisia
-    @created 1326084761978
-    @alias http://dbpedia.org/resource/Lewisia
-    @weight 0.5
+@id bIYLJmLNDbwABFvt
+@title Lewisia
+@alias http://dbpedia.org/resource/Lewisia
+@created 1326084761978
+@weight 0.5

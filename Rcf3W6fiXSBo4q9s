@@ -1,5 +1,6 @@
-* :Rcf3W6fiXSBo4q9s: moksha
-    @created 1367088098042
-    @alias http://dbpedia.org/resource/Moksha
-    @weight 0.5
-    * :EYyLunW4GWOhOExK: 
+@id Rcf3W6fiXSBo4q9s
+@title moksha
+@alias http://dbpedia.org/resource/Moksha
+@created 1367088098042
+@weight 0.5
+* :EYyLunW4GWOhOExK: 

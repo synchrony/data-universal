@@ -1,6 +1,7 @@
-* :OkLsOJDi7elW9rw4: Tagetes erecta
-    @created 1439752443838
-    @alias http://dbpedia.org/resource/Tagetes_erecta
-    @weight 0.5
-    * :HYXAsiBDRn2ILP1q: 
-    * :ENQVRiWTBBAJSC1X: 
+@id OkLsOJDi7elW9rw4
+@title Tagetes erecta
+@alias http://dbpedia.org/resource/Tagetes_erecta
+@created 1439752443838
+@weight 0.5
+* :HYXAsiBDRn2ILP1q: 
+* :ENQVRiWTBBAJSC1X: 

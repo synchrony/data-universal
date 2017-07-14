@@ -1,9 +1,10 @@
-* :Amc5y9emNPNO5bJZ: Datalog
-    @created 1335118483330
-    @alias http://dbpedia.org/resource/Datalog
-    @weight 0.5
-    * :cwG19vfkR9aNzpYn: 
-    * :rtJGWpEiCy7C2zZW: 
-    * :06c3YkygfC3enISl: 
-    * :uiVBeSenLIp7rCVG: 
-    * :Wydcs2zm3OxEZmtx: 
+@id Amc5y9emNPNO5bJZ
+@title Datalog
+@alias http://dbpedia.org/resource/Datalog
+@created 1335118483330
+@weight 0.5
+* :cwG19vfkR9aNzpYn: 
+* :rtJGWpEiCy7C2zZW: 
+* :06c3YkygfC3enISl: 
+* :uiVBeSenLIp7rCVG: 
+* :Wydcs2zm3OxEZmtx: 

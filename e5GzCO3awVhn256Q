@@ -1,6 +1,7 @@
-* :e5GzCO3awVhn256Q: educational assessment
-    @created 1410801647170
-    @alias http://dbpedia.org/resource/Educational_assessment
-    @weight 0.5
-    * :kG5NTvaAIHjI7LFH: 
-    * :dRiMitMMYggaECAw: 
+@id e5GzCO3awVhn256Q
+@title educational assessment
+@alias http://dbpedia.org/resource/Educational_assessment
+@created 1410801647170
+@weight 0.5
+* :kG5NTvaAIHjI7LFH: 
+* :dRiMitMMYggaECAw: 

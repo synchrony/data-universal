@@ -1,6 +1,7 @@
-* :MiAUAdKlofq7H2ph: ANT+
-    @created 1385466640994
-    @alias http://dbpedia.org/resource/ANT+
-    @weight 0.5
-    * :JDda7adoBvMd8OsB: 
-    * :DWpM8DS78m4bSWsl: 
+@id MiAUAdKlofq7H2ph
+@title ANT+
+@alias http://dbpedia.org/resource/ANT+
+@created 1385466640994
+@weight 0.5
+* :JDda7adoBvMd8OsB: 
+* :DWpM8DS78m4bSWsl: 

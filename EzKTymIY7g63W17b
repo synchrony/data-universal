@@ -1,9 +1,10 @@
-* :EzKTymIY7g63W17b: Sita
-    @created 1367083514257
-    @alias http://dbpedia.org/resource/Sita
-    @weight 0.5
-    * :hDGuqoG20XZfrdlp: 
-    * :uD9jpw3PSjFZCehS: 
-    * :Wpuj5uJgZM9RbWXh: 
-    * :vXiRjvJZccQ5rVaK: 
-    * :xSGqBvXg7JsWH3fi: 
+@id EzKTymIY7g63W17b
+@title Sita
+@alias http://dbpedia.org/resource/Sita
+@created 1367083514257
+@weight 0.5
+* :hDGuqoG20XZfrdlp: 
+* :uD9jpw3PSjFZCehS: 
+* :Wpuj5uJgZM9RbWXh: 
+* :vXiRjvJZccQ5rVaK: 
+* :xSGqBvXg7JsWH3fi: 

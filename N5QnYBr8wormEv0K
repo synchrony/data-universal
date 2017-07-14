@@ -1,6 +1,7 @@
-* :N5QnYBr8wormEv0K: Ampullariidae
-    @created 1414670845945
-    @alias http://dbpedia.org/resource/Ampullariidae
-    @weight 0.5
-    * :NZBdNImGKjNAWBHS: 
-    * :wjckWO0YzhxtQ2Wu: 
+@id N5QnYBr8wormEv0K
+@title Ampullariidae
+@alias http://dbpedia.org/resource/Ampullariidae
+@created 1414670845945
+@weight 0.5
+* :NZBdNImGKjNAWBHS: 
+* :wjckWO0YzhxtQ2Wu: 

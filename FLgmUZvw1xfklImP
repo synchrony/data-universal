@@ -1,6 +1,7 @@
-* :FLgmUZvw1xfklImP: dechlorinator
-    @created 1433161325355
-    @alias http://dbpedia.org/resource/Dechlorinator
-    @weight 0.5
-    * :KrHtliBOFAJJYsnR: 
-    * :WMiPgaNH7yf2dUag: 
+@id FLgmUZvw1xfklImP
+@title dechlorinator
+@alias http://dbpedia.org/resource/Dechlorinator
+@created 1433161325355
+@weight 0.5
+* :KrHtliBOFAJJYsnR: 
+* :WMiPgaNH7yf2dUag: 

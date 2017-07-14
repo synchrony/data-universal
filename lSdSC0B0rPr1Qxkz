@@ -1,4 +1,5 @@
-* :lSdSC0B0rPr1Qxkz: visual snow
-    @created 1331679221961
-    @alias http://dbpedia.org/resource/Visual_snow
-    @weight 0.5
+@id lSdSC0B0rPr1Qxkz
+@title visual snow
+@alias http://dbpedia.org/resource/Visual_snow
+@created 1331679221961
+@weight 0.5

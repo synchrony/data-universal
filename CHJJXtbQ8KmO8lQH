@@ -1,4 +1,5 @@
-* :CHJJXtbQ8KmO8lQH: dexamethasone
-    @created 1496177471046
-    @alias http://dbpedia.org/resource/Dexamethasone
-    @weight 0.5
+@id CHJJXtbQ8KmO8lQH
+@title dexamethasone
+@alias http://dbpedia.org/resource/Dexamethasone
+@created 1496177471046
+@weight 0.5

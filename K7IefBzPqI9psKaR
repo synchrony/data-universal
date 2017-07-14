@@ -1,7 +1,8 @@
-* :K7IefBzPqI9psKaR: human-centered computing
-    @created 1342669657528
-    @alias http://dbpedia.org/resource/Human-centered_computing
-    @weight 0.5
-    * :qRoFF7bbRhsCyyHJ: 
-    * :GtAGuZdFgE2TsW1d: 
-    * :UBI9fypw7ssf8xU5: 
+@id K7IefBzPqI9psKaR
+@title human-centered computing
+@alias http://dbpedia.org/resource/Human-centered_computing
+@created 1342669657528
+@weight 0.5
+* :qRoFF7bbRhsCyyHJ: 
+* :GtAGuZdFgE2TsW1d: 
+* :UBI9fypw7ssf8xU5: 

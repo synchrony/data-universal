@@ -1,4 +1,5 @@
-* :TJykKAMvLEH1MSzQ: twist tie
-    @created 1341434397726
-    @alias http://dbpedia.org/resource/Twist_tie
-    @weight 0.5
+@id TJykKAMvLEH1MSzQ
+@title twist tie
+@alias http://dbpedia.org/resource/Twist_tie
+@created 1341434397726
+@weight 0.5

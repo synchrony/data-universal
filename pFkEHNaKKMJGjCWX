@@ -1,4 +1,5 @@
-* :pFkEHNaKKMJGjCWX: Cribbage
-    @created 1343952979422
-    @alias http://dbpedia.org/resource/Cribbage
-    @weight 0.5
+@id pFkEHNaKKMJGjCWX
+@title Cribbage
+@alias http://dbpedia.org/resource/Cribbage
+@created 1343952979422
+@weight 0.5

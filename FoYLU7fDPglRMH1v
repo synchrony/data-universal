@@ -1,4 +1,5 @@
-* :FoYLU7fDPglRMH1v: archery
-    @created 1342247986307
-    @alias http://dbpedia.org/resource/Archery
-    @weight 0.5
+@id FoYLU7fDPglRMH1v
+@title archery
+@alias http://dbpedia.org/resource/Archery
+@created 1342247986307
+@weight 0.5

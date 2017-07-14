@@ -1,6 +1,7 @@
-* :ionQ7ks2G7ihDAep: biotin
-    @created 1467475156595
-    @alias http://dbpedia.org/resource/Biotin
-    @weight 0.5
-    * :Ym17qPCNGxJRvemY: 
-    * :I4DkfYDPHsDwSD11: 
+@id ionQ7ks2G7ihDAep
+@title biotin
+@alias http://dbpedia.org/resource/Biotin
+@created 1467475156595
+@weight 0.5
+* :Ym17qPCNGxJRvemY: 
+* :I4DkfYDPHsDwSD11: 

@@ -1,4 +1,5 @@
-* :mEq3JuRUyF1BoaiR: Johnny Depp
-    @created 1339565573782
-    @alias http://dbpedia.org/resource/Johnny_Depp
-    @weight 0.5
+@id mEq3JuRUyF1BoaiR
+@title Johnny Depp
+@alias http://dbpedia.org/resource/Johnny_Depp
+@created 1339565573782
+@weight 0.5

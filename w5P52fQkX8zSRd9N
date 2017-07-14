@@ -1,9 +1,10 @@
-* :w5P52fQkX8zSRd9N: nail (anatomy)
-    @created 1380045051835
-    @alias http://dbpedia.org/resource/Nail_(anatomy)
-    @weight 0.5
-    * :142Baar1puiEmCHB: 
-    * :rERdb1l3b3wjQYBu: 
-    * :IjDTGvxDXL26EGJF: 
-    * :7LUeglGlACsmxIhz: 
-    * :p6X5zS7krsZFL9Xt: 
+@id w5P52fQkX8zSRd9N
+@title nail (anatomy)
+@alias http://dbpedia.org/resource/Nail_(anatomy)
+@created 1380045051835
+@weight 0.5
+* :142Baar1puiEmCHB: 
+* :rERdb1l3b3wjQYBu: 
+* :IjDTGvxDXL26EGJF: 
+* :7LUeglGlACsmxIhz: 
+* :p6X5zS7krsZFL9Xt: 

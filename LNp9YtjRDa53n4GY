@@ -1,4 +1,5 @@
-* :LNp9YtjRDa53n4GY: plotter (instrument)
-    @created 1484812980824
-    @alias http://dbpedia.org/resource/Plotter_(instrument)
-    @weight 0.5
+@id LNp9YtjRDa53n4GY
+@title plotter (instrument)
+@alias http://dbpedia.org/resource/Plotter_(instrument)
+@created 1484812980824
+@weight 0.5

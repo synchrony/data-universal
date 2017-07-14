@@ -1,8 +1,9 @@
-* :LkHpa0mlI5Cbld3E: prayer
-    @created 1333848849117
-    @alias http://dbpedia.org/resource/Prayer
-    @weight 0.5
-    * :XcOd1w7FhLy2kYWu: 
-    * :j8AfuSCfOw0q0kwJ: 
-    * :SipPwB0j6fY3EtuN: 
-    * :BCE32UwgByDhQmcr: 
+@id LkHpa0mlI5Cbld3E
+@title prayer
+@alias http://dbpedia.org/resource/Prayer
+@created 1333848849117
+@weight 0.5
+* :XcOd1w7FhLy2kYWu: 
+* :j8AfuSCfOw0q0kwJ: 
+* :SipPwB0j6fY3EtuN: 
+* :BCE32UwgByDhQmcr: 

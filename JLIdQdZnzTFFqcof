@@ -1,4 +1,5 @@
-* :JLIdQdZnzTFFqcof: truffle
-    @created 1334455720671
-    @alias http://dbpedia.org/resource/Truffle
-    @weight 0.5
+@id JLIdQdZnzTFFqcof
+@title truffle
+@alias http://dbpedia.org/resource/Truffle
+@created 1334455720671
+@weight 0.5

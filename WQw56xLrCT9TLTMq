@@ -1,9 +1,10 @@
-* :WQw56xLrCT9TLTMq: Extended Affix Grammar
-    @created 1312618222981
-    @alias http://dbpedia.org/resource/Extended_Affix_Grammar
-    @weight 0.5
-    * :BrE2JLHk3hGvdwg3: 
-    * :RbDJXPdnrQPO8nMz: 
-    * :5uus4AksQ9c4Nbek: 
-    * :3DOi8Wvxf0aNT7RK: 
-    * :iSGc0y3X01bFpYL5: 
+@id WQw56xLrCT9TLTMq
+@title Extended Affix Grammar
+@alias http://dbpedia.org/resource/Extended_Affix_Grammar
+@created 1312618222981
+@weight 0.5
+* :BrE2JLHk3hGvdwg3: 
+* :RbDJXPdnrQPO8nMz: 
+* :5uus4AksQ9c4Nbek: 
+* :3DOi8Wvxf0aNT7RK: 
+* :iSGc0y3X01bFpYL5: 

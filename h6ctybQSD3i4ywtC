@@ -1,4 +1,5 @@
-* :h6ctybQSD3i4ywtC: horse
-    @created 1327531728197
-    @alias http://dbpedia.org/resource/Horse
-    @weight 0.5
+@id h6ctybQSD3i4ywtC
+@title horse
+@alias http://dbpedia.org/resource/Horse
+@created 1327531728197
+@weight 0.5

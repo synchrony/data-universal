@@ -1,6 +1,7 @@
-* :5UuARaOb0BrZVxoh: evil
-    @created 1420086378989
-    @alias http://dbpedia.org/resource/Evil
-    @weight 0.5
-    * :PwG73YxOu0q5QphT: 
-    * :XZKLcIHjMkMj6PJ4: 
+@id 5UuARaOb0BrZVxoh
+@title evil
+@alias http://dbpedia.org/resource/Evil
+@created 1420086378989
+@weight 0.5
+* :PwG73YxOu0q5QphT: 
+* :XZKLcIHjMkMj6PJ4: 

@@ -1,5 +1,6 @@
-* :pPS6KlSJzEeHRfEp: lanolin
-    @created 1415293114713
-    @alias http://dbpedia.org/resource/Lanolin
-    @weight 0.5
-    * :cwdbn1C5fk5Ynf9v: 
+@id pPS6KlSJzEeHRfEp
+@title lanolin
+@alias http://dbpedia.org/resource/Lanolin
+@created 1415293114713
+@weight 0.5
+* :cwdbn1C5fk5Ynf9v: 

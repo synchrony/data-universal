@@ -1,10 +1,11 @@
-* :47iGFqv93jD3VOI5: community of interest
-    @created 1347787480729
-    @alias http://dbpedia.org/resource/Community_of_interest
-    @weight 0.5
-    * :bVJNse4jQWXzJugF: 
-    * :u3EUyYe94MgVyPrr: 
-    * :v3nCwDxmccKs9Ep1: 
-    * :0k3yNydPNhPKE8vi: 
-    * :bkeY7JZMY7UgUqjH: 
-    * :7hTvIagqbucxFONm: 
+@id 47iGFqv93jD3VOI5
+@title community of interest
+@alias http://dbpedia.org/resource/Community_of_interest
+@created 1347787480729
+@weight 0.5
+* :bVJNse4jQWXzJugF: 
+* :u3EUyYe94MgVyPrr: 
+* :v3nCwDxmccKs9Ep1: 
+* :0k3yNydPNhPKE8vi: 
+* :bkeY7JZMY7UgUqjH: 
+* :7hTvIagqbucxFONm: 

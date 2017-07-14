@@ -1,5 +1,6 @@
-* :BXi7i7DRySDNBs2d: book
-    @created 1308717194632
-    @alias http://dbpedia.org/resource/Book
-    @weight 0.75
-    * :OeW3YJvcFDe4kjIp: 
+@id BXi7i7DRySDNBs2d
+@title book
+@alias http://dbpedia.org/resource/Book
+@created 1308717194632
+@weight 0.75
+* :OeW3YJvcFDe4kjIp: 

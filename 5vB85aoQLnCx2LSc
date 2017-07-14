@@ -1,4 +1,5 @@
-* :5vB85aoQLnCx2LSc: water bottle
-    @created 1416195100926
-    @alias http://dbpedia.org/resource/Water_bottle
-    @weight 0.5
+@id 5vB85aoQLnCx2LSc
+@title water bottle
+@alias http://dbpedia.org/resource/Water_bottle
+@created 1416195100926
+@weight 0.5

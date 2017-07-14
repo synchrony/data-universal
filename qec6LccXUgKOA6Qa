@@ -1,5 +1,6 @@
-* :qec6LccXUgKOA6Qa: Mr. Bean
-    @created 1415018241493
-    @alias http://dbpedia.org/resource/Mr._Bean
-    @weight 0.5
-    * :wZD54a9KlN28zF6r: 
+@id qec6LccXUgKOA6Qa
+@title Mr. Bean
+@alias http://dbpedia.org/resource/Mr._Bean
+@created 1415018241493
+@weight 0.5
+* :wZD54a9KlN28zF6r: 

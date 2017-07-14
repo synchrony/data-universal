@@ -1,4 +1,5 @@
-* :ChbQoZUSjvbsdEVE: dawn
-    @created 1351087563954
-    @alias http://dbpedia.org/resource/Dawn
-    @weight 0.5
+@id ChbQoZUSjvbsdEVE
+@title dawn
+@alias http://dbpedia.org/resource/Dawn
+@created 1351087563954
+@weight 0.5

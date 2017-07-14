@@ -1,5 +1,6 @@
-* :kmijcYIDrdqGvfiY: YouTube
-    @created 1328910211854
-    @alias http://dbpedia.org/resource/YouTube
-    @weight 0.75
-    * :qD0DAHGsO3LnOS7i: 
+@id kmijcYIDrdqGvfiY
+@title YouTube
+@alias http://dbpedia.org/resource/YouTube
+@created 1328910211854
+@weight 0.75
+* :qD0DAHGsO3LnOS7i: 

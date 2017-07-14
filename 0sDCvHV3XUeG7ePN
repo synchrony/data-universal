@@ -1,4 +1,5 @@
-* :0sDCvHV3XUeG7ePN: Sones GraphDB
-    @created 1457052175166
-    @alias http://dbpedia.org/resource/Sones_GraphDB
-    @weight 0.5
+@id 0sDCvHV3XUeG7ePN
+@title Sones GraphDB
+@alias http://dbpedia.org/resource/Sones_GraphDB
+@created 1457052175166
+@weight 0.5

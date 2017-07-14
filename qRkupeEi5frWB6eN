@@ -1,5 +1,6 @@
-* :qRkupeEi5frWB6eN: periodical literature
-    @created 1431879481443
-    @alias http://dbpedia.org/resource/Periodical_literature
-    @weight 0.5
-    * :ZoGUo9YHmJYxtYaz: 
+@id qRkupeEi5frWB6eN
+@title periodical literature
+@alias http://dbpedia.org/resource/Periodical_literature
+@created 1431879481443
+@weight 0.5
+* :ZoGUo9YHmJYxtYaz: 

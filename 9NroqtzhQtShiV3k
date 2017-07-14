@@ -1,4 +1,5 @@
-* :9NroqtzhQtShiV3k: Museo del Prado
-    @created 1360124748789
-    @alias http://dbpedia.org/resource/Museo_del_Prado
-    @weight 0.5
+@id 9NroqtzhQtShiV3k
+@title Museo del Prado
+@alias http://dbpedia.org/resource/Museo_del_Prado
+@created 1360124748789
+@weight 0.5

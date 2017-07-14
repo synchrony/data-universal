@@ -1,8 +1,9 @@
-* :a2toKSACI6iVrBWk: linguistics
-    @created 1420384674204
-    @alias http://dbpedia.org/resource/Linguistics
-    @weight 0.5
-    * :S5wl6XAaNDl9smkH: 
-    * :oSJKNb6s2iOpPbO9: 
-    * :oDTbyZHjL6hM4Zvm: 
-    * :LodfH8j2wfzSJKXX: 
+@id a2toKSACI6iVrBWk
+@title linguistics
+@alias http://dbpedia.org/resource/Linguistics
+@created 1420384674204
+@weight 0.5
+* :S5wl6XAaNDl9smkH: 
+* :oSJKNb6s2iOpPbO9: 
+* :oDTbyZHjL6hM4Zvm: 
+* :LodfH8j2wfzSJKXX: 

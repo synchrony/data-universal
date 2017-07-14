@@ -1,4 +1,5 @@
-* :yHe2JJWM7fQhhSDd: cockatoo
-    @created 1325651243228
-    @alias http://dbpedia.org/resource/Cockatoo
-    @weight 0.5
+@id yHe2JJWM7fQhhSDd
+@title cockatoo
+@alias http://dbpedia.org/resource/Cockatoo
+@created 1325651243228
+@weight 0.5

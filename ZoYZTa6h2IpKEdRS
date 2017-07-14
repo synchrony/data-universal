@@ -1,5 +1,6 @@
-* :ZoYZTa6h2IpKEdRS: Wells Fargo
-    @created 1313621663075
-    @alias http://dbpedia.org/resource/Wells_Fargo
-    @weight 0.75
-    * :wA7PUzQHIT6S2073: 
+@id ZoYZTa6h2IpKEdRS
+@title Wells Fargo
+@alias http://dbpedia.org/resource/Wells_Fargo
+@created 1313621663075
+@weight 0.75
+* :wA7PUzQHIT6S2073: 

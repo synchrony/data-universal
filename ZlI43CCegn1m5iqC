@@ -1,4 +1,5 @@
-* :ZlI43CCegn1m5iqC: cello
-    @created 1332625403546
-    @alias http://dbpedia.org/resource/Cello
-    @weight 0.5
+@id ZlI43CCegn1m5iqC
+@title cello
+@alias http://dbpedia.org/resource/Cello
+@created 1332625403546
+@weight 0.5

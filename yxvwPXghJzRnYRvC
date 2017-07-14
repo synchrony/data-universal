@@ -1,8 +1,9 @@
-* :yxvwPXghJzRnYRvC: body modification
-    @created 1380592478144
-    @alias http://dbpedia.org/resource/Body_modification
-    @weight 0.5
-    * :MZeMrFoQg0IB68sk: 
-    * :FyyQEF3ql5994b3r: 
-    * :CTXBQWlpPGli9utR: 
-    * :mgd3HpQKnylTRoRd: 
+@id yxvwPXghJzRnYRvC
+@title body modification
+@alias http://dbpedia.org/resource/Body_modification
+@created 1380592478144
+@weight 0.5
+* :MZeMrFoQg0IB68sk: 
+* :FyyQEF3ql5994b3r: 
+* :CTXBQWlpPGli9utR: 
+* :mgd3HpQKnylTRoRd: 

@@ -1,5 +1,6 @@
-* :rB9IagZ3468bqOoz: confabulation
-    @created 1453346780516
-    @alias http://dbpedia.org/resource/Confabulation
-    @weight 0.5
-    * :qopPOEWvN4eF0LOj: 
+@id rB9IagZ3468bqOoz
+@title confabulation
+@alias http://dbpedia.org/resource/Confabulation
+@created 1453346780516
+@weight 0.5
+* :qopPOEWvN4eF0LOj: 

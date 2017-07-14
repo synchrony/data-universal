@@ -1,5 +1,6 @@
-* :s6gP8CzzXLXMbmW1: forgery
-    @created 1409678765986
-    @alias http://dbpedia.org/resource/Forgery
-    @weight 0.5
-    * :EIpdUKYhiOGrjdBj: 
+@id s6gP8CzzXLXMbmW1
+@title forgery
+@alias http://dbpedia.org/resource/Forgery
+@created 1409678765986
+@weight 0.5
+* :EIpdUKYhiOGrjdBj: 

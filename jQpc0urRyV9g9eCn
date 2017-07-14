@@ -1,4 +1,5 @@
-* :jQpc0urRyV9g9eCn: bedroom
-    @created 1327531185165
-    @alias http://dbpedia.org/resource/Bedroom
-    @weight 0.5
+@id jQpc0urRyV9g9eCn
+@title bedroom
+@alias http://dbpedia.org/resource/Bedroom
+@created 1327531185165
+@weight 0.5

@@ -1,4 +1,5 @@
-* :S3j3YSmgQgVW5V5m: osmium
-    @created 1344309326554
-    @alias http://dbpedia.org/resource/Osmium
-    @weight 0.5
+@id S3j3YSmgQgVW5V5m
+@title osmium
+@alias http://dbpedia.org/resource/Osmium
+@created 1344309326554
+@weight 0.5

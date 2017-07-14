@@ -1,8 +1,9 @@
-* :ukpQJVScONkczyrJ: apperception
-    @created 1433733495523
-    @alias http://dbpedia.org/resource/Apperception
-    @weight 0.5
-    * :mtKqV6ok1pFtcVOD: 
-    * :K7tT6R5AMv9ctjeL: 
-    * :weaXVVyNnXxCBNU3: 
-    * :jhteu1IGHcFti2IC: 
+@id ukpQJVScONkczyrJ
+@title apperception
+@alias http://dbpedia.org/resource/Apperception
+@created 1433733495523
+@weight 0.5
+* :mtKqV6ok1pFtcVOD: 
+* :K7tT6R5AMv9ctjeL: 
+* :weaXVVyNnXxCBNU3: 
+* :jhteu1IGHcFti2IC: 

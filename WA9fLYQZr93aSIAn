@@ -1,4 +1,5 @@
-* :WA9fLYQZr93aSIAn: Spock
-    @created 1352931462115
-    @alias http://dbpedia.org/resource/Spock
-    @weight 0.5
+@id WA9fLYQZr93aSIAn
+@title Spock
+@alias http://dbpedia.org/resource/Spock
+@created 1352931462115
+@weight 0.5

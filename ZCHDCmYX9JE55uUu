@@ -1,5 +1,6 @@
-* :ZCHDCmYX9JE55uUu: electrical load
-    @created 1475263315159
-    @alias http://dbpedia.org/resource/Electrical_load
-    @weight 0.5
-    * :Kp0FWQdWf3SMeFF5: 
+@id ZCHDCmYX9JE55uUu
+@title electrical load
+@alias http://dbpedia.org/resource/Electrical_load
+@created 1475263315159
+@weight 0.5
+* :Kp0FWQdWf3SMeFF5: 

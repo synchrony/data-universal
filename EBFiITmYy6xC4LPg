@@ -1,5 +1,6 @@
-* :EBFiITmYy6xC4LPg: linguine
-    @created 1309178124236
-    @alias http://dbpedia.org/resource/Linguine
-    @weight 0.5
-    * :uYKITaVviUlFnHgp: 
+@id EBFiITmYy6xC4LPg
+@title linguine
+@alias http://dbpedia.org/resource/Linguine
+@created 1309178124236
+@weight 0.5
+* :uYKITaVviUlFnHgp: 

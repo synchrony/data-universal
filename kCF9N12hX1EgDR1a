@@ -1,8 +1,9 @@
-* :kCF9N12hX1EgDR1a: NASA
-    @created 1367869557396
-    @alias http://dbpedia.org/resource/NASA
-    @weight 0.5
-    * :NYEUEqiUX0Tlschh: 
-    * :wFHyVgFae2cQHlI0: 
-    * :c9nD8FIwE5P1EY5R: 
-    * :0phv13tQJP9Cyw6y: 
+@id kCF9N12hX1EgDR1a
+@title NASA
+@alias http://dbpedia.org/resource/NASA
+@created 1367869557396
+@weight 0.5
+* :NYEUEqiUX0Tlschh: 
+* :wFHyVgFae2cQHlI0: 
+* :c9nD8FIwE5P1EY5R: 
+* :0phv13tQJP9Cyw6y: 

@@ -1,6 +1,7 @@
-* :vAyHYVsjwfKYi9ps: forward chaining
-    @created 1345586383433
-    @alias http://dbpedia.org/resource/Forward_chaining
-    @weight 0.5
-    * :N3kn7ZZAUSbin3VY: 
-    * :XFguyldUx1idzc7r: 
+@id vAyHYVsjwfKYi9ps
+@title forward chaining
+@alias http://dbpedia.org/resource/Forward_chaining
+@created 1345586383433
+@weight 0.5
+* :N3kn7ZZAUSbin3VY: 
+* :XFguyldUx1idzc7r: 

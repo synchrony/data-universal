@@ -1,10 +1,11 @@
-* :arM021rqUFcQ81BQ: mirroring (psychology)
-    @created 1453417935094
-    @alias http://dbpedia.org/resource/Mirroring_(psychology)
-    @weight 0.5
-    * :JZbZhD9MPpP76pbA: 
-    * :4FEOED1PvBo9hoqK: 
-    * :yKjsXpVWWUZX7DpL: 
-    * :SnlH6GixFhcqmE3y: 
-    * :zZWjXXfXMyBgfyQz: 
-    * :z1p98pBY0XLj2Dgn: 
+@id arM021rqUFcQ81BQ
+@title mirroring (psychology)
+@alias http://dbpedia.org/resource/Mirroring_(psychology)
+@created 1453417935094
+@weight 0.5
+* :JZbZhD9MPpP76pbA: 
+* :4FEOED1PvBo9hoqK: 
+* :yKjsXpVWWUZX7DpL: 
+* :SnlH6GixFhcqmE3y: 
+* :zZWjXXfXMyBgfyQz: 
+* :z1p98pBY0XLj2Dgn: 

@@ -1,4 +1,5 @@
-* :theqCat6cFc58dZp: dap greeting
-    @created 1348376868874
-    @alias http://dbpedia.org/resource/Dap_greeting
-    @weight 0.5
+@id theqCat6cFc58dZp
+@title dap greeting
+@alias http://dbpedia.org/resource/Dap_greeting
+@created 1348376868874
+@weight 0.5

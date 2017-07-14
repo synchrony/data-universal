@@ -1,10 +1,11 @@
-* :exavAXP1bRWwPrF4: diode
-    @created 1316377937218
-    @alias http://dbpedia.org/resource/Diode
-    @weight 0.5
-    * :lUP0LMiwog0vrKrr: 
-    * :nuLeJvoxxEkVE8VA: 
-    * :DIviHsGZprlucdgq: 
-    * :HVH9obNYBmvRnf7S: 
-    * :Zy42UMG0Mwp7btQ1: 
-    * :weJgDRfBBeKpvlZi: 
+@id exavAXP1bRWwPrF4
+@title diode
+@alias http://dbpedia.org/resource/Diode
+@created 1316377937218
+@weight 0.5
+* :lUP0LMiwog0vrKrr: 
+* :nuLeJvoxxEkVE8VA: 
+* :DIviHsGZprlucdgq: 
+* :HVH9obNYBmvRnf7S: 
+* :Zy42UMG0Mwp7btQ1: 
+* :weJgDRfBBeKpvlZi: 

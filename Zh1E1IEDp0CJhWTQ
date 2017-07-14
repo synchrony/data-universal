@@ -1,6 +1,7 @@
-* :Zh1E1IEDp0CJhWTQ: arousal
-    @created 1345177331897
-    @alias http://dbpedia.org/resource/Arousal
-    @weight 0.5
-    * :kcrbYzvuhwzu5LRI: 
-    * :J7eCBuvQZBkMpnVK: 
+@id Zh1E1IEDp0CJhWTQ
+@title arousal
+@alias http://dbpedia.org/resource/Arousal
+@created 1345177331897
+@weight 0.5
+* :kcrbYzvuhwzu5LRI: 
+* :J7eCBuvQZBkMpnVK: 

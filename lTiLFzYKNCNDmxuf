@@ -1,5 +1,6 @@
-* :lTiLFzYKNCNDmxuf: Drama Desk Award
-    @created 1370190745027
-    @alias http://dbpedia.org/resource/Drama_Desk_Award
-    @weight 0.5
-    * :rri1d062vOEFbQC0: 
+@id lTiLFzYKNCNDmxuf
+@title Drama Desk Award
+@alias http://dbpedia.org/resource/Drama_Desk_Award
+@created 1370190745027
+@weight 0.5
+* :rri1d062vOEFbQC0: 

@@ -1,5 +1,6 @@
-* :FGSmDRBZcrymqr8y: light
-    @created 1420053235098
-    @alias http://dbpedia.org/resource/Light
-    @weight 0.5
-    * :tmyu0KFieKzDfr4N: 
+@id FGSmDRBZcrymqr8y
+@title light
+@alias http://dbpedia.org/resource/Light
+@created 1420053235098
+@weight 0.5
+* :tmyu0KFieKzDfr4N: 

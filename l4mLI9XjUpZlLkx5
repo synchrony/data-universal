@@ -1,5 +1,6 @@
-* :l4mLI9XjUpZlLkx5: archaeology
-    @created 1448944085227
-    @alias http://dbpedia.org/resource/Archaeology
-    @weight 0.5
-    * :d5mrYhR0WVTDDfDA: 
+@id l4mLI9XjUpZlLkx5
+@title archaeology
+@alias http://dbpedia.org/resource/Archaeology
+@created 1448944085227
+@weight 0.5
+* :d5mrYhR0WVTDDfDA: 

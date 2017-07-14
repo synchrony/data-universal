@@ -1,6 +1,7 @@
-* :ToJARUk6LyiFLvfA: Knowledge Interchange Format
-    @created 1345178615889
-    @alias http://dbpedia.org/resource/Knowledge_Interchange_Format
-    @weight 0.5
-    * :HMMCyOxfMdHeYEih: 
-    * :SrNV7CB7sDVyGEsv: 
+@id ToJARUk6LyiFLvfA
+@title Knowledge Interchange Format
+@alias http://dbpedia.org/resource/Knowledge_Interchange_Format
+@created 1345178615889
+@weight 0.5
+* :HMMCyOxfMdHeYEih: 
+* :SrNV7CB7sDVyGEsv: 

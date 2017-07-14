@@ -1,7 +1,8 @@
-* :blIF38ZhuAtK0pgf: heuristic
-    @created 1469061924327
-    @alias http://dbpedia.org/resource/Heuristic
-    @weight 0.5
-    * :Ljh11CbgmGfnoJBQ: 
-    * :pi5kTrowHp1RuOgN: 
-    * :z5cK10CyFg0o9zqO: 
+@id blIF38ZhuAtK0pgf
+@title heuristic
+@alias http://dbpedia.org/resource/Heuristic
+@created 1469061924327
+@weight 0.5
+* :Ljh11CbgmGfnoJBQ: 
+* :pi5kTrowHp1RuOgN: 
+* :z5cK10CyFg0o9zqO: 

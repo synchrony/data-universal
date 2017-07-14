@@ -1,5 +1,6 @@
-* :VDur3unkeHaIcNQ2: spinal cord stimulator
-    @created 1339446275877
-    @alias http://dbpedia.org/resource/Spinal_cord_stimulator
-    @weight 0.5
-    * :a5TD9D0utbheSvDU: 
+@id VDur3unkeHaIcNQ2
+@title spinal cord stimulator
+@alias http://dbpedia.org/resource/Spinal_cord_stimulator
+@created 1339446275877
+@weight 0.5
+* :a5TD9D0utbheSvDU: 

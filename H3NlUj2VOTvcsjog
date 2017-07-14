@@ -1,7 +1,8 @@
-* :H3NlUj2VOTvcsjog: personal area network
-    @created 1313807584364
-    @alias http://dbpedia.org/resource/Personal_area_network
-    @weight 0.5
-    * :WDzMMflZzmrsFNEj: 
-    * :THH45yCVgWtfVx3L: 
-    * :i29RGQd5Nuw6fUbJ: 
+@id H3NlUj2VOTvcsjog
+@title personal area network
+@alias http://dbpedia.org/resource/Personal_area_network
+@created 1313807584364
+@weight 0.5
+* :WDzMMflZzmrsFNEj: 
+* :THH45yCVgWtfVx3L: 
+* :i29RGQd5Nuw6fUbJ: 

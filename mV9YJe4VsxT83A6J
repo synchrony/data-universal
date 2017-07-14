@@ -1,5 +1,6 @@
-* :mV9YJe4VsxT83A6J: pumpkin
-    @created 1414201423316
-    @alias http://dbpedia.org/resource/Pumpkin
-    @weight 0.5
-    * :E8UY2Ykjon4qfFCO: 
+@id mV9YJe4VsxT83A6J
+@title pumpkin
+@alias http://dbpedia.org/resource/Pumpkin
+@created 1414201423316
+@weight 0.5
+* :E8UY2Ykjon4qfFCO: 

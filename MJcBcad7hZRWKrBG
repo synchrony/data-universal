@@ -1,5 +1,6 @@
-* :MJcBcad7hZRWKrBG: Sindarin
-    @created 1380902383767
-    @alias http://dbpedia.org/resource/Sindarin
-    @weight 0.5
-    * :QOtjW6QNcRS3KUce: 
+@id MJcBcad7hZRWKrBG
+@title Sindarin
+@alias http://dbpedia.org/resource/Sindarin
+@created 1380902383767
+@weight 0.5
+* :QOtjW6QNcRS3KUce: 

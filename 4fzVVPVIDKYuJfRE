@@ -1,4 +1,5 @@
-* :4fzVVPVIDKYuJfRE: blood
-    @created 1409775223864
-    @alias http://dbpedia.org/resource/Blood
-    @weight 0.5
+@id 4fzVVPVIDKYuJfRE
+@title blood
+@alias http://dbpedia.org/resource/Blood
+@created 1409775223864
+@weight 0.5

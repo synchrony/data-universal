@@ -1,5 +1,6 @@
-* :ugNAxGUK76A2ZA3D: Embedded RDF
-    @created 1310276788585
-    @alias http://dbpedia.org/resource/Embedded_RDF
-    @weight 0.5
-    * :jdaJ20yMPYJKNpcj: 
+@id ugNAxGUK76A2ZA3D
+@title Embedded RDF
+@alias http://dbpedia.org/resource/Embedded_RDF
+@created 1310276788585
+@weight 0.5
+* :jdaJ20yMPYJKNpcj: 

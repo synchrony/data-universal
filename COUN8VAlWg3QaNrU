@@ -1,6 +1,7 @@
-* :COUN8VAlWg3QaNrU: blood pressure
-    @created 1350011934677
-    @alias http://dbpedia.org/resource/Blood_pressure
-    @weight 0.5
-    * :y5t7iNpFbsYzT4vY: 
-    * :qYXvM7hE32yk0d3W: 
+@id COUN8VAlWg3QaNrU
+@title blood pressure
+@alias http://dbpedia.org/resource/Blood_pressure
+@created 1350011934677
+@weight 0.5
+* :y5t7iNpFbsYzT4vY: 
+* :qYXvM7hE32yk0d3W: 

@@ -1,5 +1,6 @@
-* :CnsaI8M1L6jkNHAr: Mozilla Persona
-    @created 1359184061962
-    @alias http://dbpedia.org/resource/Mozilla_Persona
-    @weight 0.5
-    * :K9KIFvAn2pErtSgs: 
+@id CnsaI8M1L6jkNHAr
+@title Mozilla Persona
+@alias http://dbpedia.org/resource/Mozilla_Persona
+@created 1359184061962
+@weight 0.5
+* :K9KIFvAn2pErtSgs: 

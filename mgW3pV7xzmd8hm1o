@@ -1,4 +1,5 @@
-* :mgW3pV7xzmd8hm1o: buckminsterfullerene
-    @created 1336800858702
-    @alias http://dbpedia.org/resource/Buckminsterfullerene
-    @weight 0.5
+@id mgW3pV7xzmd8hm1o
+@title buckminsterfullerene
+@alias http://dbpedia.org/resource/Buckminsterfullerene
+@created 1336800858702
+@weight 0.5

@@ -1,4 +1,5 @@
-* :xCbKnqQazJXpYkcG: Memento (film)
-    @created 1322932569959
-    @alias http://dbpedia.org/resource/Memento_(film)
-    @weight 0.75
+@id xCbKnqQazJXpYkcG
+@title Memento (film)
+@alias http://dbpedia.org/resource/Memento_(film)
+@created 1322932569959
+@weight 0.75

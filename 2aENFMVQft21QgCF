@@ -1,10 +1,11 @@
-* :2aENFMVQft21QgCF: coaxial cable
-    @created 1327728099461
-    @alias http://dbpedia.org/resource/Coaxial_cable
-    @weight 0.75
-    * :EMmZDl4YpJMrhZXp: 
-    * :Q2xGkvn514nREVzv: 
-    * :ljv6aW9kTk4XU23u: 
-    * :gLagDET8owkRfNda: 
-    * :kjQxYYB1yZQqvjax: 
-    * :9vQBwSj0FOkLHYPY: 
+@id 2aENFMVQft21QgCF
+@title coaxial cable
+@alias http://dbpedia.org/resource/Coaxial_cable
+@created 1327728099461
+@weight 0.75
+* :EMmZDl4YpJMrhZXp: 
+* :Q2xGkvn514nREVzv: 
+* :ljv6aW9kTk4XU23u: 
+* :gLagDET8owkRfNda: 
+* :kjQxYYB1yZQqvjax: 
+* :9vQBwSj0FOkLHYPY: 

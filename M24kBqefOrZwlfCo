@@ -1,4 +1,5 @@
-* :M24kBqefOrZwlfCo: Office Space
-    @created 1322932569961
-    @alias http://dbpedia.org/resource/Office_Space
-    @weight 0.75
+@id M24kBqefOrZwlfCo
+@title Office Space
+@alias http://dbpedia.org/resource/Office_Space
+@created 1322932569961
+@weight 0.75

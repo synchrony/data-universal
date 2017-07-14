@@ -1,8 +1,9 @@
-* :H0hC3xRUgTyypOai: EAGLE (program)
-    @created 1388161955738
-    @alias http://dbpedia.org/resource/EAGLE_(program)
-    @weight 0.75
-    * :o2aXWWdUUyyAyEFr: 
-    * :ntC8z7uiCxCwBBRN: 
-    * :W87DNMzJJ2ncvMds: 
-    * :FhAz1sviq7UCtHet: 
+@id H0hC3xRUgTyypOai
+@title EAGLE (program)
+@alias http://dbpedia.org/resource/EAGLE_(program)
+@created 1388161955738
+@weight 0.75
+* :o2aXWWdUUyyAyEFr: 
+* :ntC8z7uiCxCwBBRN: 
+* :W87DNMzJJ2ncvMds: 
+* :FhAz1sviq7UCtHet: 

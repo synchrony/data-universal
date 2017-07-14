@@ -1,7 +1,8 @@
-* :QnP4KrADy9dEKteX: microphone
-    @created 1339365938248
-    @alias http://dbpedia.org/resource/Microphone
-    @weight 0.5
-    * :VvXJkA1hTGudWo5p: 
-    * :UOz4h24YYXNnCi8o: 
-    * :mCjHMKOjpsSKLZNR: 
+@id QnP4KrADy9dEKteX
+@title microphone
+@alias http://dbpedia.org/resource/Microphone
+@created 1339365938248
+@weight 0.5
+* :VvXJkA1hTGudWo5p: 
+* :UOz4h24YYXNnCi8o: 
+* :mCjHMKOjpsSKLZNR: 

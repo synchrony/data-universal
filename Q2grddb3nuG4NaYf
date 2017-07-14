@@ -1,10 +1,11 @@
-* :Q2grddb3nuG4NaYf: meditation
-    @created 1308890345340
-    @alias http://dbpedia.org/resource/Meditation
-    @weight 0.75
-    * :ehu3T5G25KKv0vcn: 
-    * :IDcYx8jF0HoBt1JP: 
-    * :WI4QTjKfyc4SFIos: 
-    * :ikgFUbmJHGPqh7Ie: 
-    * :4Y8Hk3QT79a35YAA: 
-    * :CHEMuDPPdGSOwiyx: 
+@id Q2grddb3nuG4NaYf
+@title meditation
+@alias http://dbpedia.org/resource/Meditation
+@created 1308890345340
+@weight 0.75
+* :ehu3T5G25KKv0vcn: 
+* :IDcYx8jF0HoBt1JP: 
+* :WI4QTjKfyc4SFIos: 
+* :ikgFUbmJHGPqh7Ie: 
+* :4Y8Hk3QT79a35YAA: 
+* :CHEMuDPPdGSOwiyx: 

@@ -1,3 +1,4 @@
-* :tgNKHqNIBzWa9IvA: "Tags do not act as simple isolated beacons, broadcasting packet to a central infrastructure. Rather, they exchange low-power packets in a peer-to-peer fashion, to sense their spatial neighbourhood and assess proximity with other tags (Figure 1A)."
-    @created 1453413082559
-    @weight 0.5
+@id tgNKHqNIBzWa9IvA
+@title "Tags do not act as simple isolated beacons, broadcasting packet to a central infrastructure. Rather, they exchange low-power packets in a peer-to-peer fashion, to sense their spatial neighbourhood and assess proximity with other tags (Figure 1A)."
+@created 1453413082559
+@weight 0.5

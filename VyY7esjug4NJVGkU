@@ -1,4 +1,5 @@
-* :VyY7esjug4NJVGkU: G.I. Joe
-    @created 1316408715393
-    @alias http://dbpedia.org/resource/G.I._Joe
-    @weight 0.75
+@id VyY7esjug4NJVGkU
+@title G.I. Joe
+@alias http://dbpedia.org/resource/G.I._Joe
+@created 1316408715393
+@weight 0.75

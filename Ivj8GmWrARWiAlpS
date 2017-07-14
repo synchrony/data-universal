@@ -1,10 +1,11 @@
-* :Ivj8GmWrARWiAlpS: Hanuman
-    @created 1334891434478
-    @alias http://dbpedia.org/resource/Hanuman
-    @weight 0.75
-    * :bQ05jzh50woXylbj: 
-    * :f64FGDwVWMfHMOZz: 
-    * :Juc6MsRSnE73bIsO: 
-    * :TairTt5ZNzS8SLZC: 
-    * :TqvfsZ6tYjwPQXg3: 
-    * :emnIdZDYCWH2uy9h: 
+@id Ivj8GmWrARWiAlpS
+@title Hanuman
+@alias http://dbpedia.org/resource/Hanuman
+@created 1334891434478
+@weight 0.75
+* :bQ05jzh50woXylbj: 
+* :f64FGDwVWMfHMOZz: 
+* :Juc6MsRSnE73bIsO: 
+* :TairTt5ZNzS8SLZC: 
+* :TqvfsZ6tYjwPQXg3: 
+* :emnIdZDYCWH2uy9h: 

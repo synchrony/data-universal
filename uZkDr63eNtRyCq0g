@@ -1,4 +1,5 @@
-* :uZkDr63eNtRyCq0g: Patagonia (clothing)
-    @created 1339552372889
-    @alias http://dbpedia.org/resource/Patagonia_(clothing)
-    @weight 0.5
+@id uZkDr63eNtRyCq0g
+@title Patagonia (clothing)
+@alias http://dbpedia.org/resource/Patagonia_(clothing)
+@created 1339552372889
+@weight 0.5

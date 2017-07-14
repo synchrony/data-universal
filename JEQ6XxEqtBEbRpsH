@@ -1,6 +1,7 @@
-* :JEQ6XxEqtBEbRpsH: Mapnik
-    @created 1326083508360
-    @alias http://dbpedia.org/resource/Mapnik
-    @weight 0.5
-    * :dF2XlQ7dt3fQOrUo: 
-    * :LbtqIniiEXRrglpv: 
+@id JEQ6XxEqtBEbRpsH
+@title Mapnik
+@alias http://dbpedia.org/resource/Mapnik
+@created 1326083508360
+@weight 0.5
+* :dF2XlQ7dt3fQOrUo: 
+* :LbtqIniiEXRrglpv: 

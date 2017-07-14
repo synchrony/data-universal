@@ -1,7 +1,8 @@
-* :vOhkM4XaKPNbf51X: OS X
-    @created 1338493188696
-    @alias http://dbpedia.org/resource/OS_X
-    @weight 0.5
-    * :pvLDezcAkcjb654N: 
-    * :561fEveOIVwvAHha: 
-    * :Na89k0SKBJl1y5GK: 
+@id vOhkM4XaKPNbf51X
+@title OS X
+@alias http://dbpedia.org/resource/OS_X
+@created 1338493188696
+@weight 0.5
+* :pvLDezcAkcjb654N: 
+* :561fEveOIVwvAHha: 
+* :Na89k0SKBJl1y5GK: 

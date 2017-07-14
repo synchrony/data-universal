@@ -1,5 +1,6 @@
-* :DHqIJb9FEQplTrD4: responsa
-    @created 1364231962701
-    @alias http://dbpedia.org/resource/Responsa
-    @weight 0.5
-    * :lZA0UJFJUwKZ8D9X: 
+@id DHqIJb9FEQplTrD4
+@title responsa
+@alias http://dbpedia.org/resource/Responsa
+@created 1364231962701
+@weight 0.5
+* :lZA0UJFJUwKZ8D9X: 

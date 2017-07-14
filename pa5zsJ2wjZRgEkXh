@@ -1,4 +1,5 @@
-* :pa5zsJ2wjZRgEkXh: personal grooming
-    @created 1342995899521
-    @alias http://dbpedia.org/resource/Personal_grooming
-    @weight 0.5
+@id pa5zsJ2wjZRgEkXh
+@title personal grooming
+@alias http://dbpedia.org/resource/Personal_grooming
+@created 1342995899521
+@weight 0.5

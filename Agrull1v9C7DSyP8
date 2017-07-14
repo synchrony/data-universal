@@ -1,8 +1,9 @@
-* :Agrull1v9C7DSyP8: autoassociative memory
-    @created 1343775836917
-    @alias http://dbpedia.org/resource/Auto-associative_memory
-    @weight 0.5
-    * :u5DFlChAQ0R5Bm2x: 
-    * :X9zRS0HLFiu9l2Ti: 
-    * :15cCWQoujQ3FnIOz: 
-    * :zMSWw6YKGQ9IgDeQ: 
+@id Agrull1v9C7DSyP8
+@title autoassociative memory
+@alias http://dbpedia.org/resource/Auto-associative_memory
+@created 1343775836917
+@weight 0.5
+* :u5DFlChAQ0R5Bm2x: 
+* :X9zRS0HLFiu9l2Ti: 
+* :15cCWQoujQ3FnIOz: 
+* :zMSWw6YKGQ9IgDeQ: 

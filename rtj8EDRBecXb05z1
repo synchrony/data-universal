@@ -1,5 +1,6 @@
-* :rtj8EDRBecXb05z1: banyan
-    @created 1336809605064
-    @alias http://dbpedia.org/resource/Banyan
-    @weight 0.5
-    * :Ihh6HVCvB1hi2Jhn: 
+@id rtj8EDRBecXb05z1
+@title banyan
+@alias http://dbpedia.org/resource/Banyan
+@created 1336809605064
+@weight 0.5
+* :Ihh6HVCvB1hi2Jhn: 

@@ -1,7 +1,8 @@
-* :rlb4cosJNm8iHCnR: collagen
-    @created 1430109023791
-    @alias http://dbpedia.org/resource/Collagen
-    @weight 0.5
-    * :ZMszSrltHhGQdHTP: 
-    * :BFg6R8zsmpQJaUVa: 
-    * :JNkUmdlAAKMFN4qq: 
+@id rlb4cosJNm8iHCnR
+@title collagen
+@alias http://dbpedia.org/resource/Collagen
+@created 1430109023791
+@weight 0.5
+* :ZMszSrltHhGQdHTP: 
+* :BFg6R8zsmpQJaUVa: 
+* :JNkUmdlAAKMFN4qq: 

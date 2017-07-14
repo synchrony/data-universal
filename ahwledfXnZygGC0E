@@ -1,6 +1,7 @@
-* :ahwledfXnZygGC0E: non-functional requirement
-    @created 1310231362435
-    @alias http://dbpedia.org/resource/Non-functional_requirement
-    @weight 0.5
-    * :1vdwKGEwrLDKozCE: 
-    * :NfJimsfY1nHaPezU: 
+@id ahwledfXnZygGC0E
+@title non-functional requirement
+@alias http://dbpedia.org/resource/Non-functional_requirement
+@created 1310231362435
+@weight 0.5
+* :1vdwKGEwrLDKozCE: 
+* :NfJimsfY1nHaPezU: 

@@ -1,5 +1,6 @@
-* :y389QQ3cxcb9g5gw: turnip
-    @created 1416060579532
-    @alias http://dbpedia.org/resource/Turnip
-    @weight 0.5
-    * :s0doihbYhB4ANNda: 
+@id y389QQ3cxcb9g5gw
+@title turnip
+@alias http://dbpedia.org/resource/Turnip
+@created 1416060579532
+@weight 0.5
+* :s0doihbYhB4ANNda: 

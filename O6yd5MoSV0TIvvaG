@@ -1,7 +1,8 @@
-* :O6yd5MoSV0TIvvaG: TopCoder
-    @created 1380777747044
-    @alias http://dbpedia.org/resource/TopCoder
-    @weight 0.5
-    * :uu4UJuMesHEAGDBY: 
-    * :OwiREsVCEgD2XsFN: 
-    * :erpaV2o5LgNw5Q5v: 
+@id O6yd5MoSV0TIvvaG
+@title TopCoder
+@alias http://dbpedia.org/resource/TopCoder
+@created 1380777747044
+@weight 0.5
+* :uu4UJuMesHEAGDBY: 
+* :OwiREsVCEgD2XsFN: 
+* :erpaV2o5LgNw5Q5v: 

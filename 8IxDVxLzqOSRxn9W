@@ -1,6 +1,7 @@
-* :8IxDVxLzqOSRxn9W: hearing range
-    @created 1429295794490
-    @alias http://dbpedia.org/resource/Hearing_range
-    @weight 0.5
-    * :s8DsYsirN1WTYXaf: 
-    * :xTeqkQETQTGOM3p6: 
+@id 8IxDVxLzqOSRxn9W
+@title hearing range
+@alias http://dbpedia.org/resource/Hearing_range
+@created 1429295794490
+@weight 0.5
+* :s8DsYsirN1WTYXaf: 
+* :xTeqkQETQTGOM3p6: 

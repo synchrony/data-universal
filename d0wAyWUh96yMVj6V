@@ -1,7 +1,8 @@
-* :d0wAyWUh96yMVj6V: Trivial File Transfer Protocol
-    @created 1439576263232
-    @alias http://dbpedia.org/resource/Trivial_File_Transfer_Protocol
-    @weight 0.75
-    * :sPZAmerLW0gMmuGD: 
-    * :D2E1J1jbWH9uiCht: 
-    * :fGjFZOWD2Fw7PE2I: 
+@id d0wAyWUh96yMVj6V
+@title Trivial File Transfer Protocol
+@alias http://dbpedia.org/resource/Trivial_File_Transfer_Protocol
+@created 1439576263232
+@weight 0.75
+* :sPZAmerLW0gMmuGD: 
+* :D2E1J1jbWH9uiCht: 
+* :fGjFZOWD2Fw7PE2I: 

@@ -1,7 +1,8 @@
-* :Aq3USTRsiNV4fyXh: digital photography
-    @created 1434466121141
-    @alias http://dbpedia.org/resource/Digital_photography
-    @weight 0.5
-    * :TXW16bvAvpbC3B3g: 
-    * :1xQIy1FcWioyxIC0: 
-    * :yOYf8ixtv4pYKqkt: 
+@id Aq3USTRsiNV4fyXh
+@title digital photography
+@alias http://dbpedia.org/resource/Digital_photography
+@created 1434466121141
+@weight 0.5
+* :TXW16bvAvpbC3B3g: 
+* :1xQIy1FcWioyxIC0: 
+* :yOYf8ixtv4pYKqkt: 

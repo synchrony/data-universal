@@ -1,4 +1,5 @@
-* :iIdNRrFG1DswQHfX: fashion
-    @created 1327531083333
-    @alias http://dbpedia.org/resource/Fashion
-    @weight 0.5
+@id iIdNRrFG1DswQHfX
+@title fashion
+@alias http://dbpedia.org/resource/Fashion
+@created 1327531083333
+@weight 0.5

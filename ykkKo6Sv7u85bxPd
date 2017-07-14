@@ -1,4 +1,5 @@
-* :ykkKo6Sv7u85bxPd: airworthiness certificate
-    @created 1486220966119
-    @alias http://dbpedia.org/resource/Airworthiness_certificate
-    @weight 0.75
+@id ykkKo6Sv7u85bxPd
+@title airworthiness certificate
+@alias http://dbpedia.org/resource/Airworthiness_certificate
+@created 1486220966119
+@weight 0.75

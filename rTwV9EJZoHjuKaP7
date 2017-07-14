@@ -1,5 +1,6 @@
-* :rTwV9EJZoHjuKaP7: durian
-    @created 1323386557911
-    @alias http://dbpedia.org/resource/Durian
-    @weight 0.75
-    * :mrXsZ4z6j23wdwCD: 
+@id rTwV9EJZoHjuKaP7
+@title durian
+@alias http://dbpedia.org/resource/Durian
+@created 1323386557911
+@weight 0.75
+* :mrXsZ4z6j23wdwCD: 

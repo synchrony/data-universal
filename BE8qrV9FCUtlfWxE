@@ -1,5 +1,6 @@
-* :BE8qrV9FCUtlfWxE: Subway (restaurant)
-    @created 1323927116053
-    @alias http://dbpedia.org/resource/Subway_(restaurant)
-    @weight 0.75
-    * :BXV76ThkyInWbrOf: 
+@id BE8qrV9FCUtlfWxE
+@title Subway (restaurant)
+@alias http://dbpedia.org/resource/Subway_(restaurant)
+@created 1323927116053
+@weight 0.75
+* :BXV76ThkyInWbrOf: 

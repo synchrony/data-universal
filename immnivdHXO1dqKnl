@@ -1,4 +1,5 @@
-* :immnivdHXO1dqKnl: dining philosophers problem
-    @created 1310230740879
-    @alias http://dbpedia.org/resource/Dining_philosophers_problem
-    @weight 0.5
+@id immnivdHXO1dqKnl
+@title dining philosophers problem
+@alias http://dbpedia.org/resource/Dining_philosophers_problem
+@created 1310230740879
+@weight 0.5

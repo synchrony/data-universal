@@ -1,4 +1,5 @@
-* :HBQVrMbfRzJ9vc2h: amygdala
-    @created 1490564236375
-    @alias http://dbpedia.org/resource/Amygdala
-    @weight 0.5
+@id HBQVrMbfRzJ9vc2h
+@title amygdala
+@alias http://dbpedia.org/resource/Amygdala
+@created 1490564236375
+@weight 0.5

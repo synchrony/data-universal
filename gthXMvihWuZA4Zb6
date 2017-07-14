@@ -1,11 +1,12 @@
-* :gthXMvihWuZA4Zb6: ontology (information science)
-    @created 1336680725057
-    @alias http://dbpedia.org/resource/Ontology_(information_science)
-    @weight 0.75
-    * :pVouW5Hc9OKaggd9: 
-    * :9UYWQ2AiNS0J8NDK: 
-    * :w2Kjlb1fQULLgKR9: 
-    * :83MgnHaMnburdOip: 
-    * :5HtXORdYRAMdZdlt: 
-    * :BYfVy2uQ50KahU3F: 
-    * :s6ZaKxgdv3JUcZVB: 
+@id gthXMvihWuZA4Zb6
+@title ontology (information science)
+@alias http://dbpedia.org/resource/Ontology_(information_science)
+@created 1336680725057
+@weight 0.75
+* :pVouW5Hc9OKaggd9: 
+* :9UYWQ2AiNS0J8NDK: 
+* :w2Kjlb1fQULLgKR9: 
+* :83MgnHaMnburdOip: 
+* :5HtXORdYRAMdZdlt: 
+* :BYfVy2uQ50KahU3F: 
+* :s6ZaKxgdv3JUcZVB: 

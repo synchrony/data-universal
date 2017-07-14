@@ -1,5 +1,6 @@
-* :NFGoXz5lXu0LVJC2: pitot tube
-    @created 1478880879311
-    @alias http://dbpedia.org/resource/Pitot_tube
-    @weight 0.5
-    * :m5DXnDA05NnyRmsB: 
+@id NFGoXz5lXu0LVJC2
+@title pitot tube
+@alias http://dbpedia.org/resource/Pitot_tube
+@created 1478880879311
+@weight 0.5
+* :m5DXnDA05NnyRmsB: 

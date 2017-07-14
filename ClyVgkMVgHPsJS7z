@@ -1,4 +1,5 @@
-* :ClyVgkMVgHPsJS7z: Batman & Robin (film)
-    @created 1326212115676
-    @alias http://dbpedia.org/resource/Batman_%26_Robin_(film)
-    @weight 0.5
+@id ClyVgkMVgHPsJS7z
+@title Batman & Robin (film)
+@alias http://dbpedia.org/resource/Batman_%26_Robin_(film)
+@created 1326212115676
+@weight 0.5

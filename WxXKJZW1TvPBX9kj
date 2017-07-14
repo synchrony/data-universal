@@ -1,4 +1,5 @@
-* :WxXKJZW1TvPBX9kj: heart
-    @created 1327532098730
-    @alias http://dbpedia.org/resource/Heart
-    @weight 0.5
+@id WxXKJZW1TvPBX9kj
+@title heart
+@alias http://dbpedia.org/resource/Heart
+@created 1327532098730
+@weight 0.5

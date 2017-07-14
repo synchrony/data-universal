@@ -1,7 +1,8 @@
-* :pf7GZDqsajAcCSdb: synchronous programming language
-    @created 1351624886756
-    @alias http://dbpedia.org/resource/Synchronous_programming_language
-    @weight 0.5
-    * :CcpFtSMJ776vvodu: 
-    * :h5FVECyBAgDiJ3B1: 
-    * :GvILZ5UrtvNFopeW: 
+@id pf7GZDqsajAcCSdb
+@title synchronous programming language
+@alias http://dbpedia.org/resource/Synchronous_programming_language
+@created 1351624886756
+@weight 0.5
+* :CcpFtSMJ776vvodu: 
+* :h5FVECyBAgDiJ3B1: 
+* :GvILZ5UrtvNFopeW: 

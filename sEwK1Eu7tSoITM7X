@@ -1,6 +1,7 @@
-* :sEwK1Eu7tSoITM7X: regular grammar
-    @created 1421778051241
-    @alias http://dbpedia.org/resource/Regular_grammar
-    @weight 0.5
-    * :lksjbEIAOuQO3NQj: 
-    * :Q42Fj71YUoQgd0RB: 
+@id sEwK1Eu7tSoITM7X
+@title regular grammar
+@alias http://dbpedia.org/resource/Regular_grammar
+@created 1421778051241
+@weight 0.5
+* :lksjbEIAOuQO3NQj: 
+* :Q42Fj71YUoQgd0RB: 

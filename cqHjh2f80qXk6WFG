@@ -1,6 +1,7 @@
-* :cqHjh2f80qXk6WFG: pathwidth
-    @created 1466530826982
-    @alias http://dbpedia.org/resource/Pathwidth
-    @weight 0.5
-    * :MD4HmBSAVPGXeOvk: 
-    * :aieSKS3C4h8o5X3x: 
+@id cqHjh2f80qXk6WFG
+@title pathwidth
+@alias http://dbpedia.org/resource/Pathwidth
+@created 1466530826982
+@weight 0.5
+* :MD4HmBSAVPGXeOvk: 
+* :aieSKS3C4h8o5X3x: 

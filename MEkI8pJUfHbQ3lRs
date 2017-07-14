@@ -1,4 +1,5 @@
-* :MEkI8pJUfHbQ3lRs: Grand Canyon National Park
-    @created 1328651805629
-    @alias http://dbpedia.org/resource/Grand_Canyon_National_Park
-    @weight 0.5
+@id MEkI8pJUfHbQ3lRs
+@title Grand Canyon National Park
+@alias http://dbpedia.org/resource/Grand_Canyon_National_Park
+@created 1328651805629
+@weight 0.5

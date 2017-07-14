@@ -1,5 +1,6 @@
-* :AjpdMfbqHlMSLOpA: logical conjunction
-    @created 1316491712188
-    @alias http://dbpedia.org/resource/Logical_conjunction
-    @weight 0.5
-    * :ifA3VBHNdacg62Xs: 
+@id AjpdMfbqHlMSLOpA
+@title logical conjunction
+@alias http://dbpedia.org/resource/Logical_conjunction
+@created 1316491712188
+@weight 0.5
+* :ifA3VBHNdacg62Xs: 

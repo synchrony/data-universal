@@ -1,4 +1,5 @@
-* :x7ADAAgzEHiIQqws: Boise, Idaho
-    @created 1432926710585
-    @alias http://dbpedia.org/resource/Boise,_Idaho
-    @weight 0.75
+@id x7ADAAgzEHiIQqws
+@title Boise, Idaho
+@alias http://dbpedia.org/resource/Boise,_Idaho
+@created 1432926710585
+@weight 0.75

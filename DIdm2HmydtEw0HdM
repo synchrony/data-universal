@@ -1,4 +1,5 @@
-* :DIdm2HmydtEw0HdM: forearm
-    @created 1349891329287
-    @alias http://dbpedia.org/resource/Forearm
-    @weight 0.5
+@id DIdm2HmydtEw0HdM
+@title forearm
+@alias http://dbpedia.org/resource/Forearm
+@created 1349891329287
+@weight 0.5

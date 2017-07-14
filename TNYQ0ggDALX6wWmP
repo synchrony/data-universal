@@ -1,7 +1,8 @@
-* :TNYQ0ggDALX6wWmP: leadership
-    @created 1380685282862
-    @alias http://dbpedia.org/resource/Leadership
-    @weight 0.5
-    * :H1MGC7V2FzmPKptc: 
-    * :BL3PPs2RiafJUtRy: 
-    * :OhRQ8UPM9QGw1cpY: 
+@id TNYQ0ggDALX6wWmP
+@title leadership
+@alias http://dbpedia.org/resource/Leadership
+@created 1380685282862
+@weight 0.5
+* :H1MGC7V2FzmPKptc: 
+* :BL3PPs2RiafJUtRy: 
+* :OhRQ8UPM9QGw1cpY: 

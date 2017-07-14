@@ -1,7 +1,8 @@
-* :GcHOfEHLKKr1bSvu: career
-    @created 1378668506111
-    @alias http://dbpedia.org/resource/Career
-    @weight 0.5
-    * :c3m9Aw2RgLviSDZb: 
-    * :yGJwlxfhYQb5UKwJ: 
-    * :jlCNU26mTc2gyMyk: 
+@id GcHOfEHLKKr1bSvu
+@title career
+@alias http://dbpedia.org/resource/Career
+@created 1378668506111
+@weight 0.5
+* :c3m9Aw2RgLviSDZb: 
+* :yGJwlxfhYQb5UKwJ: 
+* :jlCNU26mTc2gyMyk: 

@@ -1,6 +1,7 @@
-* :ijU4JeibSKDd35dW: space exploration
-    @created 1403663614888
-    @alias http://dbpedia.org/resource/Space_exploration
-    @weight 0.5
-    * :I00JwyiJzicqlzpw: 
-    * :uYKuMvmGPldiMwp2: 
+@id ijU4JeibSKDd35dW
+@title space exploration
+@alias http://dbpedia.org/resource/Space_exploration
+@created 1403663614888
+@weight 0.5
+* :I00JwyiJzicqlzpw: 
+* :uYKuMvmGPldiMwp2: 

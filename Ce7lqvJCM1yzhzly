@@ -1,6 +1,7 @@
-* :Ce7lqvJCM1yzhzly: second
-    @created 1425236561812
-    @alias http://dbpedia.org/resource/Second
-    @weight 0.5
-    * :6k7ELl76Ijd6fvyx: 
-    * :J1ZFBIfJEqw77s5s: 
+@id Ce7lqvJCM1yzhzly
+@title second
+@alias http://dbpedia.org/resource/Second
+@created 1425236561812
+@weight 0.5
+* :6k7ELl76Ijd6fvyx: 
+* :J1ZFBIfJEqw77s5s: 

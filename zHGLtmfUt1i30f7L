@@ -1,4 +1,5 @@
-* :zHGLtmfUt1i30f7L: Monaco
-    @created 1470039572872
-    @alias http://dbpedia.org/resource/Monaco
-    @weight 0.5
+@id zHGLtmfUt1i30f7L
+@title Monaco
+@alias http://dbpedia.org/resource/Monaco
+@created 1470039572872
+@weight 0.5

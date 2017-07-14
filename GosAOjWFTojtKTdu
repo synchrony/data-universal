@@ -1,4 +1,5 @@
-* :GosAOjWFTojtKTdu: stratosphere
-    @created 1481651664609
-    @alias http://dbpedia.org/resource/Stratosphere
-    @weight 0.5
+@id GosAOjWFTojtKTdu
+@title stratosphere
+@alias http://dbpedia.org/resource/Stratosphere
+@created 1481651664609
+@weight 0.5

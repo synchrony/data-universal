@@ -1,7 +1,8 @@
-* :YPuBRw2WQpBXagNn: Jainism
-    @created 1415630315917
-    @alias http://dbpedia.org/resource/Jainism
-    @weight 0.5
-    * :LdEYu9BTAHAV8vOv: 
-    * :1lTePiFhIcLSQh3F: 
-    * :jUfzmopZqBdTIGBQ: 
+@id YPuBRw2WQpBXagNn
+@title Jainism
+@alias http://dbpedia.org/resource/Jainism
+@created 1415630315917
+@weight 0.5
+* :LdEYu9BTAHAV8vOv: 
+* :1lTePiFhIcLSQh3F: 
+* :jUfzmopZqBdTIGBQ: 

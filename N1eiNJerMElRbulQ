@@ -1,6 +1,7 @@
-* :N1eiNJerMElRbulQ: Library of Alexandria
-    @created 1377144146044
-    @alias http://dbpedia.org/resource/Library_of_Alexandria
-    @weight 0.5
-    * :V3RXFyqr95KONdVA: 
-    * :0AcOkAfmxZPwgbIh: 
+@id N1eiNJerMElRbulQ
+@title Library of Alexandria
+@alias http://dbpedia.org/resource/Library_of_Alexandria
+@created 1377144146044
+@weight 0.5
+* :V3RXFyqr95KONdVA: 
+* :0AcOkAfmxZPwgbIh: 

@@ -1,4 +1,5 @@
-* :HbzW2BP911ZkCAF6: The Passion of the Christ
-    @created 1344057785882
-    @alias http://dbpedia.org/resource/The_Passion_of_the_Christ
-    @weight 0.5
+@id HbzW2BP911ZkCAF6
+@title The Passion of the Christ
+@alias http://dbpedia.org/resource/The_Passion_of_the_Christ
+@created 1344057785882
+@weight 0.5

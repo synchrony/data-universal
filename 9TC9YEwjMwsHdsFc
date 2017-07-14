@@ -1,8 +1,9 @@
-* :9TC9YEwjMwsHdsFc: Indus Valley Civilisation
-    @created 1469371890054
-    @alias http://dbpedia.org/resource/Indus_Valley_Civilisation
-    @weight 0.5
-    * :4NEvChDE0xYeI77I: 
-    * :bcvKuDTaZkpqQzPK: 
-    * :9rLQsv2tzntfulNX: 
-    * :0lyzHm3RghQR1Ylo: 
+@id 9TC9YEwjMwsHdsFc
+@title Indus Valley Civilisation
+@alias http://dbpedia.org/resource/Indus_Valley_Civilisation
+@created 1469371890054
+@weight 0.5
+* :4NEvChDE0xYeI77I: 
+* :bcvKuDTaZkpqQzPK: 
+* :9rLQsv2tzntfulNX: 
+* :0lyzHm3RghQR1Ylo: 

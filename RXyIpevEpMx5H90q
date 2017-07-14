@@ -1,4 +1,5 @@
-* :RXyIpevEpMx5H90q: monster
-    @created 1350135360125
-    @alias http://dbpedia.org/resource/Monster
-    @weight 0.5
+@id RXyIpevEpMx5H90q
+@title monster
+@alias http://dbpedia.org/resource/Monster
+@created 1350135360125
+@weight 0.5

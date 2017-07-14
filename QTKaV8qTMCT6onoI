@@ -1,4 +1,5 @@
-* :QTKaV8qTMCT6onoI: table tennis
-    @created 1342247957498
-    @alias http://dbpedia.org/resource/Table_tennis
-    @weight 0.5
+@id QTKaV8qTMCT6onoI
+@title table tennis
+@alias http://dbpedia.org/resource/Table_tennis
+@created 1342247957498
+@weight 0.5

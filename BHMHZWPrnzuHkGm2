@@ -1,5 +1,6 @@
-* :BHMHZWPrnzuHkGm2: bed size
-    @created 1386336335991
-    @alias http://dbpedia.org/resource/Bed_size
-    @weight 0.5
-    * :XrZ4xr5DzBBixLWC: 
+@id BHMHZWPrnzuHkGm2
+@title bed size
+@alias http://dbpedia.org/resource/Bed_size
+@created 1386336335991
+@weight 0.5
+* :XrZ4xr5DzBBixLWC: 

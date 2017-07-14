@@ -1,4 +1,5 @@
-* :Lux9LtWqI22mVoqP: C-3PO
-    @created 1353736597205
-    @alias http://dbpedia.org/resource/C-3PO
-    @weight 0.5
+@id Lux9LtWqI22mVoqP
+@title C-3PO
+@alias http://dbpedia.org/resource/C-3PO
+@created 1353736597205
+@weight 0.5

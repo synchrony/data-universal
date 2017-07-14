@@ -1,4 +1,5 @@
-* :SeS3qcpgXnWoHCuu: boat
-    @created 1349358227657
-    @alias http://dbpedia.org/resource/Boat
-    @weight 0.5
+@id SeS3qcpgXnWoHCuu
+@title boat
+@alias http://dbpedia.org/resource/Boat
+@created 1349358227657
+@weight 0.5

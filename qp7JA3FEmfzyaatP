@@ -1,7 +1,8 @@
-* :qp7JA3FEmfzyaatP: Deluge (software)
-    @created 1376841925108
-    @alias http://dbpedia.org/resource/Deluge_(software)
-    @weight 0.5
-    * :qk6VfEHUcTd9dZUW: 
-    * :PHK52gNndP4j57MW: 
-    * :KcUxnYgKCBVhPUCe: 
+@id qp7JA3FEmfzyaatP
+@title Deluge (software)
+@alias http://dbpedia.org/resource/Deluge_(software)
+@created 1376841925108
+@weight 0.5
+* :qk6VfEHUcTd9dZUW: 
+* :PHK52gNndP4j57MW: 
+* :KcUxnYgKCBVhPUCe: 

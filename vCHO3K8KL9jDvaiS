@@ -1,6 +1,7 @@
-* :vCHO3K8KL9jDvaiS: Wankhede Stadium
-    @created 1432925131176
-    @alias http://dbpedia.org/resource/Wankhede_Stadium
-    @weight 0.5
-    * :e8DMjnVLW6SSlqbE: 
-    * :IPzOpeeWKpzAZJNI: 
+@id vCHO3K8KL9jDvaiS
+@title Wankhede Stadium
+@alias http://dbpedia.org/resource/Wankhede_Stadium
+@created 1432925131176
+@weight 0.5
+* :e8DMjnVLW6SSlqbE: 
+* :IPzOpeeWKpzAZJNI: 

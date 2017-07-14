@@ -1,5 +1,6 @@
-* :kHZhB0ICUBmFoXxb: formula
-    @created 1310230505352
-    @alias http://dbpedia.org/resource/Formula
-    @weight 0.5
-    * :RCzQGKflrptmjEEY: 
+@id kHZhB0ICUBmFoXxb
+@title formula
+@alias http://dbpedia.org/resource/Formula
+@created 1310230505352
+@weight 0.5
+* :RCzQGKflrptmjEEY: 

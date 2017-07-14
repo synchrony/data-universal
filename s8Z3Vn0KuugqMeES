@@ -1,7 +1,8 @@
-* :s8Z3Vn0KuugqMeES: Game Boy
-    @created 1377542895488
-    @alias http://dbpedia.org/resource/Game_Boy
-    @weight 0.5
-    * :aBHarCbqpuVSxXD7: 
-    * :i0IWsXvnsCDJwl7C: 
-    * :tcFwaVoNJ4NS0prq: 
+@id s8Z3Vn0KuugqMeES
+@title Game Boy
+@alias http://dbpedia.org/resource/Game_Boy
+@created 1377542895488
+@weight 0.5
+* :aBHarCbqpuVSxXD7: 
+* :i0IWsXvnsCDJwl7C: 
+* :tcFwaVoNJ4NS0prq: 

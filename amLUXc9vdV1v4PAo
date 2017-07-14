@@ -1,6 +1,7 @@
-* :amLUXc9vdV1v4PAo: serratus anterior muscle
-    @created 1331178732777
-    @alias http://dbpedia.org/resource/Serratus_anterior_muscle
-    @weight 0.5
-    * :1QfwTgU85pND9Kuw: 
-    * :of3kgAUlHYePYcB7: 
+@id amLUXc9vdV1v4PAo
+@title serratus anterior muscle
+@alias http://dbpedia.org/resource/Serratus_anterior_muscle
+@created 1331178732777
+@weight 0.5
+* :1QfwTgU85pND9Kuw: 
+* :of3kgAUlHYePYcB7: 

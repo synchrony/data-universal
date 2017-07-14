@@ -1,6 +1,7 @@
-* :vp0mfAiMIHCUZkJm: painting
-    @created 1449467305164
-    @alias http://dbpedia.org/resource/Painting
-    @weight 0.5
-    * :ftBNlvVPgpXnEu8i: 
-    * :sAWHdvztFIyar83U: 
+@id vp0mfAiMIHCUZkJm
+@title painting
+@alias http://dbpedia.org/resource/Painting
+@created 1449467305164
+@weight 0.5
+* :ftBNlvVPgpXnEu8i: 
+* :sAWHdvztFIyar83U: 

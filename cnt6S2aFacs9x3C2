@@ -1,7 +1,8 @@
-* :cnt6S2aFacs9x3C2: Led Zeppelin
-    @created 1310279552858
-    @alias http://dbpedia.org/resource/Led_Zeppelin
-    @weight 0.5
-    * :gZ7DkM4ubBzg1dEC: 
-    * :c3j3b7OkP1OjcDjc: 
-    * :KwkAR1eTtygUG6BL: 
+@id cnt6S2aFacs9x3C2
+@title Led Zeppelin
+@alias http://dbpedia.org/resource/Led_Zeppelin
+@created 1310279552858
+@weight 0.5
+* :gZ7DkM4ubBzg1dEC: 
+* :c3j3b7OkP1OjcDjc: 
+* :KwkAR1eTtygUG6BL: 

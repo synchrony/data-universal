@@ -1,4 +1,5 @@
-* :UiGC8eCewXIbARQy: lightsaber
-    @created 1353737855763
-    @alias http://dbpedia.org/resource/Lightsaber
-    @weight 0.5
+@id UiGC8eCewXIbARQy
+@title lightsaber
+@alias http://dbpedia.org/resource/Lightsaber
+@created 1353737855763
+@weight 0.5

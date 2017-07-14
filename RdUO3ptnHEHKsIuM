@@ -1,5 +1,6 @@
-* :RdUO3ptnHEHKsIuM: migraine aura
-    @created 1310983198667
-    @alias http://dbpedia.org/resource/Migraine_aura
-    @weight 0.75
-    * :FdoLVJEzgogLPpxR: 
+@id RdUO3ptnHEHKsIuM
+@title migraine aura
+@alias http://dbpedia.org/resource/Migraine_aura
+@created 1310983198667
+@weight 0.75
+* :FdoLVJEzgogLPpxR: 

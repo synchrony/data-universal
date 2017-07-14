@@ -1,5 +1,6 @@
-* :yLJMJiJZjPYTVhqf: Firefox
-    @created 1318690975483
-    @alias http://dbpedia.org/resource/Firefox
-    @weight 0.75
-    * :vJuf8fFMjJD4QMFq: 
+@id yLJMJiJZjPYTVhqf
+@title Firefox
+@alias http://dbpedia.org/resource/Firefox
+@created 1318690975483
+@weight 0.75
+* :vJuf8fFMjJD4QMFq: 

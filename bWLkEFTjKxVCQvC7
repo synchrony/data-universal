@@ -1,5 +1,6 @@
-* :bWLkEFTjKxVCQvC7: Simon says
-    @created 1334454418389
-    @alias http://dbpedia.org/resource/Simon_says
-    @weight 0.5
-    * :0xAVDszpyf5bAFCU: 
+@id bWLkEFTjKxVCQvC7
+@title Simon says
+@alias http://dbpedia.org/resource/Simon_says
+@created 1334454418389
+@weight 0.5
+* :0xAVDszpyf5bAFCU: 

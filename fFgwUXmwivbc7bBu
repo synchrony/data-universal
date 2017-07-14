@@ -1,8 +1,9 @@
-* :fFgwUXmwivbc7bBu: InfluxDB
-    @created 1485721868043
-    @alias http://dbpedia.org/resource/InfluxDB
-    @weight 0.5
-    * :17dpa1y9VwfKTLtP: 
-    * :4jcRTatf4yWgkFaV: 
-    * :yj40Cyi8VYVkFSDS: 
-    * :JahYtwgVLadn0WPC: 
+@id fFgwUXmwivbc7bBu
+@title InfluxDB
+@alias http://dbpedia.org/resource/InfluxDB
+@created 1485721868043
+@weight 0.5
+* :17dpa1y9VwfKTLtP: 
+* :4jcRTatf4yWgkFaV: 
+* :yj40Cyi8VYVkFSDS: 
+* :JahYtwgVLadn0WPC: 

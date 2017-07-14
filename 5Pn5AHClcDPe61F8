@@ -1,4 +1,5 @@
-* :5Pn5AHClcDPe61F8: trust negotiation
-    @created 1345342878127
-    @alias http://dbpedia.org/resource/Trust_negotiation
-    @weight 0.5
+@id 5Pn5AHClcDPe61F8
+@title trust negotiation
+@alias http://dbpedia.org/resource/Trust_negotiation
+@created 1345342878127
+@weight 0.5

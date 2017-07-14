@@ -1,4 +1,5 @@
-* :uqpDS9bPCUxmqTju: Bing Videos
-    @created 1366618467087
-    @alias http://dbpedia.org/resource/Bing_Videos
-    @weight 0.5
+@id uqpDS9bPCUxmqTju
+@title Bing Videos
+@alias http://dbpedia.org/resource/Bing_Videos
+@created 1366618467087
+@weight 0.5

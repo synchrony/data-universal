@@ -1,5 +1,6 @@
-* :eFdd3xD4HCqUHPR4: golf
-    @created 1312621201736
-    @alias http://dbpedia.org/resource/Golf
-    @weight 0.5
-    * :CHMrNos8wqVqmG7K: 
+@id eFdd3xD4HCqUHPR4
+@title golf
+@alias http://dbpedia.org/resource/Golf
+@created 1312621201736
+@weight 0.5
+* :CHMrNos8wqVqmG7K: 

@@ -1,6 +1,7 @@
-* :Iba3xw6JKRUE6Xgk: weather radar
-    @created 1483819886843
-    @alias http://dbpedia.org/resource/Weather_radar
-    @weight 0.5
-    * :QcqlqUP1vqYBbRcS: 
-    * :ZcgXagtiTYsJPFqV: 
+@id Iba3xw6JKRUE6Xgk
+@title weather radar
+@alias http://dbpedia.org/resource/Weather_radar
+@created 1483819886843
+@weight 0.5
+* :QcqlqUP1vqYBbRcS: 
+* :ZcgXagtiTYsJPFqV: 

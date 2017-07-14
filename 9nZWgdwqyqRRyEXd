@@ -1,4 +1,5 @@
-* :9nZWgdwqyqRRyEXd: SUSE Linux distributions
-    @created 1477900620500
-    @alias http://dbpedia.org/resource/SUSE_Linux_distributions
-    @weight 0.5
+@id 9nZWgdwqyqRRyEXd
+@title SUSE Linux distributions
+@alias http://dbpedia.org/resource/SUSE_Linux_distributions
+@created 1477900620500
+@weight 0.5

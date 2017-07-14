@@ -1,5 +1,6 @@
-* :UZfYbUTqyksgjIM6: topological sorting
-    @created 1381109924864
-    @alias http://dbpedia.org/resource/Topological_sorting
-    @weight 0.5
-    * :izT9fpiYcM148xjN: 
+@id UZfYbUTqyksgjIM6
+@title topological sorting
+@alias http://dbpedia.org/resource/Topological_sorting
+@created 1381109924864
+@weight 0.5
+* :izT9fpiYcM148xjN: 

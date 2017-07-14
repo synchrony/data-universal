@@ -1,4 +1,5 @@
-* :ZSDkkZqjdWa3slcH: soil moisture sensor
-    @created 1476308210812
-    @alias http://dbpedia.org/resource/Soil_moisture_sensor
-    @weight 0.5
+@id ZSDkkZqjdWa3slcH
+@title soil moisture sensor
+@alias http://dbpedia.org/resource/Soil_moisture_sensor
+@created 1476308210812
+@weight 0.5

@@ -1,4 +1,5 @@
-* :A0iH5h0hQXXgwQib: WikiLeaks
-    @created 1431193190450
-    @alias http://dbpedia.org/resource/WikiLeaks
-    @weight 0.5
+@id A0iH5h0hQXXgwQib
+@title WikiLeaks
+@alias http://dbpedia.org/resource/WikiLeaks
+@created 1431193190450
+@weight 0.5

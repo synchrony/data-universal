@@ -1,5 +1,6 @@
-* :e2r2wFKnemenoi1q: George Washington
-    @shortcut gw
-    @created 1431723554547
-    @alias http://dbpedia.org/resource/George_Washington
-    @weight 0.5
+@id e2r2wFKnemenoi1q
+@title George Washington
+@alias http://dbpedia.org/resource/George_Washington
+@created 1431723554547
+@shortcut gw
+@weight 0.5

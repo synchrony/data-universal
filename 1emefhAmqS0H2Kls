@@ -1,5 +1,6 @@
-* :1emefhAmqS0H2Kls: wheat
-    @created 1416063902240
-    @alias http://dbpedia.org/resource/Wheat
-    @weight 0.5
-    * :zesRwPtzJY5jHUJq: 
+@id 1emefhAmqS0H2Kls
+@title wheat
+@alias http://dbpedia.org/resource/Wheat
+@created 1416063902240
+@weight 0.5
+* :zesRwPtzJY5jHUJq: 

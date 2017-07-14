@@ -1,7 +1,8 @@
-* :E8UY2Ykjon4qfFCO: pepita
-    @created 1416060249093
-    @alias http://dbpedia.org/resource/Pepita
-    @weight 0.5
-    * :N6IFkTyWTaTEBnGJ: 
-    * :TeVfOw58WgM1M9vI: 
-    * :ZDG7AzChsXI8wcy6: 
+@id E8UY2Ykjon4qfFCO
+@title pepita
+@alias http://dbpedia.org/resource/Pepita
+@created 1416060249093
+@weight 0.5
+* :N6IFkTyWTaTEBnGJ: 
+* :TeVfOw58WgM1M9vI: 
+* :ZDG7AzChsXI8wcy6: 

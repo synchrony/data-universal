@@ -1,4 +1,5 @@
-* :70rbhVnX0L5UReYD: aircraft boneyard
-    @created 1485883495985
-    @alias http://dbpedia.org/resource/Aircraft_boneyard
-    @weight 0.5
+@id 70rbhVnX0L5UReYD
+@title aircraft boneyard
+@alias http://dbpedia.org/resource/Aircraft_boneyard
+@created 1485883495985
+@weight 0.5

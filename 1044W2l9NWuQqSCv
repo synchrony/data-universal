@@ -1,4 +1,5 @@
-* :1044W2l9NWuQqSCv: Grand River (Michigan)
-    @created 1375595940145
-    @alias http://dbpedia.org/resource/Grand_River_(Michigan)
-    @weight 0.5
+@id 1044W2l9NWuQqSCv
+@title Grand River (Michigan)
+@alias http://dbpedia.org/resource/Grand_River_(Michigan)
+@created 1375595940145
+@weight 0.5

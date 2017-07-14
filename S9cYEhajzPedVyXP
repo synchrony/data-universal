@@ -1,6 +1,7 @@
-* :S9cYEhajzPedVyXP: masala chai
-    @created 1331048057854
-    @alias http://dbpedia.org/resource/Masala_chai
-    @weight 0.5
-    * :MZovfgNWlOoU5pmI: 
-    * :1l4uuI6CUL3pscJL: 
+@id S9cYEhajzPedVyXP
+@title masala chai
+@alias http://dbpedia.org/resource/Masala_chai
+@created 1331048057854
+@weight 0.5
+* :MZovfgNWlOoU5pmI: 
+* :1l4uuI6CUL3pscJL: 

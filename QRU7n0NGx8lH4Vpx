@@ -1,4 +1,5 @@
-* :QRU7n0NGx8lH4Vpx: 4chan
-    @created 1366618521937
-    @alias http://dbpedia.org/resource/4chan
-    @weight 0.5
+@id QRU7n0NGx8lH4Vpx
+@title 4chan
+@alias http://dbpedia.org/resource/4chan
+@created 1366618521937
+@weight 0.5

@@ -1,7 +1,8 @@
-* :3CaZyjv7VLqjEikN: Domain Name System
-    @created 1380855202298
-    @alias http://dbpedia.org/resource/Domain_Name_System
-    @weight 0.5
-    * :bTiouDDVqPpVuFlc: 
-    * :4g3M0ovm8LcnqTWI: 
-    * :ANE7RYAVzs3HUMx2: 
+@id 3CaZyjv7VLqjEikN
+@title Domain Name System
+@alias http://dbpedia.org/resource/Domain_Name_System
+@created 1380855202298
+@weight 0.5
+* :bTiouDDVqPpVuFlc: 
+* :4g3M0ovm8LcnqTWI: 
+* :ANE7RYAVzs3HUMx2: 

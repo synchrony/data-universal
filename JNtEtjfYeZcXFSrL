@@ -1,7 +1,8 @@
-* :JNtEtjfYeZcXFSrL: Willis Tower
-    @created 1383458289099
-    @alias http://dbpedia.org/resource/Willis_Tower
-    @weight 0.5
-    * :yldmvA7yPqsnmBn8: 
-    * :YK5yje7hNFnMH7O9: 
-    * :Gx3R44tRBZagPFHl: 
+@id JNtEtjfYeZcXFSrL
+@title Willis Tower
+@alias http://dbpedia.org/resource/Willis_Tower
+@created 1383458289099
+@weight 0.5
+* :yldmvA7yPqsnmBn8: 
+* :YK5yje7hNFnMH7O9: 
+* :Gx3R44tRBZagPFHl: 

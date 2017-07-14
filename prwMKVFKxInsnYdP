@@ -1,4 +1,5 @@
-* :prwMKVFKxInsnYdP: environment variable
-    @created 1450488421102
-    @alias http://dbpedia.org/resource/Environment_variable
-    @weight 0.5
+@id prwMKVFKxInsnYdP
+@title environment variable
+@alias http://dbpedia.org/resource/Environment_variable
+@created 1450488421102
+@weight 0.5

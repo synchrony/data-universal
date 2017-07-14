@@ -1,4 +1,5 @@
-* :LInwH4i6dgAqJcQg: Wild Wild West
-    @created 1326212115693
-    @alias http://dbpedia.org/resource/Wild_Wild_West
-    @weight 0.5
+@id LInwH4i6dgAqJcQg
+@title Wild Wild West
+@alias http://dbpedia.org/resource/Wild_Wild_West
+@created 1326212115693
+@weight 0.5

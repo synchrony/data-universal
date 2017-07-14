@@ -1,8 +1,9 @@
-* :BLKQLzu4oa7LclfG: garbage collection (computer science)
-    @created 1380832025827
-    @alias http://dbpedia.org/resource/Garbage_collection_(computer_science)
-    @weight 0.5
-    * :ooObMBDBE7CwYwt7: 
-    * :CvEK2QhOLP8or7oW: 
-    * :rZEYgCtAbgLWkPq2: 
-    * :GjVyToVRNtHrzoIW: 
+@id BLKQLzu4oa7LclfG
+@title garbage collection (computer science)
+@alias http://dbpedia.org/resource/Garbage_collection_(computer_science)
+@created 1380832025827
+@weight 0.5
+* :ooObMBDBE7CwYwt7: 
+* :CvEK2QhOLP8or7oW: 
+* :rZEYgCtAbgLWkPq2: 
+* :GjVyToVRNtHrzoIW: 

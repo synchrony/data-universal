@@ -1,9 +1,10 @@
-* :Sv5VspArVXzaLo43: radio broadcasting
-    @created 1326313614580
-    @alias http://dbpedia.org/resource/Radio_broadcasting
-    @weight 0.75
-    * :eHbj6pO0CTkPzs34: 
-    * :SPztbUmPLuUql6Ef: 
-    * :XTjaWrvGFBE1aVAV: 
-    * :LZxQzACgZcxbexAU: 
-    * :ZWfmKIXdSynUKJHD: 
+@id Sv5VspArVXzaLo43
+@title radio broadcasting
+@alias http://dbpedia.org/resource/Radio_broadcasting
+@created 1326313614580
+@weight 0.75
+* :eHbj6pO0CTkPzs34: 
+* :SPztbUmPLuUql6Ef: 
+* :XTjaWrvGFBE1aVAV: 
+* :LZxQzACgZcxbexAU: 
+* :ZWfmKIXdSynUKJHD: 

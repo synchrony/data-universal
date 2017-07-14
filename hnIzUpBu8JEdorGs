@@ -1,8 +1,9 @@
-* :hnIzUpBu8JEdorGs: Hindu prayer beads
-    @created 1415289289708
-    @alias http://dbpedia.org/resource/Hindu_prayer_beads
-    @weight 0.5
-    * :jToq2rpenELu819P: 
-    * :UNpLByNki39J9SQe: 
-    * :0rH5Nh0ZlviJoJWN: 
-    * :35Lz8EEbJiJFlMDj: 
+@id hnIzUpBu8JEdorGs
+@title Hindu prayer beads
+@alias http://dbpedia.org/resource/Hindu_prayer_beads
+@created 1415289289708
+@weight 0.5
+* :jToq2rpenELu819P: 
+* :UNpLByNki39J9SQe: 
+* :0rH5Nh0ZlviJoJWN: 
+* :35Lz8EEbJiJFlMDj: 

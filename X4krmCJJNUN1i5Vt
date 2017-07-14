@@ -1,8 +1,9 @@
-* :X4krmCJJNUN1i5Vt: inductive reasoning
-    @created 1335886382256
-    @alias http://dbpedia.org/resource/Inductive_reasoning
-    @weight 0.5
-    * :zDWubNvY0jnCVzYg: 
-    * :ZUIJEHqxyZu8kcgQ: 
-    * :1Q68HiofLODCHreV: 
-    * :JLeU2ZAQzMQLCdL6: 
+@id X4krmCJJNUN1i5Vt
+@title inductive reasoning
+@alias http://dbpedia.org/resource/Inductive_reasoning
+@created 1335886382256
+@weight 0.5
+* :zDWubNvY0jnCVzYg: 
+* :ZUIJEHqxyZu8kcgQ: 
+* :1Q68HiofLODCHreV: 
+* :JLeU2ZAQzMQLCdL6: 

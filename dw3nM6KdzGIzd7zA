@@ -1,4 +1,5 @@
-* :dw3nM6KdzGIzd7zA: Francis Bacon
-    @created 1454819488053
-    @alias http://dbpedia.org/resource/Francis_Bacon
-    @weight 0.5
+@id dw3nM6KdzGIzd7zA
+@title Francis Bacon
+@alias http://dbpedia.org/resource/Francis_Bacon
+@created 1454819488053
+@weight 0.5

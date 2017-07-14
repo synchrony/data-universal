@@ -1,5 +1,6 @@
-* :1uCwySANtjozOvDc: plant litter
-    @created 1476950274451
-    @alias http://dbpedia.org/resource/Plant_litter
-    @weight 0.5
-    * :dRmHUGo90ZWXl0cP: 
+@id 1uCwySANtjozOvDc
+@title plant litter
+@alias http://dbpedia.org/resource/Plant_litter
+@created 1476950274451
+@weight 0.5
+* :dRmHUGo90ZWXl0cP: 

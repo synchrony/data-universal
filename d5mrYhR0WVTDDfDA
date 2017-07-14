@@ -1,6 +1,7 @@
-* :d5mrYhR0WVTDDfDA: Göbekli Tepe
-    @created 1448944085233
-    @alias http://dbpedia.org/resource/G%C3%B6bekli_Tepe
-    @weight 0.5
-    * :2YXkkKGhXvQejAl2: 
-    * :T8qXztKguWmVhzK9: 
+@id d5mrYhR0WVTDDfDA
+@title Göbekli Tepe
+@alias http://dbpedia.org/resource/G%C3%B6bekli_Tepe
+@created 1448944085233
+@weight 0.5
+* :2YXkkKGhXvQejAl2: 
+* :T8qXztKguWmVhzK9: 

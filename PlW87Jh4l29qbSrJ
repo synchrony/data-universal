@@ -1,6 +1,7 @@
-* :PlW87Jh4l29qbSrJ: decision problem
-    @created 1465331471270
-    @alias http://dbpedia.org/resource/Decision_problem
-    @weight 0.5
-    * :H73RjBcjP7DcXwL4: 
-    * :kjvEYUYFLygQZw3j: 
+@id PlW87Jh4l29qbSrJ
+@title decision problem
+@alias http://dbpedia.org/resource/Decision_problem
+@created 1465331471270
+@weight 0.5
+* :H73RjBcjP7DcXwL4: 
+* :kjvEYUYFLygQZw3j: 

@@ -1,6 +1,7 @@
-* :M68bXnxZvc6FHI0l: atomic clock
-    @created 1403388640174
-    @alias http://dbpedia.org/resource/Atomic_clock
-    @weight 0.5
-    * :cnM2j2PbfYYvW03Y: 
-    * :kmTSY2paH7moQKfh: 
+@id M68bXnxZvc6FHI0l
+@title atomic clock
+@alias http://dbpedia.org/resource/Atomic_clock
+@created 1403388640174
+@weight 0.5
+* :cnM2j2PbfYYvW03Y: 
+* :kmTSY2paH7moQKfh: 

@@ -1,4 +1,5 @@
-* :tGAqwf41JLOwv6O2: arborist
-    @created 1476948192933
-    @alias http://dbpedia.org/resource/Arborist
-    @weight 0.5
+@id tGAqwf41JLOwv6O2
+@title arborist
+@alias http://dbpedia.org/resource/Arborist
+@created 1476948192933
+@weight 0.5

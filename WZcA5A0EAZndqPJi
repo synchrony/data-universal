@@ -1,5 +1,6 @@
-* :WZcA5A0EAZndqPJi: cardiovascular disease
-    @created 1353306283459
-    @alias http://dbpedia.org/resource/Cardiovascular_disease
-    @weight 0.5
-    * :ZApSFjAd3LkkNoH6: 
+@id WZcA5A0EAZndqPJi
+@title cardiovascular disease
+@alias http://dbpedia.org/resource/Cardiovascular_disease
+@created 1353306283459
+@weight 0.5
+* :ZApSFjAd3LkkNoH6: 

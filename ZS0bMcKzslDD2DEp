@@ -1,11 +1,12 @@
-* :ZS0bMcKzslDD2DEp: Parkour
-    @created 1323474249357
-    @alias http://dbpedia.org/resource/Parkour
-    @weight 0.75
-    * :aSx2myAbGVqqRmR5: 
-    * :o1xvJ5GSfbg9nKQ0: 
-    * :Z5hrlCplEm2yPUAQ: 
-    * :DWrbhFmOgatNc5s6: 
-    * :7MYwF99fAf95zuuS: 
-    * :CjTbwecNYNNnBWaJ: 
-    * :qDrG8mZMU87FMEGf: 
+@id ZS0bMcKzslDD2DEp
+@title Parkour
+@alias http://dbpedia.org/resource/Parkour
+@created 1323474249357
+@weight 0.75
+* :aSx2myAbGVqqRmR5: 
+* :o1xvJ5GSfbg9nKQ0: 
+* :Z5hrlCplEm2yPUAQ: 
+* :DWrbhFmOgatNc5s6: 
+* :7MYwF99fAf95zuuS: 
+* :CjTbwecNYNNnBWaJ: 
+* :qDrG8mZMU87FMEGf: 

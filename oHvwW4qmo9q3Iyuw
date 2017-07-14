@@ -1,9 +1,10 @@
-* :oHvwW4qmo9q3Iyuw: eletriptan
-    @created 1342856894134
-    @alias http://dbpedia.org/resource/Eletriptan
-    @weight 0.75
-    * :hNnJcNpKDRueS7sr: 
-    * :HDDy9tvz4n2Tk1wJ: 
-    * :pn7zxAMarjFA0NcW: 
-    * :1IrWLQKj5Smh9SDP: 
-    * :ndgDcx3sFSdqqJkg: 
+@id oHvwW4qmo9q3Iyuw
+@title eletriptan
+@alias http://dbpedia.org/resource/Eletriptan
+@created 1342856894134
+@weight 0.75
+* :hNnJcNpKDRueS7sr: 
+* :HDDy9tvz4n2Tk1wJ: 
+* :pn7zxAMarjFA0NcW: 
+* :1IrWLQKj5Smh9SDP: 
+* :ndgDcx3sFSdqqJkg: 

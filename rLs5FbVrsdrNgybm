@@ -1,5 +1,6 @@
-* :rLs5FbVrsdrNgybm: EXPSPACE
-    @created 1380923759933
-    @alias http://dbpedia.org/resource/EXPSPACE
-    @weight 0.5
-    * :WGbTdwsFutWai1Kp: 
+@id rLs5FbVrsdrNgybm
+@title EXPSPACE
+@alias http://dbpedia.org/resource/EXPSPACE
+@created 1380923759933
+@weight 0.5
+* :WGbTdwsFutWai1Kp: 

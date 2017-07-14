@@ -1,4 +1,5 @@
-* :NdbBJ18O4NzkOHyO: biceps curl
-    @created 1331186288780
-    @alias http://dbpedia.org/resource/Biceps_curl
-    @weight 0.5
+@id NdbBJ18O4NzkOHyO
+@title biceps curl
+@alias http://dbpedia.org/resource/Biceps_curl
+@created 1331186288780
+@weight 0.5

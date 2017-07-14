@@ -1,6 +1,7 @@
-* :e0Hjz3v7Oa1cERsc: maximal independent set
-    @created 1381082720464
-    @alias http://dbpedia.org/resource/Maximal_independent_set
-    @weight 0.5
-    * :iVKHEh5LqvxeRocj: 
-    * :0FeBpABEkOL7AHIl: 
+@id e0Hjz3v7Oa1cERsc
+@title maximal independent set
+@alias http://dbpedia.org/resource/Maximal_independent_set
+@created 1381082720464
+@weight 0.5
+* :iVKHEh5LqvxeRocj: 
+* :0FeBpABEkOL7AHIl: 

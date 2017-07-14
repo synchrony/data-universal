@@ -1,6 +1,7 @@
-* :ni9NPzc5nhf1zAXq: autumn
-    @created 1350136166417
-    @alias http://dbpedia.org/resource/Autumn
-    @weight 0.5
-    * :hcG1idNOnRIuWW1c: 
-    * :OBOYzpnsgJneyLKh: 
+@id ni9NPzc5nhf1zAXq
+@title autumn
+@alias http://dbpedia.org/resource/Autumn
+@created 1350136166417
+@weight 0.5
+* :hcG1idNOnRIuWW1c: 
+* :OBOYzpnsgJneyLKh: 

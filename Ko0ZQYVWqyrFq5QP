@@ -1,4 +1,5 @@
-* :Ko0ZQYVWqyrFq5QP: North Carolina
-    @created 1385053431871
-    @alias http://dbpedia.org/resource/North_Carolina
-    @weight 0.5
+@id Ko0ZQYVWqyrFq5QP
+@title North Carolina
+@alias http://dbpedia.org/resource/North_Carolina
+@created 1385053431871
+@weight 0.5

@@ -1,4 +1,5 @@
-* :v1z8DJz0mOGV9rec: Kentucky
-    @created 1385053431860
-    @alias http://dbpedia.org/resource/Kentucky
-    @weight 0.5
+@id v1z8DJz0mOGV9rec
+@title Kentucky
+@alias http://dbpedia.org/resource/Kentucky
+@created 1385053431860
+@weight 0.5

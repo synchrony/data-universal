@@ -1,8 +1,9 @@
-* :E3G0axwbWGwcKa6N: anger
-    @created 1353404345513
-    @alias http://dbpedia.org/resource/Anger
-    @weight 0.5
-    * :mW3udzOrMQOXkKb0: 
-    * :DXxq8i8iJvE9fRcf: 
-    * :DByWM0hXFx2gaDRr: 
-    * :4zCAMcunVwhQ7FSt: 
+@id E3G0axwbWGwcKa6N
+@title anger
+@alias http://dbpedia.org/resource/Anger
+@created 1353404345513
+@weight 0.5
+* :mW3udzOrMQOXkKb0: 
+* :DXxq8i8iJvE9fRcf: 
+* :DByWM0hXFx2gaDRr: 
+* :4zCAMcunVwhQ7FSt: 

@@ -1,4 +1,5 @@
-* :oyNE5o8uPX1OchFu: IEEE Congress on Evolutionary Computation
-    @created 1436015620705
-    @alias http://dbpedia.org/resource/IEEE_Congress_on_Evolutionary_Computation
-    @weight 0.5
+@id oyNE5o8uPX1OchFu
+@title IEEE Congress on Evolutionary Computation
+@alias http://dbpedia.org/resource/IEEE_Congress_on_Evolutionary_Computation
+@created 1436015620705
+@weight 0.5

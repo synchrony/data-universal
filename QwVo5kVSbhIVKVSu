@@ -1,7 +1,8 @@
-* :QwVo5kVSbhIVKVSu: sorting algorithm
-    @created 1380747629302
-    @alias http://dbpedia.org/resource/Sorting_algorithm
-    @weight 0.5
-    * :0C2OFjQsyVSBc4QS: 
-    * :0MbH9HbV8CjYzBEG: 
-    * :xe35pMocou6pxHYA: 
+@id QwVo5kVSbhIVKVSu
+@title sorting algorithm
+@alias http://dbpedia.org/resource/Sorting_algorithm
+@created 1380747629302
+@weight 0.5
+* :0C2OFjQsyVSBc4QS: 
+* :0MbH9HbV8CjYzBEG: 
+* :xe35pMocou6pxHYA: 

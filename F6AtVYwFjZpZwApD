@@ -1,5 +1,6 @@
-* :F6AtVYwFjZpZwApD: Bank of America
-    @created 1313621663074
-    @alias http://dbpedia.org/resource/Bank_of_America
-    @weight 0.75
-    * :BqfXgg2fe4VvzDVE: 
+@id F6AtVYwFjZpZwApD
+@title Bank of America
+@alias http://dbpedia.org/resource/Bank_of_America
+@created 1313621663074
+@weight 0.75
+* :BqfXgg2fe4VvzDVE: 

@@ -1,13 +1,14 @@
-* :2mlRINVYQpduAYOb: Uber (company)
-    @created 1465962043665
-    @alias http://dbpedia.org/resource/Uber_(company)
-    @weight 1.0
-    * :5tI6gMHF72SMxDP0: 
-    * :au6G2ml2RqpaQ4Xy: 
-    * :OhOt7yg71kBYkI22: 
-    * :4pLUcz4cQhzKf2Vc: 
-    * :xZiHwYX8qkromrYP: 
-    * :VqJTqPjmzXGPVPNh: 
-    * :j4mqTGqmX2dvYvZt: 
-    * :1myWtMDaAVHim9mn: 
-    * :MkcwcHx4IhU3lVmG: 
+@id 2mlRINVYQpduAYOb
+@title Uber (company)
+@alias http://dbpedia.org/resource/Uber_(company)
+@created 1465962043665
+@weight 1.0
+* :5tI6gMHF72SMxDP0: 
+* :au6G2ml2RqpaQ4Xy: 
+* :OhOt7yg71kBYkI22: 
+* :4pLUcz4cQhzKf2Vc: 
+* :xZiHwYX8qkromrYP: 
+* :VqJTqPjmzXGPVPNh: 
+* :j4mqTGqmX2dvYvZt: 
+* :1myWtMDaAVHim9mn: 
+* :MkcwcHx4IhU3lVmG: 

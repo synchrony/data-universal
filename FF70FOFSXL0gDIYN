@@ -1,4 +1,5 @@
-* :FF70FOFSXL0gDIYN: latent semantic indexing
-    @created 1332019752603
-    @alias http://dbpedia.org/resource/Latent_semantic_indexing
-    @weight 0.5
+@id FF70FOFSXL0gDIYN
+@title latent semantic indexing
+@alias http://dbpedia.org/resource/Latent_semantic_indexing
+@created 1332019752603
+@weight 0.5

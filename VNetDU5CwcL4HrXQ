@@ -1,4 +1,5 @@
-* :VNetDU5CwcL4HrXQ: Hamburg
-    @created 1433512696179
-    @alias http://dbpedia.org/resource/Hamburg
-    @weight 0.5
+@id VNetDU5CwcL4HrXQ
+@title Hamburg
+@alias http://dbpedia.org/resource/Hamburg
+@created 1433512696179
+@weight 0.5

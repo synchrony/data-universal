@@ -1,4 +1,5 @@
-* :THJsfPkDnMrLKeTI: drinking
-    @created 1494692416710
-    @alias http://dbpedia.org/resource/Drinking
-    @weight 0.5
+@id THJsfPkDnMrLKeTI
+@title drinking
+@alias http://dbpedia.org/resource/Drinking
+@created 1494692416710
+@weight 0.5

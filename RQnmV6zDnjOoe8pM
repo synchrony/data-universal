@@ -1,5 +1,6 @@
-* :RQnmV6zDnjOoe8pM: Ethernet
-    @created 1407592968258
-    @alias http://dbpedia.org/resource/Ethernet
-    @weight 0.5
-    * :KPKbnAYj5xj9gSM8: 
+@id RQnmV6zDnjOoe8pM
+@title Ethernet
+@alias http://dbpedia.org/resource/Ethernet
+@created 1407592968258
+@weight 0.5
+* :KPKbnAYj5xj9gSM8: 

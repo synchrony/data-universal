@@ -1,4 +1,5 @@
-* :x6sPY59kYSk8vBR0: sardine
-    @created 1429470826860
-    @alias http://dbpedia.org/resource/Sardine
-    @weight 0.5
+@id x6sPY59kYSk8vBR0
+@title sardine
+@alias http://dbpedia.org/resource/Sardine
+@created 1429470826860
+@weight 0.5

@@ -1,7 +1,8 @@
-* :SqVGJJcfPiyLprHz: SparkFun Electronics
-    @created 1310229493029
-    @alias http://dbpedia.org/resource/Sparkfun
-    @weight 0.75
-    * :H58E28kc0Cl6RyEp: 
-    * :SToyi1PIvlpo4evd: 
-    * :FhAz1sviq7UCtHet: 
+@id SqVGJJcfPiyLprHz
+@title SparkFun Electronics
+@alias http://dbpedia.org/resource/Sparkfun
+@created 1310229493029
+@weight 0.75
+* :H58E28kc0Cl6RyEp: 
+* :SToyi1PIvlpo4evd: 
+* :FhAz1sviq7UCtHet: 

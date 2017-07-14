@@ -1,6 +1,7 @@
-* :oEFqTaGVFItUOkOA: evangelicalism
-    @created 1378043146766
-    @alias http://dbpedia.org/resource/Evangelicalism
-    @weight 0.5
-    * :bIv81QOf9dHFIE6t: 
-    * :VyhKZ2Wr1RA2e46n: 
+@id oEFqTaGVFItUOkOA
+@title evangelicalism
+@alias http://dbpedia.org/resource/Evangelicalism
+@created 1378043146766
+@weight 0.5
+* :bIv81QOf9dHFIE6t: 
+* :VyhKZ2Wr1RA2e46n: 

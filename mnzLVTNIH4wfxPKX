@@ -1,6 +1,7 @@
-* :mnzLVTNIH4wfxPKX: A440 (pitch standard)
-    @created 1387860137041
-    @alias http://dbpedia.org/resource/A440_(pitch_standard)
-    @weight 0.5
-    * :bbcZsN84ZAaZJQY4: 
-    * :yjJPkpZluwk6oMEV: 
+@id mnzLVTNIH4wfxPKX
+@title A440 (pitch standard)
+@alias http://dbpedia.org/resource/A440_(pitch_standard)
+@created 1387860137041
+@weight 0.5
+* :bbcZsN84ZAaZJQY4: 
+* :yjJPkpZluwk6oMEV: 

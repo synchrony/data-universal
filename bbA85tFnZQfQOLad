@@ -1,4 +1,5 @@
-* :bbA85tFnZQfQOLad: Tibetan alphabet
-    @created 1345495551368
-    @alias http://dbpedia.org/resource/Tibetan_script
-    @weight 0.5
+@id bbA85tFnZQfQOLad
+@title Tibetan alphabet
+@alias http://dbpedia.org/resource/Tibetan_script
+@created 1345495551368
+@weight 0.5

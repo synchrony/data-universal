@@ -1,5 +1,6 @@
-* :W2UTFakLWyF8hyQl: eudaimonia
-    @created 1337376331456
-    @alias http://dbpedia.org/resource/Eudaimonia
-    @weight 0.5
-    * :qWF39U4LRTgdBJ6P: 
+@id W2UTFakLWyF8hyQl
+@title eudaimonia
+@alias http://dbpedia.org/resource/Eudaimonia
+@created 1337376331456
+@weight 0.5
+* :qWF39U4LRTgdBJ6P: 

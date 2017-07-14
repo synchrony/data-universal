@@ -1,6 +1,7 @@
-* :aOvWiypyncwMTgwV: personal health record
-    @created 1346531663645
-    @alias http://dbpedia.org/resource/Personal_health_record
-    @weight 0.75
-    * :YLZwlMlFzpVBFot5: 
-    * :TzyDDheaz1toRU4e: 
+@id aOvWiypyncwMTgwV
+@title personal health record
+@alias http://dbpedia.org/resource/Personal_health_record
+@created 1346531663645
+@weight 0.75
+* :YLZwlMlFzpVBFot5: 
+* :TzyDDheaz1toRU4e: 

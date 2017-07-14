@@ -1,6 +1,7 @@
-* :JFv4p7OkwgcoUS78: signature
-    @created 1369324585998
-    @alias http://dbpedia.org/resource/Signature
-    @weight 0.5
-    * :3r0rChEaEIbzwv6s: 
-    * :0S0iLddRBXRBQDTk: 
+@id JFv4p7OkwgcoUS78
+@title signature
+@alias http://dbpedia.org/resource/Signature
+@created 1369324585998
+@weight 0.5
+* :3r0rChEaEIbzwv6s: 
+* :0S0iLddRBXRBQDTk: 

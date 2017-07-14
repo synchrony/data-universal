@@ -1,6 +1,7 @@
-* :nVcAjdzFWLNfizBk: brain
-    @created 1434912612756
-    @alias http://dbpedia.org/resource/Brain
-    @weight 0.75
-    * :fAp64y0fwcJFUoHB: 
-    * :4uwngksadxJiOgX7: 
+@id nVcAjdzFWLNfizBk
+@title brain
+@alias http://dbpedia.org/resource/Brain
+@created 1434912612756
+@weight 0.75
+* :fAp64y0fwcJFUoHB: 
+* :4uwngksadxJiOgX7: 

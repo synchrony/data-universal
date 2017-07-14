@@ -1,4 +1,5 @@
-* :SdwqKuxySVrFcnKR: francium
-    @created 1344309326540
-    @alias http://dbpedia.org/resource/Francium
-    @weight 0.5
+@id SdwqKuxySVrFcnKR
+@title francium
+@alias http://dbpedia.org/resource/Francium
+@created 1344309326540
+@weight 0.5

@@ -1,5 +1,6 @@
-* :TZLFh8IqSpsYFGAD: ResearchGate
-    @created 1342022493988
-    @alias http://dbpedia.org/resource/ResearchGate
-    @weight 0.5
-    * :m3IYH5qc6wsXa7kl: 
+@id TZLFh8IqSpsYFGAD
+@title ResearchGate
+@alias http://dbpedia.org/resource/ResearchGate
+@created 1342022493988
+@weight 0.5
+* :m3IYH5qc6wsXa7kl: 

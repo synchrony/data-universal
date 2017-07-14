@@ -1,7 +1,8 @@
-* :kkhzCaqEEMoSOcvw: OmniGraffle
-    @created 1392830876912
-    @alias http://dbpedia.org/resource/OmniGraffle
-    @weight 0.75
-    * :ijcHBjvxDnqgsyzs: 
-    * :clqd6SUusJxUhOu5: 
-    * :u1DvTe5yyX5pCGtl: 
+@id kkhzCaqEEMoSOcvw
+@title OmniGraffle
+@alias http://dbpedia.org/resource/OmniGraffle
+@created 1392830876912
+@weight 0.75
+* :ijcHBjvxDnqgsyzs: 
+* :clqd6SUusJxUhOu5: 
+* :u1DvTe5yyX5pCGtl: 

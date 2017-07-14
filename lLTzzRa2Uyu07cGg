@@ -1,7 +1,8 @@
-* :lLTzzRa2Uyu07cGg: discrete mathematics
-    @created 1380748052620
-    @alias http://dbpedia.org/resource/Discrete_math
-    @weight 0.5
-    * :9DYLMQHxTFfHvz1L: 
-    * :b8rJ1eG2A1znNGYf: 
-    * :DeDFKLyVIdGtGeuV: 
+@id lLTzzRa2Uyu07cGg
+@title discrete mathematics
+@alias http://dbpedia.org/resource/Discrete_math
+@created 1380748052620
+@weight 0.5
+* :9DYLMQHxTFfHvz1L: 
+* :b8rJ1eG2A1znNGYf: 
+* :DeDFKLyVIdGtGeuV: 

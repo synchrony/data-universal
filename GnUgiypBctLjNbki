@@ -1,10 +1,11 @@
-* :GnUgiypBctLjNbki: event-related potential
-    @created 1434908823688
-    @alias http://dbpedia.org/resource/Event-related_potential
-    @weight 0.5
-    * :rIzUHYupLQFoakOT: 
-    * :UCxLtDq8dgtIe3Yo: 
-    * :dcLtpV5HuxQ1MQXf: 
-    * :tSPRDxgrzx48FDrt: 
-    * :WJTEoQ87gsUduu7h: 
-    * :canAMJe6APxkl6X8: 
+@id GnUgiypBctLjNbki
+@title event-related potential
+@alias http://dbpedia.org/resource/Event-related_potential
+@created 1434908823688
+@weight 0.5
+* :rIzUHYupLQFoakOT: 
+* :UCxLtDq8dgtIe3Yo: 
+* :dcLtpV5HuxQ1MQXf: 
+* :tSPRDxgrzx48FDrt: 
+* :WJTEoQ87gsUduu7h: 
+* :canAMJe6APxkl6X8: 

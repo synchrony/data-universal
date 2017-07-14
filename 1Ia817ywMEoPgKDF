@@ -1,7 +1,8 @@
-* :1Ia817ywMEoPgKDF: Amazon Web Services
-    @created 1339698849680
-    @alias http://dbpedia.org/resource/Amazon_Web_Services
-    @weight 0.5
-    * :K1p35fGNEz9VTbj9: 
-    * :m10eCeptmbxhB5OO: 
-    * :NsDZXsv6BaXzLqjl: 
+@id 1Ia817ywMEoPgKDF
+@title Amazon Web Services
+@alias http://dbpedia.org/resource/Amazon_Web_Services
+@created 1339698849680
+@weight 0.5
+* :K1p35fGNEz9VTbj9: 
+* :m10eCeptmbxhB5OO: 
+* :NsDZXsv6BaXzLqjl: 

@@ -1,6 +1,7 @@
-* :nrtxSMeExGWJuY2r: presentation
-    @created 1386653815343
-    @alias http://dbpedia.org/resource/Presentation
-    @weight 0.5
-    * :FEdl6rJK3L5jonb8: 
-    * :sfWXzQ4udEGu3KkC: 
+@id nrtxSMeExGWJuY2r
+@title presentation
+@alias http://dbpedia.org/resource/Presentation
+@created 1386653815343
+@weight 0.5
+* :FEdl6rJK3L5jonb8: 
+* :sfWXzQ4udEGu3KkC: 

@@ -1,5 +1,6 @@
-* :E3WIXeMZ4UXcV6jy: Wikiversity
-    @created 1435074429831
-    @alias http://dbpedia.org/resource/Wikiversity
-    @weight 0.5
-    * :z5nVKaN6VMiAvEUM: 
+@id E3WIXeMZ4UXcV6jy
+@title Wikiversity
+@alias http://dbpedia.org/resource/Wikiversity
+@created 1435074429831
+@weight 0.5
+* :z5nVKaN6VMiAvEUM: 

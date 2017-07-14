@@ -1,5 +1,6 @@
-* :NhVunwcNjz4t4jiM: respiratory rate
-    @created 1350011934678
-    @alias http://dbpedia.org/resource/Respiratory_rate
-    @weight 0.5
-    * :lvc0MQQ4uux1kNBM: 
+@id NhVunwcNjz4t4jiM
+@title respiratory rate
+@alias http://dbpedia.org/resource/Respiratory_rate
+@created 1350011934678
+@weight 0.5
+* :lvc0MQQ4uux1kNBM: 

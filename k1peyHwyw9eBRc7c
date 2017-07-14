@@ -1,4 +1,5 @@
-* :k1peyHwyw9eBRc7c: human
-    @created 1413807967846
-    @alias http://dbpedia.org/resource/Human
-    @weight 0.5
+@id k1peyHwyw9eBRc7c
+@title human
+@alias http://dbpedia.org/resource/Human
+@created 1413807967846
+@weight 0.5

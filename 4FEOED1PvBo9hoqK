@@ -1,4 +1,5 @@
-* :4FEOED1PvBo9hoqK: mirror neuron
-    @created 1343321043851
-    @alias http://dbpedia.org/resource/Mirror_neuron
-    @weight 0.5
+@id 4FEOED1PvBo9hoqK
+@title mirror neuron
+@alias http://dbpedia.org/resource/Mirror_neuron
+@created 1343321043851
+@weight 0.5

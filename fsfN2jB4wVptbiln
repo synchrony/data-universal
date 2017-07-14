@@ -1,4 +1,5 @@
-* :fsfN2jB4wVptbiln: baptism
-    @created 1341198183082
-    @alias http://dbpedia.org/resource/Baptism
-    @weight 0.5
+@id fsfN2jB4wVptbiln
+@title baptism
+@alias http://dbpedia.org/resource/Baptism
+@created 1341198183082
+@weight 0.5

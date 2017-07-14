@@ -1,14 +1,15 @@
-* :lJ2lypQKOjF3pTj3: astronomy
-    @created 1310231362408
-    @alias http://dbpedia.org/resource/Astronomy
-    @weight 0.5
-    * :h8KoGQB0gFlYXl6t: 
-    * :aZxsdXvKNWTBVbke: 
-    * :4EDkJpcxIURON872: 
-    * :38lmZKuUcVkUUJ8z: 
-    * :sRqAh9d7oWkBtnmN: 
-    * :m9ViLTtFCnmPAgto: 
-    * :fl1rDxEDxpIMzn85: 
-    * :VDtnNKOVmcGFVRJD: 
-    * :EH8BZgpcOnzF0GQ3: 
-    * :RxghtPFoOe9fHPtZ: 
+@id lJ2lypQKOjF3pTj3
+@title astronomy
+@alias http://dbpedia.org/resource/Astronomy
+@created 1310231362408
+@weight 0.5
+* :h8KoGQB0gFlYXl6t: 
+* :aZxsdXvKNWTBVbke: 
+* :4EDkJpcxIURON872: 
+* :38lmZKuUcVkUUJ8z: 
+* :sRqAh9d7oWkBtnmN: 
+* :m9ViLTtFCnmPAgto: 
+* :fl1rDxEDxpIMzn85: 
+* :VDtnNKOVmcGFVRJD: 
+* :EH8BZgpcOnzF0GQ3: 
+* :RxghtPFoOe9fHPtZ: 

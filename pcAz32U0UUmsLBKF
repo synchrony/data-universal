@@ -1,6 +1,7 @@
-* :pcAz32U0UUmsLBKF: indicated airspeed
-    @created 1478879265673
-    @alias http://dbpedia.org/resource/Indicated_airspeed
-    @weight 0.5
-    * :mvGSoIXmSWubtEVF: 
-    * :jkavDEUVvITdWOI3: 
+@id pcAz32U0UUmsLBKF
+@title indicated airspeed
+@alias http://dbpedia.org/resource/Indicated_airspeed
+@created 1478879265673
+@weight 0.5
+* :mvGSoIXmSWubtEVF: 
+* :jkavDEUVvITdWOI3: 

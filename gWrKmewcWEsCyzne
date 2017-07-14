@@ -1,7 +1,8 @@
-* :gWrKmewcWEsCyzne: misplaced loyalty
-    @created 1309188863283
-    @alias http://dbpedia.org/resource/Misplaced_loyalty
-    @weight 0.5
-    * :1thvHl1PL6dYAXvt: 
-    * :EyD5X2DU87s893wZ: 
-    * :PCeTzjuyhwouaq2b: 
+@id gWrKmewcWEsCyzne
+@title misplaced loyalty
+@alias http://dbpedia.org/resource/Misplaced_loyalty
+@created 1309188863283
+@weight 0.5
+* :1thvHl1PL6dYAXvt: 
+* :EyD5X2DU87s893wZ: 
+* :PCeTzjuyhwouaq2b: 

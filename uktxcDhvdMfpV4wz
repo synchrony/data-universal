@@ -1,4 +1,5 @@
-* :uktxcDhvdMfpV4wz: VOR/DME
-    @created 1472828124953
-    @alias http://dbpedia.org/resource/VOR/DME
-    @weight 0.5
+@id uktxcDhvdMfpV4wz
+@title VOR/DME
+@alias http://dbpedia.org/resource/VOR/DME
+@created 1472828124953
+@weight 0.5

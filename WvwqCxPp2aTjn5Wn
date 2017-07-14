@@ -1,6 +1,7 @@
-* :WvwqCxPp2aTjn5Wn: Deathworld
-    @created 1353695046332
-    @alias http://dbpedia.org/resource/Deathworld
-    @weight 0.5
-    * :B4PQThZAgng8wMy8: 
-    * :NUz3bL8RdRpd6PUk: 
+@id WvwqCxPp2aTjn5Wn
+@title Deathworld
+@alias http://dbpedia.org/resource/Deathworld
+@created 1353695046332
+@weight 0.5
+* :B4PQThZAgng8wMy8: 
+* :NUz3bL8RdRpd6PUk: 

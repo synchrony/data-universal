@@ -1,7 +1,8 @@
-* :zIyxUDRyCAX5w0WI: bzip2
-    @created 1367333809713
-    @alias http://dbpedia.org/resource/Bzip2
-    @weight 0.5
-    * :OVLwysoTU1FUXmK2: 
-    * :YvMGouR5bsuK1Zmq: 
-    * :X8lFURT954LDFsYZ: 
+@id zIyxUDRyCAX5w0WI
+@title bzip2
+@alias http://dbpedia.org/resource/Bzip2
+@created 1367333809713
+@weight 0.5
+* :OVLwysoTU1FUXmK2: 
+* :YvMGouR5bsuK1Zmq: 
+* :X8lFURT954LDFsYZ: 

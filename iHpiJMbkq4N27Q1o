@@ -1,4 +1,5 @@
-* :iHpiJMbkq4N27Q1o: Albany International Airport
-    @created 1378048684934
-    @alias http://dbpedia.org/resource/Albany_International_Airport
-    @weight 0.5
+@id iHpiJMbkq4N27Q1o
+@title Albany International Airport
+@alias http://dbpedia.org/resource/Albany_International_Airport
+@created 1378048684934
+@weight 0.5

@@ -1,5 +1,6 @@
-* :wvPAVIEXcz0GgV06: isinglass
-    @created 1415293074210
-    @alias http://dbpedia.org/resource/Isinglass
-    @weight 0.5
-    * :eAW7s9BjuRpXqoZM: 
+@id wvPAVIEXcz0GgV06
+@title isinglass
+@alias http://dbpedia.org/resource/Isinglass
+@created 1415293074210
+@weight 0.5
+* :eAW7s9BjuRpXqoZM: 

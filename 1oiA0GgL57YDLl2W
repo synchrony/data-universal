@@ -1,6 +1,7 @@
-* :1oiA0GgL57YDLl2W: fin whale
-    @created 1490579830473
-    @alias http://dbpedia.org/resource/Fin_whale
-    @weight 0.5
-    * :hBQ8RdiXF2iBtZZx: 
-    * :5NPttZnouSbhnbPI: 
+@id 1oiA0GgL57YDLl2W
+@title fin whale
+@alias http://dbpedia.org/resource/Fin_whale
+@created 1490579830473
+@weight 0.5
+* :hBQ8RdiXF2iBtZZx: 
+* :5NPttZnouSbhnbPI: 

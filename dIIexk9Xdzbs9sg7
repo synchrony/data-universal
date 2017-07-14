@@ -1,10 +1,11 @@
-* :dIIexk9Xdzbs9sg7: psychedelic drug
-    @created 1378088049001
-    @alias http://dbpedia.org/resource/Psychedelic_drug
-    @weight 0.5
-    * :UGyBEna5kRAQodE5: 
-    * :Hpr2WoASYYPT4C1u: 
-    * :tRoP4CqmFnqQ3L4Z: 
-    * :84Bg9OZT4hCozeWK: 
-    * :No46UsrpUJmst1ce: 
-    * :7L58ESoSVuy6hkxG: 
+@id dIIexk9Xdzbs9sg7
+@title psychedelic drug
+@alias http://dbpedia.org/resource/Psychedelic_drug
+@created 1378088049001
+@weight 0.5
+* :UGyBEna5kRAQodE5: 
+* :Hpr2WoASYYPT4C1u: 
+* :tRoP4CqmFnqQ3L4Z: 
+* :84Bg9OZT4hCozeWK: 
+* :No46UsrpUJmst1ce: 
+* :7L58ESoSVuy6hkxG: 

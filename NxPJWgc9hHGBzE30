@@ -1,6 +1,7 @@
-* :NxPJWgc9hHGBzE30: Hudson
-    @created 1318099518108
-    @alias http://dbpedia.org/resource/Hudson
-    @weight 0.75
-    * :2ln7FPnXpcCEdArH: 
-    * :nwZSYj1KGr57ix10: 
+@id NxPJWgc9hHGBzE30
+@title Hudson
+@alias http://dbpedia.org/resource/Hudson
+@created 1318099518108
+@weight 0.75
+* :2ln7FPnXpcCEdArH: 
+* :nwZSYj1KGr57ix10: 

@@ -1,4 +1,5 @@
-* :TiPSOyeuPDOAklYr: curium
-    @created 1344307279761
-    @alias http://dbpedia.org/resource/Curium
-    @weight 0.5
+@id TiPSOyeuPDOAklYr
+@title curium
+@alias http://dbpedia.org/resource/Curium
+@created 1344307279761
+@weight 0.5

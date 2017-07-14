@@ -1,9 +1,10 @@
-* :ezZdNFn9zcKq9bch: Leonardo (journal)
-    @created 1448504901695
-    @alias http://dbpedia.org/resource/Leonardo_(journal)
-    @weight 0.5
-    @priority 0.5
-    * :RQhUTZD0IoZYU0ae: 
-    * :47cM3M59CcdBXbyi: 
-    * :UMsiZaau0nNZCHc9: 
-    * :ETaPOjHzPrEftOV1: 
+@id ezZdNFn9zcKq9bch
+@title Leonardo (journal)
+@alias http://dbpedia.org/resource/Leonardo_(journal)
+@created 1448504901695
+@weight 0.5
+@priority 0.5
+* :RQhUTZD0IoZYU0ae: 
+* :47cM3M59CcdBXbyi: 
+* :UMsiZaau0nNZCHc9: 
+* :ETaPOjHzPrEftOV1: 

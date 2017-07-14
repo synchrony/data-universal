@@ -1,4 +1,5 @@
-* :vxAIQ8TREkSPXs9P: AA battery
-    @created 1349751926058
-    @alias http://dbpedia.org/resource/AA_battery
-    @weight 0.5
+@id vxAIQ8TREkSPXs9P
+@title AA battery
+@alias http://dbpedia.org/resource/AA_battery
+@created 1349751926058
+@weight 0.5

@@ -1,4 +1,5 @@
-* :rCJAZXiTXrRl2Tp2: sunflower oil
-    @created 1429477130910
-    @alias http://dbpedia.org/resource/Sunflower_oil
-    @weight 0.5
+@id rCJAZXiTXrRl2Tp2
+@title sunflower oil
+@alias http://dbpedia.org/resource/Sunflower_oil
+@created 1429477130910
+@weight 0.5

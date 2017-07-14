@@ -1,4 +1,5 @@
-* :tancZZyJPLeHpy1l: Crucifixion of Jesus
-    @created 1417288894031
-    @alias http://dbpedia.org/resource/Crucifixion_of_Jesus
-    @weight 0.5
+@id tancZZyJPLeHpy1l
+@title Crucifixion of Jesus
+@alias http://dbpedia.org/resource/Crucifixion_of_Jesus
+@created 1417288894031
+@weight 0.5

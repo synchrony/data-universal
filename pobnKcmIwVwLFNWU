@@ -1,4 +1,5 @@
-* :pobnKcmIwVwLFNWU: Toyota
-    @created 1339552694507
-    @alias http://dbpedia.org/resource/Toyota
-    @weight 0.5
+@id pobnKcmIwVwLFNWU
+@title Toyota
+@alias http://dbpedia.org/resource/Toyota
+@created 1339552694507
+@weight 0.5

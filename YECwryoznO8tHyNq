@@ -1,4 +1,5 @@
-* :YECwryoznO8tHyNq: olive oil
-    @created 1309178131458
-    @alias http://dbpedia.org/resource/Olive_oil
-    @weight 0.5
+@id YECwryoznO8tHyNq
+@title olive oil
+@alias http://dbpedia.org/resource/Olive_oil
+@created 1309178131458
+@weight 0.5

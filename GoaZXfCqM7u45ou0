@@ -1,5 +1,6 @@
-* :GoaZXfCqM7u45ou0: Intel Edison
-    @created 1449436174250
-    @alias http://dbpedia.org/resource/Intel_Edison
-    @weight 0.5
-    * :Wn8CTXXgMhOLtwcU: 
+@id GoaZXfCqM7u45ou0
+@title Intel Edison
+@alias http://dbpedia.org/resource/Intel_Edison
+@created 1449436174250
+@weight 0.5
+* :Wn8CTXXgMhOLtwcU: 

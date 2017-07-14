@@ -1,6 +1,7 @@
-* :QW9CP4tUS3zwFIi9: evoked potential
-    @created 1434910453451
-    @alias http://dbpedia.org/resource/Evoked_potential
-    @weight 0.5
-    * :25HkSxFquO64WaDN: 
-    * :EV1wqhlIKUog6sQO: 
+@id QW9CP4tUS3zwFIi9
+@title evoked potential
+@alias http://dbpedia.org/resource/Evoked_potential
+@created 1434910453451
+@weight 0.5
+* :25HkSxFquO64WaDN: 
+* :EV1wqhlIKUog6sQO: 

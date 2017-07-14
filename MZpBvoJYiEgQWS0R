@@ -1,5 +1,6 @@
-* :MZpBvoJYiEgQWS0R: Gymnopilus luteofolius
-    @created 1310320779818
-    @alias http://dbpedia.org/resource/Gymnopilus_luteofolius
-    @weight 0.5
-    * :EVi2hTMMNhUHtcCS: 
+@id MZpBvoJYiEgQWS0R
+@title Gymnopilus luteofolius
+@alias http://dbpedia.org/resource/Gymnopilus_luteofolius
+@created 1310320779818
+@weight 0.5
+* :EVi2hTMMNhUHtcCS: 

@@ -1,4 +1,5 @@
-* :bgvjHtzyPUqqtM5T: hypovolemia
-    @created 1331678946919
-    @alias http://dbpedia.org/resource/Hypovolemia
-    @weight 0.5
+@id bgvjHtzyPUqqtM5T
+@title hypovolemia
+@alias http://dbpedia.org/resource/Hypovolemia
+@created 1331678946919
+@weight 0.5

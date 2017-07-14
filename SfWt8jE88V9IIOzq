@@ -1,7 +1,8 @@
-* :SfWt8jE88V9IIOzq: dash
-    @created 1326082133618
-    @alias http://dbpedia.org/resource/Dash
-    @weight 0.5
-    * :x04DSXiQOldKjWFO: 
-    * :bM74U5Ys1qCwJMJS: 
-    * :ZLHBpzjgYXegNvYr: 
+@id SfWt8jE88V9IIOzq
+@title dash
+@alias http://dbpedia.org/resource/Dash
+@created 1326082133618
+@weight 0.5
+* :x04DSXiQOldKjWFO: 
+* :bM74U5Ys1qCwJMJS: 
+* :ZLHBpzjgYXegNvYr: 

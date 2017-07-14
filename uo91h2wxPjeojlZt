@@ -1,4 +1,5 @@
-* :uo91h2wxPjeojlZt: astronaut
-    @created 1378265436135
-    @alias http://dbpedia.org/resource/Astronaut
-    @weight 0.5
+@id uo91h2wxPjeojlZt
+@title astronaut
+@alias http://dbpedia.org/resource/Astronaut
+@created 1378265436135
+@weight 0.5

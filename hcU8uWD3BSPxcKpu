@@ -1,8 +1,9 @@
-* :hcU8uWD3BSPxcKpu: accelerometer
-    @created 1337740405175
-    @alias http://dbpedia.org/resource/Accelerometer
-    @weight 0.75
-    * :PhYwFhgrf8jDYiP8: 
-    * :gQN76qj5qwrHxYsp: 
-    * :SbTjtczz5YGvcdoe: 
-    * :rjc5dyVtyzB7OYiV: 
+@id hcU8uWD3BSPxcKpu
+@title accelerometer
+@alias http://dbpedia.org/resource/Accelerometer
+@created 1337740405175
+@weight 0.75
+* :PhYwFhgrf8jDYiP8: 
+* :gQN76qj5qwrHxYsp: 
+* :SbTjtczz5YGvcdoe: 
+* :rjc5dyVtyzB7OYiV: 

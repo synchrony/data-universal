@@ -1,12 +1,13 @@
-* :99K5X0zmCNG4fHLC: somatosensory system
-    @created 1347156168230
-    @alias http://dbpedia.org/resource/Somatosensory_system
-    @weight 0.5
-    * :eQwCRdSUoASrQWKF: 
-    * :X5c5pKuRpmf5xvAT: 
-    * :Nh15w9nCNrZDwxWK: 
-    * :GXKQTn1bgqgBk4RH: 
-    * :l7TfsG7YsoSr7KDp: 
-    * :WpYvg2v9jCfCNkEl: 
-    * :YuOrfTGvegFF5W9S: 
-    * :InLWgYWGhR1epVOi: 
+@id 99K5X0zmCNG4fHLC
+@title somatosensory system
+@alias http://dbpedia.org/resource/Somatosensory_system
+@created 1347156168230
+@weight 0.5
+* :eQwCRdSUoASrQWKF: 
+* :X5c5pKuRpmf5xvAT: 
+* :Nh15w9nCNrZDwxWK: 
+* :GXKQTn1bgqgBk4RH: 
+* :l7TfsG7YsoSr7KDp: 
+* :WpYvg2v9jCfCNkEl: 
+* :YuOrfTGvegFF5W9S: 
+* :InLWgYWGhR1epVOi: 

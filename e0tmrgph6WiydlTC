@@ -1,8 +1,9 @@
-* :e0tmrgph6WiydlTC: ntpdate
-    @created 1394377504340
-    @alias http://dbpedia.org/resource/Ntpdate
-    @weight 0.75
-    * :6LybiyMEbVHQIy1G: 
-    * :uRIGU7MKF60JPx2C: 
-    * :Fo9zc0cjqAkk0MFP: 
-    * :Bp65A8e9loqjPD7l: 
+@id e0tmrgph6WiydlTC
+@title ntpdate
+@alias http://dbpedia.org/resource/Ntpdate
+@created 1394377504340
+@weight 0.75
+* :6LybiyMEbVHQIy1G: 
+* :uRIGU7MKF60JPx2C: 
+* :Fo9zc0cjqAkk0MFP: 
+* :Bp65A8e9loqjPD7l: 

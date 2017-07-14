@@ -1,6 +1,7 @@
-* :tqzZ9GtP1uKv7Rk5: poetry
-    @created 1407512315885
-    @alias http://dbpedia.org/resource/Poetry
-    @weight 0.5
-    * :B95unqLQKRdD98EZ: 
-    * :dsD6xmA7pHjqENxE: 
+@id tqzZ9GtP1uKv7Rk5
+@title poetry
+@alias http://dbpedia.org/resource/Poetry
+@created 1407512315885
+@weight 0.5
+* :B95unqLQKRdD98EZ: 
+* :dsD6xmA7pHjqENxE: 

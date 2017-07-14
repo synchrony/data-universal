@@ -1,5 +1,6 @@
-* :aGWPthQmlb3ItMnD: upper ontology (information science)
-    @created 1344141304642
-    @alias http://dbpedia.org/resource/Upper_ontology_(information_science)
-    @weight 0.5
-    * :wkTneKaApyixtubd: 
+@id aGWPthQmlb3ItMnD
+@title upper ontology (information science)
+@alias http://dbpedia.org/resource/Upper_ontology_(information_science)
+@created 1344141304642
+@weight 0.5
+* :wkTneKaApyixtubd: 

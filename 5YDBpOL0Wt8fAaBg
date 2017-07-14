@@ -1,7 +1,8 @@
-* :5YDBpOL0Wt8fAaBg: Reno Air Races
-    @created 1476335007867
-    @alias http://dbpedia.org/resource/Reno_Air_Races
-    @weight 0.5
-    @priority 0.25
-    * :udhCS1GKzM9Z8qhC: 
-    * :Rmgb3XZZJrROb5SW: 
+@id 5YDBpOL0Wt8fAaBg
+@title Reno Air Races
+@alias http://dbpedia.org/resource/Reno_Air_Races
+@created 1476335007867
+@weight 0.5
+@priority 0.25
+* :udhCS1GKzM9Z8qhC: 
+* :Rmgb3XZZJrROb5SW: 

@@ -1,4 +1,5 @@
-* :PN2FoPRLF9pDunUW: airfoil
-    @created 1479196251272
-    @alias http://dbpedia.org/resource/Airfoil
-    @weight 0.5
+@id PN2FoPRLF9pDunUW
+@title airfoil
+@alias http://dbpedia.org/resource/Airfoil
+@created 1479196251272
+@weight 0.5

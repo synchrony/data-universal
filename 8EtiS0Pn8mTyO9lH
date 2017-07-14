@@ -1,10 +1,11 @@
-* :8EtiS0Pn8mTyO9lH: Rule Interchange Format
-    @created 1345581876252
-    @alias http://dbpedia.org/resource/Rule_Interchange_Format
-    @weight 0.5
-    * :QlUb3lBWPGXtiVBi: 
-    * :IlAjEf2oUxK3EzMO: 
-    * :N7BB0Kpd7AAhNtKK: 
-    * :Rk0g23CYlIoPtF2p: 
-    * :aeUyxaD3MUftdOTQ: 
-    * :mtDTqKF8gwMcxSIC: 
+@id 8EtiS0Pn8mTyO9lH
+@title Rule Interchange Format
+@alias http://dbpedia.org/resource/Rule_Interchange_Format
+@created 1345581876252
+@weight 0.5
+* :QlUb3lBWPGXtiVBi: 
+* :IlAjEf2oUxK3EzMO: 
+* :N7BB0Kpd7AAhNtKK: 
+* :Rk0g23CYlIoPtF2p: 
+* :aeUyxaD3MUftdOTQ: 
+* :mtDTqKF8gwMcxSIC: 

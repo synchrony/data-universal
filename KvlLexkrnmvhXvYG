@@ -1,6 +1,7 @@
-* :KvlLexkrnmvhXvYG: Elliptic curve Diffie–Hellman
-    @created 1449541445411
-    @alias http://dbpedia.org/resource/Elliptic_curve_Diffie%E2%80%93Hellman
-    @weight 0.5
-    * :rthvtbIR2SVMLgE8: 
-    * :WcvkTGfXIthBuknB: 
+@id KvlLexkrnmvhXvYG
+@title Elliptic curve Diffie–Hellman
+@alias http://dbpedia.org/resource/Elliptic_curve_Diffie%E2%80%93Hellman
+@created 1449541445411
+@weight 0.5
+* :rthvtbIR2SVMLgE8: 
+* :WcvkTGfXIthBuknB: 

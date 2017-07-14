@@ -1,6 +1,7 @@
-* :s6pNPTEVKzZU7HGY: octreotide
-    @created 1456736889847
-    @alias http://dbpedia.org/resource/Octreotide
-    @weight 0.5
-    * :GpnDf8N1o6QISvhh: 
-    * :pkmHrPtsLZyGXt4E: 
+@id s6pNPTEVKzZU7HGY
+@title octreotide
+@alias http://dbpedia.org/resource/Octreotide
+@created 1456736889847
+@weight 0.5
+* :GpnDf8N1o6QISvhh: 
+* :pkmHrPtsLZyGXt4E: 

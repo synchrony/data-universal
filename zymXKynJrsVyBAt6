@@ -1,5 +1,6 @@
-* :zymXKynJrsVyBAt6: major depressive disorder
-    @created 1344135432757
-    @alias http://dbpedia.org/resource/Major_depressive_disorder
-    @weight 0.5
-    * :Or9Lxzrdh7laYY79: 
+@id zymXKynJrsVyBAt6
+@title major depressive disorder
+@alias http://dbpedia.org/resource/Major_depressive_disorder
+@created 1344135432757
+@weight 0.5
+* :Or9Lxzrdh7laYY79: 

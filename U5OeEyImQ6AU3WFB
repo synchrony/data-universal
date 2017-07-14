@@ -1,6 +1,7 @@
-* :U5OeEyImQ6AU3WFB: finite-state machine
-    @created 1380743619789
-    @alias http://dbpedia.org/resource/Finite-state_machine
-    @weight 0.5
-    * :cJY0CEPoNZGDsv2w: 
-    * :tTNwUim4OOepTQd8: 
+@id U5OeEyImQ6AU3WFB
+@title finite-state machine
+@alias http://dbpedia.org/resource/Finite-state_machine
+@created 1380743619789
+@weight 0.5
+* :cJY0CEPoNZGDsv2w: 
+* :tTNwUim4OOepTQd8: 

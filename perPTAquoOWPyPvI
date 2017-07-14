@@ -1,4 +1,5 @@
-* :perPTAquoOWPyPvI: Nikola Tesla
-    @created 1339566448703
-    @alias http://dbpedia.org/resource/Nikola_Tesla
-    @weight 0.5
+@id perPTAquoOWPyPvI
+@title Nikola Tesla
+@alias http://dbpedia.org/resource/Nikola_Tesla
+@created 1339566448703
+@weight 0.5

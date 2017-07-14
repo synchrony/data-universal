@@ -1,4 +1,5 @@
-* :eft0QN6JpLhYApTQ: Cyrillic script
-    @created 1327704242488
-    @alias http://dbpedia.org/resource/Cyrillic
-    @weight 0.75
+@id eft0QN6JpLhYApTQ
+@title Cyrillic script
+@alias http://dbpedia.org/resource/Cyrillic
+@created 1327704242488
+@weight 0.75

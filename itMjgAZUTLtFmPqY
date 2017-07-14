@@ -1,5 +1,6 @@
-* :itMjgAZUTLtFmPqY: Russian language
-    @created 1354854988372
-    @alias http://dbpedia.org/resource/Russian_language
-    @weight 0.5
-    * :veD9gO7AIKJu756u: 
+@id itMjgAZUTLtFmPqY
+@title Russian language
+@alias http://dbpedia.org/resource/Russian_language
+@created 1354854988372
+@weight 0.5
+* :veD9gO7AIKJu756u: 

@@ -1,7 +1,8 @@
-* :siBMR12wMj5BoFVt: Bolbitis heteroclita
-    @created 1419267850770
-    @alias http://dbpedia.org/resource/Bolbitis_heteroclita
-    @weight 0.5
-    * :8UlSOVXL1QKnbsJB: 
-    * :c6gDVfOV8UW2hQxm: 
-    * :ujMFTyB4fV4Oe9sY: 
+@id siBMR12wMj5BoFVt
+@title Bolbitis heteroclita
+@alias http://dbpedia.org/resource/Bolbitis_heteroclita
+@created 1419267850770
+@weight 0.5
+* :8UlSOVXL1QKnbsJB: 
+* :c6gDVfOV8UW2hQxm: 
+* :ujMFTyB4fV4Oe9sY: 

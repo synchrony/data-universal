@@ -1,5 +1,6 @@
-* :ms9kiaNXmLD4L5P1: lever
-    @created 1379951549913
-    @alias http://dbpedia.org/resource/Lever
-    @weight 0.5
-    * :MjkJbJmiLKeR9Nqz: 
+@id ms9kiaNXmLD4L5P1
+@title lever
+@alias http://dbpedia.org/resource/Lever
+@created 1379951549913
+@weight 0.5
+* :MjkJbJmiLKeR9Nqz: 

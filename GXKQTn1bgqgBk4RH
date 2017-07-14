@@ -1,4 +1,5 @@
-* :GXKQTn1bgqgBk4RH: nociceptor
-    @created 1350864693477
-    @alias http://dbpedia.org/resource/Nociceptor
-    @weight 0.5
+@id GXKQTn1bgqgBk4RH
+@title nociceptor
+@alias http://dbpedia.org/resource/Nociceptor
+@created 1350864693477
+@weight 0.5

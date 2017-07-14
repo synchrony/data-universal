@@ -1,4 +1,5 @@
-* :HgdMo9VTowCeCKyj: Godzilla
-    @created 1432242497196
-    @alias http://dbpedia.org/resource/Godzilla
-    @weight 0.5
+@id HgdMo9VTowCeCKyj
+@title Godzilla
+@alias http://dbpedia.org/resource/Godzilla
+@created 1432242497196
+@weight 0.5

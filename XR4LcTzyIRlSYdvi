@@ -1,4 +1,5 @@
-* :XR4LcTzyIRlSYdvi: foobar
-    @created 1468826265219
-    @alias http://dbpedia.org/resource/Foobar
-    @weight 0.5
+@id XR4LcTzyIRlSYdvi
+@title foobar
+@alias http://dbpedia.org/resource/Foobar
+@created 1468826265219
+@weight 0.5

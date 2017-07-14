@@ -1,6 +1,7 @@
-* :fqgAXowOj38I78bM: REI
-    @created 1339551417505
-    @alias http://dbpedia.org/resource/REI
-    @weight 0.5
-    * :yHbZHlVSXYZq8xsg: 
-    * :asoXOEZMRVmL0b50: 
+@id fqgAXowOj38I78bM
+@title REI
+@alias http://dbpedia.org/resource/REI
+@created 1339551417505
+@weight 0.5
+* :yHbZHlVSXYZq8xsg: 
+* :asoXOEZMRVmL0b50: 

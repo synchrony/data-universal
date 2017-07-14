@@ -1,6 +1,7 @@
-* :Iw6G7bXNcaRnPsRr: high-availability cluster
-    @created 1463343206526
-    @alias http://dbpedia.org/resource/High-availability_cluster
-    @weight 0.5
-    * :mumftxfCvt8h3f0Q: 
-    * :TL8JUI2t4S2FdAJr: 
+@id Iw6G7bXNcaRnPsRr
+@title high-availability cluster
+@alias http://dbpedia.org/resource/High-availability_cluster
+@created 1463343206526
+@weight 0.5
+* :mumftxfCvt8h3f0Q: 
+* :TL8JUI2t4S2FdAJr: 

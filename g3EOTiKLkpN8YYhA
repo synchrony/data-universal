@@ -1,5 +1,6 @@
-* :g3EOTiKLkpN8YYhA: individual retirement account
-    @created 1383271157239
-    @alias http://dbpedia.org/resource/Individual_retirement_account
-    @weight 0.5
-    * :Pr3X7c1vleOlsrmw: 
+@id g3EOTiKLkpN8YYhA
+@title individual retirement account
+@alias http://dbpedia.org/resource/Individual_retirement_account
+@created 1383271157239
+@weight 0.5
+* :Pr3X7c1vleOlsrmw: 

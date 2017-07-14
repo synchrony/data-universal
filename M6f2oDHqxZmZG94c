@@ -1,6 +1,7 @@
-* :M6f2oDHqxZmZG94c: data stream
-    @created 1351452435922
-    @alias http://dbpedia.org/resource/Data_stream
-    @weight 0.75
-    * :AArx5SIpN8GjmXIO: 
-    * :dwf0j1XVYcbjkhhR: 
+@id M6f2oDHqxZmZG94c
+@title data stream
+@alias http://dbpedia.org/resource/Data_stream
+@created 1351452435922
+@weight 0.75
+* :AArx5SIpN8GjmXIO: 
+* :dwf0j1XVYcbjkhhR: 

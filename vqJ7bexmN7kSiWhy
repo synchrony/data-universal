@@ -1,4 +1,5 @@
-* :vqJ7bexmN7kSiWhy: rotary encoder
-    @created 1328566747649
-    @alias http://dbpedia.org/resource/Rotary_encoder
-    @weight 0.75
+@id vqJ7bexmN7kSiWhy
+@title rotary encoder
+@alias http://dbpedia.org/resource/Rotary_encoder
+@created 1328566747649
+@weight 0.75

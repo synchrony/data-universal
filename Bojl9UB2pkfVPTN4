@@ -1,7 +1,8 @@
-* :Bojl9UB2pkfVPTN4: persona (user experience)
-    @created 1362497049458
-    @alias http://dbpedia.org/resource/Persona_(user_experience)
-    @weight 0.5
-    * :yACvzpx0JbCrfQD6: 
-    * :otuWM3XuGkpCCC1V: 
-    * :vvXuYOavIXtJI1eT: 
+@id Bojl9UB2pkfVPTN4
+@title persona (user experience)
+@alias http://dbpedia.org/resource/Persona_(user_experience)
+@created 1362497049458
+@weight 0.5
+* :yACvzpx0JbCrfQD6: 
+* :otuWM3XuGkpCCC1V: 
+* :vvXuYOavIXtJI1eT: 

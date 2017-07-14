@@ -1,6 +1,7 @@
-* :tj8RpJtpcdICDHVx: microtonal music
-    @created 1360897711362
-    @alias http://dbpedia.org/resource/Microtonal_music
-    @weight 0.5
-    * :RqKDWFBtVXYdmE8A: 
-    * :Eudq1TVpfR1OpqjP: 
+@id tj8RpJtpcdICDHVx
+@title microtonal music
+@alias http://dbpedia.org/resource/Microtonal_music
+@created 1360897711362
+@weight 0.5
+* :RqKDWFBtVXYdmE8A: 
+* :Eudq1TVpfR1OpqjP: 

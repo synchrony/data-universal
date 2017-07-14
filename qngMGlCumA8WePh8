@@ -1,4 +1,5 @@
-* :qngMGlCumA8WePh8: krypton
-    @created 1344309326545
-    @alias http://dbpedia.org/resource/Krypton
-    @weight 0.5
+@id qngMGlCumA8WePh8
+@title krypton
+@alias http://dbpedia.org/resource/Krypton
+@created 1344309326545
+@weight 0.5

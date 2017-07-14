@@ -1,6 +1,7 @@
-* :XjicLgmluCwCnBYM: Tagetes patula
-    @created 1439752290153
-    @alias http://dbpedia.org/resource/Tagetes_patula
-    @weight 0.5
-    * :gLnA3kTBbTRwj5SC: 
-    * :w3BXUwXqcjPJiNJL: 
+@id XjicLgmluCwCnBYM
+@title Tagetes patula
+@alias http://dbpedia.org/resource/Tagetes_patula
+@created 1439752290153
+@weight 0.5
+* :gLnA3kTBbTRwj5SC: 
+* :w3BXUwXqcjPJiNJL: 

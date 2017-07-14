@@ -1,6 +1,7 @@
-* :RgbPgNLkcmzU1oyy: UNICOM
-    @created 1480436138736
-    @alias http://dbpedia.org/resource/UNICOM
-    @weight 0.5
-    * :Hu3g8vNyj94DJsaO: 
-    * :WoRZSHiqvI9jG92s: 
+@id RgbPgNLkcmzU1oyy
+@title UNICOM
+@alias http://dbpedia.org/resource/UNICOM
+@created 1480436138736
+@weight 0.5
+* :Hu3g8vNyj94DJsaO: 
+* :WoRZSHiqvI9jG92s: 

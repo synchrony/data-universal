@@ -1,7 +1,8 @@
-* :6gBz2z9ct5dUbkVc: hearing (sense)
-    @created 1347156112259
-    @alias http://dbpedia.org/resource/Hearing_(sense)
-    @weight 0.5
-    * :5TixymltrpyDjubW: 
-    * :XQ5Gzl2ZQGILTPjz: 
-    * :JDaZAZnmJNw5DIN1: 
+@id 6gBz2z9ct5dUbkVc
+@title hearing (sense)
+@alias http://dbpedia.org/resource/Hearing_(sense)
+@created 1347156112259
+@weight 0.5
+* :5TixymltrpyDjubW: 
+* :XQ5Gzl2ZQGILTPjz: 
+* :JDaZAZnmJNw5DIN1: 

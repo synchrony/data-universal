@@ -1,4 +1,5 @@
-* :fzNpGpp7UM50nZwH: porthole
-    @created 1351790984739
-    @alias http://dbpedia.org/resource/Porthole
-    @weight 0.5
+@id fzNpGpp7UM50nZwH
+@title porthole
+@alias http://dbpedia.org/resource/Porthole
+@created 1351790984739
+@weight 0.5

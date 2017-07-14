@@ -1,12 +1,13 @@
-* :txjxdkvyUhrp9QuR: sleep deprivation
-    @created 1321468912792
-    @alias http://dbpedia.org/resource/Sleep_deprivation
-    @weight 0.75
-    * :mx1ZSnVc54e3ab2O: 
-    * :MqPVYIhJEG09EvLa: 
-    * :3Kn526wEdv8hNJRv: 
-    * :JDqsf9tMw0iWpEdx: 
-    * :UAiMjValsb7At4Yx: 
-    * :eeRHrPdgDB3bXAD3: 
-    * :JhZAPKrJaaqQ4l9N: 
-    * :kQ8BjBbM89wn9xUd: 
+@id txjxdkvyUhrp9QuR
+@title sleep deprivation
+@alias http://dbpedia.org/resource/Sleep_deprivation
+@created 1321468912792
+@weight 0.75
+* :mx1ZSnVc54e3ab2O: 
+* :MqPVYIhJEG09EvLa: 
+* :3Kn526wEdv8hNJRv: 
+* :JDqsf9tMw0iWpEdx: 
+* :UAiMjValsb7At4Yx: 
+* :eeRHrPdgDB3bXAD3: 
+* :JhZAPKrJaaqQ4l9N: 
+* :kQ8BjBbM89wn9xUd: 

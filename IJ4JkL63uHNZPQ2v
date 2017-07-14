@@ -1,6 +1,7 @@
-* :IJ4JkL63uHNZPQ2v: Chinese Room
-    @created 1343775644598
-    @alias http://dbpedia.org/resource/Chinese_room
-    @weight 0.5
-    * :LhDCYzxKlHlvgKlL: 
-    * :zUGX9yfQJXpqgLCS: 
+@id IJ4JkL63uHNZPQ2v
+@title Chinese Room
+@alias http://dbpedia.org/resource/Chinese_room
+@created 1343775644598
+@weight 0.5
+* :LhDCYzxKlHlvgKlL: 
+* :zUGX9yfQJXpqgLCS: 

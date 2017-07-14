@@ -1,6 +1,7 @@
-* :1Q9hA3yjDiOHmLoQ: shyness
-    @created 1444204817274
-    @alias http://dbpedia.org/resource/Shyness
-    @weight 0.5
-    * :xb3k1DJeJulZhfxk: 
-    * :4UsIATr0VOsX0Hui: 
+@id 1Q9hA3yjDiOHmLoQ
+@title shyness
+@alias http://dbpedia.org/resource/Shyness
+@created 1444204817274
+@weight 0.5
+* :xb3k1DJeJulZhfxk: 
+* :4UsIATr0VOsX0Hui: 

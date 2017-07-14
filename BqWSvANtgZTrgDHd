@@ -1,5 +1,6 @@
-* :BqWSvANtgZTrgDHd: schizotypal personality disorder
-    @created 1418618293501
-    @alias http://dbpedia.org/resource/Schizotypal_personality_disorder
-    @weight 0.5
-    * :MmuAQilviQVGzSdz: 
+@id BqWSvANtgZTrgDHd
+@title schizotypal personality disorder
+@alias http://dbpedia.org/resource/Schizotypal_personality_disorder
+@created 1418618293501
+@weight 0.5
+* :MmuAQilviQVGzSdz: 

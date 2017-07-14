@@ -1,5 +1,6 @@
-* :yzlA0FpnXau9g3Ez: audiovisual art
-    @created 1449475925148
-    @alias http://dbpedia.org/resource/Audiovisual_art
-    @weight 0.5
-    * :D36CJZT9BFASYGsb: 
+@id yzlA0FpnXau9g3Ez
+@title audiovisual art
+@alias http://dbpedia.org/resource/Audiovisual_art
+@created 1449475925148
+@weight 0.5
+* :D36CJZT9BFASYGsb: 

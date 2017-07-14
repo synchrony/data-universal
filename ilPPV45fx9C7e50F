@@ -1,4 +1,5 @@
-* :ilPPV45fx9C7e50F: cerebellum
-    @created 1490564236375
-    @alias http://dbpedia.org/resource/Cerebellum
-    @weight 0.5
+@id ilPPV45fx9C7e50F
+@title cerebellum
+@alias http://dbpedia.org/resource/Cerebellum
+@created 1490564236375
+@weight 0.5

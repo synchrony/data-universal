@@ -1,5 +1,6 @@
-* :ZjEE8rdVQ9vvTe2y: gnosis
-    @created 1419830959883
-    @alias http://dbpedia.org/resource/Gnosis
-    @weight 0.5
-    * :r8rxS2N33WLLFGTW: 
+@id ZjEE8rdVQ9vvTe2y
+@title gnosis
+@alias http://dbpedia.org/resource/Gnosis
+@created 1419830959883
+@weight 0.5
+* :r8rxS2N33WLLFGTW: 

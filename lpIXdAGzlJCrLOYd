@@ -1,7 +1,8 @@
-* :lpIXdAGzlJCrLOYd: Westron
-    @created 1380902529694
-    @alias http://dbpedia.org/resource/Westron
-    @weight 0.5
-    * :joEINBhMKxQjiIGw: 
-    * :eoIsGPRmS8M8zURL: 
-    * :Z71PmTZnf7Q73lMy: 
+@id lpIXdAGzlJCrLOYd
+@title Westron
+@alias http://dbpedia.org/resource/Westron
+@created 1380902529694
+@weight 0.5
+* :joEINBhMKxQjiIGw: 
+* :eoIsGPRmS8M8zURL: 
+* :Z71PmTZnf7Q73lMy: 

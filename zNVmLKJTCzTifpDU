@@ -1,4 +1,5 @@
-* :zNVmLKJTCzTifpDU: Peggy Lee
-    @created 1347333869458
-    @alias http://dbpedia.org/resource/Peggy_Lee
-    @weight 0.5
+@id zNVmLKJTCzTifpDU
+@title Peggy Lee
+@alias http://dbpedia.org/resource/Peggy_Lee
+@created 1347333869458
+@weight 0.5

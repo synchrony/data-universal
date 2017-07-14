@@ -1,4 +1,5 @@
-* :rLhqIL1acFD0bUcp: spoon
-    @created 1490559094205
-    @alias http://dbpedia.org/resource/Spoon
-    @weight 0.5
+@id rLhqIL1acFD0bUcp
+@title spoon
+@alias http://dbpedia.org/resource/Spoon
+@created 1490559094205
+@weight 0.5

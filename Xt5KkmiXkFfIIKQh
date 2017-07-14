@@ -1,5 +1,6 @@
-* :Xt5KkmiXkFfIIKQh: equation
-    @created 1380765403086
-    @alias http://dbpedia.org/resource/Equation
-    @weight 0.5
-    * :QFgbPh2fZW07GYLL: 
+@id Xt5KkmiXkFfIIKQh
+@title equation
+@alias http://dbpedia.org/resource/Equation
+@created 1380765403086
+@weight 0.5
+* :QFgbPh2fZW07GYLL: 

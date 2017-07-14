@@ -1,4 +1,5 @@
-* :PgzO3PXtCTJCpMps: Grand Teton National Park
-    @created 1328651506695
-    @alias http://dbpedia.org/resource/Grand_Teton_National_Park
-    @weight 0.5
+@id PgzO3PXtCTJCpMps
+@title Grand Teton National Park
+@alias http://dbpedia.org/resource/Grand_Teton_National_Park
+@created 1328651506695
+@weight 0.5

@@ -1,4 +1,5 @@
-* :GnTH20yN7DtvoiEq: phobia
-    @created 1370376105459
-    @alias http://dbpedia.org/resource/Phobia
-    @weight 0.5
+@id GnTH20yN7DtvoiEq
+@title phobia
+@alias http://dbpedia.org/resource/Phobia
+@created 1370376105459
+@weight 0.5

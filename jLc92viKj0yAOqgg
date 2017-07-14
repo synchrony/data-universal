@@ -1,6 +1,7 @@
-* :jLc92viKj0yAOqgg: sundial
-    @created 1326085723120
-    @alias http://dbpedia.org/resource/Sundial
-    @weight 0.5
-    * :MVo96W3sA55KI4Jo: 
-    * :XZMGPuWbbo2plLvh: 
+@id jLc92viKj0yAOqgg
+@title sundial
+@alias http://dbpedia.org/resource/Sundial
+@created 1326085723120
+@weight 0.5
+* :MVo96W3sA55KI4Jo: 
+* :XZMGPuWbbo2plLvh: 

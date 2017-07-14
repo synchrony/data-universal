@@ -1,5 +1,6 @@
-* :jvzEePbgIdR3q8xZ: cosine similarity
-    @created 1310277860640
-    @alias http://dbpedia.org/resource/Cosine_similarity
-    @weight 0.5
-    * :jdhiyvNzcIfoD5Kp: 
+@id jvzEePbgIdR3q8xZ
+@title cosine similarity
+@alias http://dbpedia.org/resource/Cosine_similarity
+@created 1310277860640
+@weight 0.5
+* :jdhiyvNzcIfoD5Kp: 

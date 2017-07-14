@@ -1,6 +1,7 @@
-* :zdMOfmqligjvM1sg: MPlayer
-    @created 1483071693862
-    @alias http://dbpedia.org/resource/MPlayer
-    @weight 0.5
-    * :ZG3renCxhhonDPbz: 
-    * :YdppYwulBx03JcgY: 
+@id zdMOfmqligjvM1sg
+@title MPlayer
+@alias http://dbpedia.org/resource/MPlayer
+@created 1483071693862
+@weight 0.5
+* :ZG3renCxhhonDPbz: 
+* :YdppYwulBx03JcgY: 

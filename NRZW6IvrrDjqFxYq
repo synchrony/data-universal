@@ -1,6 +1,7 @@
-* :NRZW6IvrrDjqFxYq: sequential consistency
-    @created 1463347576073
-    @alias http://dbpedia.org/resource/Sequential_consistency
-    @weight 0.5
-    * :R8YKOc7mB8ZAEeee: 
-    * :honTnuyckyTXEFRG: 
+@id NRZW6IvrrDjqFxYq
+@title sequential consistency
+@alias http://dbpedia.org/resource/Sequential_consistency
+@created 1463347576073
+@weight 0.5
+* :R8YKOc7mB8ZAEeee: 
+* :honTnuyckyTXEFRG: 

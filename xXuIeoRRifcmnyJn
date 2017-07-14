@@ -1,4 +1,5 @@
-* :xXuIeoRRifcmnyJn: hail
-    @created 1481907828035
-    @alias http://dbpedia.org/resource/Hail
-    @weight 0.5
+@id xXuIeoRRifcmnyJn
+@title hail
+@alias http://dbpedia.org/resource/Hail
+@created 1481907828035
+@weight 0.5

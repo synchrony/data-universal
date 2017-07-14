@@ -1,6 +1,7 @@
-* :LLRfS6psMYEXL3f2: mutillidae
-    @created 1336806518205
-    @alias http://dbpedia.org/resource/Mutillidae
-    @weight 0.5
-    * :KtXU4LRI88ksZf4A: 
-    * :mMgwECWT2Kqlnkft: 
+@id LLRfS6psMYEXL3f2
+@title mutillidae
+@alias http://dbpedia.org/resource/Mutillidae
+@created 1336806518205
+@weight 0.5
+* :KtXU4LRI88ksZf4A: 
+* :mMgwECWT2Kqlnkft: 

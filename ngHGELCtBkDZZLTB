@@ -1,4 +1,5 @@
-* :ngHGELCtBkDZZLTB: Alice's Adventures in Wonderland
-    @created 1486364451521
-    @alias http://dbpedia.org/resource/Alice%27s_Adventures_in_Wonderland
-    @weight 0.5
+@id ngHGELCtBkDZZLTB
+@title Alice's Adventures in Wonderland
+@alias http://dbpedia.org/resource/Alice%27s_Adventures_in_Wonderland
+@created 1486364451521
+@weight 0.5

@@ -1,4 +1,5 @@
-* :ASTLHmVdZCK7s6oL: puppet state
-    @created 1326847877536
-    @alias http://dbpedia.org/resource/Puppet_state
-    @weight 0.5
+@id ASTLHmVdZCK7s6oL
+@title puppet state
+@alias http://dbpedia.org/resource/Puppet_state
+@created 1326847877536
+@weight 0.5

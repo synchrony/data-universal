@@ -1,17 +1,18 @@
-* :bb8wIl34yd5ql8Wv: language
-    @created 1316540697454
-    @alias http://dbpedia.org/resource/Language
-    @weight 0.75
-    * :JINd8IuXUZ2Or3KU: 
-    * :cgM6ViJplndNYDrn: 
-    * :JPgvUZBbt6MxrWRS: 
-    * :jqSKZc5PN5fVlTyT: 
-    * :BqklKHfbmNCbbUJU: 
-    * :Su5n17SoFnqb8gHl: 
-    * :17QT03ycthgHLilc: 
-    * :aPVl36YPbRMG3sJK: 
-    * :2M5fOT84oLOYY3nl: 
-    * :P6z82J5QU81c4SpO: 
-    * :zvBv2K16P7qkzjob: 
-    * :PCFhDk024lHhdG5q: 
-    * :dxnyiWFO8zUkgmCP: 
+@id bb8wIl34yd5ql8Wv
+@title language
+@alias http://dbpedia.org/resource/Language
+@created 1316540697454
+@weight 0.75
+* :JINd8IuXUZ2Or3KU: 
+* :cgM6ViJplndNYDrn: 
+* :JPgvUZBbt6MxrWRS: 
+* :jqSKZc5PN5fVlTyT: 
+* :BqklKHfbmNCbbUJU: 
+* :Su5n17SoFnqb8gHl: 
+* :17QT03ycthgHLilc: 
+* :aPVl36YPbRMG3sJK: 
+* :2M5fOT84oLOYY3nl: 
+* :P6z82J5QU81c4SpO: 
+* :zvBv2K16P7qkzjob: 
+* :PCFhDk024lHhdG5q: 
+* :dxnyiWFO8zUkgmCP: 

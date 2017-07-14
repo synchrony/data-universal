@@ -1,4 +1,5 @@
-* :yBhV0nKdlmQXqXVv: tachometer
-    @created 1488098114574
-    @alias http://dbpedia.org/resource/Tachometer
-    @weight 0.5
+@id yBhV0nKdlmQXqXVv
+@title tachometer
+@alias http://dbpedia.org/resource/Tachometer
+@created 1488098114574
+@weight 0.5

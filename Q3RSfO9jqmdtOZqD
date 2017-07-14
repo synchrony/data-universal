@@ -1,5 +1,6 @@
-* :Q3RSfO9jqmdtOZqD: regret (emotion)
-    @created 1353405361042
-    @alias http://dbpedia.org/resource/Regret_(emotion)
-    @weight 0.5
-    * :ZGPvARfu9bXcH8Vf: 
+@id Q3RSfO9jqmdtOZqD
+@title regret (emotion)
+@alias http://dbpedia.org/resource/Regret_(emotion)
+@created 1353405361042
+@weight 0.5
+* :ZGPvARfu9bXcH8Vf: 

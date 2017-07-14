@@ -1,6 +1,7 @@
-* :DlL1KGRoW3mcaj8K: Scientific American
-    @created 1353869696118
-    @alias http://dbpedia.org/resource/Scientific_American
-    @weight 0.75
-    * :cyK9SGAzX5GzVLLQ: 
-    * :SOmMuTBnVv56iEvp: 
+@id DlL1KGRoW3mcaj8K
+@title Scientific American
+@alias http://dbpedia.org/resource/Scientific_American
+@created 1353869696118
+@weight 0.75
+* :cyK9SGAzX5GzVLLQ: 
+* :SOmMuTBnVv56iEvp: 

@@ -1,4 +1,5 @@
-* :uIMqibCagFHr4JPE: egg white
-    @created 1348503247758
-    @alias http://dbpedia.org/resource/Egg_white
-    @weight 0.5
+@id uIMqibCagFHr4JPE
+@title egg white
+@alias http://dbpedia.org/resource/Egg_white
+@created 1348503247758
+@weight 0.5

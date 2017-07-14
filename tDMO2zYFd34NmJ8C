@@ -1,4 +1,5 @@
-* :tDMO2zYFd34NmJ8C: New Mexico
-    @created 1385053431870
-    @alias http://dbpedia.org/resource/New_Mexico
-    @weight 0.75
+@id tDMO2zYFd34NmJ8C
+@title New Mexico
+@alias http://dbpedia.org/resource/New_Mexico
+@created 1385053431870
+@weight 0.75

@@ -1,7 +1,8 @@
-* :uzcEQgELwhJAiWNq: taxine
-    @created 1420570942170
-    @alias http://dbpedia.org/resource/Taxine
-    @weight 0.5
-    * :k2abSwjt4xyJY882: 
-    * :k4ejyNwF5NMKXR5b: 
-    * :4IMZXqmw7kTbHIuA: 
+@id uzcEQgELwhJAiWNq
+@title taxine
+@alias http://dbpedia.org/resource/Taxine
+@created 1420570942170
+@weight 0.5
+* :k2abSwjt4xyJY882: 
+* :k4ejyNwF5NMKXR5b: 
+* :4IMZXqmw7kTbHIuA: 

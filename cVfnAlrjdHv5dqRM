@@ -1,4 +1,5 @@
-* :cVfnAlrjdHv5dqRM: elephant seal
-    @created 1332996624220
-    @alias http://dbpedia.org/resource/Elephant_seal
-    @weight 0.5
+@id cVfnAlrjdHv5dqRM
+@title elephant seal
+@alias http://dbpedia.org/resource/Elephant_seal
+@created 1332996624220
+@weight 0.5

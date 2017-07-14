@@ -1,4 +1,5 @@
-* :PEZCcbhiRACkIN7i: pendant
-    @created 1330991472419
-    @alias http://dbpedia.org/resource/Pendant
-    @weight 0.5
+@id PEZCcbhiRACkIN7i
+@title pendant
+@alias http://dbpedia.org/resource/Pendant
+@created 1330991472419
+@weight 0.5

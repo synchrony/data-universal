@@ -1,6 +1,7 @@
-* :9wXqv2juIckG8ENM: Colosseum
-    @created 1420086502021
-    @alias http://dbpedia.org/resource/Colosseum
-    @weight 0.5
-    * :VpR5Na8mhWDXHS8C: 
-    * :Ebvjs9lPQ99rNX4u: 
+@id 9wXqv2juIckG8ENM
+@title Colosseum
+@alias http://dbpedia.org/resource/Colosseum
+@created 1420086502021
+@weight 0.5
+* :VpR5Na8mhWDXHS8C: 
+* :Ebvjs9lPQ99rNX4u: 

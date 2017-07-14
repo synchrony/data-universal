@@ -1,5 +1,6 @@
-* :bmcKogEYlUvT2U6A: structured-light 3D scanner
-    @created 1360904139035
-    @alias http://dbpedia.org/resource/Structured-light_3D_scanner
-    @weight 0.5
-    * :2zZ7c2cpeWH4mYHJ: 
+@id bmcKogEYlUvT2U6A
+@title structured-light 3D scanner
+@alias http://dbpedia.org/resource/Structured-light_3D_scanner
+@created 1360904139035
+@weight 0.5
+* :2zZ7c2cpeWH4mYHJ: 

@@ -1,4 +1,5 @@
-* :MgxqbqTUdKEpYgKb: gout
-    @created 1351377507244
-    @alias http://dbpedia.org/resource/Gout
-    @weight 0.5
+@id MgxqbqTUdKEpYgKb
+@title gout
+@alias http://dbpedia.org/resource/Gout
+@created 1351377507244
+@weight 0.5

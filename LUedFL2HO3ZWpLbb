@@ -1,4 +1,5 @@
-* :LUedFL2HO3ZWpLbb: deadlift
-    @created 1435001928794
-    @alias http://dbpedia.org/resource/Deadlift
-    @weight 0.5
+@id LUedFL2HO3ZWpLbb
+@title deadlift
+@alias http://dbpedia.org/resource/Deadlift
+@created 1435001928794
+@weight 0.5

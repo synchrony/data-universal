@@ -1,9 +1,10 @@
-* :PZxgrV1BTnfn0sNc: dress shirt
-    @created 1428032318078
-    @alias http://dbpedia.org/resource/Dress_shirt
-    @weight 0.5
-    * :fYMY6jno8uxWZuF4: 
-    * :RjwxsYi66POoYfDG: 
-    * :nQPbGG7jZVBttWsv: 
-    * :IV4QK4NH4Fwe6C5Q: 
-    * :eK75pnrnZonZiHTk: 
+@id PZxgrV1BTnfn0sNc
+@title dress shirt
+@alias http://dbpedia.org/resource/Dress_shirt
+@created 1428032318078
+@weight 0.5
+* :fYMY6jno8uxWZuF4: 
+* :RjwxsYi66POoYfDG: 
+* :nQPbGG7jZVBttWsv: 
+* :IV4QK4NH4Fwe6C5Q: 
+* :eK75pnrnZonZiHTk: 

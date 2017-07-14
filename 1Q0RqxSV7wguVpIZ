@@ -1,7 +1,8 @@
-* :1Q0RqxSV7wguVpIZ: lysergic acid diethylamide
-    @created 1326691643728
-    @alias http://dbpedia.org/resource/Lysergic_acid_diethylamide
-    @weight 0.75
-    * :2uLyzl9HsN3s4emX: 
-    * :VDOCnY7cTGb50ETL: 
-    * :cu8Yy7VbHAGitfSB: 
+@id 1Q0RqxSV7wguVpIZ
+@title lysergic acid diethylamide
+@alias http://dbpedia.org/resource/Lysergic_acid_diethylamide
+@created 1326691643728
+@weight 0.75
+* :2uLyzl9HsN3s4emX: 
+* :VDOCnY7cTGb50ETL: 
+* :cu8Yy7VbHAGitfSB: 

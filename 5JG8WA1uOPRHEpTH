@@ -1,6 +1,7 @@
-* :5JG8WA1uOPRHEpTH: lorazepam
-    @created 1347032372349
-    @alias http://dbpedia.org/resource/Lorazepam
-    @weight 0.75
-    * :d89ty5OgwreLbLWo: 
-    * :UxdYvUtbhJUrWxWW: 
+@id 5JG8WA1uOPRHEpTH
+@title lorazepam
+@alias http://dbpedia.org/resource/Lorazepam
+@created 1347032372349
+@weight 0.75
+* :d89ty5OgwreLbLWo: 
+* :UxdYvUtbhJUrWxWW: 

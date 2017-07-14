@@ -1,5 +1,6 @@
-* :iZ5YYXW966qGmUcU: readers–writer lock
-    @created 1381000928327
-    @alias http://dbpedia.org/resource/Readers%E2%80%93writer_lock
-    @weight 0.5
-    * :mnB3NedlDcV4a5CC: 
+@id iZ5YYXW966qGmUcU
+@title readers–writer lock
+@alias http://dbpedia.org/resource/Readers%E2%80%93writer_lock
+@created 1381000928327
+@weight 0.5
+* :mnB3NedlDcV4a5CC: 

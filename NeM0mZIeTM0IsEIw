@@ -1,4 +1,5 @@
-* :NeM0mZIeTM0IsEIw: Vertica
-    @created 1499794705373
-    @alias http://dbpedia.org/resource/Vertica
-    @weight 0.5
+@id NeM0mZIeTM0IsEIw
+@title Vertica
+@alias http://dbpedia.org/resource/Vertica
+@created 1499794705373
+@weight 0.5

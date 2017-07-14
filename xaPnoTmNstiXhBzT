@@ -1,4 +1,5 @@
-* :xaPnoTmNstiXhBzT: air traffic control
-    @created 1472828087770
-    @alias http://dbpedia.org/resource/Air_traffic_control
-    @weight 0.5
+@id xaPnoTmNstiXhBzT
+@title air traffic control
+@alias http://dbpedia.org/resource/Air_traffic_control
+@created 1472828087770
+@weight 0.5

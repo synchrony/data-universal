@@ -1,4 +1,5 @@
-* :sRJOyahSWD7KPPjQ: NoteCards
-    @created 1344203175540
-    @alias http://dbpedia.org/resource/NoteCards
-    @weight 0.5
+@id sRJOyahSWD7KPPjQ
+@title NoteCards
+@alias http://dbpedia.org/resource/NoteCards
+@created 1344203175540
+@weight 0.5

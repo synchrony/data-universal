@@ -1,6 +1,7 @@
-* :A1znaeZqqx9roPTP: stat (system call)
-    @created 1465856398101
-    @alias http://dbpedia.org/resource/Stat_(system_call)
-    @weight 0.5
-    * :bEBd2bojVadisO8A: 
-    * :5u8u32wEilsoaimO: 
+@id A1znaeZqqx9roPTP
+@title stat (system call)
+@alias http://dbpedia.org/resource/Stat_(system_call)
+@created 1465856398101
+@weight 0.5
+* :bEBd2bojVadisO8A: 
+* :5u8u32wEilsoaimO: 

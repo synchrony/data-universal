@@ -1,8 +1,9 @@
-* :XOJnyYajqC5s4mkm: shuf
-    @created 1344558286940
-    @alias http://dbpedia.org/resource/Shuf
-    @weight 0.5
-    * :YYIAKyyCQRgmnnjp: 
-    * :cpmhdypFf4ADZt5r: 
-    * :mkRPczt0hK1waoer: 
-    * :0VHD0zWVoXk5PDA0: 
+@id XOJnyYajqC5s4mkm
+@title shuf
+@alias http://dbpedia.org/resource/Shuf
+@created 1344558286940
+@weight 0.5
+* :YYIAKyyCQRgmnnjp: 
+* :cpmhdypFf4ADZt5r: 
+* :mkRPczt0hK1waoer: 
+* :0VHD0zWVoXk5PDA0: 

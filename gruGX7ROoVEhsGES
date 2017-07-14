@@ -1,4 +1,5 @@
-* :gruGX7ROoVEhsGES: water polo
-    @created 1345102114791
-    @alias http://dbpedia.org/resource/Water_polo
-    @weight 0.5
+@id gruGX7ROoVEhsGES
+@title water polo
+@alias http://dbpedia.org/resource/Water_polo
+@created 1345102114791
+@weight 0.5

@@ -1,4 +1,5 @@
-* :TPyRGNgGswMCETMH: ASTM International
-    @created 1346518502720
-    @alias http://dbpedia.org/resource/ASTM_International
-    @weight 0.5
+@id TPyRGNgGswMCETMH
+@title ASTM International
+@alias http://dbpedia.org/resource/ASTM_International
+@created 1346518502720
+@weight 0.5

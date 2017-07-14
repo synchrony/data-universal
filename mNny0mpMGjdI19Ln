@@ -1,4 +1,5 @@
-* :mNny0mpMGjdI19Ln: eucalyptus
-    @created 1339259902436
-    @alias http://dbpedia.org/resource/Eucalyptus
-    @weight 0.5
+@id mNny0mpMGjdI19Ln
+@title eucalyptus
+@alias http://dbpedia.org/resource/Eucalyptus
+@created 1339259902436
+@weight 0.5

@@ -1,6 +1,7 @@
-* :fkzMNDE4sJz8BOS4: Port Salut
-    @created 1326209757883
-    @alias http://dbpedia.org/resource/Port_Salut
-    @weight 0.5
-    * :1eBu7TlmkkGUG3uo: 
-    * :5Xyjt8UfVOlikKRU: 
+@id fkzMNDE4sJz8BOS4
+@title Port Salut
+@alias http://dbpedia.org/resource/Port_Salut
+@created 1326209757883
+@weight 0.5
+* :1eBu7TlmkkGUG3uo: 
+* :5Xyjt8UfVOlikKRU: 

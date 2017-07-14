@@ -1,4 +1,5 @@
-* :jnLYFgc9UU2ajFna: tiger
-    @created 1360475625070
-    @alias http://dbpedia.org/resource/Tiger
-    @weight 0.5
+@id jnLYFgc9UU2ajFna
+@title tiger
+@alias http://dbpedia.org/resource/Tiger
+@created 1360475625070
+@weight 0.5

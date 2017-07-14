@@ -1,6 +1,7 @@
-* :dE3waEEFOlGp0Vef: binomial coefficient
-    @created 1381079716745
-    @alias http://dbpedia.org/resource/Binomial_coefficient
-    @weight 0.5
-    * :koNggSlJfFJqG37P: 
-    * :IVZrVjkALt3oA58q: 
+@id dE3waEEFOlGp0Vef
+@title binomial coefficient
+@alias http://dbpedia.org/resource/Binomial_coefficient
+@created 1381079716745
+@weight 0.5
+* :koNggSlJfFJqG37P: 
+* :IVZrVjkALt3oA58q: 

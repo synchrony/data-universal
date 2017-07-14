@@ -1,4 +1,5 @@
-* :WObCbBuWgiSCHyzK: elephant
-    @created 1490579736235
-    @alias http://dbpedia.org/resource/Elephant
-    @weight 0.5
+@id WObCbBuWgiSCHyzK
+@title elephant
+@alias http://dbpedia.org/resource/Elephant
+@created 1490579736235
+@weight 0.5

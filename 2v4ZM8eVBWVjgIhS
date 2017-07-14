@@ -1,4 +1,5 @@
-* :2v4ZM8eVBWVjgIhS: banana
-    @created 1323454660348
-    @alias http://dbpedia.org/resource/Banana
-    @weight 0.5
+@id 2v4ZM8eVBWVjgIhS
+@title banana
+@alias http://dbpedia.org/resource/Banana
+@created 1323454660348
+@weight 0.5

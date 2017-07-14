@@ -1,7 +1,8 @@
-* :qIEPV6FUfgperiiU: time series database
-    @created 1351741475544
-    @alias http://dbpedia.org/resource/Time_series_database
-    @weight 0.5
-    * :tBu8JgF55PhxGw4L: 
-    * :N7yenYgJO9JqiI3Z: 
-    * :jQEWoGls4OQ5H0ag: 
+@id qIEPV6FUfgperiiU
+@title time series database
+@alias http://dbpedia.org/resource/Time_series_database
+@created 1351741475544
+@weight 0.5
+* :tBu8JgF55PhxGw4L: 
+* :N7yenYgJO9JqiI3Z: 
+* :jQEWoGls4OQ5H0ag: 

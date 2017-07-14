@@ -1,4 +1,5 @@
-* :QLTEHQs2cbtQ3P9A: Thai alphabet
-    @created 1345493608969
-    @alias http://dbpedia.org/resource/Thai_alphabet
-    @weight 0.5
+@id QLTEHQs2cbtQ3P9A
+@title Thai alphabet
+@alias http://dbpedia.org/resource/Thai_alphabet
+@created 1345493608969
+@weight 0.5

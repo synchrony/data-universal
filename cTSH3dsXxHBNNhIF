@@ -1,7 +1,8 @@
-* :cTSH3dsXxHBNNhIF: recycling
-    @created 1361058668672
-    @alias http://dbpedia.org/resource/Recycling
-    @weight 0.5
-    * :tPSFwkOEuWZK1cay: 
-    * :f1wlQ3bQ5UGnb5bB: 
-    * :PpKRd9SvnvuIRoOo: 
+@id cTSH3dsXxHBNNhIF
+@title recycling
+@alias http://dbpedia.org/resource/Recycling
+@created 1361058668672
+@weight 0.5
+* :tPSFwkOEuWZK1cay: 
+* :f1wlQ3bQ5UGnb5bB: 
+* :PpKRd9SvnvuIRoOo: 

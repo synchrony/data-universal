@@ -1,6 +1,7 @@
-* :eFgwJiJrbiMAWeVH: extract, transform, load
-    @created 1463338071099
-    @alias http://dbpedia.org/resource/Extract,_transform,_load
-    @weight 0.5
-    * :38cFJnkiZiPXgNYC: 
-    * :RPsUuNL4e2MVmRUr: 
+@id eFgwJiJrbiMAWeVH
+@title extract, transform, load
+@alias http://dbpedia.org/resource/Extract,_transform,_load
+@created 1463338071099
+@weight 0.5
+* :38cFJnkiZiPXgNYC: 
+* :RPsUuNL4e2MVmRUr: 

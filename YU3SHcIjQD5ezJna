@@ -1,4 +1,5 @@
-* :YU3SHcIjQD5ezJna: Lavandula
-    @created 1494798564872
-    @alias http://dbpedia.org/resource/Lavandula
-    @weight 0.5
+@id YU3SHcIjQD5ezJna
+@title Lavandula
+@alias http://dbpedia.org/resource/Lavandula
+@created 1494798564872
+@weight 0.5

@@ -1,6 +1,7 @@
-* :JtpjAfzfhScUDUMa: pan-pan
-    @created 1488299757203
-    @alias http://dbpedia.org/resource/Pan-pan
-    @weight 0.5
-    * :kI46q2O2TYMPjBhn: 
-    * :zVY0HeRaa2ZqTUH6: 
+@id JtpjAfzfhScUDUMa
+@title pan-pan
+@alias http://dbpedia.org/resource/Pan-pan
+@created 1488299757203
+@weight 0.5
+* :kI46q2O2TYMPjBhn: 
+* :zVY0HeRaa2ZqTUH6: 

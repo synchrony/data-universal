@@ -1,7 +1,8 @@
-* :PMGfOcf5XJiD0Egk: Unicode
-    @created 1413834834416
-    @alias http://dbpedia.org/resource/Unicode
-    @weight 0.5
-    * :BDP4LjVbrttbbP2A: 
-    * :8kwNPRW8yNw25tkA: 
-    * :AJuJAXSt5ZYMfIcd: 
+@id PMGfOcf5XJiD0Egk
+@title Unicode
+@alias http://dbpedia.org/resource/Unicode
+@created 1413834834416
+@weight 0.5
+* :BDP4LjVbrttbbP2A: 
+* :8kwNPRW8yNw25tkA: 
+* :AJuJAXSt5ZYMfIcd: 

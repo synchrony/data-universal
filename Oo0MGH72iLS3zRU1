@@ -1,8 +1,9 @@
-* :Oo0MGH72iLS3zRU1: Barneo
-    @created 1412459780332
-    @alias http://dbpedia.org/resource/Barneo
-    @weight 0.5
-    * :okjdGb1pgt1nC2z9: 
-    * :JZPuEO4c7NLKAkfd: 
-    * :gX7pYHQGMdCFawDF: 
-    * :3o8sjPEzre5pnEbb: 
+@id Oo0MGH72iLS3zRU1
+@title Barneo
+@alias http://dbpedia.org/resource/Barneo
+@created 1412459780332
+@weight 0.5
+* :okjdGb1pgt1nC2z9: 
+* :JZPuEO4c7NLKAkfd: 
+* :gX7pYHQGMdCFawDF: 
+* :3o8sjPEzre5pnEbb: 

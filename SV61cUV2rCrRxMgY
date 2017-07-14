@@ -1,6 +1,7 @@
-* :SV61cUV2rCrRxMgY: Dustbot
-    @created 1346021734551
-    @alias http://dbpedia.org/resource/Dustbot
-    @weight 0.5
-    * :4RkCSCW1PuB42bv0: 
-    * :9NLwV5VR2zXxzfPc: 
+@id SV61cUV2rCrRxMgY
+@title Dustbot
+@alias http://dbpedia.org/resource/Dustbot
+@created 1346021734551
+@weight 0.5
+* :4RkCSCW1PuB42bv0: 
+* :9NLwV5VR2zXxzfPc: 

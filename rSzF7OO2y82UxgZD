@@ -1,6 +1,7 @@
-* :rSzF7OO2y82UxgZD: 2C-D
-    @created 1316308071237
-    @alias http://dbpedia.org/resource/2C-D
-    @weight 0.75
-    * :y8YJr3nzjrwpHR5f: 
-    * :BFOvhamKMUihmlOa: 
+@id rSzF7OO2y82UxgZD
+@title 2C-D
+@alias http://dbpedia.org/resource/2C-D
+@created 1316308071237
+@weight 0.75
+* :y8YJr3nzjrwpHR5f: 
+* :BFOvhamKMUihmlOa: 

@@ -1,5 +1,6 @@
-* :s1rIHZJHMyNDBPas: Wikispecies
-    @created 1435074366224
-    @alias http://dbpedia.org/resource/Wikispecies
-    @weight 0.5
-    * :tWPaxbGekHYcVBWC: 
+@id s1rIHZJHMyNDBPas
+@title Wikispecies
+@alias http://dbpedia.org/resource/Wikispecies
+@created 1435074366224
+@weight 0.5
+* :tWPaxbGekHYcVBWC: 

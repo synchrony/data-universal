@@ -1,6 +1,7 @@
-* :aIeFJxEqihyA8Qq7: revolute joint
-    @created 1379952424563
-    @alias http://dbpedia.org/resource/Revolute_joint
-    @weight 0.5
-    * :k9xX5sFJw4POAKR5: 
-    * :NMxI0olFobG0UkEr: 
+@id aIeFJxEqihyA8Qq7
+@title revolute joint
+@alias http://dbpedia.org/resource/Revolute_joint
+@created 1379952424563
+@weight 0.5
+* :k9xX5sFJw4POAKR5: 
+* :NMxI0olFobG0UkEr: 

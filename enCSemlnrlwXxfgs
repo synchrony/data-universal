@@ -1,4 +1,5 @@
-* :enCSemlnrlwXxfgs: Nike+ FuelBand
-    @created 1337739790581
-    @alias http://dbpedia.org/resource/Nike+_FuelBand
-    @weight 0.5
+@id enCSemlnrlwXxfgs
+@title Nike+ FuelBand
+@alias http://dbpedia.org/resource/Nike+_FuelBand
+@created 1337739790581
+@weight 0.5

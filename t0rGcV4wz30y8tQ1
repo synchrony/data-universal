@@ -1,5 +1,6 @@
-* :t0rGcV4wz30y8tQ1: ISO 8601
-    @created 1342125901687
-    @alias http://dbpedia.org/resource/ISO_8601
-    @weight 0.5
-    * :64ekNbXm0cpl5EyJ: 
+@id t0rGcV4wz30y8tQ1
+@title ISO 8601
+@alias http://dbpedia.org/resource/ISO_8601
+@created 1342125901687
+@weight 0.5
+* :64ekNbXm0cpl5EyJ: 

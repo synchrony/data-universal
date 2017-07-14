@@ -1,8 +1,9 @@
-* :f0fS2t8YdL888URT: fuel injection
-    @created 1478406429034
-    @alias http://dbpedia.org/resource/Fuel_injection
-    @weight 0.5
-    * :6K95U5o9ZG0cW6Js: 
-    * :b07lwFwjBi0H6FUi: 
-    * :1J7RIXTxSPXYlaBt: 
-    * :F7RGgr891rzLrlz8: 
+@id f0fS2t8YdL888URT
+@title fuel injection
+@alias http://dbpedia.org/resource/Fuel_injection
+@created 1478406429034
+@weight 0.5
+* :6K95U5o9ZG0cW6Js: 
+* :b07lwFwjBi0H6FUi: 
+* :1J7RIXTxSPXYlaBt: 
+* :F7RGgr891rzLrlz8: 

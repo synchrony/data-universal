@@ -1,6 +1,7 @@
-* :TJl6ZuGqWjhRkQJS: self-balancing binary search tree
-    @created 1381026961770
-    @alias http://dbpedia.org/resource/Self-balancing_binary_search_tree
-    @weight 0.5
-    * :WbJjeOOsJ2aUgGTE: 
-    * :49o9vO7c1tHrgpwe: 
+@id TJl6ZuGqWjhRkQJS
+@title self-balancing binary search tree
+@alias http://dbpedia.org/resource/Self-balancing_binary_search_tree
+@created 1381026961770
+@weight 0.5
+* :WbJjeOOsJ2aUgGTE: 
+* :49o9vO7c1tHrgpwe: 

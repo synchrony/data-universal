@@ -1,4 +1,5 @@
-* :Js0X9UnAht3kID1T: peptide synthesis
-    @created 1457213232513
-    @alias http://dbpedia.org/resource/Peptide_synthesis
-    @weight 0.5
+@id Js0X9UnAht3kID1T
+@title peptide synthesis
+@alias http://dbpedia.org/resource/Peptide_synthesis
+@created 1457213232513
+@weight 0.5

@@ -1,4 +1,5 @@
-* :lEH27NPDzLV9mExS: fromage blanc
-    @created 1471989912572
-    @alias http://dbpedia.org/resource/Fromage_blanc
-    @weight 0.5
+@id lEH27NPDzLV9mExS
+@title fromage blanc
+@alias http://dbpedia.org/resource/Fromage_blanc
+@created 1471989912572
+@weight 0.5

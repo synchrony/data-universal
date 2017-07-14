@@ -1,6 +1,7 @@
-* :beuf2PWnfYNdAVMF: naloxone
-    @created 1454654614335
-    @alias http://dbpedia.org/resource/Naloxone
-    @weight 0.5
-    * :O4s7TRbsNXvQbj4l: 
-    * :iGvcQK21Cw4zcOZQ: 
+@id beuf2PWnfYNdAVMF
+@title naloxone
+@alias http://dbpedia.org/resource/Naloxone
+@created 1454654614335
+@weight 0.5
+* :O4s7TRbsNXvQbj4l: 
+* :iGvcQK21Cw4zcOZQ: 

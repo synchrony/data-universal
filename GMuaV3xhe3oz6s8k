@@ -1,4 +1,5 @@
-* :GMuaV3xhe3oz6s8k: ghost
-    @created 1350135342037
-    @alias http://dbpedia.org/resource/Ghost
-    @weight 0.5
+@id GMuaV3xhe3oz6s8k
+@title ghost
+@alias http://dbpedia.org/resource/Ghost
+@created 1350135342037
+@weight 0.5

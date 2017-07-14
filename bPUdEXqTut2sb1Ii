@@ -1,4 +1,5 @@
-* :bPUdEXqTut2sb1Ii: sodium
-    @created 1344309326559
-    @alias http://dbpedia.org/resource/Sodium
-    @weight 0.75
+@id bPUdEXqTut2sb1Ii
+@title sodium
+@alias http://dbpedia.org/resource/Sodium
+@created 1344309326559
+@weight 0.75

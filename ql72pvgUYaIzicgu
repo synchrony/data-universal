@@ -1,4 +1,5 @@
-* :ql72pvgUYaIzicgu: evidence
-    @created 1315347926622
-    @alias http://dbpedia.org/resource/Evidence
-    @weight 0.75
+@id ql72pvgUYaIzicgu
+@title evidence
+@alias http://dbpedia.org/resource/Evidence
+@created 1315347926622
+@weight 0.75

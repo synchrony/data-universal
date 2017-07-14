@@ -1,4 +1,5 @@
-* :TOmkwuXEkBpQPG0Y: shopping
-    @created 1342995856806
-    @alias http://dbpedia.org/resource/Shopping
-    @weight 0.5
+@id TOmkwuXEkBpQPG0Y
+@title shopping
+@alias http://dbpedia.org/resource/Shopping
+@created 1342995856806
+@weight 0.5

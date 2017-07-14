@@ -1,7 +1,8 @@
-* :TUk3FW1N6dGrm649: pitch (music)
-    @created 1436039089738
-    @alias http://dbpedia.org/resource/Pitch_(music)
-    @weight 0.5
-    * :sOZXbys4z3O8eM5o: 
-    * :QPs6gJ3sukvsAUJw: 
-    * :xIkikSCIQxMfbk10: 
+@id TUk3FW1N6dGrm649
+@title pitch (music)
+@alias http://dbpedia.org/resource/Pitch_(music)
+@created 1436039089738
+@weight 0.5
+* :sOZXbys4z3O8eM5o: 
+* :QPs6gJ3sukvsAUJw: 
+* :xIkikSCIQxMfbk10: 

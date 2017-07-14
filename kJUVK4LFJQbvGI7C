@@ -1,6 +1,7 @@
-* :kJUVK4LFJQbvGI7C: multiton pattern
-    @created 1380992523652
-    @alias http://dbpedia.org/resource/Multiton_pattern
-    @weight 0.5
-    * :FXgzwG2OSpxzZSOW: 
-    * :LTd3ImC8j5IjAUJN: 
+@id kJUVK4LFJQbvGI7C
+@title multiton pattern
+@alias http://dbpedia.org/resource/Multiton_pattern
+@created 1380992523652
+@weight 0.5
+* :FXgzwG2OSpxzZSOW: 
+* :LTd3ImC8j5IjAUJN: 

@@ -1,6 +1,7 @@
-* :xkQ56kVansQfm6oC: Fibonacci number
-    @created 1341633474054
-    @alias http://dbpedia.org/resource/Fibonacci_number
-    @weight 0.5
-    * :Nk1SQ3FQBkvjeOZj: 
-    * :ylNRlqJcfYzx5dFi: 
+@id xkQ56kVansQfm6oC
+@title Fibonacci number
+@alias http://dbpedia.org/resource/Fibonacci_number
+@created 1341633474054
+@weight 0.5
+* :Nk1SQ3FQBkvjeOZj: 
+* :ylNRlqJcfYzx5dFi: 

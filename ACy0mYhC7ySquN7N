@@ -1,8 +1,9 @@
-* :ACy0mYhC7ySquN7N: ethernet hub
-    @created 1384879271699
-    @alias http://dbpedia.org/resource/Ethernet_hub
-    @weight 0.5
-    * :PzJvYs72Q5fe7VDl: 
-    * :RhLQLlNOmHylSErS: 
-    * :VYDSiz0xIku5bz6R: 
-    * :RQnmV6zDnjOoe8pM: 
+@id ACy0mYhC7ySquN7N
+@title ethernet hub
+@alias http://dbpedia.org/resource/Ethernet_hub
+@created 1384879271699
+@weight 0.5
+* :PzJvYs72Q5fe7VDl: 
+* :RhLQLlNOmHylSErS: 
+* :VYDSiz0xIku5bz6R: 
+* :RQnmV6zDnjOoe8pM: 

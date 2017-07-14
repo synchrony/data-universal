@@ -1,4 +1,5 @@
-* :nEYluwbDfcDpnElg: YAGO (database)
-    @created 1499455656587
-    @alias http://dbpedia.org/resource/YAGO_(database)
-    @weight 0.5
+@id nEYluwbDfcDpnElg
+@title YAGO (database)
+@alias http://dbpedia.org/resource/YAGO_(database)
+@created 1499455656587
+@weight 0.5

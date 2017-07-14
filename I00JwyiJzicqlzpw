@@ -1,6 +1,7 @@
-* :I00JwyiJzicqlzpw: Space Shuttle
-    @created 1382061211223
-    @alias http://dbpedia.org/resource/Space_Shuttle
-    @weight 0.5
-    * :nVgIXSYe6xj3ePog: 
-    * :GZkbAN3UglyX7cAf: 
+@id I00JwyiJzicqlzpw
+@title Space Shuttle
+@alias http://dbpedia.org/resource/Space_Shuttle
+@created 1382061211223
+@weight 0.5
+* :nVgIXSYe6xj3ePog: 
+* :GZkbAN3UglyX7cAf: 

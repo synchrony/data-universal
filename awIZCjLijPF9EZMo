@@ -1,4 +1,5 @@
-* :awIZCjLijPF9EZMo: Parrotlet
-    @created 1325651243272
-    @alias http://dbpedia.org/resource/Parrotlet
-    @weight 0.5
+@id awIZCjLijPF9EZMo
+@title Parrotlet
+@alias http://dbpedia.org/resource/Parrotlet
+@created 1325651243272
+@weight 0.5

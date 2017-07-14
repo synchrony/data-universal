@@ -1,4 +1,5 @@
-* :yBR22cvvMB3FvlCX: hair
-    @created 1349367916986
-    @alias http://dbpedia.org/resource/Hair
-    @weight 0.5
+@id yBR22cvvMB3FvlCX
+@title hair
+@alias http://dbpedia.org/resource/Hair
+@created 1349367916986
+@weight 0.5

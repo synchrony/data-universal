@@ -1,4 +1,5 @@
-* :AqyfPKIMcfLYMvjT: group theory
-    @created 1414590993519
-    @alias http://dbpedia.org/resource/Group_theory
-    @weight 0.5
+@id AqyfPKIMcfLYMvjT
+@title group theory
+@alias http://dbpedia.org/resource/Group_theory
+@created 1414590993519
+@weight 0.5

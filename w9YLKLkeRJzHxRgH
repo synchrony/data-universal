@@ -1,6 +1,7 @@
-* :w9YLKLkeRJzHxRgH: bubble sort
-    @created 1380915019600
-    @alias http://dbpedia.org/resource/Bubble_sort
-    @weight 0.75
-    * :nBBQz1aUfKJKVa81: 
-    * :EeEBzuhZ5DUgZV79: 
+@id w9YLKLkeRJzHxRgH
+@title bubble sort
+@alias http://dbpedia.org/resource/Bubble_sort
+@created 1380915019600
+@weight 0.75
+* :nBBQz1aUfKJKVa81: 
+* :EeEBzuhZ5DUgZV79: 

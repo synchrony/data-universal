@@ -1,4 +1,5 @@
-* :cz7XrseIwujY6djj: umbrella
-    @created 1308717195303
-    @alias http://dbpedia.org/resource/Umbrella
-    @weight 0.5
+@id cz7XrseIwujY6djj
+@title umbrella
+@alias http://dbpedia.org/resource/Umbrella
+@created 1308717195303
+@weight 0.5

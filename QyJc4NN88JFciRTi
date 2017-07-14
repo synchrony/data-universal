@@ -1,8 +1,9 @@
-* :QyJc4NN88JFciRTi: Apache HBase
-    @created 1339381451508
-    @alias http://dbpedia.org/resource/Apache_HBase
-    @weight 0.75
-    * :yZ2pQAsOEuGQjqJu: 
-    * :EsneTaDnnSGWs7KV: 
-    * :eXmkynxZTm4xfSEm: 
-    * :VAZyesFNwEQF4qy8: 
+@id QyJc4NN88JFciRTi
+@title Apache HBase
+@alias http://dbpedia.org/resource/Apache_HBase
+@created 1339381451508
+@weight 0.75
+* :yZ2pQAsOEuGQjqJu: 
+* :EsneTaDnnSGWs7KV: 
+* :eXmkynxZTm4xfSEm: 
+* :VAZyesFNwEQF4qy8: 

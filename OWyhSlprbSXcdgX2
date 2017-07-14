@@ -1,15 +1,16 @@
-* :OWyhSlprbSXcdgX2: cryptography
-    @created 1449541027411
-    @alias http://dbpedia.org/resource/Cryptography
-    @weight 0.5
-    * :whnU4vLXxPeylJOZ: 
-    * :DyeVosiStu8KoBqk: 
-    * :Wnt4q5myVHtivJBX: 
-    * :pnRvmDt9xJBgM1Ed: 
-    * :1686bDx2ORJYHjBu: 
-    * :veEQEcpw4dqxR8j4: 
-    * :vjHSC6x7H4wMPNMw: 
-    * :5EODM2D36MCPpCjK: 
-    * :ISPinWEPZf8e8lMB: 
-    * :UO2pS2nYdVCnA1s9: 
-    * :qwwdsj7jUpVf1efr: 
+@id OWyhSlprbSXcdgX2
+@title cryptography
+@alias http://dbpedia.org/resource/Cryptography
+@created 1449541027411
+@weight 0.5
+* :whnU4vLXxPeylJOZ: 
+* :DyeVosiStu8KoBqk: 
+* :Wnt4q5myVHtivJBX: 
+* :pnRvmDt9xJBgM1Ed: 
+* :1686bDx2ORJYHjBu: 
+* :veEQEcpw4dqxR8j4: 
+* :vjHSC6x7H4wMPNMw: 
+* :5EODM2D36MCPpCjK: 
+* :ISPinWEPZf8e8lMB: 
+* :UO2pS2nYdVCnA1s9: 
+* :qwwdsj7jUpVf1efr: 

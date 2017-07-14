@@ -1,5 +1,6 @@
-* :IQS3P6wOqhqREkkW: advanced persistent threat
-    @created 1463358673248
-    @alias http://dbpedia.org/resource/Advanced_persistent_threat
-    @weight 0.5
-    * :BfwGvhnv7ts6FjFP: 
+@id IQS3P6wOqhqREkkW
+@title advanced persistent threat
+@alias http://dbpedia.org/resource/Advanced_persistent_threat
+@created 1463358673248
+@weight 0.5
+* :BfwGvhnv7ts6FjFP: 

@@ -1,8 +1,9 @@
-* :C6glr5NptYslpfIs: peptide
-    @created 1457213273205
-    @alias http://dbpedia.org/resource/Peptide
-    @weight 0.5
-    * :0ccOXienseiSW2tj: 
-    * :Js0X9UnAht3kID1T: 
-    * :NlgL6ZVYsX6lNEdL: 
-    * :GdEVhyM4k5Yn5PiS: 
+@id C6glr5NptYslpfIs
+@title peptide
+@alias http://dbpedia.org/resource/Peptide
+@created 1457213273205
+@weight 0.5
+* :0ccOXienseiSW2tj: 
+* :Js0X9UnAht3kID1T: 
+* :NlgL6ZVYsX6lNEdL: 
+* :GdEVhyM4k5Yn5PiS: 

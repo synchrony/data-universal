@@ -1,7 +1,8 @@
-* :kSUbOoqQ1dpHlAuJ: camping
-    @created 1470452911172
-    @alias http://dbpedia.org/resource/Camping
-    @weight 0.5
-    * :8i8I6LiqaGpt7V4B: 
-    * :tgIkkFXAvhOUOvns: 
-    * :iTIFNRvQTLWBJJBy: 
+@id kSUbOoqQ1dpHlAuJ
+@title camping
+@alias http://dbpedia.org/resource/Camping
+@created 1470452911172
+@weight 0.5
+* :8i8I6LiqaGpt7V4B: 
+* :tgIkkFXAvhOUOvns: 
+* :iTIFNRvQTLWBJJBy: 

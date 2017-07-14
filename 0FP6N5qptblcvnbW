@@ -1,6 +1,7 @@
-* :0FP6N5qptblcvnbW: gravitation
-    @created 1388640198385
-    @alias http://dbpedia.org/resource/Gravitation
-    @weight 0.5
-    * :moX8z4P0NaG93Whk: 
-    * :EcTlyE0a0Vi8AHXK: 
+@id 0FP6N5qptblcvnbW
+@title gravitation
+@alias http://dbpedia.org/resource/Gravitation
+@created 1388640198385
+@weight 0.5
+* :moX8z4P0NaG93Whk: 
+* :EcTlyE0a0Vi8AHXK: 

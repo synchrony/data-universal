@@ -1,5 +1,6 @@
-* :NkFnDOWWW6R7EK7d: biology
-    @created 1416520357983
-    @alias http://dbpedia.org/resource/Biology
-    @weight 0.5
-    * :UAttIVMd3X6xNDrC: 
+@id NkFnDOWWW6R7EK7d
+@title biology
+@alias http://dbpedia.org/resource/Biology
+@created 1416520357983
+@weight 0.5
+* :UAttIVMd3X6xNDrC: 

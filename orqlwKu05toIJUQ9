@@ -1,10 +1,11 @@
-* :orqlwKu05toIJUQ9: lambda calculus
-    @created 1363817368040
-    @alias http://dbpedia.org/resource/Lambda_calculus
-    @weight 0.5
-    * :r4aia8SZwGRDap3F: 
-    * :X8jcDl1XlLKnx35m: 
-    * :JlYiKXHifIZYJKaV: 
-    * :w9mr7JaqDgm26NWh: 
-    * :sA3H4quzkThPmjd2: 
-    * :HOWsHb4WfZmdFOQs: 
+@id orqlwKu05toIJUQ9
+@title lambda calculus
+@alias http://dbpedia.org/resource/Lambda_calculus
+@created 1363817368040
+@weight 0.5
+* :r4aia8SZwGRDap3F: 
+* :X8jcDl1XlLKnx35m: 
+* :JlYiKXHifIZYJKaV: 
+* :w9mr7JaqDgm26NWh: 
+* :sA3H4quzkThPmjd2: 
+* :HOWsHb4WfZmdFOQs: 

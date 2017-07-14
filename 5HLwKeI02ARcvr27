@@ -1,7 +1,8 @@
-* :5HLwKeI02ARcvr27: perseveration
-    @created 1343236337863
-    @alias http://dbpedia.org/resource/Perseveration
-    @weight 0.5
-    * :e2tTeG7MVSatbZL9: 
-    * :YQpZpR6IM5bVPWrI: 
-    * :bFMpW6SudB7oL4iW: 
+@id 5HLwKeI02ARcvr27
+@title perseveration
+@alias http://dbpedia.org/resource/Perseveration
+@created 1343236337863
+@weight 0.5
+* :e2tTeG7MVSatbZL9: 
+* :YQpZpR6IM5bVPWrI: 
+* :bFMpW6SudB7oL4iW: 

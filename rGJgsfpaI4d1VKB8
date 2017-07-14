@@ -1,8 +1,9 @@
-* :rGJgsfpaI4d1VKB8: disability
-    @created 1434820069615
-    @alias http://dbpedia.org/resource/Disability
-    @weight 0.75
-    * :vhXUbTt9VNrrcoIt: 
-    * :TvPrHDcoxflYbCxJ: 
-    * :m9ugXwIt5BfVK9k8: 
-    * :4zrtHOjykJd91g77: 
+@id rGJgsfpaI4d1VKB8
+@title disability
+@alias http://dbpedia.org/resource/Disability
+@created 1434820069615
+@weight 0.75
+* :vhXUbTt9VNrrcoIt: 
+* :TvPrHDcoxflYbCxJ: 
+* :m9ugXwIt5BfVK9k8: 
+* :4zrtHOjykJd91g77: 

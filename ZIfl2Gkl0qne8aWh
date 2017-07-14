@@ -1,7 +1,8 @@
-* :ZIfl2Gkl0qne8aWh: butterfly kingfish
-    @created 1446591880837
-    @alias http://dbpedia.org/resource/Butterfly_kingfish
-    @weight 0.5
-    * :BnTMuqlttqFgGcut: 
-    * :UPSmZCj1m7N246w9: 
-    * :onnziMjANDR2JxxG: 
+@id ZIfl2Gkl0qne8aWh
+@title butterfly kingfish
+@alias http://dbpedia.org/resource/Butterfly_kingfish
+@created 1446591880837
+@weight 0.5
+* :BnTMuqlttqFgGcut: 
+* :UPSmZCj1m7N246w9: 
+* :onnziMjANDR2JxxG: 

@@ -1,6 +1,7 @@
-* :hqcQbMiZPxabKLiF: canola
-    @created 1429472820932
-    @alias http://dbpedia.org/resource/Canola
-    @weight 0.5
-    * :BWm6mORNKFKnD6f2: 
-    * :xxvuDPQiNRgToWYa: 
+@id hqcQbMiZPxabKLiF
+@title canola
+@alias http://dbpedia.org/resource/Canola
+@created 1429472820932
+@weight 0.5
+* :BWm6mORNKFKnD6f2: 
+* :xxvuDPQiNRgToWYa: 

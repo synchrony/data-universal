@@ -1,4 +1,5 @@
-* :QwtIHEAHzgHX7Dgm: chlorine
-    @created 1344309326601
-    @alias http://dbpedia.org/resource/Chlorine
-    @weight 0.75
+@id QwtIHEAHzgHX7Dgm
+@title chlorine
+@alias http://dbpedia.org/resource/Chlorine
+@created 1344309326601
+@weight 0.75

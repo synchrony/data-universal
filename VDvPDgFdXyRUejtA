@@ -1,6 +1,7 @@
-* :VDvPDgFdXyRUejtA: solvent
-    @created 1374410134684
-    @alias http://dbpedia.org/resource/Solvent
-    @weight 0.5
-    * :pwnjSQKJgqG0MCDK: 
-    * :PsJ8rlMcVZHIIs1u: 
+@id VDvPDgFdXyRUejtA
+@title solvent
+@alias http://dbpedia.org/resource/Solvent
+@created 1374410134684
+@weight 0.5
+* :pwnjSQKJgqG0MCDK: 
+* :PsJ8rlMcVZHIIs1u: 

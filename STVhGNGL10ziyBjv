@@ -1,4 +1,5 @@
-* :STVhGNGL10ziyBjv: murti
-    @created 1332181838594
-    @alias http://dbpedia.org/resource/Murti
-    @weight 0.5
+@id STVhGNGL10ziyBjv
+@title murti
+@alias http://dbpedia.org/resource/Murti
+@created 1332181838594
+@weight 0.5

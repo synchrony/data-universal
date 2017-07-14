@@ -1,4 +1,5 @@
-* :JR9A1KDMOSyeIMU5: neurofeedback
-    @created 1350572183103
-    @alias http://dbpedia.org/resource/Neurofeedback
-    @weight 0.5
+@id JR9A1KDMOSyeIMU5
+@title neurofeedback
+@alias http://dbpedia.org/resource/Neurofeedback
+@created 1350572183103
+@weight 0.5

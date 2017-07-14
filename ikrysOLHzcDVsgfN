@@ -1,5 +1,6 @@
-* :ikrysOLHzcDVsgfN: group isomorphism problem
-    @created 1466532690689
-    @alias http://dbpedia.org/resource/Group_isomorphism_problem                    * the decision problem of determining whether two given finite group presentations present isomorphic groups
-    @weight 0.5
-    * :zX6lP4Yf6YUf7S1S: 
+@id ikrysOLHzcDVsgfN
+@title group isomorphism problem
+@alias http://dbpedia.org/resource/Group_isomorphism_problem                    * the decision problem of determining whether two given finite group presentations present isomorphic groups
+@created 1466532690689
+@weight 0.5
+* :zX6lP4Yf6YUf7S1S: 

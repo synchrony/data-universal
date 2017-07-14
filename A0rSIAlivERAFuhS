@@ -1,4 +1,5 @@
-* :A0rSIAlivERAFuhS: morning
-    @created 1351088072719
-    @alias http://dbpedia.org/resource/Morning
-    @weight 0.5
+@id A0rSIAlivERAFuhS
+@title morning
+@alias http://dbpedia.org/resource/Morning
+@created 1351088072719
+@weight 0.5

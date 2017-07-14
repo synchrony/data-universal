@@ -1,5 +1,6 @@
-* :QBBU0El7BEqOXcgZ: fiat money
-    @created 1364449429185
-    @alias http://dbpedia.org/resource/Fiat_money
-    @weight 0.5
-    * :SbLDJvbRiBHoAizm: 
+@id QBBU0El7BEqOXcgZ
+@title fiat money
+@alias http://dbpedia.org/resource/Fiat_money
+@created 1364449429185
+@weight 0.5
+* :SbLDJvbRiBHoAizm: 

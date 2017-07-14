@@ -1,5 +1,6 @@
-* :B7Ywr5uw1j3wpxM9: Likert scale
-    @created 1385141570187
-    @alias http://dbpedia.org/resource/Likert_scale
-    @weight 0.5
-    * :W92e1z0cceR5Nb57: 
+@id B7Ywr5uw1j3wpxM9
+@title Likert scale
+@alias http://dbpedia.org/resource/Likert_scale
+@created 1385141570187
+@weight 0.5
+* :W92e1z0cceR5Nb57: 

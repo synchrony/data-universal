@@ -1,6 +1,7 @@
-* :en2UGQmWNWEC6L8s: Center for Art and Media Karlsruhe
-    @created 1383176923623
-    @alias http://dbpedia.org/resource/Center_for_Art_and_Media_Karlsruhe
-    @weight 0.5
-    * :8M9sEsNegmdA9pz2: 
-    * :VlWQx3HCOs4nNlPb: 
+@id en2UGQmWNWEC6L8s
+@title Center for Art and Media Karlsruhe
+@alias http://dbpedia.org/resource/Center_for_Art_and_Media_Karlsruhe
+@created 1383176923623
+@weight 0.5
+* :8M9sEsNegmdA9pz2: 
+* :VlWQx3HCOs4nNlPb: 

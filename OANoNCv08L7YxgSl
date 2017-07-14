@@ -1,5 +1,6 @@
-* :OANoNCv08L7YxgSl: Boeing
-    @created 1413758922967
-    @alias http://dbpedia.org/resource/Boeing
-    @weight 0.5
-    * :lJ6vF2LnreAHaaWm: 
+@id OANoNCv08L7YxgSl
+@title Boeing
+@alias http://dbpedia.org/resource/Boeing
+@created 1413758922967
+@weight 0.5
+* :lJ6vF2LnreAHaaWm: 

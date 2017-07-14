@@ -1,4 +1,5 @@
-* :FCitXYNYXewYzfLe: laser pointer
-    @created 1339440163597
-    @alias http://dbpedia.org/resource/Laser_pointer
-    @weight 0.5
+@id FCitXYNYXewYzfLe
+@title laser pointer
+@alias http://dbpedia.org/resource/Laser_pointer
+@created 1339440163597
+@weight 0.5

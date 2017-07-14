@@ -1,6 +1,7 @@
-* :7hcOjW8dt2Ga1UvI: cyranoid
-    @created 1460916857951
-    @alias http://dbpedia.org/resource/Cyranoid
-    @weight 0.5
-    * :jqwFFcHC6G1kSiUD: 
-    * :6t39PyavEUloS2nG: 
+@id 7hcOjW8dt2Ga1UvI
+@title cyranoid
+@alias http://dbpedia.org/resource/Cyranoid
+@created 1460916857951
+@weight 0.5
+* :jqwFFcHC6G1kSiUD: 
+* :6t39PyavEUloS2nG: 

@@ -1,4 +1,5 @@
-* :M412vIQeNI6b50ei: alternator
-    @created 1478768216650
-    @alias http://dbpedia.org/resource/Alternator
-    @weight 0.5
+@id M412vIQeNI6b50ei
+@title alternator
+@alias http://dbpedia.org/resource/Alternator
+@created 1478768216650
+@weight 0.5

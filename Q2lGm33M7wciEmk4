@@ -1,4 +1,5 @@
-* :Q2lGm33M7wciEmk4: helicopter
-    @created 1349357686560
-    @alias http://dbpedia.org/resource/Helicopter
-    @weight 0.5
+@id Q2lGm33M7wciEmk4
+@title helicopter
+@alias http://dbpedia.org/resource/Helicopter
+@created 1349357686560
+@weight 0.5

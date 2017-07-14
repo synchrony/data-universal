@@ -1,4 +1,5 @@
-* :v0vz4SebMVTPGWeF: competence (human resources)
-    @created 1494691545800
-    @alias http://dbpedia.org/resource/Competence_(human_resources)
-    @weight 0.5
+@id v0vz4SebMVTPGWeF
+@title competence (human resources)
+@alias http://dbpedia.org/resource/Competence_(human_resources)
+@created 1494691545800
+@weight 0.5

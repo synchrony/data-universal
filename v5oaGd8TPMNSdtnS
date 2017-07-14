@@ -1,4 +1,5 @@
-* :v5oaGd8TPMNSdtnS: mangrove
-    @created 1361165533398
-    @alias http://dbpedia.org/resource/Mangrove
-    @weight 0.5
+@id v5oaGd8TPMNSdtnS
+@title mangrove
+@alias http://dbpedia.org/resource/Mangrove
+@created 1361165533398
+@weight 0.5

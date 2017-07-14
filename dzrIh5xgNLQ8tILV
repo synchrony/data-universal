@@ -1,4 +1,5 @@
-* :dzrIh5xgNLQ8tILV: nobelium
-    @created 1344309326550
-    @alias http://dbpedia.org/resource/Nobelium
-    @weight 0.5
+@id dzrIh5xgNLQ8tILV
+@title nobelium
+@alias http://dbpedia.org/resource/Nobelium
+@created 1344309326550
+@weight 0.5

@@ -1,9 +1,10 @@
-* :n8xe27casuc4ZuVq: mood (psychology)
-    @created 1350881374274
-    @alias http://dbpedia.org/resource/Mood_(psychology)
-    @weight 0.5
-    * :oxDxkz3HmKP2iESL: 
-    * :va7CruSgxlsu08cC: 
-    * :gd7mOMR5XX9BO3p1: 
-    * :jz6QN7ExiPvFzr2H: 
-    * :JvjWJnq20v60p4nc: 
+@id n8xe27casuc4ZuVq
+@title mood (psychology)
+@alias http://dbpedia.org/resource/Mood_(psychology)
+@created 1350881374274
+@weight 0.5
+* :oxDxkz3HmKP2iESL: 
+* :va7CruSgxlsu08cC: 
+* :gd7mOMR5XX9BO3p1: 
+* :jz6QN7ExiPvFzr2H: 
+* :JvjWJnq20v60p4nc: 

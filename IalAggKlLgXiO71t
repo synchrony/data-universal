@@ -1,4 +1,5 @@
-* :IalAggKlLgXiO71t: argon
-    @created 1344309326600
-    @alias http://dbpedia.org/resource/Argon
-    @weight 0.75
+@id IalAggKlLgXiO71t
+@title argon
+@alias http://dbpedia.org/resource/Argon
+@created 1344309326600
+@weight 0.75

@@ -1,9 +1,10 @@
-* :t2dCJCwNAifWc70K: absinthe
-    @created 1340859089136
-    @alias http://dbpedia.org/resource/Absinthe
-    @weight 0.5
-    * :L3vkjswolVIE9iIo: 
-    * :FIVVEo1ZVLHzTy2X: 
-    * :lUt6xX1gbOE7hYee: 
-    * :tlmdE03xveLJ5H3K: 
-    * :X2RigJDWiYiasapb: 
+@id t2dCJCwNAifWc70K
+@title absinthe
+@alias http://dbpedia.org/resource/Absinthe
+@created 1340859089136
+@weight 0.5
+* :L3vkjswolVIE9iIo: 
+* :FIVVEo1ZVLHzTy2X: 
+* :lUt6xX1gbOE7hYee: 
+* :tlmdE03xveLJ5H3K: 
+* :X2RigJDWiYiasapb: 

@@ -1,7 +1,8 @@
-* :ZDWFZPeYMqmycu0s: Empathy Quotient
-    @created 1451955748528
-    @alias http://dbpedia.org/resource/Empathy_Quotient
-    @weight 0.5
-    * :va6ygE8UJMg7QDxK: 
-    * :MgJwMNbeIZuX06qY: 
-    * :tyX4queUPAAPuD54: 
+@id ZDWFZPeYMqmycu0s
+@title Empathy Quotient
+@alias http://dbpedia.org/resource/Empathy_Quotient
+@created 1451955748528
+@weight 0.5
+* :va6ygE8UJMg7QDxK: 
+* :MgJwMNbeIZuX06qY: 
+* :tyX4queUPAAPuD54: 

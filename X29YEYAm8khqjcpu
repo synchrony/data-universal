@@ -1,4 +1,5 @@
-* :X29YEYAm8khqjcpu: sunscreen
-    @created 1416195100926
-    @alias http://dbpedia.org/resource/Sunscreen
-    @weight 0.5
+@id X29YEYAm8khqjcpu
+@title sunscreen
+@alias http://dbpedia.org/resource/Sunscreen
+@created 1416195100926
+@weight 0.5

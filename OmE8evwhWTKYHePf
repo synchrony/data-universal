@@ -1,4 +1,5 @@
-* :OmE8evwhWTKYHePf: pedestrian crossing
-    @created 1343010938215
-    @alias http://dbpedia.org/resource/Pedestrian_crossing
-    @weight 0.5
+@id OmE8evwhWTKYHePf
+@title pedestrian crossing
+@alias http://dbpedia.org/resource/Pedestrian_crossing
+@created 1343010938215
+@weight 0.5

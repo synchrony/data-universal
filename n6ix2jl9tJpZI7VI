@@ -1,4 +1,5 @@
-* :n6ix2jl9tJpZI7VI: olive
-    @created 1353616047824
-    @alias http://dbpedia.org/resource/Olive
-    @weight 0.5
+@id n6ix2jl9tJpZI7VI
+@title olive
+@alias http://dbpedia.org/resource/Olive
+@created 1353616047824
+@weight 0.5

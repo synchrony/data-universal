@@ -1,4 +1,5 @@
-* :bgKphp7vOycGZiEB: situation awareness
-    @created 1478320540944
-    @alias http://dbpedia.org/resource/Situation_awareness
-    @weight 0.5
+@id bgKphp7vOycGZiEB
+@title situation awareness
+@alias http://dbpedia.org/resource/Situation_awareness
+@created 1478320540944
+@weight 0.5

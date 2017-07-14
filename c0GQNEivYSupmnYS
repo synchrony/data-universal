@@ -1,6 +1,7 @@
-* :c0GQNEivYSupmnYS: boolean satisfiability problem
-    @created 1381116084849
-    @alias http://dbpedia.org/resource/Boolean_satisfiability_problem
-    @weight 0.5
-    * :agjcSyazfoZtdsg2: 
-    * :Zr7T9N7dSFvmtTlg: 
+@id c0GQNEivYSupmnYS
+@title boolean satisfiability problem
+@alias http://dbpedia.org/resource/Boolean_satisfiability_problem
+@created 1381116084849
+@weight 0.5
+* :agjcSyazfoZtdsg2: 
+* :Zr7T9N7dSFvmtTlg: 

@@ -1,6 +1,7 @@
-* :X3zqoimCUQeIocSR: domain-specific language
-    @created 1467865945305
-    @alias http://dbpedia.org/resource/Domain-specific_language
-    @weight 0.5
-    * :8BWwjeWJnxPXXpvO: 
-    * :FpvxCgjm0cMCkn02: 
+@id X3zqoimCUQeIocSR
+@title domain-specific language
+@alias http://dbpedia.org/resource/Domain-specific_language
+@created 1467865945305
+@weight 0.5
+* :8BWwjeWJnxPXXpvO: 
+* :FpvxCgjm0cMCkn02: 

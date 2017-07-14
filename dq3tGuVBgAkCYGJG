@@ -1,4 +1,5 @@
-* :dq3tGuVBgAkCYGJG: tooth fairy
-    @created 1364940216674
-    @alias http://dbpedia.org/resource/Tooth_fairy
-    @weight 0.5
+@id dq3tGuVBgAkCYGJG
+@title tooth fairy
+@alias http://dbpedia.org/resource/Tooth_fairy
+@created 1364940216674
+@weight 0.5

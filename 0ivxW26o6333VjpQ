@@ -1,6 +1,7 @@
-* :0ivxW26o6333VjpQ: voice type
-    @created 1450513984995
-    @alias http://dbpedia.org/resource/Voice_type
-    @weight 0.5
-    * :xZmgWVmafPtTgb9y: 
-    * :1akjjnbmAsJjh1Kw: 
+@id 0ivxW26o6333VjpQ
+@title voice type
+@alias http://dbpedia.org/resource/Voice_type
+@created 1450513984995
+@weight 0.5
+* :xZmgWVmafPtTgb9y: 
+* :1akjjnbmAsJjh1Kw: 

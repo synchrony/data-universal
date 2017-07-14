@@ -1,6 +1,7 @@
-* :DaWWn4lgMWCccYxZ: California State University, East Bay
-    @created 1451414221029
-    @alias http://dbpedia.org/resource/California_State_University,_East_Bay
-    @weight 0.5
-    * :SNp52Q3wg5UuiK3G: 
-    * :qus99BB5AOXXI9X8: 
+@id DaWWn4lgMWCccYxZ
+@title California State University, East Bay
+@alias http://dbpedia.org/resource/California_State_University,_East_Bay
+@created 1451414221029
+@weight 0.5
+* :SNp52Q3wg5UuiK3G: 
+* :qus99BB5AOXXI9X8: 

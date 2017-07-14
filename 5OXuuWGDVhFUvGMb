@@ -1,4 +1,5 @@
-* :5OXuuWGDVhFUvGMb: New York
-    @created 1385053431871
-    @alias http://dbpedia.org/resource/New_York
-    @weight 0.75
+@id 5OXuuWGDVhFUvGMb
+@title New York
+@alias http://dbpedia.org/resource/New_York
+@created 1385053431871
+@weight 0.75

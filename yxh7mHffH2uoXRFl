@@ -1,8 +1,9 @@
-* :yxh7mHffH2uoXRFl: Maker subculture
-    @created 1355335883215
-    @alias http://dbpedia.org/resource/Maker_subculture
-    @weight 0.5
-    * :faTPw3bxjTjzuLy3: 
-    * :6XOx5nfFAO64hpEM: 
-    * :vwuVkTg9HHjKzLRv: 
-    * :Iv8AbKCYzlXDTO1o: 
+@id yxh7mHffH2uoXRFl
+@title Maker subculture
+@alias http://dbpedia.org/resource/Maker_subculture
+@created 1355335883215
+@weight 0.5
+* :faTPw3bxjTjzuLy3: 
+* :6XOx5nfFAO64hpEM: 
+* :vwuVkTg9HHjKzLRv: 
+* :Iv8AbKCYzlXDTO1o: 

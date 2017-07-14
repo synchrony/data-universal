@@ -1,4 +1,5 @@
-* :Ml9kqhx1eqeJQxtT: parsley
-    @created 1339697186850
-    @alias http://dbpedia.org/resource/Parsley
-    @weight 0.5
+@id Ml9kqhx1eqeJQxtT
+@title parsley
+@alias http://dbpedia.org/resource/Parsley
+@created 1339697186850
+@weight 0.5

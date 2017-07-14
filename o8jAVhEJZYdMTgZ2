@@ -1,6 +1,7 @@
-* :o8jAVhEJZYdMTgZ2: dependency grammar
-    @created 1420395432675
-    @alias http://dbpedia.org/resource/Dependency_grammar
-    @weight 0.5
-    * :q9f272QjCi1nDljB: 
-    * :CPX2ssdu0oiEiuiA: 
+@id o8jAVhEJZYdMTgZ2
+@title dependency grammar
+@alias http://dbpedia.org/resource/Dependency_grammar
+@created 1420395432675
+@weight 0.5
+* :q9f272QjCi1nDljB: 
+* :CPX2ssdu0oiEiuiA: 

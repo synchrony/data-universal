@@ -1,9 +1,10 @@
-* :nSPTennwr0KgzZGB: Suggested Upper Merged Ontology
-    @created 1330151898877
-    @alias http://dbpedia.org/resource/Suggested_Upper_Merged_Ontology
-    @weight 0.5
-    * :BAYTUgjchNOjqgtz: 
-    * :37pejjebtRYGrIgu: 
-    * :jr6m5JmctV3vRD3R: 
-    * :0cHMCC4ynd8Xs6Ot: 
-    * :poBjwIxgqtMbLuKq: 
+@id nSPTennwr0KgzZGB
+@title Suggested Upper Merged Ontology
+@alias http://dbpedia.org/resource/Suggested_Upper_Merged_Ontology
+@created 1330151898877
+@weight 0.5
+* :BAYTUgjchNOjqgtz: 
+* :37pejjebtRYGrIgu: 
+* :jr6m5JmctV3vRD3R: 
+* :0cHMCC4ynd8Xs6Ot: 
+* :poBjwIxgqtMbLuKq: 

@@ -1,4 +1,5 @@
-* :minxJhArSsOgydI7: cartilage
-    @created 1430109210981
-    @alias http://dbpedia.org/resource/Cartilage
-    @weight 0.5
+@id minxJhArSsOgydI7
+@title cartilage
+@alias http://dbpedia.org/resource/Cartilage
+@created 1430109210981
+@weight 0.5

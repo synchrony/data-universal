@@ -1,10 +1,11 @@
-* :LlBi4owrrRDSZjgq: 'Pataphysics
-    @created 1310545657532
-    @alias http://dbpedia.org/resource/Pataphysics
-    @weight 0.5
-    * :juM2UGJceHtTu7mK: 
-    * :fpSdbfL2NVpFwsSy: 
-    * :Z3wJXcKJzMvxBmxA: 
-    * :dkqKWlczvq88JSFW: 
-    * :mbvt2vI23YJNsTI2: 
-    * :E3nicBzEO2wOhFQw: 
+@id LlBi4owrrRDSZjgq
+@title 'Pataphysics
+@alias http://dbpedia.org/resource/Pataphysics
+@created 1310545657532
+@weight 0.5
+* :juM2UGJceHtTu7mK: 
+* :fpSdbfL2NVpFwsSy: 
+* :Z3wJXcKJzMvxBmxA: 
+* :dkqKWlczvq88JSFW: 
+* :mbvt2vI23YJNsTI2: 
+* :E3nicBzEO2wOhFQw: 

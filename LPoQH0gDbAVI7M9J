@@ -1,6 +1,7 @@
-* :LPoQH0gDbAVI7M9J: quality of service
-    @created 1450206440939
-    @alias http://dbpedia.org/resource/Quality_of_service
-    @weight 0.5
-    * :XCJIqVHMBz8nc24G: 
-    * :vnBBhDSFM5FIgkRN: 
+@id LPoQH0gDbAVI7M9J
+@title quality of service
+@alias http://dbpedia.org/resource/Quality_of_service
+@created 1450206440939
+@weight 0.5
+* :XCJIqVHMBz8nc24G: 
+* :vnBBhDSFM5FIgkRN: 

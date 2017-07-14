@@ -1,7 +1,8 @@
-* :CaOxuaAuuyRRmiyM: METAR
-    @created 1482952743051
-    @alias http://dbpedia.org/resource/METAR
-    @weight 0.5
-    * :doirckTj1aBSWHUd: 
-    * :4aEisl2yD4X7ihJc: 
-    * :UKLvyEIqGd4JRKTl: 
+@id CaOxuaAuuyRRmiyM
+@title METAR
+@alias http://dbpedia.org/resource/METAR
+@created 1482952743051
+@weight 0.5
+* :doirckTj1aBSWHUd: 
+* :4aEisl2yD4X7ihJc: 
+* :UKLvyEIqGd4JRKTl: 

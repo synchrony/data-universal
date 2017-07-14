@@ -1,4 +1,5 @@
-* :xf6AgplSuJq8tBWk: Google News
-    @created 1336351436320
-    @alias http://dbpedia.org/resource/Google_News
-    @weight 0.5
+@id xf6AgplSuJq8tBWk
+@title Google News
+@alias http://dbpedia.org/resource/Google_News
+@created 1336351436320
+@weight 0.5

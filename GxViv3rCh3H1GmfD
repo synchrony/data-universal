@@ -1,11 +1,12 @@
-* :GxViv3rCh3H1GmfD: prasad
-    @created 1439347211638
-    @alias http://dbpedia.org/resource/Prasad
-    @weight 0.5
-    * :LCINVll6opXYae5J: 
-    * :dB2SQBlNaC0GpzG9: 
-    * :zSYfnpscEiJJlPed: 
-    * :q5Y9KSPtLXoYd3AH: 
-    * :b1mIVerMm7DFwjBb: 
-    * :LufefKDQpSjZKW7b: 
-    * :pp74YWiHACjiSDVR: 
+@id GxViv3rCh3H1GmfD
+@title prasad
+@alias http://dbpedia.org/resource/Prasad
+@created 1439347211638
+@weight 0.5
+* :LCINVll6opXYae5J: 
+* :dB2SQBlNaC0GpzG9: 
+* :zSYfnpscEiJJlPed: 
+* :q5Y9KSPtLXoYd3AH: 
+* :b1mIVerMm7DFwjBb: 
+* :LufefKDQpSjZKW7b: 
+* :pp74YWiHACjiSDVR: 

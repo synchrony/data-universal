@@ -1,7 +1,8 @@
-* :552dVwQuANrqvbrP: Data Encryption Standard
-    @created 1449541084623
-    @alias http://dbpedia.org/resource/Data_Encryption_Standard
-    @weight 0.5
-    * :YiXhMdS4zRQitCG0: 
-    * :OGRESPaXy0ZEpzLv: 
-    * :oGjLBIHnInHuQpIa: 
+@id 552dVwQuANrqvbrP
+@title Data Encryption Standard
+@alias http://dbpedia.org/resource/Data_Encryption_Standard
+@created 1449541084623
+@weight 0.5
+* :YiXhMdS4zRQitCG0: 
+* :OGRESPaXy0ZEpzLv: 
+* :oGjLBIHnInHuQpIa: 

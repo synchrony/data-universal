@@ -1,6 +1,7 @@
-* :MmJ4LSr19IJiQCTa: stuttering
-    @created 1345508979202
-    @alias http://dbpedia.org/resource/Stuttering
-    @weight 0.5
-    * :4yzXNhuMLdjr8ifF: 
-    * :bltxRaG6B3aaC8hm: 
+@id MmJ4LSr19IJiQCTa
+@title stuttering
+@alias http://dbpedia.org/resource/Stuttering
+@created 1345508979202
+@weight 0.5
+* :4yzXNhuMLdjr8ifF: 
+* :bltxRaG6B3aaC8hm: 

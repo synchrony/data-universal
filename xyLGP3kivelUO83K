@@ -1,4 +1,5 @@
-* :xyLGP3kivelUO83K: cemetery
-    @created 1350136286483
-    @alias http://dbpedia.org/resource/Cemetery
-    @weight 0.5
+@id xyLGP3kivelUO83K
+@title cemetery
+@alias http://dbpedia.org/resource/Cemetery
+@created 1350136286483
+@weight 0.5

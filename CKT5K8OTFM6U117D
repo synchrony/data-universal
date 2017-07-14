@@ -1,4 +1,5 @@
-* :CKT5K8OTFM6U117D: Arthur Miller
-    @created 1376267820397
-    @alias http://dbpedia.org/resource/Arthur_Miller
-    @weight 0.5
+@id CKT5K8OTFM6U117D
+@title Arthur Miller
+@alias http://dbpedia.org/resource/Arthur_Miller
+@created 1376267820397
+@weight 0.5

@@ -1,4 +1,5 @@
-* :FD67kTBiT8d7fEsH: subarachnoid hemorrhage
-    @created 1346602909614
-    @alias http://dbpedia.org/resource/Subarachnoid_hemorrhage
-    @weight 0.5
+@id FD67kTBiT8d7fEsH
+@title subarachnoid hemorrhage
+@alias http://dbpedia.org/resource/Subarachnoid_hemorrhage
+@created 1346602909614
+@weight 0.5

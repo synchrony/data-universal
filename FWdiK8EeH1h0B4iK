@@ -1,4 +1,5 @@
-* :FWdiK8EeH1h0B4iK: pentagon
-    @created 1321982873640
-    @alias http://dbpedia.org/resource/Pentagon
-    @weight 0.5
+@id FWdiK8EeH1h0B4iK
+@title pentagon
+@alias http://dbpedia.org/resource/Pentagon
+@created 1321982873640
+@weight 0.5

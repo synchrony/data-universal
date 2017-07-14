@@ -1,7 +1,8 @@
-* :pgLGWnBjAeskWHD8: ANTLR
-    @created 1340732216089
-    @alias http://dbpedia.org/resource/ANTLR
-    @weight 0.75
-    * :PRBtVvsyYxXUOt2C: 
-    * :ddUKEd1oDMtV67Fm: 
-    * :vz8m9gu0RMzdNcZm: 
+@id pgLGWnBjAeskWHD8
+@title ANTLR
+@alias http://dbpedia.org/resource/ANTLR
+@created 1340732216089
+@weight 0.75
+* :PRBtVvsyYxXUOt2C: 
+* :ddUKEd1oDMtV67Fm: 
+* :vz8m9gu0RMzdNcZm: 

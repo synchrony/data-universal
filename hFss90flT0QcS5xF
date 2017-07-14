@@ -1,8 +1,9 @@
-* :hFss90flT0QcS5xF: prosody (linguistics)
-    @created 1370100911102
-    @alias http://dbpedia.org/resource/Prosody_(linguistics)
-    @weight 0.5
-    * :KDeQhucnaAkyKGLU: 
-    * :R9MxDKzRZC57j2N4: 
-    * :bXoHLGranM8y1YtI: 
-    * :hv1QWgfFoav6Inmo: 
+@id hFss90flT0QcS5xF
+@title prosody (linguistics)
+@alias http://dbpedia.org/resource/Prosody_(linguistics)
+@created 1370100911102
+@weight 0.5
+* :KDeQhucnaAkyKGLU: 
+* :R9MxDKzRZC57j2N4: 
+* :bXoHLGranM8y1YtI: 
+* :hv1QWgfFoav6Inmo: 

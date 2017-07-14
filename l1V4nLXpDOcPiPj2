@@ -1,4 +1,5 @@
-* :l1V4nLXpDOcPiPj2: frontal lobe
-    @created 1434912362546
-    @alias http://dbpedia.org/resource/Frontal_lobe
-    @weight 0.5
+@id l1V4nLXpDOcPiPj2
+@title frontal lobe
+@alias http://dbpedia.org/resource/Frontal_lobe
+@created 1434912362546
+@weight 0.5

@@ -1,6 +1,7 @@
-* :zTdctZ7PoJoX5LdK: data transfer object
-    @created 1471550919873
-    @alias http://dbpedia.org/resource/Data_transfer_object
-    @weight 0.5
-    * :TUD9THrpPN1KAAsD: 
-    * :yHGcA7pSKDhOgapl: 
+@id zTdctZ7PoJoX5LdK
+@title data transfer object
+@alias http://dbpedia.org/resource/Data_transfer_object
+@created 1471550919873
+@weight 0.5
+* :TUD9THrpPN1KAAsD: 
+* :yHGcA7pSKDhOgapl: 

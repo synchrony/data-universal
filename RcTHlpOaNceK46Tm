@@ -1,6 +1,7 @@
-* :RcTHlpOaNceK46Tm: Kaiser Permanente
-    @created 1441175549767
-    @alias http://dbpedia.org/resource/Kaiser_Permanente
-    @weight 0.5
-    * :jBt92nBtoOAfHOIK: 
-    * :28L1AsIDw3S4ccv4: 
+@id RcTHlpOaNceK46Tm
+@title Kaiser Permanente
+@alias http://dbpedia.org/resource/Kaiser_Permanente
+@created 1441175549767
+@weight 0.5
+* :jBt92nBtoOAfHOIK: 
+* :28L1AsIDw3S4ccv4: 

@@ -1,9 +1,10 @@
-* :7FrNzrnUifVDdO5n: regular expression
-    @created 1378502645178
-    @alias http://dbpedia.org/resource/Regular_expression
-    @weight 0.5
-    * :clmT8lRObZIDHyXG: 
-    * :tDXlhCFvTGXYep2f: 
-    * :120eoL4W2t4MloD8: 
-    * :nCKFaBhgLVFg0TjX: 
-    * :mNcvUbOytHcxWBEv: 
+@id 7FrNzrnUifVDdO5n
+@title regular expression
+@alias http://dbpedia.org/resource/Regular_expression
+@created 1378502645178
+@weight 0.5
+* :clmT8lRObZIDHyXG: 
+* :tDXlhCFvTGXYep2f: 
+* :120eoL4W2t4MloD8: 
+* :nCKFaBhgLVFg0TjX: 
+* :mNcvUbOytHcxWBEv: 

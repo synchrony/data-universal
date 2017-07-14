@@ -1,6 +1,7 @@
-* :1wwVCdLTjTwBGB1L: Null Object pattern
-    @created 1380997569293
-    @alias http://dbpedia.org/resource/Null_Object_pattern
-    @weight 0.5
-    * :azE3odVFwqHnUNAv: 
-    * :6o24tb8yYogW5Qqq: 
+@id 1wwVCdLTjTwBGB1L
+@title Null Object pattern
+@alias http://dbpedia.org/resource/Null_Object_pattern
+@created 1380997569293
+@weight 0.5
+* :azE3odVFwqHnUNAv: 
+* :6o24tb8yYogW5Qqq: 

@@ -1,5 +1,6 @@
-* :YZiNvGLAxDaUfb1l: human-based computation
-    @created 1378336818995
-    @alias http://dbpedia.org/resource/Human-based_computation
-    @weight 0.5
-    * :HCawmPMmKkqfqnAz: 
+@id YZiNvGLAxDaUfb1l
+@title human-based computation
+@alias http://dbpedia.org/resource/Human-based_computation
+@created 1378336818995
+@weight 0.5
+* :HCawmPMmKkqfqnAz: 

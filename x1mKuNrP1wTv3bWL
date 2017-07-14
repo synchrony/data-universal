@@ -1,9 +1,10 @@
-* :x1mKuNrP1wTv3bWL: Selkirk Yard
-    @created 1384655031936
-    @alias http://dbpedia.org/resource/Selkirk_Yard
-    @weight 0.5
-    * :iJSMuI3y4zDPjIhG: 
-    * :uTE7ck6GqaK1vfN8: 
-    * :kFOdSBOBUActDl0C: 
-    * :R4Zm42OTUgINz8r1: 
-    * :yDbjPn74EcG0N9vo: 
+@id x1mKuNrP1wTv3bWL
+@title Selkirk Yard
+@alias http://dbpedia.org/resource/Selkirk_Yard
+@created 1384655031936
+@weight 0.5
+* :iJSMuI3y4zDPjIhG: 
+* :uTE7ck6GqaK1vfN8: 
+* :kFOdSBOBUActDl0C: 
+* :R4Zm42OTUgINz8r1: 
+* :yDbjPn74EcG0N9vo: 

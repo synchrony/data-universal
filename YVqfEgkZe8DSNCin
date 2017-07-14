@@ -1,4 +1,5 @@
-* :YVqfEgkZe8DSNCin: San Jose, California
-    @created 1360099992807
-    @alias http://dbpedia.org/resource/San_Jose,_California
-    @weight 0.5
+@id YVqfEgkZe8DSNCin
+@title San Jose, California
+@alias http://dbpedia.org/resource/San_Jose,_California
+@created 1360099992807
+@weight 0.5

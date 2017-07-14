@@ -1,7 +1,8 @@
-* :sV42poPwjKMtJo6U: electrical resistance and conductance
-    @created 1476928183868
-    @alias http://dbpedia.org/resource/Electrical_resistance_and_conductance
-    @weight 0.5
-    * :I51ete8D3SgBzdrw: 
-    * :nFAmLfVHwLYaF6ps: 
-    * :8dH5LAVVADBpCFId: 
+@id sV42poPwjKMtJo6U
+@title electrical resistance and conductance
+@alias http://dbpedia.org/resource/Electrical_resistance_and_conductance
+@created 1476928183868
+@weight 0.5
+* :I51ete8D3SgBzdrw: 
+* :nFAmLfVHwLYaF6ps: 
+* :8dH5LAVVADBpCFId: 

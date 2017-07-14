@@ -1,7 +1,8 @@
-* :LY7yyOPOZHkk1zDo: Cabomba
-    @created 1388364020673
-    @alias http://dbpedia.org/resource/Cabomba
-    @weight 0.5
-    * :P2oFDWAupoVPFFMu: 
-    * :dpbXDqzx3hkIHx72: 
-    * :yXNyHKuZNRcyoPQe: 
+@id LY7yyOPOZHkk1zDo
+@title Cabomba
+@alias http://dbpedia.org/resource/Cabomba
+@created 1388364020673
+@weight 0.5
+* :P2oFDWAupoVPFFMu: 
+* :dpbXDqzx3hkIHx72: 
+* :yXNyHKuZNRcyoPQe: 

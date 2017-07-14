@@ -1,6 +1,7 @@
-* :J7TxFRRGPxOARAmR: tremolo
-    @created 1433522140416
-    @alias http://dbpedia.org/resource/Tremolo
-    @weight 0.5
-    * :HrCpVy4G7yAaJHn2: 
-    * :VqPtH3GNATO1exQj: 
+@id J7TxFRRGPxOARAmR
+@title tremolo
+@alias http://dbpedia.org/resource/Tremolo
+@created 1433522140416
+@weight 0.5
+* :HrCpVy4G7yAaJHn2: 
+* :VqPtH3GNATO1exQj: 

@@ -1,6 +1,7 @@
-* :MPKHSo6iOHV0rI9m: Dwolla
-    @created 1333956206986
-    @alias http://dbpedia.org/resource/Dwolla
-    @weight 0.5
-    * :FA9pNyJU61uxrAUj: 
-    * :gWmcadyttBeNQtVt: 
+@id MPKHSo6iOHV0rI9m
+@title Dwolla
+@alias http://dbpedia.org/resource/Dwolla
+@created 1333956206986
+@weight 0.5
+* :FA9pNyJU61uxrAUj: 
+* :gWmcadyttBeNQtVt: 

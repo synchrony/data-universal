@@ -1,4 +1,5 @@
-* :tHKHnFpotJJUQvvB: greenhouse
-    @created 1367873987116
-    @alias http://dbpedia.org/resource/Greenhouse
-    @weight 0.5
+@id tHKHnFpotJJUQvvB
+@title greenhouse
+@alias http://dbpedia.org/resource/Greenhouse
+@created 1367873987116
+@weight 0.5

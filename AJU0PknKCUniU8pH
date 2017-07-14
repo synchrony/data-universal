@@ -1,4 +1,5 @@
-* :AJU0PknKCUniU8pH: calcium
-    @created 1344309326559
-    @alias http://dbpedia.org/resource/Calcium
-    @weight 0.75
+@id AJU0PknKCUniU8pH
+@title calcium
+@alias http://dbpedia.org/resource/Calcium
+@created 1344309326559
+@weight 0.75

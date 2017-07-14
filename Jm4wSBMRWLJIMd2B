@@ -1,4 +1,5 @@
-* :Jm4wSBMRWLJIMd2B: snow
-    @created 1464925378323
-    @alias http://dbpedia.org/resource/Snow
-    @weight 0.5
+@id Jm4wSBMRWLJIMd2B
+@title snow
+@alias http://dbpedia.org/resource/Snow
+@created 1464925378323
+@weight 0.5

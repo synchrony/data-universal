@@ -1,4 +1,5 @@
-* :DB57ruLeEGKFjg5N: avocado
-    @created 1309178127027
-    @alias http://dbpedia.org/resource/Avocado
-    @weight 0.5
+@id DB57ruLeEGKFjg5N
+@title avocado
+@alias http://dbpedia.org/resource/Avocado
+@created 1309178127027
+@weight 0.5

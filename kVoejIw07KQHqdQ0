@@ -1,7 +1,8 @@
-* :kVoejIw07KQHqdQ0: Hadean
-    @created 1388041367295
-    @alias http://dbpedia.org/resource/Hadean
-    @weight 0.5
-    * :N8v7DOmvnwh7V1vI: 
-    * :gAe7C61vwjyijysY: 
-    * :LLJ4LxFPE4lO6hun: 
+@id kVoejIw07KQHqdQ0
+@title Hadean
+@alias http://dbpedia.org/resource/Hadean
+@created 1388041367295
+@weight 0.5
+* :N8v7DOmvnwh7V1vI: 
+* :gAe7C61vwjyijysY: 
+* :LLJ4LxFPE4lO6hun: 

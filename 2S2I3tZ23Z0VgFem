@@ -1,4 +1,5 @@
-* :2S2I3tZ23Z0VgFem: cosmetics
-    @created 1327531249248
-    @alias http://dbpedia.org/resource/Cosmetics
-    @weight 0.5
+@id 2S2I3tZ23Z0VgFem
+@title cosmetics
+@alias http://dbpedia.org/resource/Cosmetics
+@created 1327531249248
+@weight 0.5

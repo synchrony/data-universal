@@ -1,4 +1,5 @@
-* :pnA4aQVyMV4kD5rn: leech
-    @created 1332996611860
-    @alias http://dbpedia.org/resource/Leech
-    @weight 0.5
+@id pnA4aQVyMV4kD5rn
+@title leech
+@alias http://dbpedia.org/resource/Leech
+@created 1332996611860
+@weight 0.5

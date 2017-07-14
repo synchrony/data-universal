@@ -1,6 +1,7 @@
-* :rJrAWzgmAaVkoRCU: iambic pentameter
-    @created 1407528600425
-    @alias http://dbpedia.org/resource/Iambic_pentameter
-    @weight 0.5
-    * :NRQxTLGmSGDPakUb: 
-    * :znGzKKssEVoz8gKA: 
+@id rJrAWzgmAaVkoRCU
+@title iambic pentameter
+@alias http://dbpedia.org/resource/Iambic_pentameter
+@created 1407528600425
+@weight 0.5
+* :NRQxTLGmSGDPakUb: 
+* :znGzKKssEVoz8gKA: 

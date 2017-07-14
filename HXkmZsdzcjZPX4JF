@@ -1,4 +1,5 @@
-* :HXkmZsdzcjZPX4JF: transitive relation
-    @created 1333296360367
-    @alias http://dbpedia.org/resource/Transitive_relation
-    @weight 0.5
+@id HXkmZsdzcjZPX4JF
+@title transitive relation
+@alias http://dbpedia.org/resource/Transitive_relation
+@created 1333296360367
+@weight 0.5

@@ -1,4 +1,5 @@
-* :hKVq9Z1n2kFHYtsE: iCloud
-    @created 1492701611702
-    @alias http://dbpedia.org/resource/ICloud
-    @weight 0.5
+@id hKVq9Z1n2kFHYtsE
+@title iCloud
+@alias http://dbpedia.org/resource/ICloud
+@created 1492701611702
+@weight 0.5

@@ -1,4 +1,5 @@
-* :td0GnQrBvSxRcenW: Monty Python and the Holy Grail
-    @created 1322930221126
-    @alias http://dbpedia.org/resource/Monty_Python_and_the_Holy_Grail
-    @weight 0.75
+@id td0GnQrBvSxRcenW
+@title Monty Python and the Holy Grail
+@alias http://dbpedia.org/resource/Monty_Python_and_the_Holy_Grail
+@created 1322930221126
+@weight 0.75

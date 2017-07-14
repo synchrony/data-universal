@@ -1,5 +1,6 @@
-* :l1ELUP3yVwBs6qKg: SnapN connector
-    @created 1327725300875
-    @alias http://dbpedia.org/resource/SnapN_connector
-    @weight 0.5
-    * :OR0ma2WAskN5bHQF: 
+@id l1ELUP3yVwBs6qKg
+@title SnapN connector
+@alias http://dbpedia.org/resource/SnapN_connector
+@created 1327725300875
+@weight 0.5
+* :OR0ma2WAskN5bHQF: 

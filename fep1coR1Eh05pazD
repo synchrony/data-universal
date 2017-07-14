@@ -1,4 +1,5 @@
-* :fep1coR1Eh05pazD: octopus
-    @created 1354415677537
-    @alias http://dbpedia.org/resource/Octopus
-    @weight 0.5
+@id fep1coR1Eh05pazD
+@title octopus
+@alias http://dbpedia.org/resource/Octopus
+@created 1354415677537
+@weight 0.5

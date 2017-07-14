@@ -1,4 +1,5 @@
-* :GSNJar6TDp4kxGkQ: black cat
-    @created 1350136554338
-    @alias http://dbpedia.org/resource/Black_cat
-    @weight 0.5
+@id GSNJar6TDp4kxGkQ
+@title black cat
+@alias http://dbpedia.org/resource/Black_cat
+@created 1350136554338
+@weight 0.5

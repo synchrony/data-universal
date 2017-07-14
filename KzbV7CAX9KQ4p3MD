@@ -1,4 +1,5 @@
-* :KzbV7CAX9KQ4p3MD: The Tonight Show
-    @created 1368052038624
-    @alias http://dbpedia.org/resource/The_Tonight_Show
-    @weight 0.5
+@id KzbV7CAX9KQ4p3MD
+@title The Tonight Show
+@alias http://dbpedia.org/resource/The_Tonight_Show
+@created 1368052038624
+@weight 0.5

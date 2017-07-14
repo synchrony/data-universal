@@ -1,10 +1,11 @@
-* :RHGkhYZ4i9sYsrSF: altitude
-    @created 1478879721842
-    @alias http://dbpedia.org/resource/Altitude
-    @weight 0.5
-    * :ywRNe8pNxBNl6Nfm: 
-    * :O46TFRomtTwDj11u: 
-    * :vLMszUepHtVaLdW3: 
-    * :aU4bPBSSz6pgSlBf: 
-    * :P13meVjQYRcJhmCP: 
-    * :bMnYjQW28TiFQYen: 
+@id RHGkhYZ4i9sYsrSF
+@title altitude
+@alias http://dbpedia.org/resource/Altitude
+@created 1478879721842
+@weight 0.5
+* :ywRNe8pNxBNl6Nfm: 
+* :O46TFRomtTwDj11u: 
+* :vLMszUepHtVaLdW3: 
+* :aU4bPBSSz6pgSlBf: 
+* :P13meVjQYRcJhmCP: 
+* :bMnYjQW28TiFQYen: 

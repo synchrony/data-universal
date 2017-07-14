@@ -1,6 +1,7 @@
-* :WnHkqnb09RtU7IEP: airspace
-    @created 1487749477413
-    @alias http://dbpedia.org/resource/Airspace
-    @weight 0.5
-    * :2BMxv6PiGIZ2mj7W: 
-    * :MZW8XzMPhZad5Gul: 
+@id WnHkqnb09RtU7IEP
+@title airspace
+@alias http://dbpedia.org/resource/Airspace
+@created 1487749477413
+@weight 0.5
+* :2BMxv6PiGIZ2mj7W: 
+* :MZW8XzMPhZad5Gul: 

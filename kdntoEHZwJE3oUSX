@@ -1,7 +1,8 @@
-* :kdntoEHZwJE3oUSX: casein
-    @created 1310282783296
-    @alias http://dbpedia.org/resource/Casein
-    @weight 0.5
-    * :jfUWGCowbxOQc2Tf: 
-    * :OSLF0jLd9s1HQH6t: 
-    * :ruMn8yFoFIqABU7G: 
+@id kdntoEHZwJE3oUSX
+@title casein
+@alias http://dbpedia.org/resource/Casein
+@created 1310282783296
+@weight 0.5
+* :jfUWGCowbxOQc2Tf: 
+* :OSLF0jLd9s1HQH6t: 
+* :ruMn8yFoFIqABU7G: 

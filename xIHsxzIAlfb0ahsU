@@ -1,4 +1,5 @@
-* :xIHsxzIAlfb0ahsU: Superman
-    @created 1313852269010
-    @alias http://dbpedia.org/resource/Superman
-    @weight 0.75
+@id xIHsxzIAlfb0ahsU
+@title Superman
+@alias http://dbpedia.org/resource/Superman
+@created 1313852269010
+@weight 0.75

@@ -1,4 +1,5 @@
-* :rTVtVHhK0MxlKgBE: lithium
-    @created 1344309326546
-    @alias http://dbpedia.org/resource/Lithium
-    @weight 0.75
+@id rTVtVHhK0MxlKgBE
+@title lithium
+@alias http://dbpedia.org/resource/Lithium
+@created 1344309326546
+@weight 0.75

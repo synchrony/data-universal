@@ -1,9 +1,10 @@
-* :H0S0Nyx509sdZj0T: International Semantic Web Conference
-    @created 1335025402634
-    @alias http://dbpedia.org/resource/International_Semantic_Web_Conference
-    @weight 0.75
-    @priority 0.25
-    * :tFBeyqB07X1499He: 
-    * :tdBZRwF9iudAUqEg: 
-    * :eeRpmQQMHoWJAYvo: 
-    * :0DBy2FAVjsFoJP7E: 
+@id H0S0Nyx509sdZj0T
+@title International Semantic Web Conference
+@alias http://dbpedia.org/resource/International_Semantic_Web_Conference
+@created 1335025402634
+@weight 0.75
+@priority 0.25
+* :tFBeyqB07X1499He: 
+* :tdBZRwF9iudAUqEg: 
+* :eeRpmQQMHoWJAYvo: 
+* :0DBy2FAVjsFoJP7E: 

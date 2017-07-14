@@ -1,6 +1,7 @@
-* :ldWjBSo1tLKqHc86: cheddar cheese
-    @created 1314643889651
-    @alias http://dbpedia.org/resource/Cheddar_cheese
-    @weight 0.5
-    * :4O7EghiB82zBFIuP: 
-    * :8H6ALfwclHbzQiNj: 
+@id ldWjBSo1tLKqHc86
+@title cheddar cheese
+@alias http://dbpedia.org/resource/Cheddar_cheese
+@created 1314643889651
+@weight 0.5
+* :4O7EghiB82zBFIuP: 
+* :8H6ALfwclHbzQiNj: 

@@ -1,5 +1,6 @@
-* :pgFOV5GzIKilSILF: dairy product
-    @created 1415291928258
-    @alias http://dbpedia.org/resource/Dairy_product
-    @weight 0.5
-    * :leDBSSDUO8O61Fr2: 
+@id pgFOV5GzIKilSILF
+@title dairy product
+@alias http://dbpedia.org/resource/Dairy_product
+@created 1415291928258
+@weight 0.5
+* :leDBSSDUO8O61Fr2: 

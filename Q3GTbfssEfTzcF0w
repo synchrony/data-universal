@@ -1,6 +1,7 @@
-* :Q3GTbfssEfTzcF0w: strabismus
-    @created 1453830854533
-    @alias http://dbpedia.org/resource/Strabismus
-    @weight 0.5
-    * :qMAwK3ByWAbAkuBB: 
-    * :BxoU0tG8TI0Fplfz: 
+@id Q3GTbfssEfTzcF0w
+@title strabismus
+@alias http://dbpedia.org/resource/Strabismus
+@created 1453830854533
+@weight 0.5
+* :qMAwK3ByWAbAkuBB: 
+* :BxoU0tG8TI0Fplfz: 

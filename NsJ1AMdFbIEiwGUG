@@ -1,4 +1,5 @@
-* :NsJ1AMdFbIEiwGUG: Minesweeper (video game)
-    @created 1421292028622
-    @alias http://dbpedia.org/resource/Minesweeper_(video_game)
-    @weight 0.5
+@id NsJ1AMdFbIEiwGUG
+@title Minesweeper (video game)
+@alias http://dbpedia.org/resource/Minesweeper_(video_game)
+@created 1421292028622
+@weight 0.5

@@ -1,4 +1,5 @@
-* :mpv49b9CsSCq4Vdf: Mamma Mia!
-    @created 1343753209439
-    @alias http://dbpedia.org/resource/Mamma_Mia!
-    @weight 0.5
+@id mpv49b9CsSCq4Vdf
+@title Mamma Mia!
+@alias http://dbpedia.org/resource/Mamma_Mia!
+@created 1343753209439
+@weight 0.5

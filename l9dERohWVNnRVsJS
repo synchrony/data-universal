@@ -1,4 +1,5 @@
-* :l9dERohWVNnRVsJS: hummingbird
-    @created 1336806987224
-    @alias http://dbpedia.org/resource/Hummingbird
-    @weight 0.5
+@id l9dERohWVNnRVsJS
+@title hummingbird
+@alias http://dbpedia.org/resource/Hummingbird
+@created 1336806987224
+@weight 0.5

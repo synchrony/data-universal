@@ -1,4 +1,5 @@
-* :8KMKOhvAqSuIjoyh: pediatrics
-    @created 1350746480291
-    @alias http://dbpedia.org/resource/Pediatrics
-    @weight 0.5
+@id 8KMKOhvAqSuIjoyh
+@title pediatrics
+@alias http://dbpedia.org/resource/Pediatrics
+@created 1350746480291
+@weight 0.5

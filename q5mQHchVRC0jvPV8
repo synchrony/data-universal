@@ -1,11 +1,12 @@
-* :q5mQHchVRC0jvPV8: interview
-    @created 1381298733814
-    @alias http://dbpedia.org/resource/Interview
-    @weight 0.5
-    * :V9EWd6GuCLtlWlQf: 
-    * :sBpvZNCdJQZ711Cb: 
-    * :ACFhJGR5CREiVIzN: 
-    * :xBQUkfXTZppfDEv4: 
-    * :4kiGT2EpOnPXYt2k: 
-    * :WMtGQ7csA1L9p5fj: 
-    * :0fDxHrHGXG8fgOKw: 
+@id q5mQHchVRC0jvPV8
+@title interview
+@alias http://dbpedia.org/resource/Interview
+@created 1381298733814
+@weight 0.5
+* :V9EWd6GuCLtlWlQf: 
+* :sBpvZNCdJQZ711Cb: 
+* :ACFhJGR5CREiVIzN: 
+* :xBQUkfXTZppfDEv4: 
+* :4kiGT2EpOnPXYt2k: 
+* :WMtGQ7csA1L9p5fj: 
+* :0fDxHrHGXG8fgOKw: 

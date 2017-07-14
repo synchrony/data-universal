@@ -1,4 +1,5 @@
-* :VsBKKlCXJUf71jKb: shampoo
-    @created 1315073058939
-    @alias http://dbpedia.org/resource/Shampoo
-    @weight 0.75
+@id VsBKKlCXJUf71jKb
+@title shampoo
+@alias http://dbpedia.org/resource/Shampoo
+@created 1315073058939
+@weight 0.75

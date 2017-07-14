@@ -1,10 +1,11 @@
-* :KgWCD2qq6ug31W7E: Asperger syndrome
-    @created 1344135022093
-    @alias http://dbpedia.org/resource/Asperger_syndrome
-    @weight 0.5
-    * :eFk7LGm0iDkNKYAJ: 
-    * :DK4oDKGkzrVlqjOI: 
-    * :fxOrHHnx8RxEUUR5: 
-    * :YB8lDjKxCnqtwYmE: 
-    * :40Xr9EaYzku7mYxt: 
-    * :cDkf8SidG5tL1BfR: 
+@id KgWCD2qq6ug31W7E
+@title Asperger syndrome
+@alias http://dbpedia.org/resource/Asperger_syndrome
+@created 1344135022093
+@weight 0.5
+* :eFk7LGm0iDkNKYAJ: 
+* :DK4oDKGkzrVlqjOI: 
+* :fxOrHHnx8RxEUUR5: 
+* :YB8lDjKxCnqtwYmE: 
+* :40Xr9EaYzku7mYxt: 
+* :cDkf8SidG5tL1BfR: 

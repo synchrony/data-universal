@@ -1,4 +1,5 @@
-* :APZyLASOkL9e7RrW: vertical search
-    @created 1310276788583
-    @alias http://dbpedia.org/resource/Vertical_search
-    @weight 0.5
+@id APZyLASOkL9e7RrW
+@title vertical search
+@alias http://dbpedia.org/resource/Vertical_search
+@created 1310276788583
+@weight 0.5

@@ -1,6 +1,7 @@
-* :PN8WZDSLdmAmfriI: biorobotics
-    @created 1349186522650
-    @alias http://dbpedia.org/resource/Biorobotics
-    @weight 0.5
-    * :niYWXunvVFnmO211: 
-    * :389ZoCftp7JjRWDF: 
+@id PN8WZDSLdmAmfriI
+@title biorobotics
+@alias http://dbpedia.org/resource/Biorobotics
+@created 1349186522650
+@weight 0.5
+* :niYWXunvVFnmO211: 
+* :389ZoCftp7JjRWDF: 

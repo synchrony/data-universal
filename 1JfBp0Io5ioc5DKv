@@ -1,6 +1,7 @@
-* :1JfBp0Io5ioc5DKv: actuator
-    @created 1347603585646
-    @alias http://dbpedia.org/resource/Actuator
-    @weight 0.5
-    * :GGUDpc3LMoMFwG6s: 
-    * :qiyAaQN7PI6BQvek: 
+@id 1JfBp0Io5ioc5DKv
+@title actuator
+@alias http://dbpedia.org/resource/Actuator
+@created 1347603585646
+@weight 0.5
+* :GGUDpc3LMoMFwG6s: 
+* :qiyAaQN7PI6BQvek: 

@@ -1,7 +1,8 @@
-* :ZuFMW2kUCUHJ3Xa4: Buen Retiro park
-    @created 1360124355971
-    @alias http://dbpedia.org/resource/Buen_Retiro_park
-    @weight 0.5
-    * :wKYkYODwOqztB9B4: 
-    * :mWXyAE2yYYjApMLm: 
-    * :LF8CmaYgaEVthwcj: 
+@id ZuFMW2kUCUHJ3Xa4
+@title Buen Retiro park
+@alias http://dbpedia.org/resource/Buen_Retiro_park
+@created 1360124355971
+@weight 0.5
+* :wKYkYODwOqztB9B4: 
+* :mWXyAE2yYYjApMLm: 
+* :LF8CmaYgaEVthwcj: 

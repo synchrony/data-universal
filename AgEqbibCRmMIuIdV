@@ -1,4 +1,5 @@
-* :AgEqbibCRmMIuIdV: inverted fly
-    @created 1331185254766
-    @alias http://dbpedia.org/resource/Inverted_fly
-    @weight 0.5
+@id AgEqbibCRmMIuIdV
+@title inverted fly
+@alias http://dbpedia.org/resource/Inverted_fly
+@created 1331185254766
+@weight 0.5

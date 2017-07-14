@@ -1,6 +1,7 @@
-* :GyveGo8kbBu1nRE2: Phish
-    @created 1310279552865
-    @alias http://dbpedia.org/resource/Phish
-    @weight 0.5
-    * :huhc7DxprY9axQHl: 
-    * :Gl3HeWg15CjyCqoQ: 
+@id GyveGo8kbBu1nRE2
+@title Phish
+@alias http://dbpedia.org/resource/Phish
+@created 1310279552865
+@weight 0.5
+* :huhc7DxprY9axQHl: 
+* :Gl3HeWg15CjyCqoQ: 

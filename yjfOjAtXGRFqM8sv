@@ -1,9 +1,10 @@
-* :yjfOjAtXGRFqM8sv: subset sum problem
-    @created 1310234505250
-    @alias http://dbpedia.org/resource/Subset_sum_problem
-    @weight 0.5
-    * :DMEGt4BMzlCj6mr1: 
-    * :J9BzJHnQzFdxVEF2: 
-    * :vROflpdIRawoYDJF: 
-    * :gtOYS3x2kMUCbBk0: 
-    * :jp2CejyNJ6Kp2l1a: 
+@id yjfOjAtXGRFqM8sv
+@title subset sum problem
+@alias http://dbpedia.org/resource/Subset_sum_problem
+@created 1310234505250
+@weight 0.5
+* :DMEGt4BMzlCj6mr1: 
+* :J9BzJHnQzFdxVEF2: 
+* :vROflpdIRawoYDJF: 
+* :gtOYS3x2kMUCbBk0: 
+* :jp2CejyNJ6Kp2l1a: 

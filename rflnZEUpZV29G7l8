@@ -1,5 +1,6 @@
-* :rflnZEUpZV29G7l8: World Geodetic System
-    @created 1345620198587
-    @alias http://dbpedia.org/resource/World_Geodetic_System
-    @weight 0.5
-    * :e2enY9j7d5HBpPGJ: 
+@id rflnZEUpZV29G7l8
+@title World Geodetic System
+@alias http://dbpedia.org/resource/World_Geodetic_System
+@created 1345620198587
+@weight 0.5
+* :e2enY9j7d5HBpPGJ: 

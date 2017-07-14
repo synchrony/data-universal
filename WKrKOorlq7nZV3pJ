@@ -1,4 +1,5 @@
-* :WKrKOorlq7nZV3pJ: open collector
-    @created 1477185645696
-    @alias http://dbpedia.org/resource/Open_collector
-    @weight 0.5
+@id WKrKOorlq7nZV3pJ
+@title open collector
+@alias http://dbpedia.org/resource/Open_collector
+@created 1477185645696
+@weight 0.5

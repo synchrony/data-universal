@@ -1,6 +1,7 @@
-* :qTCNV1UGG4dHPhgW: quiddity
-    @created 1344127854221
-    @alias http://dbpedia.org/resource/Quiddity
-    @weight 0.5
-    * :IGv5Sx7oMHLBAVl6: 
-    * :BVarEdnP3pNxWh4F: 
+@id qTCNV1UGG4dHPhgW
+@title quiddity
+@alias http://dbpedia.org/resource/Quiddity
+@created 1344127854221
+@weight 0.5
+* :IGv5Sx7oMHLBAVl6: 
+* :BVarEdnP3pNxWh4F: 

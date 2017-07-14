@@ -1,5 +1,6 @@
-* :n6onRPfR4UYRwsRp: animal
-    @created 1416520152498
-    @alias http://dbpedia.org/resource/Animal
-    @weight 0.5
-    * :NWIxovRfMBS8R1Kh: 
+@id n6onRPfR4UYRwsRp
+@title animal
+@alias http://dbpedia.org/resource/Animal
+@created 1416520152498
+@weight 0.5
+* :NWIxovRfMBS8R1Kh: 

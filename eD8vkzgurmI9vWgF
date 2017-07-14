@@ -1,8 +1,9 @@
-* :eD8vkzgurmI9vWgF: Dimitri Mihalas
-    @created 1418941395268
-    @alias http://dbpedia.org/resource/Dimitri_Mihalas
-    @weight 0.5
-    * :ERBuWNYMp3sDXAvF: 
-    * :hjuwO7ogguBPwr6N: 
-    * :lk2xFuyAbpIhMtyw: 
-    * :TerMu1gJ1C8gIdGH: 
+@id eD8vkzgurmI9vWgF
+@title Dimitri Mihalas
+@alias http://dbpedia.org/resource/Dimitri_Mihalas
+@created 1418941395268
+@weight 0.5
+* :ERBuWNYMp3sDXAvF: 
+* :hjuwO7ogguBPwr6N: 
+* :lk2xFuyAbpIhMtyw: 
+* :TerMu1gJ1C8gIdGH: 

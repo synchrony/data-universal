@@ -1,7 +1,8 @@
-* :nsAlNXAmdy7XQsfS: baryton
-    @created 1331849894781
-    @alias http://dbpedia.org/resource/Baryton
-    @weight 0.5
-    * :kjBgV0lHaw07TduS: 
-    * :mJHZjhuz9bMJVjA2: 
-    * :3ZGuyxeE4EGUM26e: 
+@id nsAlNXAmdy7XQsfS
+@title baryton
+@alias http://dbpedia.org/resource/Baryton
+@created 1331849894781
+@weight 0.5
+* :kjBgV0lHaw07TduS: 
+* :mJHZjhuz9bMJVjA2: 
+* :3ZGuyxeE4EGUM26e: 

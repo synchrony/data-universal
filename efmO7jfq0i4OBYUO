@@ -1,4 +1,5 @@
-* :efmO7jfq0i4OBYUO: social status
-    @created 1430026035046
-    @alias http://dbpedia.org/resource/Social_status
-    @weight 0.5
+@id efmO7jfq0i4OBYUO
+@title social status
+@alias http://dbpedia.org/resource/Social_status
+@created 1430026035046
+@weight 0.5

@@ -1,4 +1,5 @@
-* :CAVRcubNeN5PmHi1: Saturn
-    @created 1388644964173
-    @alias http://dbpedia.org/resource/Saturn
-    @weight 0.5
+@id CAVRcubNeN5PmHi1
+@title Saturn
+@alias http://dbpedia.org/resource/Saturn
+@created 1388644964173
+@weight 0.5

@@ -1,4 +1,5 @@
-* :qqWHmZhTS2jK9tPl: hyaluronan
-    @created 1431747939371
-    @alias http://dbpedia.org/resource/Hyaluronan
-    @weight 0.5
+@id qqWHmZhTS2jK9tPl
+@title hyaluronan
+@alias http://dbpedia.org/resource/Hyaluronan
+@created 1431747939371
+@weight 0.5

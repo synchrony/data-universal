@@ -1,4 +1,5 @@
-* :NUDOjFkeOLa23d5M: death
-    @created 1322489197868
-    @alias http://dbpedia.org/resource/Death
-    @weight 0.5
+@id NUDOjFkeOLa23d5M
+@title death
+@alias http://dbpedia.org/resource/Death
+@created 1322489197868
+@weight 0.5

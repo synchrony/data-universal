@@ -1,4 +1,5 @@
-* :doOcHkjXtodG1fuH: FaceTime
-    @created 1328829353431
-    @alias http://dbpedia.org/resource/FaceTime
-    @weight 0.5
+@id doOcHkjXtodG1fuH
+@title FaceTime
+@alias http://dbpedia.org/resource/FaceTime
+@created 1328829353431
+@weight 0.5

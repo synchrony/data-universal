@@ -1,6 +1,7 @@
-* :cyLglvzUhNZx02hJ: non-aggression principle
-    @created 1415975931720
-    @alias http://dbpedia.org/resource/Non-aggression_principle
-    @weight 0.5
-    * :0bZsMqN92peLuINp: 
-    * :wFEeIKOFi8TvFS0Z: 
+@id cyLglvzUhNZx02hJ
+@title non-aggression principle
+@alias http://dbpedia.org/resource/Non-aggression_principle
+@created 1415975931720
+@weight 0.5
+* :0bZsMqN92peLuINp: 
+* :wFEeIKOFi8TvFS0Z: 

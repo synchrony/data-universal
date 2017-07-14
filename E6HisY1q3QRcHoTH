@@ -1,4 +1,5 @@
-* :E6HisY1q3QRcHoTH: David Beckham
-    @created 1431993595570
-    @alias http://dbpedia.org/resource/David_Beckham
-    @weight 0.5
+@id E6HisY1q3QRcHoTH
+@title David Beckham
+@alias http://dbpedia.org/resource/David_Beckham
+@created 1431993595570
+@weight 0.5

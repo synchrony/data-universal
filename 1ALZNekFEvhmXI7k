@@ -1,8 +1,9 @@
-* :1ALZNekFEvhmXI7k: saturated fat
-    @created 1432132223732
-    @alias http://dbpedia.org/resource/Saturated_fat
-    @weight 0.5
-    * :BhD82PgUn6fubxjk: 
-    * :luCK7CkQEYZkww1u: 
-    * :nUf6WCII0eQ2d6Xx: 
-    * :5mIafULDJ3MUJzwJ: 
+@id 1ALZNekFEvhmXI7k
+@title saturated fat
+@alias http://dbpedia.org/resource/Saturated_fat
+@created 1432132223732
+@weight 0.5
+* :BhD82PgUn6fubxjk: 
+* :luCK7CkQEYZkww1u: 
+* :nUf6WCII0eQ2d6Xx: 
+* :5mIafULDJ3MUJzwJ: 

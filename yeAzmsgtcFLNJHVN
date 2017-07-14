@@ -1,4 +1,5 @@
-* :yeAzmsgtcFLNJHVN: coin
-    @created 1353661707755
-    @alias http://dbpedia.org/resource/Coin
-    @weight 0.5
+@id yeAzmsgtcFLNJHVN
+@title coin
+@alias http://dbpedia.org/resource/Coin
+@created 1353661707755
+@weight 0.5

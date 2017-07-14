@@ -1,6 +1,7 @@
-* :vEwq0dRZKrqkNm4l: guilt (emotion)
-    @created 1353404942488
-    @alias http://dbpedia.org/resource/Guilt_(emotion)
-    @weight 0.5
-    * :DXq7gn68cZpv6Hsj: 
-    * :nXwTrpSKRdJhr95y: 
+@id vEwq0dRZKrqkNm4l
+@title guilt (emotion)
+@alias http://dbpedia.org/resource/Guilt_(emotion)
+@created 1353404942488
+@weight 0.5
+* :DXq7gn68cZpv6Hsj: 
+* :nXwTrpSKRdJhr95y: 

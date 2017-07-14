@@ -1,7 +1,8 @@
-* :fBdHKPSH8Ivt6exs: extensional context
-    @created 1344136497753
-    @alias http://dbpedia.org/resource/Extensional_context
-    @weight 0.5
-    * :RGTTbKlDGYAtezoB: 
-    * :nltlDJw7aQko8egc: 
-    * :1lMkzB4SUeCnNEYb: 
+@id fBdHKPSH8Ivt6exs
+@title extensional context
+@alias http://dbpedia.org/resource/Extensional_context
+@created 1344136497753
+@weight 0.5
+* :RGTTbKlDGYAtezoB: 
+* :nltlDJw7aQko8egc: 
+* :1lMkzB4SUeCnNEYb: 

@@ -1,8 +1,9 @@
-* :rN9lsxGyIl051y2a: Prolog
-    @created 1380745336034
-    @alias http://dbpedia.org/resource/Prolog
-    @weight 0.75
-    * :FbvfjFAjxUczztMz: 
-    * :BD4RnBo00maZR1du: 
-    * :Og4hpWB6S2xFJSpF: 
-    * :1OHMSsv7RMDbVtTU: 
+@id rN9lsxGyIl051y2a
+@title Prolog
+@alias http://dbpedia.org/resource/Prolog
+@created 1380745336034
+@weight 0.75
+* :FbvfjFAjxUczztMz: 
+* :BD4RnBo00maZR1du: 
+* :Og4hpWB6S2xFJSpF: 
+* :1OHMSsv7RMDbVtTU: 

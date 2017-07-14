@@ -1,6 +1,7 @@
-* :zHDYc30C7xa16QdR: Neogene
-    @created 1388042963149
-    @alias http://dbpedia.org/resource/Neogene
-    @weight 0.5
-    * :HpL27VGMxe8ldzd1: 
-    * :QKp9wR4oqyvMZ99h: 
+@id zHDYc30C7xa16QdR
+@title Neogene
+@alias http://dbpedia.org/resource/Neogene
+@created 1388042963149
+@weight 0.5
+* :HpL27VGMxe8ldzd1: 
+* :QKp9wR4oqyvMZ99h: 

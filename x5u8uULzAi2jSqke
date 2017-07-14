@@ -1,4 +1,5 @@
-* :x5u8uULzAi2jSqke: Kleene star
-    @created 1352129174517
-    @alias http://dbpedia.org/resource/Kleene_star
-    @weight 0.5
+@id x5u8uULzAi2jSqke
+@title Kleene star
+@alias http://dbpedia.org/resource/Kleene_star
+@created 1352129174517
+@weight 0.5

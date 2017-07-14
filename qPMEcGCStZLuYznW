@@ -1,10 +1,11 @@
-* :qPMEcGCStZLuYznW: specious present
-    @created 1350836005337
-    @alias http://dbpedia.org/resource/Specious_present
-    @weight 0.5
-    * :YTqbp7hGs8BflCxI: 
-    * :m86wGZKmfPtihKao: 
-    * :JFfTBiWFZl4XXKYW: 
-    * :764oasG6Y7l3ilaU: 
-    * :sgIOVLsZDv82L1rQ: 
-    * :hSdlzBXfnNuf7Beb: 
+@id qPMEcGCStZLuYznW
+@title specious present
+@alias http://dbpedia.org/resource/Specious_present
+@created 1350836005337
+@weight 0.5
+* :YTqbp7hGs8BflCxI: 
+* :m86wGZKmfPtihKao: 
+* :JFfTBiWFZl4XXKYW: 
+* :764oasG6Y7l3ilaU: 
+* :sgIOVLsZDv82L1rQ: 
+* :hSdlzBXfnNuf7Beb: 

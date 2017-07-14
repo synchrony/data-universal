@@ -1,5 +1,6 @@
-* :nwKA3zRRQRYVqe0o: bone char
-    @created 1415292602405
-    @alias http://dbpedia.org/resource/Bone_char
-    @weight 0.5
-    * :JLH11knyuYfdgvMu: 
+@id nwKA3zRRQRYVqe0o
+@title bone char
+@alias http://dbpedia.org/resource/Bone_char
+@created 1415292602405
+@weight 0.5
+* :JLH11knyuYfdgvMu: 

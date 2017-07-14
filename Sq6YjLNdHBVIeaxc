@@ -1,10 +1,11 @@
-* :Sq6YjLNdHBVIeaxc: child abandonment
-    @created 1428722531703
-    @alias http://dbpedia.org/resource/Child_abandonment
-    @weight 0.5
-    * :O3KpmQg72Ab2lREL: 
-    * :Gn1qNnwrGtLMrkvy: 
-    * :6aNL0yDQorcML0zX: 
-    * :A6cmOqN3shfwkYBE: 
-    * :s83reK1Hr9cCLD11: 
-    * :V3yMkrq9C9LfHhrS: 
+@id Sq6YjLNdHBVIeaxc
+@title child abandonment
+@alias http://dbpedia.org/resource/Child_abandonment
+@created 1428722531703
+@weight 0.5
+* :O3KpmQg72Ab2lREL: 
+* :Gn1qNnwrGtLMrkvy: 
+* :6aNL0yDQorcML0zX: 
+* :A6cmOqN3shfwkYBE: 
+* :s83reK1Hr9cCLD11: 
+* :V3yMkrq9C9LfHhrS: 

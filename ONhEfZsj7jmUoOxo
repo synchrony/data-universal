@@ -1,5 +1,6 @@
-* :ONhEfZsj7jmUoOxo: infant
-    @created 1350239848162
-    @alias http://dbpedia.org/resource/Infant
-    @weight 0.5
-    * :JDwHWWhw2NtqrRbV: 
+@id ONhEfZsj7jmUoOxo
+@title infant
+@alias http://dbpedia.org/resource/Infant
+@created 1350239848162
+@weight 0.5
+* :JDwHWWhw2NtqrRbV: 

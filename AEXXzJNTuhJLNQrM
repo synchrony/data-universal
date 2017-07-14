@@ -1,5 +1,6 @@
-* :AEXXzJNTuhJLNQrM: hypertension
-    @created 1353306372595
-    @alias http://dbpedia.org/resource/Hypertension
-    @weight 0.5
-    * :2oaEx7D4FqOBEEJ2: 
+@id AEXXzJNTuhJLNQrM
+@title hypertension
+@alias http://dbpedia.org/resource/Hypertension
+@created 1353306372595
+@weight 0.5
+* :2oaEx7D4FqOBEEJ2: 

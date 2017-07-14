@@ -1,5 +1,6 @@
-* :wNhWX2sD9c1C6O7V: topology
-    @created 1381079530974
-    @alias http://dbpedia.org/resource/Topology
-    @weight 0.5
-    * :BBmA77Udwl64t1Tm: 
+@id wNhWX2sD9c1C6O7V
+@title topology
+@alias http://dbpedia.org/resource/Topology
+@created 1381079530974
+@weight 0.5
+* :BBmA77Udwl64t1Tm: 

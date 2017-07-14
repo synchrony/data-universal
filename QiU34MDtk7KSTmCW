@@ -1,7 +1,8 @@
-* :QiU34MDtk7KSTmCW: Supplemental Security Income
-    @created 1383877187792
-    @alias http://dbpedia.org/resource/Supplemental_Security_Income
-    @weight 0.5
-    * :mXaU4RwVpNQ0Ie9J: 
-    * :KZn6ziIueXOpsPum: 
-    * :d1QYaPBEcnkI6RES: 
+@id QiU34MDtk7KSTmCW
+@title Supplemental Security Income
+@alias http://dbpedia.org/resource/Supplemental_Security_Income
+@created 1383877187792
+@weight 0.5
+* :mXaU4RwVpNQ0Ie9J: 
+* :KZn6ziIueXOpsPum: 
+* :d1QYaPBEcnkI6RES: 

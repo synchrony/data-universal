@@ -1,6 +1,7 @@
-* :eAkk494LWJNRkGCv: non-deterministic Turing machine
-    @created 1310230505343
-    @alias http://dbpedia.org/resource/Non-deterministic_Turing_machine
-    @weight 0.5
-    * :uprNAbkIXlvRy73y: 
-    * :kWQdbQtYTlrOHdnQ: 
+@id eAkk494LWJNRkGCv
+@title non-deterministic Turing machine
+@alias http://dbpedia.org/resource/Non-deterministic_Turing_machine
+@created 1310230505343
+@weight 0.5
+* :uprNAbkIXlvRy73y: 
+* :kWQdbQtYTlrOHdnQ: 

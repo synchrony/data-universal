@@ -1,6 +1,7 @@
-* :KfGQwnp3j1D82nJf: sugar
-    @created 1312863849608
-    @alias http://dbpedia.org/resource/Sugar
-    @weight 0.75
-    * :MDdwOTP6ICdr6sdw: 
-    * :AClaI8K05y0gXNVP: 
+@id KfGQwnp3j1D82nJf
+@title sugar
+@alias http://dbpedia.org/resource/Sugar
+@created 1312863849608
+@weight 0.75
+* :MDdwOTP6ICdr6sdw: 
+* :AClaI8K05y0gXNVP: 

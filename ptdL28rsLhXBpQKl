@@ -1,4 +1,5 @@
-* :ptdL28rsLhXBpQKl: Early Edition
-    @created 1361948120699
-    @alias http://dbpedia.org/resource/Early_Edition
-    @weight 0.75
+@id ptdL28rsLhXBpQKl
+@title Early Edition
+@alias http://dbpedia.org/resource/Early_Edition
+@created 1361948120699
+@weight 0.75

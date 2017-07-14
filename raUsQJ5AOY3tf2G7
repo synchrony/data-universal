@@ -1,6 +1,7 @@
-* :raUsQJ5AOY3tf2G7: Redis
-    @created 1467142243577
-    @alias http://dbpedia.org/resource/Redis
-    @weight 0.5
-    * :TVnHnGAvGCKugrU0: 
-    * :tFnaLNTMozYzveB7: 
+@id raUsQJ5AOY3tf2G7
+@title Redis
+@alias http://dbpedia.org/resource/Redis
+@created 1467142243577
+@weight 0.5
+* :TVnHnGAvGCKugrU0: 
+* :tFnaLNTMozYzveB7: 

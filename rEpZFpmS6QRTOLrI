@@ -1,6 +1,7 @@
-* :rEpZFpmS6QRTOLrI: power set
-    @created 1381086392886
-    @alias http://dbpedia.org/resource/Power_set
-    @weight 0.5
-    * :ZCOOw9abgYKLp7eI: 
-    * :i1bxVchswW5SJ41Y: 
+@id rEpZFpmS6QRTOLrI
+@title power set
+@alias http://dbpedia.org/resource/Power_set
+@created 1381086392886
+@weight 0.5
+* :ZCOOw9abgYKLp7eI: 
+* :i1bxVchswW5SJ41Y: 

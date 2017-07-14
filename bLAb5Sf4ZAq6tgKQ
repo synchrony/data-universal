@@ -1,5 +1,6 @@
-* :bLAb5Sf4ZAq6tgKQ: intelligent agent
-    @created 1346022470661
-    @alias http://dbpedia.org/resource/Intelligent_agent
-    @weight 0.5
-    * :S0AJBrM0FimtXU2S: 
+@id bLAb5Sf4ZAq6tgKQ
+@title intelligent agent
+@alias http://dbpedia.org/resource/Intelligent_agent
+@created 1346022470661
+@weight 0.5
+* :S0AJBrM0FimtXU2S: 

@@ -1,4 +1,5 @@
-* :LNiYOg5RQFbtW4SU: North America
-    @created 1388639673938
-    @alias http://dbpedia.org/resource/North_America
-    @weight 0.5
+@id LNiYOg5RQFbtW4SU
+@title North America
+@alias http://dbpedia.org/resource/North_America
+@created 1388639673938
+@weight 0.5

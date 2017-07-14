@@ -1,4 +1,5 @@
-* :qgHXhmhfhJfA1PfN: compost
-    @created 1493090054544
-    @alias http://dbpedia.org/resource/Compost
-    @weight 0.5
+@id qgHXhmhfhJfA1PfN
+@title compost
+@alias http://dbpedia.org/resource/Compost
+@created 1493090054544
+@weight 0.5

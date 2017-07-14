@@ -1,5 +1,6 @@
-* :cq4NgT9L7lVnrDsl: temperature
-    @created 1420053353382
-    @alias http://dbpedia.org/resource/Temperature
-    @weight 0.5
-    * :P4g11fvGbHKXmjVV: 
+@id cq4NgT9L7lVnrDsl
+@title temperature
+@alias http://dbpedia.org/resource/Temperature
+@created 1420053353382
+@weight 0.5
+* :P4g11fvGbHKXmjVV: 

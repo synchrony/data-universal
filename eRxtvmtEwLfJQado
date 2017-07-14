@@ -1,4 +1,5 @@
-* :eRxtvmtEwLfJQado: thermosphere
-    @created 1481651755554
-    @alias http://dbpedia.org/resource/Thermosphere
-    @weight 0.5
+@id eRxtvmtEwLfJQado
+@title thermosphere
+@alias http://dbpedia.org/resource/Thermosphere
+@created 1481651755554
+@weight 0.5

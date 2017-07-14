@@ -1,11 +1,12 @@
-* :FYdgWDzh4JmeQahZ: absent-mindedness
-    @created 1370098587006
-    @alias http://dbpedia.org/resource/Absent-mindedness
-    @weight 0.5
-    * :yZ9A8ZHjbxAgD9kn: 
-    * :5UqwYoCHyDr6iCLd: 
-    * :mp8bjNfR37VGQtnv: 
-    * :AJ5RCGhg4TxfDKpZ: 
-    * :2xFWhqlLHxWpm7iC: 
-    * :nZCMhG1k1JlbkJB3: 
-    * :fXGDLf3fENgThQ6M: 
+@id FYdgWDzh4JmeQahZ
+@title absent-mindedness
+@alias http://dbpedia.org/resource/Absent-mindedness
+@created 1370098587006
+@weight 0.5
+* :yZ9A8ZHjbxAgD9kn: 
+* :5UqwYoCHyDr6iCLd: 
+* :mp8bjNfR37VGQtnv: 
+* :AJ5RCGhg4TxfDKpZ: 
+* :2xFWhqlLHxWpm7iC: 
+* :nZCMhG1k1JlbkJB3: 
+* :fXGDLf3fENgThQ6M: 

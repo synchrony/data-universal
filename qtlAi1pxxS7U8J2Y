@@ -1,5 +1,6 @@
-* :qtlAi1pxxS7U8J2Y: essential oil
-    @created 1383438858679
-    @alias http://dbpedia.org/resource/Essential_oil
-    @weight 0.5
-    * :50Q070bNAuP3N9v4: 
+@id qtlAi1pxxS7U8J2Y
+@title essential oil
+@alias http://dbpedia.org/resource/Essential_oil
+@created 1383438858679
+@weight 0.5
+* :50Q070bNAuP3N9v4: 

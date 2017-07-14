@@ -1,6 +1,7 @@
-* :J1cw4cGXcsc2QpBH: alexithymia
-    @created 1434987425672
-    @alias http://dbpedia.org/resource/Alexithymia
-    @weight 0.75
-    * :Vvy3Sn1QCpm1c1DE: 
-    * :RxoSLZJxZj4WjsN8: 
+@id J1cw4cGXcsc2QpBH
+@title alexithymia
+@alias http://dbpedia.org/resource/Alexithymia
+@created 1434987425672
+@weight 0.75
+* :Vvy3Sn1QCpm1c1DE: 
+* :RxoSLZJxZj4WjsN8: 

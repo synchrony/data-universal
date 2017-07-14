@@ -1,8 +1,9 @@
-* :WjKqwgEpjU4krm7E: dumbbell
-    @created 1429453264161
-    @alias http://dbpedia.org/resource/Dumbbell
-    @weight 0.5
-    * :wk1vCvmi5OA2c9Qj: 
-    * :ZuoT1gIvTaa6IKWI: 
-    * :nSYnlV42N1jOlbhm: 
-    * :VAUoGUxaNDMXqBVK: 
+@id WjKqwgEpjU4krm7E
+@title dumbbell
+@alias http://dbpedia.org/resource/Dumbbell
+@created 1429453264161
+@weight 0.5
+* :wk1vCvmi5OA2c9Qj: 
+* :ZuoT1gIvTaa6IKWI: 
+* :nSYnlV42N1jOlbhm: 
+* :VAUoGUxaNDMXqBVK: 

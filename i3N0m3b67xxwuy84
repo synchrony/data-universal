@@ -1,4 +1,5 @@
-* :i3N0m3b67xxwuy84: coffee
-    @created 1405893054828
-    @alias http://dbpedia.org/resource/Coffee
-    @weight 0.5
+@id i3N0m3b67xxwuy84
+@title coffee
+@alias http://dbpedia.org/resource/Coffee
+@created 1405893054828
+@weight 0.5

@@ -1,7 +1,8 @@
-* :pCQ3DiNzgP8f2lDV: Armed Services Vocational Aptitude Battery
-    @created 1452699072664
-    @alias http://dbpedia.org/resource/Armed_Services_Vocational_Aptitude_Battery
-    @weight 0.5
-    * :zxGEp3WU081xmEhw: 
-    * :PI35DlmwJcVGjz4x: 
-    * :r5LJQ9uBfUdonsUo: 
+@id pCQ3DiNzgP8f2lDV
+@title Armed Services Vocational Aptitude Battery
+@alias http://dbpedia.org/resource/Armed_Services_Vocational_Aptitude_Battery
+@created 1452699072664
+@weight 0.5
+* :zxGEp3WU081xmEhw: 
+* :PI35DlmwJcVGjz4x: 
+* :r5LJQ9uBfUdonsUo: 

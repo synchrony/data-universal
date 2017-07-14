@@ -1,6 +1,7 @@
-* :1fUNIHlmAZO6xJme: visual agnosia
-    @created 1434988131182
-    @alias http://dbpedia.org/resource/Visual_agnosia
-    @weight 0.5
-    * :28KNjOmcDkGbcr9X: 
-    * :FegUA3dMpIYKJilv: 
+@id 1fUNIHlmAZO6xJme
+@title visual agnosia
+@alias http://dbpedia.org/resource/Visual_agnosia
+@created 1434988131182
+@weight 0.5
+* :28KNjOmcDkGbcr9X: 
+* :FegUA3dMpIYKJilv: 

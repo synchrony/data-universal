@@ -1,4 +1,5 @@
-* :yzNpOnHEA9VVjjNx: Doctor Who
-    @created 1339262577648
-    @alias http://dbpedia.org/resource/Doctor_Who
-    @weight 0.5
+@id yzNpOnHEA9VVjjNx
+@title Doctor Who
+@alias http://dbpedia.org/resource/Doctor_Who
+@created 1339262577648
+@weight 0.5

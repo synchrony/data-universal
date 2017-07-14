@@ -1,7 +1,8 @@
-* :9fi2G5BWpZb8bYr7: omega-6 fatty acid
-    @created 1429474709145
-    @alias http://dbpedia.org/resource/Omega-6_fatty_acid
-    @weight 0.5
-    * :xbay2awYyV3vM0ne: 
-    * :ba5uICTOuJDcJRpz: 
-    * :ytHoYVQYLIMiWUiN: 
+@id 9fi2G5BWpZb8bYr7
+@title omega-6 fatty acid
+@alias http://dbpedia.org/resource/Omega-6_fatty_acid
+@created 1429474709145
+@weight 0.5
+* :xbay2awYyV3vM0ne: 
+* :ba5uICTOuJDcJRpz: 
+* :ytHoYVQYLIMiWUiN: 

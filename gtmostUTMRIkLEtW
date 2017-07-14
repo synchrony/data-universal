@@ -1,7 +1,8 @@
-* :gtmostUTMRIkLEtW: Sigmund Exner
-    @created 1433364780842
-    @alias http://dbpedia.org/resource/Sigmund_Exner
-    @weight 0.75
-    * :12z8hTBQmyoHykRq: 
-    * :hzK6ltQSe6gTuJP4: 
-    * :YsodIRrCAzHZM5df: 
+@id gtmostUTMRIkLEtW
+@title Sigmund Exner
+@alias http://dbpedia.org/resource/Sigmund_Exner
+@created 1433364780842
+@weight 0.75
+* :12z8hTBQmyoHykRq: 
+* :hzK6ltQSe6gTuJP4: 
+* :YsodIRrCAzHZM5df: 

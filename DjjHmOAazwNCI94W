@@ -1,4 +1,5 @@
-* :DjjHmOAazwNCI94W: launch loop
-    @created 1336801666453
-    @alias http://dbpedia.org/resource/Launch_loop
-    @weight 0.5
+@id DjjHmOAazwNCI94W
+@title launch loop
+@alias http://dbpedia.org/resource/Launch_loop
+@created 1336801666453
+@weight 0.5

@@ -1,8 +1,9 @@
-* :Os16PP3ILRA7V4Y7: hypothetico-deductive model
-    @created 1316293709725
-    @alias http://dbpedia.org/resource/Hypothetico-deductive_model
-    @weight 0.75
-    * :j852OpVCh7xOLIbE: 
-    * :ZW1D2ssyDuQFoDoH: 
-    * :8eVVIvGfI16lGjlH: 
-    * :RhHiPA0CpNnZLG2F: 
+@id Os16PP3ILRA7V4Y7
+@title hypothetico-deductive model
+@alias http://dbpedia.org/resource/Hypothetico-deductive_model
+@created 1316293709725
+@weight 0.75
+* :j852OpVCh7xOLIbE: 
+* :ZW1D2ssyDuQFoDoH: 
+* :8eVVIvGfI16lGjlH: 
+* :RhHiPA0CpNnZLG2F: 

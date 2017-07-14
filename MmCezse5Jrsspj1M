@@ -1,9 +1,10 @@
-* :MmCezse5Jrsspj1M: Vibratese
-    @created 1339443509114
-    @alias http://dbpedia.org/resource/Vibratese
-    @weight 0.5
-    * :MshemmNBDzxhRUZW: 
-    * :1J9VFL9SeEqp0ZlC: 
-    * :4c4CEFCUbfbJReOb: 
-    * :d5uBBRvaQ7g76Qkl: 
-    * :QXq7H4x9io0MZ0wh: 
+@id MmCezse5Jrsspj1M
+@title Vibratese
+@alias http://dbpedia.org/resource/Vibratese
+@created 1339443509114
+@weight 0.5
+* :MshemmNBDzxhRUZW: 
+* :1J9VFL9SeEqp0ZlC: 
+* :4c4CEFCUbfbJReOb: 
+* :d5uBBRvaQ7g76Qkl: 
+* :QXq7H4x9io0MZ0wh: 

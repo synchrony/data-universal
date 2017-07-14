@@ -1,6 +1,7 @@
-* :T2GcQPjFfnXcqtCs: physical layer
-    @created 1384879974321
-    @alias http://dbpedia.org/resource/Physical_layer
-    @weight 0.5
-    * :1jY6ZTBFfhHJ31jG: 
-    * :ecM4MrBAXDxs3zw1: 
+@id T2GcQPjFfnXcqtCs
+@title physical layer
+@alias http://dbpedia.org/resource/Physical_layer
+@created 1384879974321
+@weight 0.5
+* :1jY6ZTBFfhHJ31jG: 
+* :ecM4MrBAXDxs3zw1: 

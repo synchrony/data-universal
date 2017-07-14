@@ -1,7 +1,8 @@
-* :cXMZ6YC3TUl7SDce: oxytocin
-    @created 1382723878901
-    @alias http://dbpedia.org/resource/Oxytocin
-    @weight 0.5
-    * :UrMhSQPpg21SRa85: 
-    * :32v3dmLA8mDeh4N9: 
-    * :fcdG9mJcvGefEsA0: 
+@id cXMZ6YC3TUl7SDce
+@title oxytocin
+@alias http://dbpedia.org/resource/Oxytocin
+@created 1382723878901
+@weight 0.5
+* :UrMhSQPpg21SRa85: 
+* :32v3dmLA8mDeh4N9: 
+* :fcdG9mJcvGefEsA0: 

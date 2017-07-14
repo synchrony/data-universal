@@ -1,6 +1,7 @@
-* :rAzFvQsHZXG94RzQ: aggregate function
-    @created 1447051129875
-    @alias http://dbpedia.org/resource/Aggregate_function
-    @weight 0.5
-    * :8WvbXz6qnPDKJeDf: 
-    * :kBhbQDFwNCI9ALsY: 
+@id rAzFvQsHZXG94RzQ
+@title aggregate function
+@alias http://dbpedia.org/resource/Aggregate_function
+@created 1447051129875
+@weight 0.5
+* :8WvbXz6qnPDKJeDf: 
+* :kBhbQDFwNCI9ALsY: 

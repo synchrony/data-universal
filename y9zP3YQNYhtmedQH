@@ -1,5 +1,6 @@
-* :y9zP3YQNYhtmedQH: sports car
-    @created 1381954151294
-    @alias http://dbpedia.org/resource/Sports_car
-    @weight 0.5
-    * :7y5oboBUJx3oqso4: 
+@id y9zP3YQNYhtmedQH
+@title sports car
+@alias http://dbpedia.org/resource/Sports_car
+@created 1381954151294
+@weight 0.5
+* :7y5oboBUJx3oqso4: 

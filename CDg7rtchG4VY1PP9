@@ -1,4 +1,5 @@
-* :CDg7rtchG4VY1PP9: child
-    @created 1464924935511
-    @alias http://dbpedia.org/resource/Child
-    @weight 0.5
+@id CDg7rtchG4VY1PP9
+@title child
+@alias http://dbpedia.org/resource/Child
+@created 1464924935511
+@weight 0.5

@@ -1,4 +1,5 @@
-* :qTrB9ropZhQrfhDC: time travel
-    @created 1494691461655
-    @alias http://dbpedia.org/resource/Time_travel
-    @weight 0.5
+@id qTrB9ropZhQrfhDC
+@title time travel
+@alias http://dbpedia.org/resource/Time_travel
+@created 1494691461655
+@weight 0.5

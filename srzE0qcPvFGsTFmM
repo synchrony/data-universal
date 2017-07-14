@@ -1,5 +1,6 @@
-* :srzE0qcPvFGsTFmM: exemplar
-    @created 1336418832876
-    @alias http://dbpedia.org/resource/Exemplar
-    @weight 0.5
-    * :RUabjXBbuBCQN46H: 
+@id srzE0qcPvFGsTFmM
+@title exemplar
+@alias http://dbpedia.org/resource/Exemplar
+@created 1336418832876
+@weight 0.5
+* :RUabjXBbuBCQN46H: 

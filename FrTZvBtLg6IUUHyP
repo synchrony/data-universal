@@ -1,6 +1,7 @@
-* :FrTZvBtLg6IUUHyP: D-subminiature
-    @created 1358121109985
-    @alias http://dbpedia.org/resource/D-subminiature
-    @weight 0.5
-    * :aAJ3mEdofDMuRft6: 
-    * :GRQvdhBQfhO2vokM: 
+@id FrTZvBtLg6IUUHyP
+@title D-subminiature
+@alias http://dbpedia.org/resource/D-subminiature
+@created 1358121109985
+@weight 0.5
+* :aAJ3mEdofDMuRft6: 
+* :GRQvdhBQfhO2vokM: 

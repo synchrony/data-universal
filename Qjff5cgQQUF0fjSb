@@ -1,6 +1,7 @@
-* :Qjff5cgQQUF0fjSb: expert system
-    @created 1354998940386
-    @alias http://dbpedia.org/resource/Expert_system
-    @weight 0.5
-    * :MfC7PnnVXCwLfZQj: 
-    * :woXwwZvhOSTyV3jA: 
+@id Qjff5cgQQUF0fjSb
+@title expert system
+@alias http://dbpedia.org/resource/Expert_system
+@created 1354998940386
+@weight 0.5
+* :MfC7PnnVXCwLfZQj: 
+* :woXwwZvhOSTyV3jA: 

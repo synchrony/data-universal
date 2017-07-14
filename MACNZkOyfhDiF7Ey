@@ -1,7 +1,8 @@
-* :MACNZkOyfhDiF7Ey: courage
-    @created 1411307678587
-    @alias http://dbpedia.org/resource/Courage
-    @weight 0.75
-    * :fGjdMrgcDXerN1qf: 
-    * :9JJ6xIbm673Bzyto: 
-    * :j7oZMNx0TcgXQ9yi: 
+@id MACNZkOyfhDiF7Ey
+@title courage
+@alias http://dbpedia.org/resource/Courage
+@created 1411307678587
+@weight 0.75
+* :fGjdMrgcDXerN1qf: 
+* :9JJ6xIbm673Bzyto: 
+* :j7oZMNx0TcgXQ9yi: 

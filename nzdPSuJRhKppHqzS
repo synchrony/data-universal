@@ -1,8 +1,9 @@
-* :nzdPSuJRhKppHqzS: set theory
-    @created 1381079530972
-    @alias http://dbpedia.org/resource/Set_theory
-    @weight 0.5
-    * :CjIsfxL2NQdAfCSv: 
-    * :rEpZFpmS6QRTOLrI: 
-    * :U7Pp0mCOKFFnDb12: 
-    * :T2SOt4mnSQ0hPxdI: 
+@id nzdPSuJRhKppHqzS
+@title set theory
+@alias http://dbpedia.org/resource/Set_theory
+@created 1381079530972
+@weight 0.5
+* :CjIsfxL2NQdAfCSv: 
+* :rEpZFpmS6QRTOLrI: 
+* :U7Pp0mCOKFFnDb12: 
+* :T2SOt4mnSQ0hPxdI: 

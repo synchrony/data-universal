@@ -1,4 +1,5 @@
-* :e4mx2nR0rNpFcZ5r: Virtuoso Universal Server
-    @created 1355254192171
-    @alias http://dbpedia.org/resource/Virtuoso_Universal_Server
-    @weight 0.75
+@id e4mx2nR0rNpFcZ5r
+@title Virtuoso Universal Server
+@alias http://dbpedia.org/resource/Virtuoso_Universal_Server
+@created 1355254192171
+@weight 0.75

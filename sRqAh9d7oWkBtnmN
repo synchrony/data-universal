@@ -1,7 +1,8 @@
-* :sRqAh9d7oWkBtnmN: astrometry
-    @created 1388465134558
-    @alias http://dbpedia.org/resource/Astrometry
-    @weight 0.5
-    * :pJFO2nndyHBuLVRy: 
-    * :SIjhYNbwl7PhurEa: 
-    * :wcqG8uEaJr06UxkW: 
+@id sRqAh9d7oWkBtnmN
+@title astrometry
+@alias http://dbpedia.org/resource/Astrometry
+@created 1388465134558
+@weight 0.5
+* :pJFO2nndyHBuLVRy: 
+* :SIjhYNbwl7PhurEa: 
+* :wcqG8uEaJr06UxkW: 

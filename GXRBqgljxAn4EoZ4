@@ -1,4 +1,5 @@
-* :GXRBqgljxAn4EoZ4: witch-hazel
-    @created 1431403467134
-    @alias http://dbpedia.org/resource/Witch-hazel
-    @weight 0.5
+@id GXRBqgljxAn4EoZ4
+@title witch-hazel
+@alias http://dbpedia.org/resource/Witch-hazel
+@created 1431403467134
+@weight 0.5

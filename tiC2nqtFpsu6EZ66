@@ -1,6 +1,7 @@
-* :tiC2nqtFpsu6EZ66: ARPANET
-    @created 1467223545383
-    @alias http://dbpedia.org/resource/ARPANET
-    @weight 0.5
-    * :nplceRslYnHt0SCQ: 
-    * :qgrL6Z3WsEnB5qkw: 
+@id tiC2nqtFpsu6EZ66
+@title ARPANET
+@alias http://dbpedia.org/resource/ARPANET
+@created 1467223545383
+@weight 0.5
+* :nplceRslYnHt0SCQ: 
+* :qgrL6Z3WsEnB5qkw: 

@@ -1,5 +1,6 @@
-* :FsWBe1syXmNF1I6M: Facebook Platform
-    @created 1352774537470
-    @alias http://dbpedia.org/resource/Facebook_Platform
-    @weight 0.5
-    * :tYG5TtYTcxmAdQK0: 
+@id FsWBe1syXmNF1I6M
+@title Facebook Platform
+@alias http://dbpedia.org/resource/Facebook_Platform
+@created 1352774537470
+@weight 0.5
+* :tYG5TtYTcxmAdQK0: 

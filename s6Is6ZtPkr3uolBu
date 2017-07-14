@@ -1,5 +1,6 @@
-* :s6Is6ZtPkr3uolBu: true airspeed
-    @created 1478879365073
-    @alias http://dbpedia.org/resource/True_airspeed
-    @weight 0.5
-    * :nGe2jTb8VYgTKcQz: 
+@id s6Is6ZtPkr3uolBu
+@title true airspeed
+@alias http://dbpedia.org/resource/True_airspeed
+@created 1478879365073
+@weight 0.5
+* :nGe2jTb8VYgTKcQz: 

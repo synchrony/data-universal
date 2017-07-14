@@ -1,5 +1,6 @@
-* :EOB3yAmh54H83c2M: controlled vocabulary
-    @created 1346532158422
-    @alias http://dbpedia.org/resource/Controlled_vocabulary
-    @weight 0.5
-    * :NIUlx6o5gfiRZQw3: 
+@id EOB3yAmh54H83c2M
+@title controlled vocabulary
+@alias http://dbpedia.org/resource/Controlled_vocabulary
+@created 1346532158422
+@weight 0.5
+* :NIUlx6o5gfiRZQw3: 

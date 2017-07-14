@@ -1,4 +1,5 @@
-* :ngPI5DA7Dk4Zi049: touchscreen
-    @created 1338480262805
-    @alias http://dbpedia.org/resource/Touchscreen
-    @weight 0.5
+@id ngPI5DA7Dk4Zi049
+@title touchscreen
+@alias http://dbpedia.org/resource/Touchscreen
+@created 1338480262805
+@weight 0.5

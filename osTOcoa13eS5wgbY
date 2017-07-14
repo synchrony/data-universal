@@ -1,6 +1,7 @@
-* :osTOcoa13eS5wgbY: honour
-    @created 1415373273210
-    @alias http://dbpedia.org/resource/Honour
-    @weight 0.5
-    * :mhFvma7Zk2zSnreC: 
-    * :2hdVbcjUjiSOY3aE: 
+@id osTOcoa13eS5wgbY
+@title honour
+@alias http://dbpedia.org/resource/Honour
+@created 1415373273210
+@weight 0.5
+* :mhFvma7Zk2zSnreC: 
+* :2hdVbcjUjiSOY3aE: 

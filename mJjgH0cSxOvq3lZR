@@ -1,5 +1,6 @@
-* :mJjgH0cSxOvq3lZR: Google Maps
-    @created 1345605854420
-    @alias http://dbpedia.org/resource/Google_Maps
-    @weight 0.75
-    * :gJJuHhZApxzO0xJ2: 
+@id mJjgH0cSxOvq3lZR
+@title Google Maps
+@alias http://dbpedia.org/resource/Google_Maps
+@created 1345605854420
+@weight 0.75
+* :gJJuHhZApxzO0xJ2: 

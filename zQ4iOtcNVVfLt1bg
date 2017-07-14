@@ -1,7 +1,8 @@
-* :zQ4iOtcNVVfLt1bg: managed care
-    @created 1387288442547
-    @alias http://dbpedia.org/resource/Managed_care
-    @weight 0.5
-    * :vVXf5WL7i3yCpPcb: 
-    * :mfrpoNeV8B7gK67u: 
-    * :m6qgHvtthwox67R2: 
+@id zQ4iOtcNVVfLt1bg
+@title managed care
+@alias http://dbpedia.org/resource/Managed_care
+@created 1387288442547
+@weight 0.5
+* :vVXf5WL7i3yCpPcb: 
+* :mfrpoNeV8B7gK67u: 
+* :m6qgHvtthwox67R2: 

@@ -1,5 +1,6 @@
-* :j2bFyAFD1W0kZfQb: hill climbing
-    @created 1381080738674
-    @alias http://dbpedia.org/resource/Hill_climbing
-    @weight 0.5
-    * :cnTfBMm4vaRlFBF0: 
+@id j2bFyAFD1W0kZfQb
+@title hill climbing
+@alias http://dbpedia.org/resource/Hill_climbing
+@created 1381080738674
+@weight 0.5
+* :cnTfBMm4vaRlFBF0: 

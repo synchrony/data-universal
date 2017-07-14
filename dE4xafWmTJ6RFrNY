@@ -1,7 +1,8 @@
-* :dE4xafWmTJ6RFrNY: Zentralbibliothek Zürich
-    @created 1345008149650
-    @alias http://dbpedia.org/resource/Zentralbibliothek_Z%C3%BCrich
-    @weight 0.5
-    * :EYHGlaPx7SopFDYB: 
-    * :lSpXzNrd4qfsFSQM: 
-    * :410KzALsFi7h4rpQ: 
+@id dE4xafWmTJ6RFrNY
+@title Zentralbibliothek Zürich
+@alias http://dbpedia.org/resource/Zentralbibliothek_Z%C3%BCrich
+@created 1345008149650
+@weight 0.5
+* :EYHGlaPx7SopFDYB: 
+* :lSpXzNrd4qfsFSQM: 
+* :410KzALsFi7h4rpQ: 

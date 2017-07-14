@@ -1,4 +1,5 @@
-* :RH3wEDHbSWVaZUCs: graphical user interface
-    @created 1332736876840
-    @alias http://dbpedia.org/resource/Graphical_user_interface
-    @weight 0.5
+@id RH3wEDHbSWVaZUCs
+@title graphical user interface
+@alias http://dbpedia.org/resource/Graphical_user_interface
+@created 1332736876840
+@weight 0.5

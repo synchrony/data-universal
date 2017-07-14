@@ -1,7 +1,8 @@
-* :I1adbEXcQG7gFVrI: electromyography
-    @created 1340089042500
-    @alias http://dbpedia.org/resource/Electromyography
-    @weight 0.5
-    * :TFWYi75Bj0nlxBOp: 
-    * :Vm26e4pBt3eQNrXH: 
-    * :pglwhgjCE2Jq54r2: 
+@id I1adbEXcQG7gFVrI
+@title electromyography
+@alias http://dbpedia.org/resource/Electromyography
+@created 1340089042500
+@weight 0.5
+* :TFWYi75Bj0nlxBOp: 
+* :Vm26e4pBt3eQNrXH: 
+* :pglwhgjCE2Jq54r2: 

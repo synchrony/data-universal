@@ -1,7 +1,8 @@
-* :mhyD9iaOBIlsnq4i: counting
-    @created 1332182271229
-    @alias http://dbpedia.org/resource/Counting
-    @weight 0.5
-    * :aqgswkPaa2qchZ8W: 
-    * :lx1qSKvn0Xz7pm4s: 
-    * :KHazuF3EQkJOi3Ki: 
+@id mhyD9iaOBIlsnq4i
+@title counting
+@alias http://dbpedia.org/resource/Counting
+@created 1332182271229
+@weight 0.5
+* :aqgswkPaa2qchZ8W: 
+* :lx1qSKvn0Xz7pm4s: 
+* :KHazuF3EQkJOi3Ki: 

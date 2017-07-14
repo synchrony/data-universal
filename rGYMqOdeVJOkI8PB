@@ -1,5 +1,6 @@
-* :rGYMqOdeVJOkI8PB: Kubernetes
-    @created 1457054942792
-    @alias http://dbpedia.org/resource/Kubernetes
-    @weight 0.5
-    * :5ZbdHtvD0RxxMU78: 
+@id rGYMqOdeVJOkI8PB
+@title Kubernetes
+@alias http://dbpedia.org/resource/Kubernetes
+@created 1457054942792
+@weight 0.5
+* :5ZbdHtvD0RxxMU78: 

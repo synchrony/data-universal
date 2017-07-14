@@ -1,4 +1,5 @@
-* :nCZxTS3dVBwtwDyb: The Nutty Professor
-    @created 1326212115687
-    @alias http://dbpedia.org/resource/The_Nutty_Professor_(1996_film)
-    @weight 0.5
+@id nCZxTS3dVBwtwDyb
+@title The Nutty Professor
+@alias http://dbpedia.org/resource/The_Nutty_Professor_(1996_film)
+@created 1326212115687
+@weight 0.5

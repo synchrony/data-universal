@@ -1,4 +1,5 @@
-* :scVQNBukfsEJzfho: elementary school
-    @created 1350746317416
-    @alias http://dbpedia.org/resource/Elementary_school
-    @weight 0.5
+@id scVQNBukfsEJzfho
+@title elementary school
+@alias http://dbpedia.org/resource/Elementary_school
+@created 1350746317416
+@weight 0.5

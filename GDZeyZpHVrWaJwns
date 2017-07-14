@@ -1,4 +1,5 @@
-* :GDZeyZpHVrWaJwns: equivalence relation
-    @created 1333297160268
-    @alias http://dbpedia.org/resource/Equivalence_relation
-    @weight 0.5
+@id GDZeyZpHVrWaJwns
+@title equivalence relation
+@alias http://dbpedia.org/resource/Equivalence_relation
+@created 1333297160268
+@weight 0.5

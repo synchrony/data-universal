@@ -1,4 +1,5 @@
-* :kYNlqlw1LWb16V36: chicken
-    @created 1360475825154
-    @alias http://dbpedia.org/resource/Chicken
-    @weight 0.5
+@id kYNlqlw1LWb16V36
+@title chicken
+@alias http://dbpedia.org/resource/Chicken
+@created 1360475825154
+@weight 0.5

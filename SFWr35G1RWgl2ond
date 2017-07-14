@@ -1,4 +1,5 @@
-* :SFWr35G1RWgl2ond: starfish
-    @created 1354418851574
-    @alias http://dbpedia.org/resource/Starfish
-    @weight 0.5
+@id SFWr35G1RWgl2ond
+@title starfish
+@alias http://dbpedia.org/resource/Starfish
+@created 1354418851574
+@weight 0.5

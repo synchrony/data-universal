@@ -1,4 +1,5 @@
-* :798TjsM9TGpuoztu: receipt
-    @created 1348433983945
-    @alias http://dbpedia.org/resource/Receipt
-    @weight 0.5
+@id 798TjsM9TGpuoztu
+@title receipt
+@alias http://dbpedia.org/resource/Receipt
+@created 1348433983945
+@weight 0.5

@@ -1,6 +1,7 @@
-* :OrmqYLCnj6CyUqIH: QBasic
-    @created 1342931279365
-    @alias http://dbpedia.org/resource/QBasic
-    @weight 0.75
-    * :IzJ8usCPggQ4803Y: 
-    * :YJpfM0NQYxEogyDz: 
+@id OrmqYLCnj6CyUqIH
+@title QBasic
+@alias http://dbpedia.org/resource/QBasic
+@created 1342931279365
+@weight 0.75
+* :IzJ8usCPggQ4803Y: 
+* :YJpfM0NQYxEogyDz: 

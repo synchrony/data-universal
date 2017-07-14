@@ -1,7 +1,8 @@
-* :MCiDeAMN2uLQTQfE: monounsaturated fat
-    @created 1432133698583
-    @alias http://dbpedia.org/resource/Monounsaturated_fat
-    @weight 0.5
-    * :dmbhpwMi2p2DykAa: 
-    * :1VsQHGpCFTHzmCj6: 
-    * :Em9I2Z6JADOJUgqc: 
+@id MCiDeAMN2uLQTQfE
+@title monounsaturated fat
+@alias http://dbpedia.org/resource/Monounsaturated_fat
+@created 1432133698583
+@weight 0.5
+* :dmbhpwMi2p2DykAa: 
+* :1VsQHGpCFTHzmCj6: 
+* :Em9I2Z6JADOJUgqc: 

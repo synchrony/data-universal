@@ -1,4 +1,5 @@
-* :OCBToeGShh8sDLB9: athletic shoe
-    @created 1416195100924
-    @alias http://dbpedia.org/resource/Athletic_shoe
-    @weight 0.5
+@id OCBToeGShh8sDLB9
+@title athletic shoe
+@alias http://dbpedia.org/resource/Athletic_shoe
+@created 1416195100924
+@weight 0.5

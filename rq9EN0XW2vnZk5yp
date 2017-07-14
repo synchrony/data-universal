@@ -1,4 +1,5 @@
-* :rq9EN0XW2vnZk5yp: Jupiter
-    @created 1339566336018
-    @alias http://dbpedia.org/resource/Jupiter
-    @weight 0.5
+@id rq9EN0XW2vnZk5yp
+@title Jupiter
+@alias http://dbpedia.org/resource/Jupiter
+@created 1339566336018
+@weight 0.5

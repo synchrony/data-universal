@@ -1,4 +1,5 @@
-* :KKo9DTT5kDEn7Pdb: Tibet
-    @created 1311329148588
-    @alias http://dbpedia.org/resource/Tibet
-    @weight 0.75
+@id KKo9DTT5kDEn7Pdb
+@title Tibet
+@alias http://dbpedia.org/resource/Tibet
+@created 1311329148588
+@weight 0.75

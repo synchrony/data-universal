@@ -1,7 +1,8 @@
-* :MeV0goE1HTH3nnnu: onedotzero
-    @created 1449440387493
-    @alias http://dbpedia.org/resource/Onedotzero
-    @weight 0.5
-    * :1WU3Q2A9uAAB59N0: 
-    * :mKCLGzYkKmnzG1AA: 
-    * :EZr0GKa6Bdi5iU7u: 
+@id MeV0goE1HTH3nnnu
+@title onedotzero
+@alias http://dbpedia.org/resource/Onedotzero
+@created 1449440387493
+@weight 0.5
+* :1WU3Q2A9uAAB59N0: 
+* :mKCLGzYkKmnzG1AA: 
+* :EZr0GKa6Bdi5iU7u: 

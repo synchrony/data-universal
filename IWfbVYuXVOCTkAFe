@@ -1,4 +1,5 @@
-* :IWfbVYuXVOCTkAFe: inclinometer
-    @created 1476855759553
-    @alias http://dbpedia.org/resource/Inclinometer
-    @weight 0.5
+@id IWfbVYuXVOCTkAFe
+@title inclinometer
+@alias http://dbpedia.org/resource/Inclinometer
+@created 1476855759553
+@weight 0.5

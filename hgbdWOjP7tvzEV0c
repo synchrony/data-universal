@@ -1,10 +1,11 @@
-* :hgbdWOjP7tvzEV0c: navigational database
-    @created 1312618361570
-    @alias http://dbpedia.org/resource/Navigational_database
-    @weight 0.5
-    * :Pj38IksCrLXtA3gc: 
-    * :DEXIau0x1jaKuboA: 
-    * :IbolnmkYGioK27CG: 
-    * :RqEWVYnq8VX2J0FC: 
-    * :kyedpKpZZnArFded: 
-    * :m0y3g6xHv1hGLuQe: 
+@id hgbdWOjP7tvzEV0c
+@title navigational database
+@alias http://dbpedia.org/resource/Navigational_database
+@created 1312618361570
+@weight 0.5
+* :Pj38IksCrLXtA3gc: 
+* :DEXIau0x1jaKuboA: 
+* :IbolnmkYGioK27CG: 
+* :RqEWVYnq8VX2J0FC: 
+* :kyedpKpZZnArFded: 
+* :m0y3g6xHv1hGLuQe: 

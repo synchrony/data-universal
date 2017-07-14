@@ -1,7 +1,8 @@
-* :rv1mKEDEtEmDtWBl: ayahuasca
-    @created 1326690537611
-    @alias http://dbpedia.org/resource/Ayahuasca
-    @weight 0.75
-    * :Hu50FlfVNzX8O49B: 
-    * :BiVIsq2hXieRMP9I: 
-    * :ghJNiWBSL8S4X0xK: 
+@id rv1mKEDEtEmDtWBl
+@title ayahuasca
+@alias http://dbpedia.org/resource/Ayahuasca
+@created 1326690537611
+@weight 0.75
+* :Hu50FlfVNzX8O49B: 
+* :BiVIsq2hXieRMP9I: 
+* :ghJNiWBSL8S4X0xK: 

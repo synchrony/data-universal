@@ -1,6 +1,7 @@
-* :Bffhr4QZBzUkB9y1: Books of Kings
-    @created 1411330844406
-    @alias http://dbpedia.org/resource/Books_of_Kings
-    @weight 0.75
-    * :iycEWCDH3mEPq0M1: 
-    * :qhqXrtMnSuvUHQiL: 
+@id Bffhr4QZBzUkB9y1
+@title Books of Kings
+@alias http://dbpedia.org/resource/Books_of_Kings
+@created 1411330844406
+@weight 0.75
+* :iycEWCDH3mEPq0M1: 
+* :qhqXrtMnSuvUHQiL: 

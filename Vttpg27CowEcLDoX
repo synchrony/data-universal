@@ -1,5 +1,6 @@
-* :Vttpg27CowEcLDoX: bird
-    @created 1486364294354
-    @alias http://dbpedia.org/resource/Bird
-    @weight 0.5
-    * :lAaf7NNCEgjswmYb: 
+@id Vttpg27CowEcLDoX
+@title bird
+@alias http://dbpedia.org/resource/Bird
+@created 1486364294354
+@weight 0.5
+* :lAaf7NNCEgjswmYb: 

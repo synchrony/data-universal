@@ -1,4 +1,5 @@
-* :rNPXqFZc4dkmGYRw: slug
-    @created 1332996965981
-    @alias http://dbpedia.org/resource/Slug
-    @weight 0.5
+@id rNPXqFZc4dkmGYRw
+@title slug
+@alias http://dbpedia.org/resource/Slug
+@created 1332996965981
+@weight 0.5

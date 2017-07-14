@@ -1,10 +1,11 @@
-* :9IJPrnCZkpzGvAoH: real-time computing
-    @created 1345178302484
-    @alias http://dbpedia.org/resource/Real-time_computing
-    @weight 0.75
-    * :pCpa241LnKC13P5L: 
-    * :D1QTjGuic4EOMLkw: 
-    * :P26wRs43P4BytMe6: 
-    * :B0HghyiDDk1A4EGZ: 
-    * :OWsFQN2mCam9uj5p: 
-    * :QfRkr76AXin0nzkc: 
+@id 9IJPrnCZkpzGvAoH
+@title real-time computing
+@alias http://dbpedia.org/resource/Real-time_computing
+@created 1345178302484
+@weight 0.75
+* :pCpa241LnKC13P5L: 
+* :D1QTjGuic4EOMLkw: 
+* :P26wRs43P4BytMe6: 
+* :B0HghyiDDk1A4EGZ: 
+* :OWsFQN2mCam9uj5p: 
+* :QfRkr76AXin0nzkc: 

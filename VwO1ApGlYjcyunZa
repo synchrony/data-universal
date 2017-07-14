@@ -1,4 +1,5 @@
-* :VwO1ApGlYjcyunZa: Alaska Airlines
-    @created 1483768829116
-    @alias http://dbpedia.org/resource/Alaska_Airlines
-    @weight 0.5
+@id VwO1ApGlYjcyunZa
+@title Alaska Airlines
+@alias http://dbpedia.org/resource/Alaska_Airlines
+@created 1483768829116
+@weight 0.5

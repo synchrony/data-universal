@@ -1,5 +1,6 @@
-* :ZMPe8l0AW3q0Eb6n: television
-    @created 1347145894701
-    @alias http://dbpedia.org/resource/Television
-    @weight 0.5
-    * :hoKEnLB7DKvidTG0: 
+@id ZMPe8l0AW3q0Eb6n
+@title television
+@alias http://dbpedia.org/resource/Television
+@created 1347145894701
+@weight 0.5
+* :hoKEnLB7DKvidTG0: 

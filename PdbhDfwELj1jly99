@@ -1,5 +1,6 @@
-* :PdbhDfwELj1jly99: associate professor
-    @created 1310229998687
-    @alias http://dbpedia.org/resource/Associate_professor
-    @weight 0.5
-    * :YtnYBqcQ2M0tRcLw: 
+@id PdbhDfwELj1jly99
+@title associate professor
+@alias http://dbpedia.org/resource/Associate_professor
+@created 1310229998687
+@weight 0.5
+* :YtnYBqcQ2M0tRcLw: 

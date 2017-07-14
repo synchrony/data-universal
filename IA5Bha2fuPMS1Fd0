@@ -1,9 +1,10 @@
-* :IA5Bha2fuPMS1Fd0: Abrus precatorius
-    @created 1332181945802
-    @alias http://dbpedia.org/resource/Abrus_precatorius
-    @weight 0.5
-    * :aOlXlcMDseUz3mif: 
-    * :Vg79HGfbs1Y1eRGP: 
-    * :eEVFBwzUq2wNrYH0: 
-    * :lZtShRbjeBbuaQMi: 
-    * :Anqme7Zmun88tSTz: 
+@id IA5Bha2fuPMS1Fd0
+@title Abrus precatorius
+@alias http://dbpedia.org/resource/Abrus_precatorius
+@created 1332181945802
+@weight 0.5
+* :aOlXlcMDseUz3mif: 
+* :Vg79HGfbs1Y1eRGP: 
+* :eEVFBwzUq2wNrYH0: 
+* :lZtShRbjeBbuaQMi: 
+* :Anqme7Zmun88tSTz: 

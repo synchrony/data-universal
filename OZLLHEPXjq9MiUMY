@@ -1,4 +1,5 @@
-* :OZLLHEPXjq9MiUMY: polo
-    @created 1312621201735
-    @alias http://dbpedia.org/resource/Polo
-    @weight 0.5
+@id OZLLHEPXjq9MiUMY
+@title polo
+@alias http://dbpedia.org/resource/Polo
+@created 1312621201735
+@weight 0.5

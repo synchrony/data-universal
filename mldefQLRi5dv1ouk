@@ -1,3 +1,4 @@
-* :mldefQLRi5dv1ouk: "we want to be able to read the program as though it were a set of TO paragraphs, each of which is describing the current level of abstraction and referencing subsequent TO paragraphs at the next level down"
-    @created 1467005848396
-    @weight 0.5
+@id mldefQLRi5dv1ouk
+@title "we want to be able to read the program as though it were a set of TO paragraphs, each of which is describing the current level of abstraction and referencing subsequent TO paragraphs at the next level down"
+@created 1467005848396
+@weight 0.5

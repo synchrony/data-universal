@@ -1,7 +1,8 @@
-* :VB1dOvyi2qvljtCU: semantic wiki
-    @created 1420564386032
-    @alias http://dbpedia.org/resource/Semantic_wiki
-    @weight 0.5
-    * :cTF8TKU0Gi6CK7l2: 
-    * :YKEIedUcfiIPgaAz: 
-    * :fdryg09k4FOZAS0c: 
+@id VB1dOvyi2qvljtCU
+@title semantic wiki
+@alias http://dbpedia.org/resource/Semantic_wiki
+@created 1420564386032
+@weight 0.5
+* :cTF8TKU0Gi6CK7l2: 
+* :YKEIedUcfiIPgaAz: 
+* :fdryg09k4FOZAS0c: 

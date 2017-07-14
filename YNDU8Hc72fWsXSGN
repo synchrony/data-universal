@@ -1,4 +1,5 @@
-* :YNDU8Hc72fWsXSGN: war
-    @created 1494691451488
-    @alias http://dbpedia.org/resource/War
-    @weight 0.5
+@id YNDU8Hc72fWsXSGN
+@title war
+@alias http://dbpedia.org/resource/War
+@created 1494691451488
+@weight 0.5

@@ -1,7 +1,8 @@
-* :uYKuMvmGPldiMwp2: International Cometary Explorer
-    @created 1403663702624
-    @alias http://dbpedia.org/resource/International_Cometary_Explorer
-    @weight 0.5
-    * :Na4jwqAWAzfA6lcd: 
-    * :KMgjWTaFuu3Avldh: 
-    * :X2Hn3lXVhipvusvT: 
+@id uYKuMvmGPldiMwp2
+@title International Cometary Explorer
+@alias http://dbpedia.org/resource/International_Cometary_Explorer
+@created 1403663702624
+@weight 0.5
+* :Na4jwqAWAzfA6lcd: 
+* :KMgjWTaFuu3Avldh: 
+* :X2Hn3lXVhipvusvT: 

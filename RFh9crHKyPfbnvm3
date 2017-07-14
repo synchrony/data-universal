@@ -1,4 +1,5 @@
-* :RFh9crHKyPfbnvm3: photoresistor
-    @created 1316378608565
-    @alias http://dbpedia.org/resource/Photoresistor
-    @weight 0.5
+@id RFh9crHKyPfbnvm3
+@title photoresistor
+@alias http://dbpedia.org/resource/Photoresistor
+@created 1316378608565
+@weight 0.5

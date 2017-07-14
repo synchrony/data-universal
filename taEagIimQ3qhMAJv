@@ -1,10 +1,11 @@
-* :taEagIimQ3qhMAJv: attention
-    @created 1418533149072
-    @alias http://dbpedia.org/resource/Attention
-    @weight 0.5
-    * :3DFRBl7FAlaEbzPH: 
-    * :VeXOGEjMo87PD0l3: 
-    * :j0PtXW9RkE4XIGxh: 
-    * :K3NUzlQyMj4o4rdQ: 
-    * :GJYr3VIRpLjAsdXy: 
-    * :LmgsQjLQZnglWUBz: 
+@id taEagIimQ3qhMAJv
+@title attention
+@alias http://dbpedia.org/resource/Attention
+@created 1418533149072
+@weight 0.5
+* :3DFRBl7FAlaEbzPH: 
+* :VeXOGEjMo87PD0l3: 
+* :j0PtXW9RkE4XIGxh: 
+* :K3NUzlQyMj4o4rdQ: 
+* :GJYr3VIRpLjAsdXy: 
+* :LmgsQjLQZnglWUBz: 

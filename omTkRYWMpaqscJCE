@@ -1,12 +1,13 @@
-* :omTkRYWMpaqscJCE: RDFa
-    @created 1326064356059
-    @alias http://dbpedia.org/resource/RDFa
-    @weight 0.75
-    * :5VXxqZQLjzsULVlK: 
-    * :IFaeN7Ua5diYi8Hk: 
-    * :cDKyW1fTRfzQFa3A: 
-    * :UBIQEme54XKuCvCi: 
-    * :NVaE6kQOgFI7LYsc: 
-    * :aKYwxaqa3h4yk6gS: 
-    * :rhZnIwa3MqjlX0Oz: 
-    * :aQ5xJ6xW6IprZezf: 
+@id omTkRYWMpaqscJCE
+@title RDFa
+@alias http://dbpedia.org/resource/RDFa
+@created 1326064356059
+@weight 0.75
+* :5VXxqZQLjzsULVlK: 
+* :IFaeN7Ua5diYi8Hk: 
+* :cDKyW1fTRfzQFa3A: 
+* :UBIQEme54XKuCvCi: 
+* :NVaE6kQOgFI7LYsc: 
+* :aKYwxaqa3h4yk6gS: 
+* :rhZnIwa3MqjlX0Oz: 
+* :aQ5xJ6xW6IprZezf: 

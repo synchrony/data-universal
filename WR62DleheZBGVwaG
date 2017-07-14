@@ -1,6 +1,7 @@
-* :WR62DleheZBGVwaG: meaning of life
-    @created 1365011957110
-    @alias http://dbpedia.org/resource/Meaning_of_life
-    @weight 0.5
-    * :vH91ZVD38Y3ZqIj4: 
-    * :8tKa5wVKTlFTJi01: 
+@id WR62DleheZBGVwaG
+@title meaning of life
+@alias http://dbpedia.org/resource/Meaning_of_life
+@created 1365011957110
+@weight 0.5
+* :vH91ZVD38Y3ZqIj4: 
+* :8tKa5wVKTlFTJi01: 

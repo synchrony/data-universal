@@ -1,4 +1,5 @@
-* :CzhWqZVKm5YYZj5A: camelina
-    @created 1429472987180
-    @alias http://dbpedia.org/resource/Camelina
-    @weight 0.5
+@id CzhWqZVKm5YYZj5A
+@title camelina
+@alias http://dbpedia.org/resource/Camelina
+@created 1429472987180
+@weight 0.5

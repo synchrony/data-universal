@@ -1,10 +1,11 @@
-* :oaK1LNUTqea4xaBd: proprioception
-    @created 1339451774377
-    @alias http://dbpedia.org/resource/Proprioception
-    @weight 0.75
-    * :VPfXSmnjeq7j58kb: 
-    * :hnGCahl7Jrce32ew: 
-    * :MrGO6PRWtZC37qYl: 
-    * :6FX93sthOzszn5Ob: 
-    * :BlwkrbxTQP0QbJ3Q: 
-    * :0MhGJOIw5VKuUjlm: 
+@id oaK1LNUTqea4xaBd
+@title proprioception
+@alias http://dbpedia.org/resource/Proprioception
+@created 1339451774377
+@weight 0.75
+* :VPfXSmnjeq7j58kb: 
+* :hnGCahl7Jrce32ew: 
+* :MrGO6PRWtZC37qYl: 
+* :6FX93sthOzszn5Ob: 
+* :BlwkrbxTQP0QbJ3Q: 
+* :0MhGJOIw5VKuUjlm: 

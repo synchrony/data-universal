@@ -1,10 +1,11 @@
-* :eP3HorIU7hU48d7D: comedy
-    @created 1367618139611
-    @alias http://dbpedia.org/resource/Comedy
-    @weight 0.5
-    * :8fX6kG91Kn2eYapQ: 
-    * :lo9HR8HXcxjnNQCW: 
-    * :50jLmNw8AMcPo8kS: 
-    * :wq2KetK5Si1VzIOE: 
-    * :oxTHJDN5TEBTLSQU: 
-    * :r2ccjpo5NZpzqnej: 
+@id eP3HorIU7hU48d7D
+@title comedy
+@alias http://dbpedia.org/resource/Comedy
+@created 1367618139611
+@weight 0.5
+* :8fX6kG91Kn2eYapQ: 
+* :lo9HR8HXcxjnNQCW: 
+* :50jLmNw8AMcPo8kS: 
+* :wq2KetK5Si1VzIOE: 
+* :oxTHJDN5TEBTLSQU: 
+* :r2ccjpo5NZpzqnej: 

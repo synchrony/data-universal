@@ -1,5 +1,6 @@
-* :ibiuAHEQV2TBqv9O: Bristol stool scale
-    @created 1350386689963
-    @alias http://dbpedia.org/resource/Bristol_stool_scale
-    @weight 0.5
-    * :vbZqzEKpC9BAqVoN: 
+@id ibiuAHEQV2TBqv9O
+@title Bristol stool scale
+@alias http://dbpedia.org/resource/Bristol_stool_scale
+@created 1350386689963
+@weight 0.5
+* :vbZqzEKpC9BAqVoN: 

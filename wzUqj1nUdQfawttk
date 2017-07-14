@@ -1,4 +1,5 @@
-* :wzUqj1nUdQfawttk: Universal Orlando Resort
-    @created 1340073695898
-    @alias http://dbpedia.org/resource/Universal_Orlando_Resort
-    @weight 0.5
+@id wzUqj1nUdQfawttk
+@title Universal Orlando Resort
+@alias http://dbpedia.org/resource/Universal_Orlando_Resort
+@created 1340073695898
+@weight 0.5

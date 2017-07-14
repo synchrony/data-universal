@@ -1,4 +1,5 @@
-* :AL1ceIEJMQ7QoBfY: manifold
-    @created 1348255818863
-    @alias http://dbpedia.org/resource/Manifold
-    @weight 0.5
+@id AL1ceIEJMQ7QoBfY
+@title manifold
+@alias http://dbpedia.org/resource/Manifold
+@created 1348255818863
+@weight 0.5

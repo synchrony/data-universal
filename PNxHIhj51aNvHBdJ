@@ -1,8 +1,9 @@
-* :PNxHIhj51aNvHBdJ: wired glove
-    @created 1332737134752
-    @alias http://dbpedia.org/resource/Wired_glove
-    @weight 0.5
-    * :1BNMIqEbh3cZIueC: 
-    * :mzvhQLTand60Hlt3: 
-    * :7qBcU12sc5C2BQOa: 
-    * :BZuF7T6iuaPYFZy4: 
+@id PNxHIhj51aNvHBdJ
+@title wired glove
+@alias http://dbpedia.org/resource/Wired_glove
+@created 1332737134752
+@weight 0.5
+* :1BNMIqEbh3cZIueC: 
+* :mzvhQLTand60Hlt3: 
+* :7qBcU12sc5C2BQOa: 
+* :BZuF7T6iuaPYFZy4: 

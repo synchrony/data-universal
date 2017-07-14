@@ -1,5 +1,6 @@
-* :b6hDGFxaaH5hbYcS: biometrics
-    @created 1379961191977
-    @alias http://dbpedia.org/resource/Biometrics
-    @weight 0.5
-    * :QGhEZMOCV1e4ApiL: 
+@id b6hDGFxaaH5hbYcS
+@title biometrics
+@alias http://dbpedia.org/resource/Biometrics
+@created 1379961191977
+@weight 0.5
+* :QGhEZMOCV1e4ApiL: 

@@ -1,6 +1,7 @@
-* :R7y4iUFyiplYPkEs: Delicious (website)
-    @created 1336842045836
-    @alias http://dbpedia.org/resource/Delicious_(website)
-    @weight 0.5
-    * :a4AdkSAdk9Lb6xp6: 
-    * :e69POtxTiDnozyNP: 
+@id R7y4iUFyiplYPkEs
+@title Delicious (website)
+@alias http://dbpedia.org/resource/Delicious_(website)
+@created 1336842045836
+@weight 0.5
+* :a4AdkSAdk9Lb6xp6: 
+* :e69POtxTiDnozyNP: 

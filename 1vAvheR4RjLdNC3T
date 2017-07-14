@@ -1,21 +1,22 @@
-* :1vAvheR4RjLdNC3T: virtue
-    @created 1411307307115
-    @alias http://dbpedia.org/resource/Virtue
-    @weight 0.5
-    * :bl38gi0odAOQTQTD: 
-    * :J8VIwh3N7KFQw4jY: 
-    * :6sy6BGTuiEQW0qrR: 
-    * :q9mbZpP3CmMARWNh: 
-    * :BIYNXdScI69Iw9r8: 
-    * :7UHGFfferMunxAs4: 
-    * :ibzNQnj55oY6Izs9: 
-    * :hvKubid0WoGc8SNw: 
-    * :ltCdofHhYz1dR6Z7: 
-    * :N3Oz2m7q5v4SO876: 
-    * :pENpzPESlZylJwJ1: 
-    * :BdNySLHet9Il6o91: 
-    * :zkuI95zQPLAJgEOl: 
-    * :HfbsVxToSpNdH8Yq: 
-    * :knSBKJdDdWwRnhqH: 
-    * :gKz0Ypq1VcZr7ct0: 
-    * :a6GMf126ddWiE3D0: 
+@id 1vAvheR4RjLdNC3T
+@title virtue
+@alias http://dbpedia.org/resource/Virtue
+@created 1411307307115
+@weight 0.5
+* :bl38gi0odAOQTQTD: 
+* :J8VIwh3N7KFQw4jY: 
+* :6sy6BGTuiEQW0qrR: 
+* :q9mbZpP3CmMARWNh: 
+* :BIYNXdScI69Iw9r8: 
+* :7UHGFfferMunxAs4: 
+* :ibzNQnj55oY6Izs9: 
+* :hvKubid0WoGc8SNw: 
+* :ltCdofHhYz1dR6Z7: 
+* :N3Oz2m7q5v4SO876: 
+* :pENpzPESlZylJwJ1: 
+* :BdNySLHet9Il6o91: 
+* :zkuI95zQPLAJgEOl: 
+* :HfbsVxToSpNdH8Yq: 
+* :knSBKJdDdWwRnhqH: 
+* :gKz0Ypq1VcZr7ct0: 
+* :a6GMf126ddWiE3D0: 

@@ -1,4 +1,5 @@
-* :kzqihCW1QjGfJjNX: archaea
-    @created 1416521052468
-    @alias http://dbpedia.org/resource/Archaea
-    @weight 0.5
+@id kzqihCW1QjGfJjNX
+@title archaea
+@alias http://dbpedia.org/resource/Archaea
+@created 1416521052468
+@weight 0.5

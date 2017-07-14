@@ -1,4 +1,5 @@
-* :GmDWMEglvXHAV003: water
-    @created 1309178543330
-    @alias http://dbpedia.org/resource/Water
-    @weight 0.75
+@id GmDWMEglvXHAV003
+@title water
+@alias http://dbpedia.org/resource/Water
+@created 1309178543330
+@weight 0.75

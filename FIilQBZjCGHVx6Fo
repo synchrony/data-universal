@@ -1,4 +1,5 @@
-* :FIilQBZjCGHVx6Fo: My Favorite Martian
-    @created 1331518390039
-    @alias http://dbpedia.org/resource/My_Favorite_Martian
-    @weight 0.5
+@id FIilQBZjCGHVx6Fo
+@title My Favorite Martian
+@alias http://dbpedia.org/resource/My_Favorite_Martian
+@created 1331518390039
+@weight 0.5

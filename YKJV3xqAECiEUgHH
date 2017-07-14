@@ -1,8 +1,9 @@
-* :YKJV3xqAECiEUgHH: Controlled Substances Act
-    @created 1359957822492
-    @alias http://dbpedia.org/resource/Controlled_Substances_Act
-    @weight 0.5
-    * :Lc6CKdea7iTkPOqR: 
-    * :mAilXifX9JqGAKgJ: 
-    * :tWWT3ZnW6rwagvRH: 
-    * :G6UUs1jWfDTLwPk2: 
+@id YKJV3xqAECiEUgHH
+@title Controlled Substances Act
+@alias http://dbpedia.org/resource/Controlled_Substances_Act
+@created 1359957822492
+@weight 0.5
+* :Lc6CKdea7iTkPOqR: 
+* :mAilXifX9JqGAKgJ: 
+* :tWWT3ZnW6rwagvRH: 
+* :G6UUs1jWfDTLwPk2: 

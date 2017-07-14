@@ -1,4 +1,5 @@
-* :KFxSZkwrd6RTBFaj: samosa
-    @created 1348447487098
-    @alias http://dbpedia.org/resource/Samosa
-    @weight 0.5
+@id KFxSZkwrd6RTBFaj
+@title samosa
+@alias http://dbpedia.org/resource/Samosa
+@created 1348447487098
+@weight 0.5

@@ -1,5 +1,6 @@
-* :bI1yvwGVWOYPRS9p: tetrahedron
-    @created 1376599154469
-    @alias http://dbpedia.org/resource/Tetrahedron
-    @weight 0.5
-    * :3XmxUmyF7wOx4a5Y: 
+@id bI1yvwGVWOYPRS9p
+@title tetrahedron
+@alias http://dbpedia.org/resource/Tetrahedron
+@created 1376599154469
+@weight 0.5
+* :3XmxUmyF7wOx4a5Y: 

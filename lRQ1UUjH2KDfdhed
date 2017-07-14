@@ -1,5 +1,6 @@
-* :lRQ1UUjH2KDfdhed: inertial measurement unit
-    @created 1342894813900
-    @alias http://dbpedia.org/resource/Inertial_measurement_unit
-    @weight 0.5
-    * :26ME2BzpksNFkqio: 
+@id lRQ1UUjH2KDfdhed
+@title inertial measurement unit
+@alias http://dbpedia.org/resource/Inertial_measurement_unit
+@created 1342894813900
+@weight 0.5
+* :26ME2BzpksNFkqio: 

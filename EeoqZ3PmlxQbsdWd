@@ -1,6 +1,7 @@
-* :EeoqZ3PmlxQbsdWd: resonator
-    @created 1316377937223
-    @alias http://dbpedia.org/resource/Resonator
-    @weight 0.5
-    * :PZDFK2GBsYtUSA8T: 
-    * :vIGt9estkBHXMoPv: 
+@id EeoqZ3PmlxQbsdWd
+@title resonator
+@alias http://dbpedia.org/resource/Resonator
+@created 1316377937223
+@weight 0.5
+* :PZDFK2GBsYtUSA8T: 
+* :vIGt9estkBHXMoPv: 

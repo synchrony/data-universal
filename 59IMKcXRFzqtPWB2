@@ -1,4 +1,5 @@
-* :59IMKcXRFzqtPWB2: skeleton
-    @created 1350136297595
-    @alias http://dbpedia.org/resource/Skeleton
-    @weight 0.5
+@id 59IMKcXRFzqtPWB2
+@title skeleton
+@alias http://dbpedia.org/resource/Skeleton
+@created 1350136297595
+@weight 0.5

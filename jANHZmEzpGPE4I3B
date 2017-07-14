@@ -1,4 +1,5 @@
-* :jANHZmEzpGPE4I3B: ivy
-    @created 1364398513907
-    @alias http://dbpedia.org/resource/Ivy
-    @weight 0.5
+@id jANHZmEzpGPE4I3B
+@title ivy
+@alias http://dbpedia.org/resource/Ivy
+@created 1364398513907
+@weight 0.5

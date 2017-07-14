@@ -1,5 +1,6 @@
-* :IG0ONkU04eMmR1wv: Google Scholar
-    @created 1345615104890
-    @alias http://dbpedia.org/resource/Google_Scholar
-    @weight 0.75
-    * :P1GKGhCP9tVFHsBc: 
+@id IG0ONkU04eMmR1wv
+@title Google Scholar
+@alias http://dbpedia.org/resource/Google_Scholar
+@created 1345615104890
+@weight 0.75
+* :P1GKGhCP9tVFHsBc: 

@@ -1,8 +1,9 @@
-* :rImfZZ6iUuBqLP9a: memory
-    @created 1363551627894
-    @alias http://dbpedia.org/resource/Memory
-    @weight 0.75
-    * :miWne74mzjrPHQI7: 
-    * :Vxaon65Ykj3SPjkt: 
-    * :LFfYl8wo9yqJmyk7: 
-    * :VWNSIrJRo3yfB73E: 
+@id rImfZZ6iUuBqLP9a
+@title memory
+@alias http://dbpedia.org/resource/Memory
+@created 1363551627894
+@weight 0.75
+* :miWne74mzjrPHQI7: 
+* :Vxaon65Ykj3SPjkt: 
+* :LFfYl8wo9yqJmyk7: 
+* :VWNSIrJRo3yfB73E: 

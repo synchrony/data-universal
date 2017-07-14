@@ -1,5 +1,6 @@
-* :xJc0sqtSJLEkM0JZ: vertex cover
-    @created 1381116326026
-    @alias http://dbpedia.org/resource/Vertex_cover
-    @weight 0.5
-    * :SHrtfU4z1qN2sGod: 
+@id xJc0sqtSJLEkM0JZ
+@title vertex cover
+@alias http://dbpedia.org/resource/Vertex_cover
+@created 1381116326026
+@weight 0.5
+* :SHrtfU4z1qN2sGod: 

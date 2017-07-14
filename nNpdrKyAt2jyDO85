@@ -1,6 +1,7 @@
-* :nNpdrKyAt2jyDO85: branched-chain amino acid
-    @created 1429891032908
-    @alias http://dbpedia.org/resource/Branched-chain_amino_acid
-    @weight 0.5
-    * :K8ehLZU5MKgrmIRu: 
-    * :bH4veL2t7YC7382U: 
+@id nNpdrKyAt2jyDO85
+@title branched-chain amino acid
+@alias http://dbpedia.org/resource/Branched-chain_amino_acid
+@created 1429891032908
+@weight 0.5
+* :K8ehLZU5MKgrmIRu: 
+* :bH4veL2t7YC7382U: 

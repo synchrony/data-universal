@@ -1,4 +1,5 @@
-* :8ajkBP7rKKBiZULV: ALF (TV series)
-    @created 1316410079864
-    @alias http://dbpedia.org/resource/ALF_(TV_series)
-    @weight 0.5
+@id 8ajkBP7rKKBiZULV
+@title ALF (TV series)
+@alias http://dbpedia.org/resource/ALF_(TV_series)
+@created 1316410079864
+@weight 0.5

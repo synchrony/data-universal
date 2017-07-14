@@ -1,16 +1,17 @@
-* :smM3ricggQkzOYlw: agreeableness
-    @created 1363154955961
-    @alias http://dbpedia.org/resource/Agreeableness
-    @weight 0.75
-    * :rOSmP3vkGy4k0PdM: 
-    * :t73nJs2VeP8PAitM: 
-    * :M3KKkAQ4nxBCO6bc: 
-    * :lsvnYEPK40wbDFpr: 
-    * :AwGyUdRBuD0Hksko: 
-    * :S8kJw1HHeFfJO5Wn: 
-    * :9poG3VZVcdUqZwGr: 
-    * :KGqIZixR603oXOX5: 
-    * :vol46LXeNwKJelg4: 
-    * :X5n8rLjHv589I3vt: 
-    * :O1fbi7gVSM5DA1Ob: 
-    * :ILA7xQlvuRjJVUDs: 
+@id smM3ricggQkzOYlw
+@title agreeableness
+@alias http://dbpedia.org/resource/Agreeableness
+@created 1363154955961
+@weight 0.75
+* :rOSmP3vkGy4k0PdM: 
+* :t73nJs2VeP8PAitM: 
+* :M3KKkAQ4nxBCO6bc: 
+* :lsvnYEPK40wbDFpr: 
+* :AwGyUdRBuD0Hksko: 
+* :S8kJw1HHeFfJO5Wn: 
+* :9poG3VZVcdUqZwGr: 
+* :KGqIZixR603oXOX5: 
+* :vol46LXeNwKJelg4: 
+* :X5n8rLjHv589I3vt: 
+* :O1fbi7gVSM5DA1Ob: 
+* :ILA7xQlvuRjJVUDs: 

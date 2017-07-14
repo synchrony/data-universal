@@ -1,5 +1,6 @@
-* :VbpzVz2ZZyFQjFUW: Tetris
-    @created 1312621178011
-    @alias http://dbpedia.org/resource/Tetris
-    @weight 0.5
-    * :hJHCR9QwklVzSKEX: 
+@id VbpzVz2ZZyFQjFUW
+@title Tetris
+@alias http://dbpedia.org/resource/Tetris
+@created 1312621178011
+@weight 0.5
+* :hJHCR9QwklVzSKEX: 

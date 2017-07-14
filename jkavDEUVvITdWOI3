@@ -1,4 +1,5 @@
-* :jkavDEUVvITdWOI3: airspeed indicator
-    @created 1488098265274
-    @alias http://dbpedia.org/resource/Airspeed_indicator
-    @weight 0.5
+@id jkavDEUVvITdWOI3
+@title airspeed indicator
+@alias http://dbpedia.org/resource/Airspeed_indicator
+@created 1488098265274
+@weight 0.5

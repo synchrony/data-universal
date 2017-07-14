@@ -1,4 +1,5 @@
-* :3ftfG2zuuIk0L3M3: ice sculpture
-    @created 1340071950269
-    @alias http://dbpedia.org/resource/Ice_sculpture
-    @weight 0.5
+@id 3ftfG2zuuIk0L3M3
+@title ice sculpture
+@alias http://dbpedia.org/resource/Ice_sculpture
+@created 1340071950269
+@weight 0.5

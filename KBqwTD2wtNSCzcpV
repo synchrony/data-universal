@@ -1,4 +1,5 @@
-* :KBqwTD2wtNSCzcpV: bromine
-    @created 1347303174879
-    @alias http://dbpedia.org/resource/Bromine
-    @weight 0.5
+@id KBqwTD2wtNSCzcpV
+@title bromine
+@alias http://dbpedia.org/resource/Bromine
+@created 1347303174879
+@weight 0.5

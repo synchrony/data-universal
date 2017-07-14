@@ -1,8 +1,9 @@
-* :JdKCmCCNLZ9S5ifq: Type N connector
-    @created 1327723998682
-    @alias http://dbpedia.org/resource/Type_N_connector
-    @weight 0.75
-    * :0yfJAil7BwnSfGC1: 
-    * :c58ZJsPyegurMbxh: 
-    * :Idr4d2ENPsPegrqT: 
-    * :l1ELUP3yVwBs6qKg: 
+@id JdKCmCCNLZ9S5ifq
+@title Type N connector
+@alias http://dbpedia.org/resource/Type_N_connector
+@created 1327723998682
+@weight 0.75
+* :0yfJAil7BwnSfGC1: 
+* :c58ZJsPyegurMbxh: 
+* :Idr4d2ENPsPegrqT: 
+* :l1ELUP3yVwBs6qKg: 

@@ -1,5 +1,6 @@
-* :c85IpJm4Bm9GT0Mx: camera
-    @created 1467562673584
-    @alias http://dbpedia.org/resource/Camera
-    @weight 0.75
-    * :qRgrTKtWeRyPZOqA: 
+@id c85IpJm4Bm9GT0Mx
+@title camera
+@alias http://dbpedia.org/resource/Camera
+@created 1467562673584
+@weight 0.75
+* :qRgrTKtWeRyPZOqA: 

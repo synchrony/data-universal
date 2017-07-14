@@ -1,4 +1,5 @@
-* :DW8xKQZmCsSkvUST: pilot (aircraft)
-    @created 1378265372105
-    @alias http://dbpedia.org/resource/Pilot_(aircraft)
-    @weight 0.5
+@id DW8xKQZmCsSkvUST
+@title pilot (aircraft)
+@alias http://dbpedia.org/resource/Pilot_(aircraft)
+@created 1378265372105
+@weight 0.5

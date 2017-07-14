@@ -1,6 +1,7 @@
-* :zvVWq0OGSNIywXHk: Apache Avro
-    @created 1328716344960
-    @alias http://dbpedia.org/resource/Apache_Avro
-    @weight 0.75
-    * :rqyiVi34TU1eFvJd: 
-    * :iPlM0uV6OTEyx7CB: 
+@id zvVWq0OGSNIywXHk
+@title Apache Avro
+@alias http://dbpedia.org/resource/Apache_Avro
+@created 1328716344960
+@weight 0.75
+* :rqyiVi34TU1eFvJd: 
+* :iPlM0uV6OTEyx7CB: 

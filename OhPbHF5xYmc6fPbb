@@ -1,5 +1,6 @@
-* :OhPbHF5xYmc6fPbb: vanity
-    @created 1414374450835
-    @alias http://dbpedia.org/resource/Vanity
-    @weight 0.5
-    * :43R9zsSFNNy4fELW: 
+@id OhPbHF5xYmc6fPbb
+@title vanity
+@alias http://dbpedia.org/resource/Vanity
+@created 1414374450835
+@weight 0.5
+* :43R9zsSFNNy4fELW: 

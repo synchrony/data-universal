@@ -1,6 +1,7 @@
-* :aVQmDNlWQw3SGQgn: public good
-    @created 1360109242662
-    @alias http://dbpedia.org/resource/Public_good
-    @weight 0.5
-    * :M6D8LXAYj5NjSFX6: 
-    * :2lvxz93vQ5mvAVFN: 
+@id aVQmDNlWQw3SGQgn
+@title public good
+@alias http://dbpedia.org/resource/Public_good
+@created 1360109242662
+@weight 0.5
+* :M6D8LXAYj5NjSFX6: 
+* :2lvxz93vQ5mvAVFN: 

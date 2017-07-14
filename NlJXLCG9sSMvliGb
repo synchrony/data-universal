@@ -1,7 +1,8 @@
-* :NlJXLCG9sSMvliGb: relativity of simultaneity
-    @created 1433193316238
-    @alias http://dbpedia.org/resource/Relativity_of_simultaneity
-    @weight 0.5
-    * :YJ83MaMBbmpPMx2h: 
-    * :BNZ3adkmkMVZs8q9: 
-    * :J21LJ2TSc4re80gM: 
+@id NlJXLCG9sSMvliGb
+@title relativity of simultaneity
+@alias http://dbpedia.org/resource/Relativity_of_simultaneity
+@created 1433193316238
+@weight 0.5
+* :YJ83MaMBbmpPMx2h: 
+* :BNZ3adkmkMVZs8q9: 
+* :J21LJ2TSc4re80gM: 

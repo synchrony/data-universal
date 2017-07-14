@@ -1,9 +1,10 @@
-* :cgM6ViJplndNYDrn: constructed language
-    @created 1316541008162
-    @alias http://dbpedia.org/resource/Constructed_language
-    @weight 0.75
-    * :D6dnIEQIyBTndH0N: 
-    * :lpj4EZEZYj5CGylj: 
-    * :WQi1nAGXQxaQ5GCq: 
-    * :Q2T2w9qJF26ntxTe: 
-    * :7Vjmelu5cLfkv9PZ: 
+@id cgM6ViJplndNYDrn
+@title constructed language
+@alias http://dbpedia.org/resource/Constructed_language
+@created 1316541008162
+@weight 0.75
+* :D6dnIEQIyBTndH0N: 
+* :lpj4EZEZYj5CGylj: 
+* :WQi1nAGXQxaQ5GCq: 
+* :Q2T2w9qJF26ntxTe: 
+* :7Vjmelu5cLfkv9PZ: 

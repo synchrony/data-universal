@@ -1,8 +1,9 @@
-* :N5XjU0kbR0X0vpIC: Net-Centric Enterprise Services
-    @created 1341637592826
-    @alias http://dbpedia.org/resource/Net-Centric_Enterprise_Services
-    @weight 0.5
-    * :4LTf0DM4vcAvapNj: 
-    * :OzqSsnZnA5CTga0i: 
-    * :9TEZOCbG38AiX7gh: 
-    * :r1zCYD1dnsmMDOD8: 
+@id N5XjU0kbR0X0vpIC
+@title Net-Centric Enterprise Services
+@alias http://dbpedia.org/resource/Net-Centric_Enterprise_Services
+@created 1341637592826
+@weight 0.5
+* :4LTf0DM4vcAvapNj: 
+* :OzqSsnZnA5CTga0i: 
+* :9TEZOCbG38AiX7gh: 
+* :r1zCYD1dnsmMDOD8: 

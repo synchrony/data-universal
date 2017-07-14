@@ -1,6 +1,7 @@
-* :fLQHO7utkHkO3rOn: Prince Igor (song)
-    @created 1354855119192
-    @alias http://dbpedia.org/resource/Prince_Igor_(single)
-    @weight 0.5
-    * :IXkmwr4J0FMzUjFr: 
-    * :XLx5rBr4KXRiQwAk: 
+@id fLQHO7utkHkO3rOn
+@title Prince Igor (song)
+@alias http://dbpedia.org/resource/Prince_Igor_(single)
+@created 1354855119192
+@weight 0.5
+* :IXkmwr4J0FMzUjFr: 
+* :XLx5rBr4KXRiQwAk: 

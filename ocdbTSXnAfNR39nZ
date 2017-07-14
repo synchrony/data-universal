@@ -1,4 +1,5 @@
-* :ocdbTSXnAfNR39nZ: backpack
-    @created 1467562730856
-    @alias http://dbpedia.org/resource/Backpack
-    @weight 0.5
+@id ocdbTSXnAfNR39nZ
+@title backpack
+@alias http://dbpedia.org/resource/Backpack
+@created 1467562730856
+@weight 0.5

@@ -1,8 +1,9 @@
-* :5goDTrDWE4TYfWi7: Shiva
-    @created 1334891496684
-    @alias http://dbpedia.org/resource/Shiva
-    @weight 0.75
-    * :vC6kfsxZkIdd6XHX: 
-    * :FNeQPCUhYXQAW1xZ: 
-    * :LQNuqsUBbVCUzEGG: 
-    * :fZpRI46q06nfdReI: 
+@id 5goDTrDWE4TYfWi7
+@title Shiva
+@alias http://dbpedia.org/resource/Shiva
+@created 1334891496684
+@weight 0.75
+* :vC6kfsxZkIdd6XHX: 
+* :FNeQPCUhYXQAW1xZ: 
+* :LQNuqsUBbVCUzEGG: 
+* :fZpRI46q06nfdReI: 

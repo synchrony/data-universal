@@ -1,6 +1,7 @@
-* :ZfMTi3c6B9nPSSBM: output device
-    @created 1434645846528
-    @alias http://dbpedia.org/resource/Output_device
-    @weight 0.5
-    * :5UzAugLXMBu5zRT0: 
-    * :kePdHYvhiDPRKncd: 
+@id ZfMTi3c6B9nPSSBM
+@title output device
+@alias http://dbpedia.org/resource/Output_device
+@created 1434645846528
+@weight 0.5
+* :5UzAugLXMBu5zRT0: 
+* :kePdHYvhiDPRKncd: 

@@ -1,4 +1,5 @@
-* :dXX5iZJrUFpDPDBr: Port Dover, Ontario
-    @created 1375660944254
-    @alias http://dbpedia.org/resource/Port_Dover,_Ontario
-    @weight 0.5
+@id dXX5iZJrUFpDPDBr
+@title Port Dover, Ontario
+@alias http://dbpedia.org/resource/Port_Dover,_Ontario
+@created 1375660944254
+@weight 0.5

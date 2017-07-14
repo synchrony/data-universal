@@ -1,4 +1,5 @@
-* :ecgfzOrsPdIuMkea: Starship Troopers (film)
-    @created 1326212115683
-    @alias http://dbpedia.org/resource/Starship_Troopers_(film)
-    @weight 0.5
+@id ecgfzOrsPdIuMkea
+@title Starship Troopers (film)
+@alias http://dbpedia.org/resource/Starship_Troopers_(film)
+@created 1326212115683
+@weight 0.5

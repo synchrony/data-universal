@@ -1,6 +1,7 @@
-* :ltCJRD82zs2ItIrz: whole genome sequencing
-    @created 1338488554805
-    @alias http://dbpedia.org/resource/Whole_genome_sequencing
-    @weight 0.5
-    * :io8aJk3oo81ZvFgR: 
-    * :Heosg71Td0RmGW5V: 
+@id ltCJRD82zs2ItIrz
+@title whole genome sequencing
+@alias http://dbpedia.org/resource/Whole_genome_sequencing
+@created 1338488554805
+@weight 0.5
+* :io8aJk3oo81ZvFgR: 
+* :Heosg71Td0RmGW5V: 

@@ -1,13 +1,14 @@
-* :e9o21ZKdLErUKuXy: rotary woofer
-    @created 1310544259515
-    @alias http://dbpedia.org/resource/Rotary_woofer
-    @weight 0.5
-    * :DpcJ8eEP7DtNi93X: 
-    * :u0toL4iiZX59VWrH: 
-    * :Mg8qTOYKyejtckma: 
-    * :EnEW7w2ZX09Tdd4u: 
-    * :qGrapbtfY9Nswvu1: 
-    * :C1xuEdjcf2tAb3YG: 
-    * :PUYWCis9uX40NtUS: 
-    * :I0uzkXmTUmYD28FP: 
-    * :FmzrV84otPK59Zmi: 
+@id e9o21ZKdLErUKuXy
+@title rotary woofer
+@alias http://dbpedia.org/resource/Rotary_woofer
+@created 1310544259515
+@weight 0.5
+* :DpcJ8eEP7DtNi93X: 
+* :u0toL4iiZX59VWrH: 
+* :Mg8qTOYKyejtckma: 
+* :EnEW7w2ZX09Tdd4u: 
+* :qGrapbtfY9Nswvu1: 
+* :C1xuEdjcf2tAb3YG: 
+* :PUYWCis9uX40NtUS: 
+* :I0uzkXmTUmYD28FP: 
+* :FmzrV84otPK59Zmi: 

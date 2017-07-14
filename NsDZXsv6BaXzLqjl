@@ -1,8 +1,9 @@
-* :NsDZXsv6BaXzLqjl: Amazon Elastic Compute Cloud
-    @created 1309949942270
-    @alias http://dbpedia.org/resource/Amazon_Elastic_Compute_Cloud
-    @weight 0.5
-    * :zbGEmglvOnyzcjLT: 
-    * :JvMGzxd1Ntg4aX0h: 
-    * :U6Znx4vhjo5yoJxP: 
-    * :wHFKraCGHSxr01j7: 
+@id NsDZXsv6BaXzLqjl
+@title Amazon Elastic Compute Cloud
+@alias http://dbpedia.org/resource/Amazon_Elastic_Compute_Cloud
+@created 1309949942270
+@weight 0.5
+* :zbGEmglvOnyzcjLT: 
+* :JvMGzxd1Ntg4aX0h: 
+* :U6Znx4vhjo5yoJxP: 
+* :wHFKraCGHSxr01j7: 

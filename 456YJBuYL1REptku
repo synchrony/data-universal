@@ -1,4 +1,5 @@
-* :456YJBuYL1REptku: tuna
-    @created 1429470826861
-    @alias http://dbpedia.org/resource/Tuna
-    @weight 0.5
+@id 456YJBuYL1REptku
+@title tuna
+@alias http://dbpedia.org/resource/Tuna
+@created 1429470826861
+@weight 0.5

@@ -1,6 +1,7 @@
-* :0edHzAidRnxLMXt0: Riak
-    @created 1428547061007
-    @alias http://dbpedia.org/resource/Riak
-    @weight 0.5
-    * :waGceQH5AFMMhdXm: 
-    * :apFjfapqzCh42PON: 
+@id 0edHzAidRnxLMXt0
+@title Riak
+@alias http://dbpedia.org/resource/Riak
+@created 1428547061007
+@weight 0.5
+* :waGceQH5AFMMhdXm: 
+* :apFjfapqzCh42PON: 

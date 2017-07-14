@@ -1,6 +1,7 @@
-* :lFYlhvuhm3BOIw2v: stimming
-    @created 1343236357952
-    @alias http://dbpedia.org/resource/Stimming
-    @weight 0.5
-    * :cjdCOCpFgn795evH: 
-    * :ZxgfPNHphhSYI9eP: 
+@id lFYlhvuhm3BOIw2v
+@title stimming
+@alias http://dbpedia.org/resource/Stimming
+@created 1343236357952
+@weight 0.5
+* :cjdCOCpFgn795evH: 
+* :ZxgfPNHphhSYI9eP: 

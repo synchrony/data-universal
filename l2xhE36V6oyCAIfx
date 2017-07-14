@@ -1,8 +1,9 @@
-* :l2xhE36V6oyCAIfx: RDF Schema
-    @created 1316490104442
-    @alias http://dbpedia.org/resource/RDF_Schema
-    @weight 0.75
-    * :5PDIDlrS25XTmKE0: 
-    * :1tz9zgDoqC0vuURr: 
-    * :fhTpgZ2RlheUkJh8: 
-    * :jGU9sOSngN8CcFXX: 
+@id l2xhE36V6oyCAIfx
+@title RDF Schema
+@alias http://dbpedia.org/resource/RDF_Schema
+@created 1316490104442
+@weight 0.75
+* :5PDIDlrS25XTmKE0: 
+* :1tz9zgDoqC0vuURr: 
+* :fhTpgZ2RlheUkJh8: 
+* :jGU9sOSngN8CcFXX: 

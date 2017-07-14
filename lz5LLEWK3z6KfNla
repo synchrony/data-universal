@@ -1,7 +1,8 @@
-* :lz5LLEWK3z6KfNla: Uta Frith
-    @created 1434894175906
-    @alias http://dbpedia.org/resource/Uta_Frith
-    @weight 0.5
-    * :X4yZzMiQLvSq2fHX: 
-    * :zvIqCorzQln8Wa0Z: 
-    * :Bb5sy8RR7oOEqMyN: 
+@id lz5LLEWK3z6KfNla
+@title Uta Frith
+@alias http://dbpedia.org/resource/Uta_Frith
+@created 1434894175906
+@weight 0.5
+* :X4yZzMiQLvSq2fHX: 
+* :zvIqCorzQln8Wa0Z: 
+* :Bb5sy8RR7oOEqMyN: 

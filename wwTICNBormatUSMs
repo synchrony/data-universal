@@ -1,4 +1,5 @@
-* :wwTICNBormatUSMs: Georges Perec
-    @created 1310545660499
-    @alias http://dbpedia.org/resource/Georges_Perec
-    @weight 0.5
+@id wwTICNBormatUSMs
+@title Georges Perec
+@alias http://dbpedia.org/resource/Georges_Perec
+@created 1310545660499
+@weight 0.5

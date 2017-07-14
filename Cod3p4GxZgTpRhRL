@@ -1,7 +1,8 @@
-* :Cod3p4GxZgTpRhRL: Timsort
-    @created 1380988067482
-    @alias http://dbpedia.org/resource/Timsort
-    @weight 0.5
-    * :jKUHA9HZRGOfFEdF: 
-    * :rAYmvWGLFFCGxITd: 
-    * :xaTp72Gs2rYKJykP: 
+@id Cod3p4GxZgTpRhRL
+@title Timsort
+@alias http://dbpedia.org/resource/Timsort
+@created 1380988067482
+@weight 0.5
+* :jKUHA9HZRGOfFEdF: 
+* :rAYmvWGLFFCGxITd: 
+* :xaTp72Gs2rYKJykP: 

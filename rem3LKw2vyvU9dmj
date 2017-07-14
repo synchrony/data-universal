@@ -1,4 +1,5 @@
-* :rem3LKw2vyvU9dmj: Deakin University
-    @created 1472175438050
-    @alias http://dbpedia.org/resource/Deakin_University
-    @weight 0.5
+@id rem3LKw2vyvU9dmj
+@title Deakin University
+@alias http://dbpedia.org/resource/Deakin_University
+@created 1472175438050
+@weight 0.5

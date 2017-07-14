@@ -1,5 +1,6 @@
-* :BPF703K3E6dj3UDl: binoculars
-    @created 1467562730870
-    @alias http://dbpedia.org/resource/Binoculars
-    @weight 0.5
-    * :mQIssTGEPM9flHHf: 
+@id BPF703K3E6dj3UDl
+@title binoculars
+@alias http://dbpedia.org/resource/Binoculars
+@created 1467562730870
+@weight 0.5
+* :mQIssTGEPM9flHHf: 

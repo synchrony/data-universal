@@ -1,5 +1,6 @@
-* :XQh5fMra54birsbh: geographic coordinate system
-    @created 1373867771890
-    @alias http://dbpedia.org/resource/Geographic_coordinate_system
-    @weight 0.5
-    * :iPdcjgyvIxuIG6u9: 
+@id XQh5fMra54birsbh
+@title geographic coordinate system
+@alias http://dbpedia.org/resource/Geographic_coordinate_system
+@created 1373867771890
+@weight 0.5
+* :iPdcjgyvIxuIG6u9: 

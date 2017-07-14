@@ -1,8 +1,9 @@
-* :NIVzPDe8JBBG4mPm: conure
-    @created 1326212732073
-    @alias http://dbpedia.org/resource/Conure
-    @weight 0.5
-    * :KyFxea2slDKvaWge: 
-    * :A2pzILrwZGGpH3FK: 
-    * :1uX8Rid8TZ4FM4JP: 
-    * :5om0BqEQR4FFrTDb: 
+@id NIVzPDe8JBBG4mPm
+@title conure
+@alias http://dbpedia.org/resource/Conure
+@created 1326212732073
+@weight 0.5
+* :KyFxea2slDKvaWge: 
+* :A2pzILrwZGGpH3FK: 
+* :1uX8Rid8TZ4FM4JP: 
+* :5om0BqEQR4FFrTDb: 

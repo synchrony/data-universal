@@ -1,7 +1,8 @@
-* :TC4DLP5HopKuhSMm: centipede's dilemma
-    @created 1361159138797
-    @alias http://dbpedia.org/resource/Centipede%27s_dilemma
-    @weight 0.5
-    * :leXqtrVUXuTnL5jh: 
-    * :TbDbacrx3BUXVcJD: 
-    * :ne9BgXTRDvnsLzvM: 
+@id TC4DLP5HopKuhSMm
+@title centipede's dilemma
+@alias http://dbpedia.org/resource/Centipede%27s_dilemma
+@created 1361159138797
+@weight 0.5
+* :leXqtrVUXuTnL5jh: 
+* :TbDbacrx3BUXVcJD: 
+* :ne9BgXTRDvnsLzvM: 

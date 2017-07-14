@@ -1,11 +1,12 @@
-* :fS4e6xtpsDbms17h: Judaism
-    @created 1315414746574
-    @alias http://dbpedia.org/resource/Judaism
-    @weight 0.75
-    * :y10D4myl6ze1x68C: 
-    * :uVZ5oX3ulk09Gh2H: 
-    * :uvapbNRumDWZwTwH: 
-    * :GRsSi70OxWDksiRf: 
-    * :Vka19eCwmoRQ08uL: 
-    * :YTffzqB7L0VQ6HOr: 
-    * :nRLcNxNFaqC8budh: 
+@id fS4e6xtpsDbms17h
+@title Judaism
+@alias http://dbpedia.org/resource/Judaism
+@created 1315414746574
+@weight 0.75
+* :y10D4myl6ze1x68C: 
+* :uVZ5oX3ulk09Gh2H: 
+* :uvapbNRumDWZwTwH: 
+* :GRsSi70OxWDksiRf: 
+* :Vka19eCwmoRQ08uL: 
+* :YTffzqB7L0VQ6HOr: 
+* :nRLcNxNFaqC8budh: 

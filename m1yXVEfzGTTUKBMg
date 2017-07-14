@@ -1,4 +1,5 @@
-* :m1yXVEfzGTTUKBMg: partial equivalence relation
-    @created 1333297492252
-    @alias http://dbpedia.org/resource/Partial_equivalence_relation
-    @weight 0.5
+@id m1yXVEfzGTTUKBMg
+@title partial equivalence relation
+@alias http://dbpedia.org/resource/Partial_equivalence_relation
+@created 1333297492252
+@weight 0.5

@@ -1,4 +1,5 @@
-* :v41oIgaK5su8RENT: triclosan
-    @created 1465743759125
-    @alias http://dbpedia.org/resource/Triclosan
-    @weight 0.5
+@id v41oIgaK5su8RENT
+@title triclosan
+@alias http://dbpedia.org/resource/Triclosan
+@created 1465743759125
+@weight 0.5

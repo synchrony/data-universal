@@ -1,4 +1,5 @@
-* :0d6MVy02l29YGrlN: combination lock
-    @created 1490558623422
-    @alias http://dbpedia.org/resource/Combination_lock
-    @weight 0.5
+@id 0d6MVy02l29YGrlN
+@title combination lock
+@alias http://dbpedia.org/resource/Combination_lock
+@created 1490558623422
+@weight 0.5

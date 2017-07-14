@@ -1,5 +1,6 @@
-* :PXgNvX3oGIO7d6ao: Europe
-    @created 1388639592445
-    @alias http://dbpedia.org/resource/Europe
-    @weight 0.5
-    * :pbyAftKIWGM0Q0bK: 
+@id PXgNvX3oGIO7d6ao
+@title Europe
+@alias http://dbpedia.org/resource/Europe
+@created 1388639592445
+@weight 0.5
+* :pbyAftKIWGM0Q0bK: 

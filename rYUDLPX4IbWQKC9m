@@ -1,4 +1,5 @@
-* :rYUDLPX4IbWQKC9m: academic journal
-    @created 1434466035591
-    @alias http://dbpedia.org/resource/Academic_journal
-    @weight 0.5
+@id rYUDLPX4IbWQKC9m
+@title academic journal
+@alias http://dbpedia.org/resource/Academic_journal
+@created 1434466035591
+@weight 0.5

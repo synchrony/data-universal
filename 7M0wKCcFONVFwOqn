@@ -1,4 +1,5 @@
-* :7M0wKCcFONVFwOqn: corduroy
-    @created 1428040325120
-    @alias http://dbpedia.org/resource/Corduroy
-    @weight 0.5
+@id 7M0wKCcFONVFwOqn
+@title corduroy
+@alias http://dbpedia.org/resource/Corduroy
+@created 1428040325120
+@weight 0.5

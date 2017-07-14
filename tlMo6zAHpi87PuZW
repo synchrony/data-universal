@@ -1,6 +1,7 @@
-* :tlMo6zAHpi87PuZW: pyramidal cell
-    @created 1343776248333
-    @alias http://dbpedia.org/resource/Pyramidal_neuron
-    @weight 0.5
-    * :VmGIuuwjB4DsLrQF: 
-    * :wQSYqOkI8vSLXuGN: 
+@id tlMo6zAHpi87PuZW
+@title pyramidal cell
+@alias http://dbpedia.org/resource/Pyramidal_neuron
+@created 1343776248333
+@weight 0.5
+* :VmGIuuwjB4DsLrQF: 
+* :wQSYqOkI8vSLXuGN: 

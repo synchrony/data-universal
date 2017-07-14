@@ -1,4 +1,5 @@
-* :CO16cBNyi7IvLlO5: methadone
-    @created 1341425881699
-    @alias http://dbpedia.org/resource/Methadone
-    @weight 0.5
+@id CO16cBNyi7IvLlO5
+@title methadone
+@alias http://dbpedia.org/resource/Methadone
+@created 1341425881699
+@weight 0.5

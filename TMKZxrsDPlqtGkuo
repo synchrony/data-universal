@@ -1,4 +1,5 @@
-* :TMKZxrsDPlqtGkuo: Tommy Bahama
-    @created 1465687097829
-    @alias http://dbpedia.org/resource/Tommy_Bahama
-    @weight 0.5
+@id TMKZxrsDPlqtGkuo
+@title Tommy Bahama
+@alias http://dbpedia.org/resource/Tommy_Bahama
+@created 1465687097829
+@weight 0.5

@@ -1,4 +1,5 @@
-* :hyi9r9VQtzbEUOEA: limonium
-    @created 1339697186848
-    @alias http://dbpedia.org/resource/Limonium
-    @weight 0.5
+@id hyi9r9VQtzbEUOEA
+@title limonium
+@alias http://dbpedia.org/resource/Limonium
+@created 1339697186848
+@weight 0.5

@@ -1,6 +1,7 @@
-* :KQnJM1Qvn4BrU8wd: hiccup
-    @created 1368715418591
-    @alias http://dbpedia.org/resource/Hiccup
-    @weight 0.5
-    * :0oINsLmmdXzQYvLt: 
-    * :wpmfWqhruZm7ov1C: 
+@id KQnJM1Qvn4BrU8wd
+@title hiccup
+@alias http://dbpedia.org/resource/Hiccup
+@created 1368715418591
+@weight 0.5
+* :0oINsLmmdXzQYvLt: 
+* :wpmfWqhruZm7ov1C: 

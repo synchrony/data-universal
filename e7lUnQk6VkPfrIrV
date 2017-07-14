@@ -1,5 +1,6 @@
-* :e7lUnQk6VkPfrIrV: flight
-    @created 1494692220004
-    @alias http://dbpedia.org/resource/Flight
-    @weight 0.5
-    * :uSPT4ZtLxsjPZkpE: 
+@id e7lUnQk6VkPfrIrV
+@title flight
+@alias http://dbpedia.org/resource/Flight
+@created 1494692220004
+@weight 0.5
+* :uSPT4ZtLxsjPZkpE: 

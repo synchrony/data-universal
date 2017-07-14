@@ -1,5 +1,6 @@
-* :IKjkP8Hn3FyVR8BJ: OpenID
-    @created 1313807321762
-    @alias http://dbpedia.org/resource/OpenID
-    @weight 0.5
-    * :XW3nr8HUufYLiVsq: 
+@id IKjkP8Hn3FyVR8BJ
+@title OpenID
+@alias http://dbpedia.org/resource/OpenID
+@created 1313807321762
+@weight 0.5
+* :XW3nr8HUufYLiVsq: 

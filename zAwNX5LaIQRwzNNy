@@ -1,10 +1,11 @@
-* :zAwNX5LaIQRwzNNy: Comcast
-    @created 1311529338129
-    @alias http://dbpedia.org/resource/Comcast
-    @weight 0.5
-    * :7wgYT56ZEJfJ3Atp: 
-    * :GP1Lc1d0njR9nhba: 
-    * :I9IrWjSsSkp1IPJq: 
-    * :KgcYwvfA3qUHbl74: 
-    * :eJi2jW4lQzhHlDvV: 
-    * :Er0iMXV62VoEhR4U: 
+@id zAwNX5LaIQRwzNNy
+@title Comcast
+@alias http://dbpedia.org/resource/Comcast
+@created 1311529338129
+@weight 0.5
+* :7wgYT56ZEJfJ3Atp: 
+* :GP1Lc1d0njR9nhba: 
+* :I9IrWjSsSkp1IPJq: 
+* :KgcYwvfA3qUHbl74: 
+* :eJi2jW4lQzhHlDvV: 
+* :Er0iMXV62VoEhR4U: 

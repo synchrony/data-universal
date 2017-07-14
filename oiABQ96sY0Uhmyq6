@@ -1,5 +1,6 @@
-* :oiABQ96sY0Uhmyq6: money laundering
-    @created 1364448520073
-    @alias http://dbpedia.org/resource/Money_laundering
-    @weight 0.5
-    * :K5EU1m8ZLSgzgusi: 
+@id oiABQ96sY0Uhmyq6
+@title money laundering
+@alias http://dbpedia.org/resource/Money_laundering
+@created 1364448520073
+@weight 0.5
+* :K5EU1m8ZLSgzgusi: 

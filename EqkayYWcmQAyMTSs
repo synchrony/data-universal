@@ -1,4 +1,5 @@
-* :EqkayYWcmQAyMTSs: Rice Krispies
-    @created 1340080529252
-    @alias http://dbpedia.org/resource/Rice_Krispies
-    @weight 0.5
+@id EqkayYWcmQAyMTSs
+@title Rice Krispies
+@alias http://dbpedia.org/resource/Rice_Krispies
+@created 1340080529252
+@weight 0.5

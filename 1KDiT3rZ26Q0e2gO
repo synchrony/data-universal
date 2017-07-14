@@ -1,4 +1,5 @@
-* :1KDiT3rZ26Q0e2gO: lettuce
-    @created 1385655624508
-    @alias http://dbpedia.org/resource/Lettuce
-    @weight 0.5
+@id 1KDiT3rZ26Q0e2gO
+@title lettuce
+@alias http://dbpedia.org/resource/Lettuce
+@created 1385655624508
+@weight 0.5

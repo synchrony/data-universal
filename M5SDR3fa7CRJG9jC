@@ -1,4 +1,5 @@
-* :M5SDR3fa7CRJG9jC: passenger pigeon
-    @created 1336678322449
-    @alias http://dbpedia.org/resource/Passenger_pigeon
-    @weight 0.5
+@id M5SDR3fa7CRJG9jC
+@title passenger pigeon
+@alias http://dbpedia.org/resource/Passenger_pigeon
+@created 1336678322449
+@weight 0.5

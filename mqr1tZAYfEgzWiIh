@@ -1,4 +1,5 @@
-* :mqr1tZAYfEgzWiIh: fuselage
-    @created 1478322256403
-    @alias http://dbpedia.org/resource/Fuselage
-    @weight 0.5
+@id mqr1tZAYfEgzWiIh
+@title fuselage
+@alias http://dbpedia.org/resource/Fuselage
+@created 1478322256403
+@weight 0.5

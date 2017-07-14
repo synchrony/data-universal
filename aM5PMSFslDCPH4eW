@@ -1,6 +1,7 @@
-* :aM5PMSFslDCPH4eW: band-pass filter
-    @created 1411765602480
-    @alias http://dbpedia.org/resource/Band-pass_filter
-    @weight 0.5
-    * :Yfmi0Ezwpp8LNGHh: 
-    * :qsA0qq0hiW9JHrrA: 
+@id aM5PMSFslDCPH4eW
+@title band-pass filter
+@alias http://dbpedia.org/resource/Band-pass_filter
+@created 1411765602480
+@weight 0.5
+* :Yfmi0Ezwpp8LNGHh: 
+* :qsA0qq0hiW9JHrrA: 

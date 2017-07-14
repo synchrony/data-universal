@@ -1,4 +1,5 @@
-* :eCZB55qWAOCURM4w: sunglasses
-    @created 1308717194884
-    @alias http://dbpedia.org/resource/Sunglasses
-    @weight 0.5
+@id eCZB55qWAOCURM4w
+@title sunglasses
+@alias http://dbpedia.org/resource/Sunglasses
+@created 1308717194884
+@weight 0.5

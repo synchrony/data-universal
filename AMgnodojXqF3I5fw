@@ -1,5 +1,6 @@
-* :AMgnodojXqF3I5fw: match
-    @created 1467562730857
-    @alias http://dbpedia.org/resource/Match
-    @weight 0.5
-    * :4tQYRa6u5GeKE0rB: 
+@id AMgnodojXqF3I5fw
+@title match
+@alias http://dbpedia.org/resource/Match
+@created 1467562730857
+@weight 0.5
+* :4tQYRa6u5GeKE0rB: 

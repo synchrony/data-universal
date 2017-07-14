@@ -1,7 +1,8 @@
-* :s14JLCxX98UZXF0a: XACML
-    @created 1361824622713
-    @alias http://dbpedia.org/resource/XACML
-    @weight 0.5
-    * :Wnw4Ttwzd6HEd30X: 
-    * :ExcSo48IwWuhFQuD: 
-    * :yvcTOybP6WUxpCHH: 
+@id s14JLCxX98UZXF0a
+@title XACML
+@alias http://dbpedia.org/resource/XACML
+@created 1361824622713
+@weight 0.5
+* :Wnw4Ttwzd6HEd30X: 
+* :ExcSo48IwWuhFQuD: 
+* :yvcTOybP6WUxpCHH: 

@@ -1,4 +1,5 @@
-* :nj9iIFwTT2AsR8B6: ear
-    @created 1349315149127
-    @alias http://dbpedia.org/resource/Ear
-    @weight 0.5
+@id nj9iIFwTT2AsR8B6
+@title ear
+@alias http://dbpedia.org/resource/Ear
+@created 1349315149127
+@weight 0.5

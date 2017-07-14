@@ -1,4 +1,5 @@
-* :VIQsV0krKBiJhwaB: M1 Abrams
-    @created 1432743217611
-    @alias http://dbpedia.org/resource/M1_Abrams
-    @weight 0.5
+@id VIQsV0krKBiJhwaB
+@title M1 Abrams
+@alias http://dbpedia.org/resource/M1_Abrams
+@created 1432743217611
+@weight 0.5

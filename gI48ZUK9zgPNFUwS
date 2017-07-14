@@ -1,4 +1,5 @@
-* :gI48ZUK9zgPNFUwS: University of Washington Bothell
-    @created 1472175343699
-    @alias http://dbpedia.org/resource/University_of_Washington_Bothell
-    @weight 0.5
+@id gI48ZUK9zgPNFUwS
+@title University of Washington Bothell
+@alias http://dbpedia.org/resource/University_of_Washington_Bothell
+@created 1472175343699
+@weight 0.5

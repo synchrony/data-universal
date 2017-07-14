@@ -1,6 +1,7 @@
-* :y2OwJ8MZFbfCPcLD: genius
-    @created 1345006851967
-    @alias http://dbpedia.org/resource/Genius
-    @weight 0.5
-    * :DBM6Myg2XxeA8Kfq: 
-    * :eMfMMihEZu3oXcR4: 
+@id y2OwJ8MZFbfCPcLD
+@title genius
+@alias http://dbpedia.org/resource/Genius
+@created 1345006851967
+@weight 0.5
+* :DBM6Myg2XxeA8Kfq: 
+* :eMfMMihEZu3oXcR4: 

@@ -1,9 +1,10 @@
-* :gSzwz6jBgNKxJ4Gw: Observations and Measurements
-    @created 1446954876837
-    @alias http://dbpedia.org/resource/Observations_and_Measurements
-    @weight 0.5
-    * :m8AOyKjiaH9RNJIU: 
-    * :Ird4HxgQtFyCiUPI: 
-    * :7nOlVdAri0gL95Zd: 
-    * :r9wL1MtBMkd5CFRq: 
-    * :eBAPn6QUQ1cUvBf5: 
+@id gSzwz6jBgNKxJ4Gw
+@title Observations and Measurements
+@alias http://dbpedia.org/resource/Observations_and_Measurements
+@created 1446954876837
+@weight 0.5
+* :m8AOyKjiaH9RNJIU: 
+* :Ird4HxgQtFyCiUPI: 
+* :7nOlVdAri0gL95Zd: 
+* :r9wL1MtBMkd5CFRq: 
+* :eBAPn6QUQ1cUvBf5: 

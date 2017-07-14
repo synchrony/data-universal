@@ -1,4 +1,5 @@
-* :vAMBkFRzwC4zDD85: South America
-    @created 1388639673938
-    @alias http://dbpedia.org/resource/South_America
-    @weight 0.5
+@id vAMBkFRzwC4zDD85
+@title South America
+@alias http://dbpedia.org/resource/South_America
+@created 1388639673938
+@weight 0.5

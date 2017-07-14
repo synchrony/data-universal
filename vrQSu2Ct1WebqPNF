@@ -1,7 +1,8 @@
-* :vrQSu2Ct1WebqPNF: programming language
-    @created 1363817194779
-    @alias http://dbpedia.org/resource/Programming_language
-    @weight 0.5
-    * :sqlKuQgtkWIJDxke: 
-    * :te5vWsvcBeYMC0xx: 
-    * :orqlwKu05toIJUQ9: 
+@id vrQSu2Ct1WebqPNF
+@title programming language
+@alias http://dbpedia.org/resource/Programming_language
+@created 1363817194779
+@weight 0.5
+* :sqlKuQgtkWIJDxke: 
+* :te5vWsvcBeYMC0xx: 
+* :orqlwKu05toIJUQ9: 

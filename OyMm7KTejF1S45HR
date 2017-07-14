@@ -1,4 +1,5 @@
-* :OyMm7KTejF1S45HR: electronic organ
-    @created 1321990218929
-    @alias http://dbpedia.org/resource/Electronic_organ
-    @weight 0.75
+@id OyMm7KTejF1S45HR
+@title electronic organ
+@alias http://dbpedia.org/resource/Electronic_organ
+@created 1321990218929
+@weight 0.75

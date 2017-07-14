@@ -1,7 +1,8 @@
-* :p4dL83BXiIQZA7Aj: Base64
-    @created 1381932909584
-    @alias http://dbpedia.org/resource/Base64
-    @weight 0.75
-    * :zRsAQLnZlURPh34e: 
-    * :A25awpxA1udlZYSw: 
-    * :WN9MRyvxU5iO7q5j: 
+@id p4dL83BXiIQZA7Aj
+@title Base64
+@alias http://dbpedia.org/resource/Base64
+@created 1381932909584
+@weight 0.75
+* :zRsAQLnZlURPh34e: 
+* :A25awpxA1udlZYSw: 
+* :WN9MRyvxU5iO7q5j: 

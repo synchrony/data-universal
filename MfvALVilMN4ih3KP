@@ -1,5 +1,6 @@
-* :MfvALVilMN4ih3KP: lunar meteorite
-    @created 1422406618655
-    @alias http://dbpedia.org/resource/Lunar_meteorite
-    @weight 0.5
-    * :O5rmyNGJKtPmw63r: 
+@id MfvALVilMN4ih3KP
+@title lunar meteorite
+@alias http://dbpedia.org/resource/Lunar_meteorite
+@created 1422406618655
+@weight 0.5
+* :O5rmyNGJKtPmw63r: 

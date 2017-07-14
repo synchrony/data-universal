@@ -1,4 +1,5 @@
-* :FmwdhRCPFtdMNpvu: paper towel
-    @created 1309178342624
-    @alias http://dbpedia.org/resource/Paper_towel
-    @weight 0.5
+@id FmwdhRCPFtdMNpvu
+@title paper towel
+@alias http://dbpedia.org/resource/Paper_towel
+@created 1309178342624
+@weight 0.5

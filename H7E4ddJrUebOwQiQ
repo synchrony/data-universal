@@ -1,4 +1,5 @@
-* :H7E4ddJrUebOwQiQ: recorder (musical instrument)
-    @created 1311582904185
-    @alias http://dbpedia.org/resource/Recorder_(musical_instrument)
-    @weight 0.5
+@id H7E4ddJrUebOwQiQ
+@title recorder (musical instrument)
+@alias http://dbpedia.org/resource/Recorder_(musical_instrument)
+@created 1311582904185
+@weight 0.5

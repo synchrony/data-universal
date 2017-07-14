@@ -1,4 +1,5 @@
-* :C9L1uSS1aOGAvInE: ficus
-    @created 1344543274978
-    @alias http://dbpedia.org/resource/Ficus
-    @weight 0.5
+@id C9L1uSS1aOGAvInE
+@title ficus
+@alias http://dbpedia.org/resource/Ficus
+@created 1344543274978
+@weight 0.5

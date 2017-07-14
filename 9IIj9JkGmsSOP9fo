@@ -1,6 +1,7 @@
-* :9IIj9JkGmsSOP9fo: cancer
-    @created 1353306372599
-    @alias http://dbpedia.org/resource/Cancer
-    @weight 0.5
-    * :Pr7ySxVVwMBqXGae: 
-    * :PWIDPdC6cD9kAK93: 
+@id 9IIj9JkGmsSOP9fo
+@title cancer
+@alias http://dbpedia.org/resource/Cancer
+@created 1353306372599
+@weight 0.5
+* :Pr7ySxVVwMBqXGae: 
+* :PWIDPdC6cD9kAK93: 

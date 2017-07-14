@@ -1,6 +1,7 @@
-* :KkFmUu4Xopk6MRYn: computer security
-    @created 1438800318779
-    @alias http://dbpedia.org/resource/Computer_security
-    @weight 0.75
-    * :H7g4lqe9VJBQM6wS: 
-    * :mVMeHAami0pLvgdy: 
+@id KkFmUu4Xopk6MRYn
+@title computer security
+@alias http://dbpedia.org/resource/Computer_security
+@created 1438800318779
+@weight 0.75
+* :H7g4lqe9VJBQM6wS: 
+* :mVMeHAami0pLvgdy: 

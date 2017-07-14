@@ -1,4 +1,5 @@
-* :CdRc2CLbYWit6yCH: cloud condensation nuclei
-    @created 1481821140237
-    @alias http://dbpedia.org/resource/Cloud_condensation_nuclei
-    @weight 0.5
+@id CdRc2CLbYWit6yCH
+@title cloud condensation nuclei
+@alias http://dbpedia.org/resource/Cloud_condensation_nuclei
+@created 1481821140237
+@weight 0.5

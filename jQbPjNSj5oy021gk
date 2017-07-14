@@ -1,7 +1,8 @@
-* :jQbPjNSj5oy021gk: American wire gauge
-    @created 1419272347084
-    @alias http://dbpedia.org/resource/American_wire_gauge
-    @weight 0.5
-    * :jJCifPIBdiklujm0: 
-    * :06lkvtDWHynyauWJ: 
-    * :oHBndkl2GH1y0VP9: 
+@id jQbPjNSj5oy021gk
+@title American wire gauge
+@alias http://dbpedia.org/resource/American_wire_gauge
+@created 1419272347084
+@weight 0.5
+* :jJCifPIBdiklujm0: 
+* :06lkvtDWHynyauWJ: 
+* :oHBndkl2GH1y0VP9: 

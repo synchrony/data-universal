@@ -1,7 +1,8 @@
-* :EOGMzjhypUeL0jBJ: marriage
-    @created 1413637416109
-    @alias http://dbpedia.org/resource/Marriage
-    @weight 0.5
-    * :QVPpOvQ6tndr8T7P: 
-    * :tkhjp1plhszWVtC4: 
-    * :51DAkGLUebRdcLjJ: 
+@id EOGMzjhypUeL0jBJ
+@title marriage
+@alias http://dbpedia.org/resource/Marriage
+@created 1413637416109
+@weight 0.5
+* :QVPpOvQ6tndr8T7P: 
+* :tkhjp1plhszWVtC4: 
+* :51DAkGLUebRdcLjJ: 

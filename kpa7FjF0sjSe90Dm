@@ -1,15 +1,16 @@
-* :kpa7FjF0sjSe90Dm: science
-    @created 1326084805510
-    @alias http://dbpedia.org/resource/Science
-    @weight 0.75
-    * :nBH7Q2cwMe36evCh: 
-    * :NDpRPwN4c1Oc0TSO: 
-    * :JIFnSTM9QFzLfJiu: 
-    * :YjDOFshpnHjD7oco: 
-    * :juO2YSUBYIiQb5aR: 
-    * :HgfsKswlKqLvAM9B: 
-    * :wkojyWOLpTDwFAvw: 
-    * :YGWj86MveGj3fTNB: 
-    * :u209mHofQK5ZQCND: 
-    * :l4mLI9XjUpZlLkx5: 
-    * :JKnWmzVb46cf0Mvm: 
+@id kpa7FjF0sjSe90Dm
+@title science
+@alias http://dbpedia.org/resource/Science
+@created 1326084805510
+@weight 0.75
+* :nBH7Q2cwMe36evCh: 
+* :NDpRPwN4c1Oc0TSO: 
+* :JIFnSTM9QFzLfJiu: 
+* :YjDOFshpnHjD7oco: 
+* :juO2YSUBYIiQb5aR: 
+* :HgfsKswlKqLvAM9B: 
+* :wkojyWOLpTDwFAvw: 
+* :YGWj86MveGj3fTNB: 
+* :u209mHofQK5ZQCND: 
+* :l4mLI9XjUpZlLkx5: 
+* :JKnWmzVb46cf0Mvm: 

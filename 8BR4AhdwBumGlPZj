@@ -1,8 +1,9 @@
-* :8BR4AhdwBumGlPZj: oxycodone
-    @created 1321114020386
-    @alias http://dbpedia.org/resource/Oxycodone
-    @weight 0.75
-    * :RQcTSkZflgUR1MYV: 
-    * :wkVe63QOTG20Ujjx: 
-    * :JG95PzXzA1sxjZp4: 
-    * :tFYRJf4MDyYIQF7z: 
+@id 8BR4AhdwBumGlPZj
+@title oxycodone
+@alias http://dbpedia.org/resource/Oxycodone
+@created 1321114020386
+@weight 0.75
+* :RQcTSkZflgUR1MYV: 
+* :wkVe63QOTG20Ujjx: 
+* :JG95PzXzA1sxjZp4: 
+* :tFYRJf4MDyYIQF7z: 

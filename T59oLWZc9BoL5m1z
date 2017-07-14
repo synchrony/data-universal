@@ -1,6 +1,7 @@
-* :T59oLWZc9BoL5m1z: Google Docs
-    @created 1309949872065
-    @alias http://dbpedia.org/resource/Google_Docs
-    @weight 0.75
-    * :MDRd8jyX1dQBKHkt: 
-    * :pifGNW8eg8QSPQlI: 
+@id T59oLWZc9BoL5m1z
+@title Google Docs
+@alias http://dbpedia.org/resource/Google_Docs
+@created 1309949872065
+@weight 0.75
+* :MDRd8jyX1dQBKHkt: 
+* :pifGNW8eg8QSPQlI: 

@@ -1,4 +1,5 @@
-* :dD1YwDfqHWzVmxKR: Metropolitan Museum of Art
-    @created 1452200263467
-    @alias http://dbpedia.org/resource/Metropolitan_Museum_of_Art
-    @weight 0.5
+@id dD1YwDfqHWzVmxKR
+@title Metropolitan Museum of Art
+@alias http://dbpedia.org/resource/Metropolitan_Museum_of_Art
+@created 1452200263467
+@weight 0.5

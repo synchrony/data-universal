@@ -1,4 +1,5 @@
-* :kVxSwtJXYvFZ2riC: tellurium
-    @created 1344309326590
-    @alias http://dbpedia.org/resource/Tellurium
-    @weight 0.5
+@id kVxSwtJXYvFZ2riC
+@title tellurium
+@alias http://dbpedia.org/resource/Tellurium
+@created 1344309326590
+@weight 0.5

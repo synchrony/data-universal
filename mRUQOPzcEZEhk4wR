@@ -1,4 +1,5 @@
-* :mRUQOPzcEZEhk4wR: Spokane Convention Center
-    @created 1426783486983
-    @alias http://dbpedia.org/resource/Spokane_Convention_Center
-    @weight 0.5
+@id mRUQOPzcEZEhk4wR
+@title Spokane Convention Center
+@alias http://dbpedia.org/resource/Spokane_Convention_Center
+@created 1426783486983
+@weight 0.5

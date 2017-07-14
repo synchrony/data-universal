@@ -1,5 +1,6 @@
-* :hAYz0Qo6BX5HPEpB: World aeronautical chart
-    @created 1487694325080
-    @alias http://dbpedia.org/resource/World_aeronautical_chart
-    @weight 0.5
-    * :chipBAL91NvmE8Da: 
+@id hAYz0Qo6BX5HPEpB
+@title World aeronautical chart
+@alias http://dbpedia.org/resource/World_aeronautical_chart
+@created 1487694325080
+@weight 0.5
+* :chipBAL91NvmE8Da: 

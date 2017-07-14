@@ -1,5 +1,6 @@
-* :yXIvWdmRWHxxsQVJ: identi.ca
-    @created 1310277860637
-    @alias http://dbpedia.org/resource/Identi.ca
-    @weight 0.5
-    * :1fXR5FDjBnFV0N0V: 
+@id yXIvWdmRWHxxsQVJ
+@title identi.ca
+@alias http://dbpedia.org/resource/Identi.ca
+@created 1310277860637
+@weight 0.5
+* :1fXR5FDjBnFV0N0V: 

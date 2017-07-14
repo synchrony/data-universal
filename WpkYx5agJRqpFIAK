@@ -1,4 +1,5 @@
-* :WpkYx5agJRqpFIAK: parietal lobe
-    @created 1434912362546
-    @alias http://dbpedia.org/resource/Parietal_lobe
-    @weight 0.5
+@id WpkYx5agJRqpFIAK
+@title parietal lobe
+@alias http://dbpedia.org/resource/Parietal_lobe
+@created 1434912362546
+@weight 0.5

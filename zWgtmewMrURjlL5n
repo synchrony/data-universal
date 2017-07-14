@@ -1,8 +1,9 @@
-* :zWgtmewMrURjlL5n: SEP-IRA
-    @created 1380356665906
-    @alias http://dbpedia.org/resource/SEP-IRA
-    @weight 0.75
-    * :TnyLn9zl1kk1hsSt: 
-    * :oUJHSyLZRLX2mapQ: 
-    * :g3EOTiKLkpN8YYhA: 
-    * :j3M9FyICNxK77lxe: 
+@id zWgtmewMrURjlL5n
+@title SEP-IRA
+@alias http://dbpedia.org/resource/SEP-IRA
+@created 1380356665906
+@weight 0.75
+* :TnyLn9zl1kk1hsSt: 
+* :oUJHSyLZRLX2mapQ: 
+* :g3EOTiKLkpN8YYhA: 
+* :j3M9FyICNxK77lxe: 

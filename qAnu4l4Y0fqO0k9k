@@ -1,8 +1,9 @@
-* :qAnu4l4Y0fqO0k9k: Fear and Loathing in Las Vegas
-    @created 1316916791984
-    @alias http://dbpedia.org/resource/Fear_and_Loathing_in_Las_Vegas
-    @weight 0.75
-    * :5Qq60EBR7F4G3sOh: 
-    * :2FXF8TDOXRa3vPJO: 
-    * :vukbaYhhtSltHNE0: 
-    * :4qiF3pmIVy7hHPtr: 
+@id qAnu4l4Y0fqO0k9k
+@title Fear and Loathing in Las Vegas
+@alias http://dbpedia.org/resource/Fear_and_Loathing_in_Las_Vegas
+@created 1316916791984
+@weight 0.75
+* :5Qq60EBR7F4G3sOh: 
+* :2FXF8TDOXRa3vPJO: 
+* :vukbaYhhtSltHNE0: 
+* :4qiF3pmIVy7hHPtr: 

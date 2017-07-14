@@ -1,4 +1,5 @@
-* :gIMCwjLMQTeU3JqG: Alabama
-    @created 1385053431851
-    @alias http://dbpedia.org/resource/Alabama
-    @weight 0.5
+@id gIMCwjLMQTeU3JqG
+@title Alabama
+@alias http://dbpedia.org/resource/Alabama
+@created 1385053431851
+@weight 0.5

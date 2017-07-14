@@ -1,5 +1,6 @@
-* :mvEHgZdQkN0fgEgR: optic neuritis
-    @created 1439252067139
-    @alias http://dbpedia.org/resource/Optic_neuritis
-    @weight 0.5
-    * :2wYWRbu4v7zCxq8k: 
+@id mvEHgZdQkN0fgEgR
+@title optic neuritis
+@alias http://dbpedia.org/resource/Optic_neuritis
+@created 1439252067139
+@weight 0.5
+* :2wYWRbu4v7zCxq8k: 

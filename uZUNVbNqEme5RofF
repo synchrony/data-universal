@@ -1,9 +1,10 @@
-* :uZUNVbNqEme5RofF: harmony(music)
-    @created 1436038960744
-    @alias http://dbpedia.org/resource/Harmony
-    @weight 0.5
-    * :HDZ0yjmnwDQdfGn2: 
-    * :jKW5UaA2oe3QYFtX: 
-    * :druoWlXI30me9Ygk: 
-    * :nZMVL1UypZz5tQQd: 
-    * :bdzHUFTbI2f9MSt0: 
+@id uZUNVbNqEme5RofF
+@title harmony(music)
+@alias http://dbpedia.org/resource/Harmony
+@created 1436038960744
+@weight 0.5
+* :HDZ0yjmnwDQdfGn2: 
+* :jKW5UaA2oe3QYFtX: 
+* :druoWlXI30me9Ygk: 
+* :nZMVL1UypZz5tQQd: 
+* :bdzHUFTbI2f9MSt0: 

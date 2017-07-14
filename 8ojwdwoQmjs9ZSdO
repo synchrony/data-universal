@@ -1,4 +1,5 @@
-* :8ojwdwoQmjs9ZSdO: paper
-    @created 1350600515442
-    @alias http://dbpedia.org/resource/Paper
-    @weight 0.5
+@id 8ojwdwoQmjs9ZSdO
+@title paper
+@alias http://dbpedia.org/resource/Paper
+@created 1350600515442
+@weight 0.5

@@ -1,5 +1,6 @@
-* :k93B0cNRjvQPVMND: HSBC
-    @created 1311528035239
-    @alias http://dbpedia.org/resource/HSBC
-    @weight 0.5
-    * :VpviH6GnvpHMz5eW: 
+@id k93B0cNRjvQPVMND
+@title HSBC
+@alias http://dbpedia.org/resource/HSBC
+@created 1311528035239
+@weight 0.5
+* :VpviH6GnvpHMz5eW: 

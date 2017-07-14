@@ -1,4 +1,5 @@
-* :sfOJ1nKEOgP0WTNB: The Cell
-    @created 1326212115684
-    @alias http://dbpedia.org/resource/The_Cell
-    @weight 0.5
+@id sfOJ1nKEOgP0WTNB
+@title The Cell
+@alias http://dbpedia.org/resource/The_Cell
+@created 1326212115684
+@weight 0.5

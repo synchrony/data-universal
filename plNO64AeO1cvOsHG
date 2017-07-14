@@ -1,6 +1,7 @@
-* :plNO64AeO1cvOsHG: health
-    @created 1412867473880
-    @alias http://dbpedia.org/resource/Health
-    @weight 0.5
-    * :BF5krLmZOGBITWiG: 
-    * :ixnOXApXhmrL9tKh: 
+@id plNO64AeO1cvOsHG
+@title health
+@alias http://dbpedia.org/resource/Health
+@created 1412867473880
+@weight 0.5
+* :BF5krLmZOGBITWiG: 
+* :ixnOXApXhmrL9tKh: 

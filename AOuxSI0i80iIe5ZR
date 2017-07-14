@@ -1,4 +1,5 @@
-* :AOuxSI0i80iIe5ZR: global change
-    @created 1410995211385
-    @alias http://dbpedia.org/resource/Global_change
-    @weight 0.5
+@id AOuxSI0i80iIe5ZR
+@title global change
+@alias http://dbpedia.org/resource/Global_change
+@created 1410995211385
+@weight 0.5

@@ -1,9 +1,10 @@
-* :xF2Bdnp8N81e0ol2: consolation
-    @created 1417017548052
-    @alias http://dbpedia.org/resource/Consolation
-    @weight 0.5
-    * :5pKylgI7DE1fcYMT: 
-    * :74KO9zGdQy7TmpUu: 
-    * :S8kJw1HHeFfJO5Wn: 
-    * :Q3RSfO9jqmdtOZqD: 
-    * :xGTWOH88GAKhDAbX: 
+@id xF2Bdnp8N81e0ol2
+@title consolation
+@alias http://dbpedia.org/resource/Consolation
+@created 1417017548052
+@weight 0.5
+* :5pKylgI7DE1fcYMT: 
+* :74KO9zGdQy7TmpUu: 
+* :S8kJw1HHeFfJO5Wn: 
+* :Q3RSfO9jqmdtOZqD: 
+* :xGTWOH88GAKhDAbX: 

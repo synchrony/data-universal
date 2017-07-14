@@ -1,4 +1,5 @@
-* :FpALiGyGdwsCLUM7: reflexive relation
-    @created 1333296661658
-    @alias http://dbpedia.org/resource/Reflexive_relation
-    @weight 0.5
+@id FpALiGyGdwsCLUM7
+@title reflexive relation
+@alias http://dbpedia.org/resource/Reflexive_relation
+@created 1333296661658
+@weight 0.5

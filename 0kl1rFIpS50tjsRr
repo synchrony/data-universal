@@ -1,5 +1,6 @@
-* :0kl1rFIpS50tjsRr: MagSafe
-    @created 1434065475995
-    @alias http://dbpedia.org/resource/MagSafe
-    @weight 0.5
-    * :r9BYXLiufkQcVcCU: 
+@id 0kl1rFIpS50tjsRr
+@title MagSafe
+@alias http://dbpedia.org/resource/MagSafe
+@created 1434065475995
+@weight 0.5
+* :r9BYXLiufkQcVcCU: 

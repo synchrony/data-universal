@@ -1,12 +1,13 @@
-* :YrPaZntKSQjXhbfv: investment
-    @created 1394137203070
-    @alias http://dbpedia.org/resource/Investment
-    @weight 0.5
-    * :TRdXgKeMBTbKZCSc: 
-    * :CJvfMFrohBq37lyE: 
-    * :fpUiZgDkNcBYLhrh: 
-    * :DQxiL66lROUFXC91: 
-    * :Lt3w3N0vFTttKbeS: 
-    * :e1RynFrr6A6DZIdG: 
-    * :rHHfpPCm9YKthi7R: 
-    * :s6jdKNhyjrcFh9ft: 
+@id YrPaZntKSQjXhbfv
+@title investment
+@alias http://dbpedia.org/resource/Investment
+@created 1394137203070
+@weight 0.5
+* :TRdXgKeMBTbKZCSc: 
+* :CJvfMFrohBq37lyE: 
+* :fpUiZgDkNcBYLhrh: 
+* :DQxiL66lROUFXC91: 
+* :Lt3w3N0vFTttKbeS: 
+* :e1RynFrr6A6DZIdG: 
+* :rHHfpPCm9YKthi7R: 
+* :s6jdKNhyjrcFh9ft: 

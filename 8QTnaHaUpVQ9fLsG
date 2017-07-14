@@ -1,4 +1,5 @@
-* :8QTnaHaUpVQ9fLsG: barnacle
-    @created 1336807434348
-    @alias http://dbpedia.org/resource/Barnacle
-    @weight 0.5
+@id 8QTnaHaUpVQ9fLsG
+@title barnacle
+@alias http://dbpedia.org/resource/Barnacle
+@created 1336807434348
+@weight 0.5

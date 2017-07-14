@@ -1,4 +1,5 @@
-* :vUhU9ck5oXvQsyTh: Star Wars: The Force Awakens
-    @created 1450576647900
-    @alias http://dbpedia.org/resource/Star_Wars:_The_Force_Awakens
-    @weight 0.5
+@id vUhU9ck5oXvQsyTh
+@title Star Wars: The Force Awakens
+@alias http://dbpedia.org/resource/Star_Wars:_The_Force_Awakens
+@created 1450576647900
+@weight 0.5

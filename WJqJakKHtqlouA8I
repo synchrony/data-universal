@@ -1,4 +1,5 @@
-* :WJqJakKHtqlouA8I: teleology
-    @created 1333329283636
-    @alias http://dbpedia.org/resource/Teleology
-    @weight 0.5
+@id WJqJakKHtqlouA8I
+@title teleology
+@alias http://dbpedia.org/resource/Teleology
+@created 1333329283636
+@weight 0.5

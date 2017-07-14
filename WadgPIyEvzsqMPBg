@@ -1,4 +1,5 @@
-* :WadgPIyEvzsqMPBg: Baptism of Jesus
-    @created 1417288553283
-    @alias http://dbpedia.org/resource/Baptism_of_Jesus
-    @weight 0.5
+@id WadgPIyEvzsqMPBg
+@title Baptism of Jesus
+@alias http://dbpedia.org/resource/Baptism_of_Jesus
+@created 1417288553283
+@weight 0.5

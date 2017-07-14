@@ -1,4 +1,5 @@
-* :BLgjViyQk9YN2AJN: eel
-    @created 1354415704454
-    @alias http://dbpedia.org/resource/Eel
-    @weight 0.5
+@id BLgjViyQk9YN2AJN
+@title eel
+@alias http://dbpedia.org/resource/Eel
+@created 1354415704454
+@weight 0.5

@@ -1,7 +1,8 @@
-* :4qbiBcoFk9m7ohmm: Disney Research
-    @created 1456945255883
-    @alias http://dbpedia.org/resource/Disney_Research
-    @weight 0.5
-    * :cgKFfi38Gh25ox9l: 
-    * :5fedolbfkEDzKxSJ: 
-    * :jIj1amjAF890GAyE: 
+@id 4qbiBcoFk9m7ohmm
+@title Disney Research
+@alias http://dbpedia.org/resource/Disney_Research
+@created 1456945255883
+@weight 0.5
+* :cgKFfi38Gh25ox9l: 
+* :5fedolbfkEDzKxSJ: 
+* :jIj1amjAF890GAyE: 

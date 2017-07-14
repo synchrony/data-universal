@@ -1,6 +1,7 @@
-* :itbhZ6tbwCS3INiL: gyroscope
-    @created 1309430867198
-    @alias http://dbpedia.org/resource/Gyroscope
-    @weight 0.75
-    * :b5XRyVZgjDT8T2og: 
-    * :AqG8vur6aeEVkYU4: 
+@id itbhZ6tbwCS3INiL
+@title gyroscope
+@alias http://dbpedia.org/resource/Gyroscope
+@created 1309430867198
+@weight 0.75
+* :b5XRyVZgjDT8T2og: 
+* :AqG8vur6aeEVkYU4: 

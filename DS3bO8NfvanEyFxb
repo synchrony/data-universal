@@ -1,19 +1,20 @@
-* :DS3bO8NfvanEyFxb: episodic memory
-    @created 1310276556669
-    @alias http://dbpedia.org/resource/Episodic_memory
-    @weight 0.5
-    * :oAnHbOMc9yLd8KdE: 
-    * :ufDb1O93MMWJqfIx: 
-    * :ZYmY1Yvi1YqR8J6X: 
-    * :WBj4vPmfhKBEcM46: 
-    * :jdugaQunBfYm2PlL: 
-    * :MOC8m10TFtKTWO6w: 
-    * :LMQ4cBg3JMAA814k: 
-    * :eetEsOsxGA7AJHN7: 
-    * :0zQrenhnj60Ovm2e: 
-    * :3rwyTLmMH5Yg7yup: 
-    * :UC6cwx66wcYaTOo3: 
-    * :vR6knvShtO5YTGC8: 
-    * :9NbiS7iPuEqApj4y: 
-    * :ACRXKE8E4JEZBWZS: 
-    * :Kp3fni4G5ZsaGovG: 
+@id DS3bO8NfvanEyFxb
+@title episodic memory
+@alias http://dbpedia.org/resource/Episodic_memory
+@created 1310276556669
+@weight 0.5
+* :oAnHbOMc9yLd8KdE: 
+* :ufDb1O93MMWJqfIx: 
+* :ZYmY1Yvi1YqR8J6X: 
+* :WBj4vPmfhKBEcM46: 
+* :jdugaQunBfYm2PlL: 
+* :MOC8m10TFtKTWO6w: 
+* :LMQ4cBg3JMAA814k: 
+* :eetEsOsxGA7AJHN7: 
+* :0zQrenhnj60Ovm2e: 
+* :3rwyTLmMH5Yg7yup: 
+* :UC6cwx66wcYaTOo3: 
+* :vR6knvShtO5YTGC8: 
+* :9NbiS7iPuEqApj4y: 
+* :ACRXKE8E4JEZBWZS: 
+* :Kp3fni4G5ZsaGovG: 

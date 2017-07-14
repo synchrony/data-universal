@@ -1,5 +1,6 @@
-* :9KvsoyT82gCSNPKC: tennis
-    @created 1312621201734
-    @alias http://dbpedia.org/resource/Tennis
-    @weight 0.5
-    * :InM3llEWMJOBQTH7: 
+@id 9KvsoyT82gCSNPKC
+@title tennis
+@alias http://dbpedia.org/resource/Tennis
+@created 1312621201734
+@weight 0.5
+* :InM3llEWMJOBQTH7: 

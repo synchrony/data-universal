@@ -1,4 +1,5 @@
-* :wqLM2Fbez1O3RggB: Santa Claus
-    @created 1343318946594
-    @alias http://dbpedia.org/resource/Santa_Claus
-    @weight 0.5
+@id wqLM2Fbez1O3RggB
+@title Santa Claus
+@alias http://dbpedia.org/resource/Santa_Claus
+@created 1343318946594
+@weight 0.5

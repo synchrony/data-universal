@@ -1,8 +1,9 @@
-* :blqP7DRhgBcpKL32: Web Science
-    @created 1333754650378
-    @alias http://dbpedia.org/resource/Web_Science
-    @weight 0.5
-    * :w0ftVk71gn9h9ZoF: 
-    * :h2dVNHRVDOcltQ07: 
-    * :mjEiC2yeT1lHDeqs: 
-    * :CesAbGplMSMogu3d: 
+@id blqP7DRhgBcpKL32
+@title Web Science
+@alias http://dbpedia.org/resource/Web_Science
+@created 1333754650378
+@weight 0.5
+* :w0ftVk71gn9h9ZoF: 
+* :h2dVNHRVDOcltQ07: 
+* :mjEiC2yeT1lHDeqs: 
+* :CesAbGplMSMogu3d: 

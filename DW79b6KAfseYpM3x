@@ -1,4 +1,5 @@
-* :DW79b6KAfseYpM3x: Coriolis force
-    @created 1481698515632
-    @alias http://dbpedia.org/resource/Coriolis_force
-    @weight 0.5
+@id DW79b6KAfseYpM3x
+@title Coriolis force
+@alias http://dbpedia.org/resource/Coriolis_force
+@created 1481698515632
+@weight 0.5

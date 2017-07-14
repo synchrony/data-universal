@@ -1,4 +1,5 @@
-* :LLuPqhVVYSdzdrSu: Wheel of Fortune (U.S. game show)
-    @created 1442594326789
-    @alias http://dbpedia.org/resource/Wheel_of_Fortune_(U.S._game_show)
-    @weight 0.75
+@id LLuPqhVVYSdzdrSu
+@title Wheel of Fortune (U.S. game show)
+@alias http://dbpedia.org/resource/Wheel_of_Fortune_(U.S._game_show)
+@created 1442594326789
+@weight 0.75

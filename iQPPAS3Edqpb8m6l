@@ -1,10 +1,11 @@
-* :iQPPAS3Edqpb8m6l: GEICO
-    @created 1311529181456
-    @alias http://dbpedia.org/resource/GEICO
-    @weight 0.75
-    * :3OC6LczbWDiGeMAv: 
-    * :vMUAso1YzRgbeevk: 
-    * :0dPoobx2x1UBv0mr: 
-    * :zbtFHzy5O5MMgiEE: 
-    * :Zn3yiGKr7ZhTSaAG: 
-    * :j5mHiqF02x1ZFj2T: 
+@id iQPPAS3Edqpb8m6l
+@title GEICO
+@alias http://dbpedia.org/resource/GEICO
+@created 1311529181456
+@weight 0.75
+* :3OC6LczbWDiGeMAv: 
+* :vMUAso1YzRgbeevk: 
+* :0dPoobx2x1UBv0mr: 
+* :zbtFHzy5O5MMgiEE: 
+* :Zn3yiGKr7ZhTSaAG: 
+* :j5mHiqF02x1ZFj2T: 

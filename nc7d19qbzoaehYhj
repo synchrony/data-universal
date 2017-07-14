@@ -1,4 +1,5 @@
-* :nc7d19qbzoaehYhj: angle of attack
-    @created 1479196273613
-    @alias http://dbpedia.org/resource/Angle_of_attack
-    @weight 0.5
+@id nc7d19qbzoaehYhj
+@title angle of attack
+@alias http://dbpedia.org/resource/Angle_of_attack
+@created 1479196273613
+@weight 0.5

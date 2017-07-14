@@ -1,5 +1,6 @@
-* :kN5Gu1PXr2En3dEH: workflow
-    @created 1345178063875
-    @alias http://dbpedia.org/resource/Workflow
-    @weight 0.5
-    * :HE9JoWdZMBtLUJsa: 
+@id kN5Gu1PXr2En3dEH
+@title workflow
+@alias http://dbpedia.org/resource/Workflow
+@created 1345178063875
+@weight 0.5
+* :HE9JoWdZMBtLUJsa: 

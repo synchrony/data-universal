@@ -1,5 +1,6 @@
-* :oFp41sXl6gOvBB8Q: pi
-    @created 1341633585918
-    @alias http://dbpedia.org/resource/Pi
-    @weight 0.5
-    * :Yw7UcWo35xdEkwVk: 
+@id oFp41sXl6gOvBB8Q
+@title pi
+@alias http://dbpedia.org/resource/Pi
+@created 1341633585918
+@weight 0.5
+* :Yw7UcWo35xdEkwVk: 

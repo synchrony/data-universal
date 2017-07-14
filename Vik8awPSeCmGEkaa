@@ -1,4 +1,5 @@
-* :Vik8awPSeCmGEkaa: harvest
-    @created 1350136131645
-    @alias http://dbpedia.org/resource/Harvest
-    @weight 0.5
+@id Vik8awPSeCmGEkaa
+@title harvest
+@alias http://dbpedia.org/resource/Harvest
+@created 1350136131645
+@weight 0.5

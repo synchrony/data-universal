@@ -1,5 +1,6 @@
-* :c6bnA7Nk8HRKx5yJ: password
-    @created 1313808281303
-    @alias http://dbpedia.org/resource/Password
-    @weight 0.5
-    * :boOCHSIKSlObEmLZ: 
+@id c6bnA7Nk8HRKx5yJ
+@title password
+@alias http://dbpedia.org/resource/Password
+@created 1313808281303
+@weight 0.5
+* :boOCHSIKSlObEmLZ: 

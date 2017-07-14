@@ -1,7 +1,8 @@
-* :pKQzRfwESOLObAvt: Fairbanks International Airport
-    @created 1483665654480
-    @alias http://dbpedia.org/resource/Fairbanks_International_Airport
-    @weight 0.75
-    * :6GYlF40qyI46XopA: 
-    * :zDR3eJcWLh2GqAls: 
-    * :l8SJzRByq72OT3PV: 
+@id pKQzRfwESOLObAvt
+@title Fairbanks International Airport
+@alias http://dbpedia.org/resource/Fairbanks_International_Airport
+@created 1483665654480
+@weight 0.75
+* :6GYlF40qyI46XopA: 
+* :zDR3eJcWLh2GqAls: 
+* :l8SJzRByq72OT3PV: 

@@ -1,7 +1,8 @@
-* :A84wxAYj1EBA6yOJ: Celsius
-    @created 1449377219277
-    @alias http://dbpedia.org/resource/Celsius
-    @weight 0.5
-    * :UeVog7Dg63lGgMQD: 
-    * :qTe8vaHdBq4hADqe: 
-    * :k7cRxjOMmJ0qIlRU: 
+@id A84wxAYj1EBA6yOJ
+@title Celsius
+@alias http://dbpedia.org/resource/Celsius
+@created 1449377219277
+@weight 0.5
+* :UeVog7Dg63lGgMQD: 
+* :qTe8vaHdBq4hADqe: 
+* :k7cRxjOMmJ0qIlRU: 

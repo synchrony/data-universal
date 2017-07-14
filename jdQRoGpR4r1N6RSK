@@ -1,5 +1,6 @@
-* :jdQRoGpR4r1N6RSK: module pattern
-    @created 1380996357870
-    @alias http://dbpedia.org/resource/Module_pattern
-    @weight 0.5
-    * :PssQKJ2ndhMxLt5L: 
+@id jdQRoGpR4r1N6RSK
+@title module pattern
+@alias http://dbpedia.org/resource/Module_pattern
+@created 1380996357870
+@weight 0.5
+* :PssQKJ2ndhMxLt5L: 

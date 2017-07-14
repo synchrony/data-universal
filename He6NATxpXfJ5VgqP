@@ -1,7 +1,8 @@
-* :He6NATxpXfJ5VgqP: Kung Fu Tai Chi
-    @created 1431879544392
-    @alias http://dbpedia.org/resource/Kung_Fu_Tai_Chi
-    @weight 0.5
-    * :kzlK76eiaGoDH4NB: 
-    * :v0Qx0jbqUXDKuUek: 
-    * :mTRMniXCabQJ2OiD: 
+@id He6NATxpXfJ5VgqP
+@title Kung Fu Tai Chi
+@alias http://dbpedia.org/resource/Kung_Fu_Tai_Chi
+@created 1431879544392
+@weight 0.5
+* :kzlK76eiaGoDH4NB: 
+* :v0Qx0jbqUXDKuUek: 
+* :mTRMniXCabQJ2OiD: 

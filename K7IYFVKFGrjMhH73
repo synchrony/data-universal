@@ -1,8 +1,9 @@
-* :K7IYFVKFGrjMhH73: airship
-    @created 1383515658649
-    @alias http://dbpedia.org/resource/Airship
-    @weight 0.5
-    * :6e2TNBfxCqLrgyfJ: 
-    * :QIpuxDzABkLE5Bal: 
-    * :JEpmud1EzAFr0kzZ: 
-    * :tJpmFgCtWxxtzmvn: 
+@id K7IYFVKFGrjMhH73
+@title airship
+@alias http://dbpedia.org/resource/Airship
+@created 1383515658649
+@weight 0.5
+* :6e2TNBfxCqLrgyfJ: 
+* :QIpuxDzABkLE5Bal: 
+* :JEpmud1EzAFr0kzZ: 
+* :tJpmFgCtWxxtzmvn: 

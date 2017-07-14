@@ -1,8 +1,9 @@
-* :zQnKMQirDA9RjjaT: hyperfocus
-    @created 1370098839148
-    @alias http://dbpedia.org/resource/Hyperfocus
-    @weight 0.5
-    * :hUa1FXVw4q3yThN6: 
-    * :4pGTm1OY6z8VGr0l: 
-    * :M1f1D2B2jjLZ3Jzw: 
-    * :bFMpW6SudB7oL4iW: 
+@id zQnKMQirDA9RjjaT
+@title hyperfocus
+@alias http://dbpedia.org/resource/Hyperfocus
+@created 1370098839148
+@weight 0.5
+* :hUa1FXVw4q3yThN6: 
+* :4pGTm1OY6z8VGr0l: 
+* :M1f1D2B2jjLZ3Jzw: 
+* :bFMpW6SudB7oL4iW: 

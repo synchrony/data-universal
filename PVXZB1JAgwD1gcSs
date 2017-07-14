@@ -1,10 +1,11 @@
-* :PVXZB1JAgwD1gcSs: Git
-    @created 1311932028602
-    @alias http://dbpedia.org/resource/Git
-    @weight 0.75
-    * :cpwBSfr4eQjCjLf6: 
-    * :x2EVpP6XTgeZPIF4: 
-    * :fJ3MNAVSmekXTLFx: 
-    * :9HYvzHuDbdaJujEU: 
-    * :vXEdvfen01h7Nwnv: 
-    * :RZZQs6oahU5nHdPL: 
+@id PVXZB1JAgwD1gcSs
+@title Git
+@alias http://dbpedia.org/resource/Git
+@created 1311932028602
+@weight 0.75
+* :cpwBSfr4eQjCjLf6: 
+* :x2EVpP6XTgeZPIF4: 
+* :fJ3MNAVSmekXTLFx: 
+* :9HYvzHuDbdaJujEU: 
+* :vXEdvfen01h7Nwnv: 
+* :RZZQs6oahU5nHdPL: 

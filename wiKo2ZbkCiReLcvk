@@ -1,4 +1,5 @@
-* :wiKo2ZbkCiReLcvk: butane
-    @created 1490559326207
-    @alias http://dbpedia.org/resource/Butane
-    @weight 0.5
+@id wiKo2ZbkCiReLcvk
+@title butane
+@alias http://dbpedia.org/resource/Butane
+@created 1490559326207
+@weight 0.5

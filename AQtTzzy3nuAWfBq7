@@ -1,5 +1,6 @@
-* :AQtTzzy3nuAWfBq7: monarch
-    @created 1377289880725
-    @alias http://dbpedia.org/resource/Monarch
-    @weight 0.5
-    * :xmzX5eEdv0fn8R4S: 
+@id AQtTzzy3nuAWfBq7
+@title monarch
+@alias http://dbpedia.org/resource/Monarch
+@created 1377289880725
+@weight 0.5
+* :xmzX5eEdv0fn8R4S: 

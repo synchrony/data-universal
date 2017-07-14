@@ -1,8 +1,9 @@
-* :7585t7NnNmjgpXVQ: crossmodal
-    @created 1441302700690
-    @alias http://dbpedia.org/resource/Crossmodal
-    @weight 0.5
-    * :I0WF64Qmy2rEYbvb: 
-    * :He5Fly06PAxWzr9J: 
-    * :uMEfNAkjiLPwBlSQ: 
-    * :zz2xtF88v8F8hQAa: 
+@id 7585t7NnNmjgpXVQ
+@title crossmodal
+@alias http://dbpedia.org/resource/Crossmodal
+@created 1441302700690
+@weight 0.5
+* :I0WF64Qmy2rEYbvb: 
+* :He5Fly06PAxWzr9J: 
+* :uMEfNAkjiLPwBlSQ: 
+* :zz2xtF88v8F8hQAa: 

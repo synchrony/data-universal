@@ -1,4 +1,5 @@
-* :SIMPkD8VR9j6T1gk: somatoform disorder
-    @created 1360945942927
-    @alias http://dbpedia.org/resource/Somatoform_disorder
-    @weight 0.5
+@id SIMPkD8VR9j6T1gk
+@title somatoform disorder
+@alias http://dbpedia.org/resource/Somatoform_disorder
+@created 1360945942927
+@weight 0.5

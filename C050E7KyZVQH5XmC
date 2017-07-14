@@ -1,4 +1,5 @@
-* :C050E7KyZVQH5XmC: space elevator
-    @created 1336800992866
-    @alias http://dbpedia.org/resource/Space_elevator
-    @weight 0.5
+@id C050E7KyZVQH5XmC
+@title space elevator
+@alias http://dbpedia.org/resource/Space_elevator
+@created 1336800992866
+@weight 0.5

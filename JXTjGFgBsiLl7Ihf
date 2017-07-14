@@ -1,9 +1,10 @@
-* :JXTjGFgBsiLl7Ihf: MapReduce
-    @created 1328715827202
-    @alias http://dbpedia.org/resource/MapReduce
-    @weight 0.75
-    * :6qIKtalhkj6YAYz1: 
-    * :32qVG93oBSPp9BDl: 
-    * :oHeBjUDM58ZEWDOD: 
-    * :bYPAWrXkzgYnC0XW: 
-    * :WNq1uiB3JpCZfzKp: 
+@id JXTjGFgBsiLl7Ihf
+@title MapReduce
+@alias http://dbpedia.org/resource/MapReduce
+@created 1328715827202
+@weight 0.75
+* :6qIKtalhkj6YAYz1: 
+* :32qVG93oBSPp9BDl: 
+* :oHeBjUDM58ZEWDOD: 
+* :bYPAWrXkzgYnC0XW: 
+* :WNq1uiB3JpCZfzKp: 

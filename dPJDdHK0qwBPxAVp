@@ -1,7 +1,8 @@
-* :dPJDdHK0qwBPxAVp: spice
-    @created 1435182642822
-    @alias http://dbpedia.org/resource/Spice
-    @weight 0.5
-    * :REPbZQOK0kKrixTc: 
-    * :paoLIO54QU8HNN9K: 
-    * :H2rthNDqSyeOwTQW: 
+@id dPJDdHK0qwBPxAVp
+@title spice
+@alias http://dbpedia.org/resource/Spice
+@created 1435182642822
+@weight 0.5
+* :REPbZQOK0kKrixTc: 
+* :paoLIO54QU8HNN9K: 
+* :H2rthNDqSyeOwTQW: 

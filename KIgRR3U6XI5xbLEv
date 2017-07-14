@@ -1,6 +1,7 @@
-* :KIgRR3U6XI5xbLEv: ecru
-    @created 1420754096419
-    @alias http://dbpedia.org/resource/Ecru
-    @weight 0.5
-    * :UStWzDIFKvDkjKi2: 
-    * :otC2ZSUDoOJHYqnr: 
+@id KIgRR3U6XI5xbLEv
+@title ecru
+@alias http://dbpedia.org/resource/Ecru
+@created 1420754096419
+@weight 0.5
+* :UStWzDIFKvDkjKi2: 
+* :otC2ZSUDoOJHYqnr: 

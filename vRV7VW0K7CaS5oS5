@@ -1,4 +1,5 @@
-* :vRV7VW0K7CaS5oS5: opuntia
-    @created 1344115948151
-    @alias http://dbpedia.org/resource/Opuntia
-    @weight 0.5
+@id vRV7VW0K7CaS5oS5
+@title opuntia
+@alias http://dbpedia.org/resource/Opuntia
+@created 1344115948151
+@weight 0.5

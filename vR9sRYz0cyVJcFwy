@@ -1,4 +1,5 @@
-* :vR9sRYz0cyVJcFwy: DeepDream
-    @created 1478817512527
-    @alias http://dbpedia.org/resource/DeepDream
-    @weight 0.5
+@id vR9sRYz0cyVJcFwy
+@title DeepDream
+@alias http://dbpedia.org/resource/DeepDream
+@created 1478817512527
+@weight 0.5

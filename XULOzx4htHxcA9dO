@@ -1,8 +1,9 @@
-* :XULOzx4htHxcA9dO: latency (engineering)
-    @created 1351623108468
-    @alias http://dbpedia.org/resource/Latency_(engineering)
-    @weight 0.75
-    * :ttGWEeR4gSdh39Od: 
-    * :V1GJEtouo9idbMhD: 
-    * :DJ4pU50z3qEQKJui: 
-    * :AgdFZmXVLmZkIsQM: 
+@id XULOzx4htHxcA9dO
+@title latency (engineering)
+@alias http://dbpedia.org/resource/Latency_(engineering)
+@created 1351623108468
+@weight 0.75
+* :ttGWEeR4gSdh39Od: 
+* :V1GJEtouo9idbMhD: 
+* :DJ4pU50z3qEQKJui: 
+* :AgdFZmXVLmZkIsQM: 

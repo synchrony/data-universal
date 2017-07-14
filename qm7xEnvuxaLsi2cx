@@ -1,8 +1,9 @@
-* :qm7xEnvuxaLsi2cx: npm
-    @created 1328718702992
-    @alias http://dbpedia.org/resource/Npm
-    @weight 0.5
-    * :Lr21DNQGVRjuCgQj: 
-    * :wHFY5gX7UrzW9FPn: 
-    * :ADdtbICxaP2vSbIH: 
-    * :juNuJQwXBwR45ppG: 
+@id qm7xEnvuxaLsi2cx
+@title npm
+@alias http://dbpedia.org/resource/Npm
+@created 1328718702992
+@weight 0.5
+* :Lr21DNQGVRjuCgQj: 
+* :wHFY5gX7UrzW9FPn: 
+* :ADdtbICxaP2vSbIH: 
+* :juNuJQwXBwR45ppG: 

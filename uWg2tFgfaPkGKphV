@@ -1,6 +1,7 @@
-* :uWg2tFgfaPkGKphV: Pie Jesu
-    @created 1455907022770
-    @alias http://dbpedia.org/resource/Pie_Jesu
-    @weight 0.5
-    * :b2LVBDbvosfahNPL: 
-    * :qGMTD1Q1BRBLXf0K: 
+@id uWg2tFgfaPkGKphV
+@title Pie Jesu
+@alias http://dbpedia.org/resource/Pie_Jesu
+@created 1455907022770
+@weight 0.5
+* :b2LVBDbvosfahNPL: 
+* :qGMTD1Q1BRBLXf0K: 

@@ -1,4 +1,5 @@
-* :7y55emrIiou48KXN: page fault
-    @created 1310230740840
-    @alias http://dbpedia.org/resource/Page_fault
-    @weight 0.5
+@id 7y55emrIiou48KXN
+@title page fault
+@alias http://dbpedia.org/resource/Page_fault
+@created 1310230740840
+@weight 0.5

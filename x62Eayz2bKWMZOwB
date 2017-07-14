@@ -1,4 +1,5 @@
-* :x62Eayz2bKWMZOwB: North Pole
-    @created 1478882700743
-    @alias http://dbpedia.org/resource/North_Pole
-    @weight 0.5
+@id x62Eayz2bKWMZOwB
+@title North Pole
+@alias http://dbpedia.org/resource/North_Pole
+@created 1478882700743
+@weight 0.5

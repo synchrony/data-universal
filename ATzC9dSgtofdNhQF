@@ -1,7 +1,8 @@
-* :ATzC9dSgtofdNhQF: heap (data structure)
-    @created 1381033513209
-    @alias http://dbpedia.org/resource/Heap_(data_structure)
-    @weight 0.5
-    * :anYgE9Si1jY29tB2: 
-    * :xNgKbINM5uQ54F4n: 
-    * :oLwI3AgTHJ96nROx: 
+@id ATzC9dSgtofdNhQF
+@title heap (data structure)
+@alias http://dbpedia.org/resource/Heap_(data_structure)
+@created 1381033513209
+@weight 0.5
+* :anYgE9Si1jY29tB2: 
+* :xNgKbINM5uQ54F4n: 
+* :oLwI3AgTHJ96nROx: 

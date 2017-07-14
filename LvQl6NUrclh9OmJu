@@ -1,4 +1,5 @@
-* :LvQl6NUrclh9OmJu: strobe light
-    @created 1339442994304
-    @alias http://dbpedia.org/resource/Strobe_light
-    @weight 0.5
+@id LvQl6NUrclh9OmJu
+@title strobe light
+@alias http://dbpedia.org/resource/Strobe_light
+@created 1339442994304
+@weight 0.5

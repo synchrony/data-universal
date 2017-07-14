@@ -1,6 +1,7 @@
-* :kVgpeCOUFNebUrTi: Science News
-    @created 1361163451928
-    @alias http://dbpedia.org/resource/Science_News
-    @weight 0.5
-    * :CsujP3cdT3FFfzd5: 
-    * :bdjtXsa2nTOrYBQy: 
+@id kVgpeCOUFNebUrTi
+@title Science News
+@alias http://dbpedia.org/resource/Science_News
+@created 1361163451928
+@weight 0.5
+* :CsujP3cdT3FFfzd5: 
+* :bdjtXsa2nTOrYBQy: 

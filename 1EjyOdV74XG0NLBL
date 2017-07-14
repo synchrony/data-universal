@@ -1,7 +1,8 @@
-* :1EjyOdV74XG0NLBL: network effect
-    @created 1313805279485
-    @alias http://dbpedia.org/resource/Network_effect
-    @weight 0.5
-    * :sCUF9hMmiukwTbQT: 
-    * :q1iq26mjv4sHZCAC: 
-    * :HfsiK3lqkUuVqhXy: 
+@id 1EjyOdV74XG0NLBL
+@title network effect
+@alias http://dbpedia.org/resource/Network_effect
+@created 1313805279485
+@weight 0.5
+* :sCUF9hMmiukwTbQT: 
+* :q1iq26mjv4sHZCAC: 
+* :HfsiK3lqkUuVqhXy: 

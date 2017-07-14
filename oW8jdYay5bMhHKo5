@@ -1,7 +1,8 @@
-* :oW8jdYay5bMhHKo5: polyhedron
-    @created 1376598618803
-    @alias http://dbpedia.org/resource/Polyhedron
-    @weight 0.5
-    * :0TIYnCLjONnGssU0: 
-    * :6Fd5w87DKYFEopPI: 
-    * :LGhAp12ytPskTyap: 
+@id oW8jdYay5bMhHKo5
+@title polyhedron
+@alias http://dbpedia.org/resource/Polyhedron
+@created 1376598618803
+@weight 0.5
+* :0TIYnCLjONnGssU0: 
+* :6Fd5w87DKYFEopPI: 
+* :LGhAp12ytPskTyap: 

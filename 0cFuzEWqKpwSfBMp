@@ -1,4 +1,5 @@
-* :0cFuzEWqKpwSfBMp: rheumatoid arthritis
-    @created 1495380333712
-    @alias http://dbpedia.org/resource/Rheumatoid_arthritis
-    @weight 0.5
+@id 0cFuzEWqKpwSfBMp
+@title rheumatoid arthritis
+@alias http://dbpedia.org/resource/Rheumatoid_arthritis
+@created 1495380333712
+@weight 0.5

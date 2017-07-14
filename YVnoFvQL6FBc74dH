@@ -1,5 +1,6 @@
-* :YVnoFvQL6FBc74dH: load cell
-    @created 1340092464421
-    @alias http://dbpedia.org/resource/Load_cell
-    @weight 0.5
-    * :YiFFtkK26BOY4F2d: 
+@id YVnoFvQL6FBc74dH
+@title load cell
+@alias http://dbpedia.org/resource/Load_cell
+@created 1340092464421
+@weight 0.5
+* :YiFFtkK26BOY4F2d: 

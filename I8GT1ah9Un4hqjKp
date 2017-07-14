@@ -1,4 +1,5 @@
-* :I8GT1ah9Un4hqjKp: Opaque context
-    @created 1494781601301
-    @alias http://dbpedia.org/resource/Opaque_context
-    @weight 0.5
+@id I8GT1ah9Un4hqjKp
+@title Opaque context
+@alias http://dbpedia.org/resource/Opaque_context
+@created 1494781601301
+@weight 0.5

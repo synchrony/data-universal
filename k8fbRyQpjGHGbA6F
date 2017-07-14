@@ -1,9 +1,10 @@
-* :k8fbRyQpjGHGbA6F: physics
-    @created 1328804151293
-    @alias http://dbpedia.org/resource/Physics
-    @weight 0.5
-    * :6eMojpoeGILdTpJ6: 
-    * :DG1OYspFyctccgrU: 
-    * :0FP6N5qptblcvnbW: 
-    * :h3GXlw1yaw0yiaGB: 
-    * :S6De31IoWaouFAZz: 
+@id k8fbRyQpjGHGbA6F
+@title physics
+@alias http://dbpedia.org/resource/Physics
+@created 1328804151293
+@weight 0.5
+* :6eMojpoeGILdTpJ6: 
+* :DG1OYspFyctccgrU: 
+* :0FP6N5qptblcvnbW: 
+* :h3GXlw1yaw0yiaGB: 
+* :S6De31IoWaouFAZz: 

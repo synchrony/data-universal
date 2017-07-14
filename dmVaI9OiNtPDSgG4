@@ -1,4 +1,5 @@
-* :dmVaI9OiNtPDSgG4: chocolate
-    @created 1405893143224
-    @alias http://dbpedia.org/resource/Chocolate
-    @weight 0.5
+@id dmVaI9OiNtPDSgG4
+@title chocolate
+@alias http://dbpedia.org/resource/Chocolate
+@created 1405893143224
+@weight 0.5

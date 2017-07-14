@@ -1,5 +1,6 @@
-* :N7yenYgJO9JqiI3Z: time series
-    @created 1354051334689
-    @alias http://dbpedia.org/resource/Time_series
-    @weight 0.5
-    * :YI0ghhyrGG7BQ274: 
+@id N7yenYgJO9JqiI3Z
+@title time series
+@alias http://dbpedia.org/resource/Time_series
+@created 1354051334689
+@weight 0.5
+* :YI0ghhyrGG7BQ274: 

@@ -1,8 +1,9 @@
-* :A0tE1E4k2CbsuMnE: rapport
-    @created 1444207174407
-    @alias http://dbpedia.org/resource/Rapport
-    @weight 0.5
-    * :8lmmqBj2o5LXWHEI: 
-    * :0XCEMobhJOHWz4cD: 
-    * :FcEzQsDlQp2nk9t3: 
-    * :vik0OEgOoBZ23Nx2: 
+@id A0tE1E4k2CbsuMnE
+@title rapport
+@alias http://dbpedia.org/resource/Rapport
+@created 1444207174407
+@weight 0.5
+* :8lmmqBj2o5LXWHEI: 
+* :0XCEMobhJOHWz4cD: 
+* :FcEzQsDlQp2nk9t3: 
+* :vik0OEgOoBZ23Nx2: 

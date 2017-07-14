@@ -1,5 +1,6 @@
-* :2ZgWKtljjgwuEHrK: select agent
-    @created 1380770573496
-    @alias http://dbpedia.org/resource/Select_agent
-    @weight 0.5
-    * :ovrkTnRyuYnipWwf: 
+@id 2ZgWKtljjgwuEHrK
+@title select agent
+@alias http://dbpedia.org/resource/Select_agent
+@created 1380770573496
+@weight 0.5
+* :ovrkTnRyuYnipWwf: 

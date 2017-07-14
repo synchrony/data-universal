@@ -1,7 +1,8 @@
-* :eM29yBK2adoQoP0G: home automation
-    @created 1360982554834
-    @alias http://dbpedia.org/resource/Home_automation
-    @weight 0.5
-    * :lD8BRC7AXaRO59fA: 
-    * :1fPv5rUystojBCyy: 
-    * :zVWLHMAzHo3lGQ5I: 
+@id eM29yBK2adoQoP0G
+@title home automation
+@alias http://dbpedia.org/resource/Home_automation
+@created 1360982554834
+@weight 0.5
+* :lD8BRC7AXaRO59fA: 
+* :1fPv5rUystojBCyy: 
+* :zVWLHMAzHo3lGQ5I: 

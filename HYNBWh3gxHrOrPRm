@@ -1,7 +1,8 @@
-* :HYNBWh3gxHrOrPRm: introspection illusion
-    @created 1370031268004
-    @alias http://dbpedia.org/resource/Introspection_illusion
-    @weight 0.5
-    * :9skQXfEskIyqtBQ3: 
-    * :Hw4iT7KsMHsonhIc: 
-    * :Qkd5QrZzXB2B7yHs: 
+@id HYNBWh3gxHrOrPRm
+@title introspection illusion
+@alias http://dbpedia.org/resource/Introspection_illusion
+@created 1370031268004
+@weight 0.5
+* :9skQXfEskIyqtBQ3: 
+* :Hw4iT7KsMHsonhIc: 
+* :Qkd5QrZzXB2B7yHs: 

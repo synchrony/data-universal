@@ -1,4 +1,5 @@
-* :aCnmJ4xYOaRQP5u6: Wag the Dog
-    @created 1326212115691
-    @alias http://dbpedia.org/resource/Wag_the_Dog
-    @weight 0.5
+@id aCnmJ4xYOaRQP5u6
+@title Wag the Dog
+@alias http://dbpedia.org/resource/Wag_the_Dog
+@created 1326212115691
+@weight 0.5

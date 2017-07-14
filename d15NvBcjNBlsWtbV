@@ -1,4 +1,5 @@
-* :d15NvBcjNBlsWtbV: lip balm
-    @created 1309178543712
-    @alias http://dbpedia.org/resource/Lip_balm
-    @weight 0.5
+@id d15NvBcjNBlsWtbV
+@title lip balm
+@alias http://dbpedia.org/resource/Lip_balm
+@created 1309178543712
+@weight 0.5

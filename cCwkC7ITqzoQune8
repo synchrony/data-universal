@@ -1,7 +1,8 @@
-* :cCwkC7ITqzoQune8: Air Defense Identification Zone
-    @created 1480318954512
-    @alias http://dbpedia.org/resource/Air_Defense_Identification_Zone
-    @weight 0.5
-    * :tKjixqrrclJKUJ7n: 
-    * :pCm1pI6m3BOG5XaF: 
-    * :BKS1VbRk8Z1hWiXq: 
+@id cCwkC7ITqzoQune8
+@title Air Defense Identification Zone
+@alias http://dbpedia.org/resource/Air_Defense_Identification_Zone
+@created 1480318954512
+@weight 0.5
+* :tKjixqrrclJKUJ7n: 
+* :pCm1pI6m3BOG5XaF: 
+* :BKS1VbRk8Z1hWiXq: 

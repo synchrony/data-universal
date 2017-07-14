@@ -1,6 +1,7 @@
-* :735rTDYCVzQ6RAuM: ether
-    @created 1326209242993
-    @alias http://dbpedia.org/resource/Ether
-    @weight 0.75
-    * :c3YNDxLUk2Ou06iJ: 
-    * :tr9sKuobHZIPXzVo: 
+@id 735rTDYCVzQ6RAuM
+@title ether
+@alias http://dbpedia.org/resource/Ether
+@created 1326209242993
+@weight 0.75
+* :c3YNDxLUk2Ou06iJ: 
+* :tr9sKuobHZIPXzVo: 

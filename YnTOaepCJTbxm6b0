@@ -1,5 +1,6 @@
-* :YnTOaepCJTbxm6b0: Mycin
-    @created 1410800916474
-    @alias http://dbpedia.org/resource/Mycin
-    @weight 0.5
-    * :OIJ0LqR9NzVq493l: 
+@id YnTOaepCJTbxm6b0
+@title Mycin
+@alias http://dbpedia.org/resource/Mycin
+@created 1410800916474
+@weight 0.5
+* :OIJ0LqR9NzVq493l: 

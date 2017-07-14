@@ -1,7 +1,8 @@
-* :GDEucektX0XGkrLJ: punctuality
-    @created 1431109213630
-    @alias http://dbpedia.org/resource/Punctuality
-    @weight 0.5
-    * :dxzEJu6eymxMBfMb: 
-    * :WHZdeyVt8PNsEWwQ: 
-    * :FFQD8QgcpCFuwuwS: 
+@id GDEucektX0XGkrLJ
+@title punctuality
+@alias http://dbpedia.org/resource/Punctuality
+@created 1431109213630
+@weight 0.5
+* :dxzEJu6eymxMBfMb: 
+* :WHZdeyVt8PNsEWwQ: 
+* :FFQD8QgcpCFuwuwS: 

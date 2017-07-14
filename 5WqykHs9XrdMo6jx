@@ -1,10 +1,11 @@
-* :5WqykHs9XrdMo6jx: creativity
-    @created 1372806593776
-    @alias http://dbpedia.org/resource/Creativity
-    @weight 0.5
-    * :5tWwSoDNx4bwdwmd: 
-    * :OOVOvQmS1V9CFzvL: 
-    * :9eNWQz2EBaFDMjzT: 
-    * :uybSH4ezBIXhGi1l: 
-    * :4vW71QEM7xfgFwf3: 
-    * :h4nfE6FxMqDekzjC: 
+@id 5WqykHs9XrdMo6jx
+@title creativity
+@alias http://dbpedia.org/resource/Creativity
+@created 1372806593776
+@weight 0.5
+* :5tWwSoDNx4bwdwmd: 
+* :OOVOvQmS1V9CFzvL: 
+* :9eNWQz2EBaFDMjzT: 
+* :uybSH4ezBIXhGi1l: 
+* :4vW71QEM7xfgFwf3: 
+* :h4nfE6FxMqDekzjC: 

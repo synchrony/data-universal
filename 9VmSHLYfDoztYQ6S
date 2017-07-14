@@ -1,7 +1,8 @@
-* :9VmSHLYfDoztYQ6S: visual release hallucinations
-    @created 1452450856121
-    @alias http://dbpedia.org/resource/Visual_release_hallucinations
-    @weight 0.5
-    * :YzObZybyPTO44zo6: 
-    * :SrFlq4TVfoisDBiy: 
-    * :HABLr2PRIpRJlmFX: 
+@id 9VmSHLYfDoztYQ6S
+@title visual release hallucinations
+@alias http://dbpedia.org/resource/Visual_release_hallucinations
+@created 1452450856121
+@weight 0.5
+* :YzObZybyPTO44zo6: 
+* :SrFlq4TVfoisDBiy: 
+* :HABLr2PRIpRJlmFX: 

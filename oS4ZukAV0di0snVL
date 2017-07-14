@@ -1,8 +1,9 @@
-* :oS4ZukAV0di0snVL: steam distillation
-    @created 1377634249602
-    @alias http://dbpedia.org/resource/Steam_distillation
-    @weight 0.5
-    * :PvTGh1jAzdfMugoI: 
-    * :G5qxfZkTmoKW00UD: 
-    * :dA3l86ydhnux9G8t: 
-    * :JJ8kkKTvVyXxAS7R: 
+@id oS4ZukAV0di0snVL
+@title steam distillation
+@alias http://dbpedia.org/resource/Steam_distillation
+@created 1377634249602
+@weight 0.5
+* :PvTGh1jAzdfMugoI: 
+* :G5qxfZkTmoKW00UD: 
+* :dA3l86ydhnux9G8t: 
+* :JJ8kkKTvVyXxAS7R: 

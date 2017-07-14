@@ -1,7 +1,8 @@
-* :gBLOjWtVpwknFIIr: inclinometer
-    @created 1340093253172
-    @alias http://dbpedia.org/resource/Inclinometer
-    @weight 0.5
-    * :v8MslDBo0R6DpBrF: 
-    * :HGnLYLW9PAVQOM1q: 
-    * :nbRBfuiEmYdpAFHj: 
+@id gBLOjWtVpwknFIIr
+@title inclinometer
+@alias http://dbpedia.org/resource/Inclinometer
+@created 1340093253172
+@weight 0.5
+* :v8MslDBo0R6DpBrF: 
+* :HGnLYLW9PAVQOM1q: 
+* :nbRBfuiEmYdpAFHj: 

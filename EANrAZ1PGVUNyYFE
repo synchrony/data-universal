@@ -1,6 +1,7 @@
-* :EANrAZ1PGVUNyYFE: doxorubicin
-    @created 1454698203265
-    @alias http://dbpedia.org/resource/Doxorubicin
-    @weight 0.5
-    * :mwuofcuoJWuavwD8: 
-    * :WTiyRV4MQg8ew21T: 
+@id EANrAZ1PGVUNyYFE
+@title doxorubicin
+@alias http://dbpedia.org/resource/Doxorubicin
+@created 1454698203265
+@weight 0.5
+* :mwuofcuoJWuavwD8: 
+* :WTiyRV4MQg8ew21T: 

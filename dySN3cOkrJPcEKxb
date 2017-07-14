@@ -1,7 +1,8 @@
-* :dySN3cOkrJPcEKxb: bullying
-    @created 1370468682760
-    @alias http://dbpedia.org/resource/Bullying
-    @weight 0.5
-    * :a4k9oT3MelrgNYkZ: 
-    * :e9bZzPXCNIwexPO2: 
-    * :13ofX6sKkFcflxyw: 
+@id dySN3cOkrJPcEKxb
+@title bullying
+@alias http://dbpedia.org/resource/Bullying
+@created 1370468682760
+@weight 0.5
+* :a4k9oT3MelrgNYkZ: 
+* :e9bZzPXCNIwexPO2: 
+* :13ofX6sKkFcflxyw: 

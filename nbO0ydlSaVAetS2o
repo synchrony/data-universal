@@ -1,6 +1,7 @@
-* :nbO0ydlSaVAetS2o: Slow Movement
-    @created 1413232796750
-    @alias http://dbpedia.org/resource/Slow_Movement
-    @weight 0.5
-    * :Q5ZDjNOvm5znboiJ: 
-    * :FtT1bLQMWjFGOCoz: 
+@id nbO0ydlSaVAetS2o
+@title Slow Movement
+@alias http://dbpedia.org/resource/Slow_Movement
+@created 1413232796750
+@weight 0.5
+* :Q5ZDjNOvm5znboiJ: 
+* :FtT1bLQMWjFGOCoz: 

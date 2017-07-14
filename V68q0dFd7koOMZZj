@@ -1,8 +1,9 @@
-* :V68q0dFd7koOMZZj: USB
-    @created 1376508035919
-    @alias http://dbpedia.org/resource/USB
-    @weight 0.5
-    * :0pV5IYEox3wQqjl2: 
-    * :33w2czRzC9ufRq6Y: 
-    * :8Q1WkH1CgKgCiV5u: 
-    * :kZAQSa0mYGkO8oG3: 
+@id V68q0dFd7koOMZZj
+@title USB
+@alias http://dbpedia.org/resource/USB
+@created 1376508035919
+@weight 0.5
+* :0pV5IYEox3wQqjl2: 
+* :33w2czRzC9ufRq6Y: 
+* :8Q1WkH1CgKgCiV5u: 
+* :kZAQSa0mYGkO8oG3: 

@@ -1,6 +1,7 @@
-* :kVzaF3lBxDlSRJfB: phrase structure grammar
-    @created 1420395519238
-    @alias http://dbpedia.org/resource/Phrase_structure_grammar
-    @weight 0.5
-    * :TosDKg7GLnPc5Tr5: 
-    * :NokKTLubUh8peAxe: 
+@id kVzaF3lBxDlSRJfB
+@title phrase structure grammar
+@alias http://dbpedia.org/resource/Phrase_structure_grammar
+@created 1420395519238
+@weight 0.5
+* :TosDKg7GLnPc5Tr5: 
+* :NokKTLubUh8peAxe: 

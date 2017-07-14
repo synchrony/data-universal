@@ -1,4 +1,5 @@
-* :vOxFwH1RjHqvwP4O: chamomile
-    @created 1339697186849
-    @alias http://dbpedia.org/resource/Chamomile
-    @weight 0.5
+@id vOxFwH1RjHqvwP4O
+@title chamomile
+@alias http://dbpedia.org/resource/Chamomile
+@created 1339697186849
+@weight 0.5

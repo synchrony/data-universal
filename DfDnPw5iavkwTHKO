@@ -1,4 +1,5 @@
-* :DfDnPw5iavkwTHKO: aspirin
-    @created 1346632242107
-    @alias http://dbpedia.org/resource/Aspirin
-    @weight 0.5
+@id DfDnPw5iavkwTHKO
+@title aspirin
+@alias http://dbpedia.org/resource/Aspirin
+@created 1346632242107
+@weight 0.5

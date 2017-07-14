@@ -1,6 +1,7 @@
-* :YNjPiwBu68HPASzY: binary tree
-    @created 1365567199905
-    @alias http://dbpedia.org/resource/Binary_tree
-    @weight 0.5
-    * :HvKHAhefI8l9ZJUc: 
-    * :TJl6ZuGqWjhRkQJS: 
+@id YNjPiwBu68HPASzY
+@title binary tree
+@alias http://dbpedia.org/resource/Binary_tree
+@created 1365567199905
+@weight 0.5
+* :HvKHAhefI8l9ZJUc: 
+* :TJl6ZuGqWjhRkQJS: 

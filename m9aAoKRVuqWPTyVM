@@ -1,6 +1,7 @@
-* :m9aAoKRVuqWPTyVM: rhyme
-    @created 1380350280992
-    @alias http://dbpedia.org/resource/Rhyme
-    @weight 0.5
-    * :evKqvDoO8C8exG4p: 
-    * :Bs4V1LURutnKFhAf: 
+@id m9aAoKRVuqWPTyVM
+@title rhyme
+@alias http://dbpedia.org/resource/Rhyme
+@created 1380350280992
+@weight 0.5
+* :evKqvDoO8C8exG4p: 
+* :Bs4V1LURutnKFhAf: 

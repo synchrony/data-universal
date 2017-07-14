@@ -1,5 +1,6 @@
-* :tfUe2MGPBLG35UyO: facial expression
-    @created 1345177331892
-    @alias http://dbpedia.org/resource/Facial_expression
-    @weight 0.5
-    * :QGAUEMnidHySaRyX: 
+@id tfUe2MGPBLG35UyO
+@title facial expression
+@alias http://dbpedia.org/resource/Facial_expression
+@created 1345177331892
+@weight 0.5
+* :QGAUEMnidHySaRyX: 

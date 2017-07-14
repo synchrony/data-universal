@@ -1,5 +1,6 @@
-* :htaKijVS1JQesUmD: DAML-S
-    @created 1428434118115
-    @alias http://dbpedia.org/resource/DAML-S
-    @weight 0.5
-    * :aUlMK96bxDUEH9bA: 
+@id htaKijVS1JQesUmD
+@title DAML-S
+@alias http://dbpedia.org/resource/DAML-S
+@created 1428434118115
+@weight 0.5
+* :aUlMK96bxDUEH9bA: 

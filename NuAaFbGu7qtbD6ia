@@ -1,6 +1,7 @@
-* :NuAaFbGu7qtbD6ia: tagged union
-    @created 1381025768575
-    @alias http://dbpedia.org/resource/Tagged_union
-    @weight 0.5
-    * :OOXyDs9reVNM3f0M: 
-    * :zlyAuzVF49GTNdK1: 
+@id NuAaFbGu7qtbD6ia
+@title tagged union
+@alias http://dbpedia.org/resource/Tagged_union
+@created 1381025768575
+@weight 0.5
+* :OOXyDs9reVNM3f0M: 
+* :zlyAuzVF49GTNdK1: 

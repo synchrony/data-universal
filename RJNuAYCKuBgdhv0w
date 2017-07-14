@@ -1,5 +1,6 @@
-* :RJNuAYCKuBgdhv0w: TED (conference)
-    @created 1342397284191
-    @alias http://dbpedia.org/resource/TED_(conference)
-    @weight 0.5
-    * :3LNjT3XIaOPCvEue: 
+@id RJNuAYCKuBgdhv0w
+@title TED (conference)
+@alias http://dbpedia.org/resource/TED_(conference)
+@created 1342397284191
+@weight 0.5
+* :3LNjT3XIaOPCvEue: 

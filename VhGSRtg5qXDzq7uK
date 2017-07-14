@@ -1,4 +1,5 @@
-* :VhGSRtg5qXDzq7uK: safe room
-    @created 1339259840254
-    @alias http://dbpedia.org/resource/Safe_room
-    @weight 0.5
+@id VhGSRtg5qXDzq7uK
+@title safe room
+@alias http://dbpedia.org/resource/Safe_room
+@created 1339259840254
+@weight 0.5

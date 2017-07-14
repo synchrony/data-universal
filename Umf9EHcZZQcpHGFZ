@@ -1,6 +1,7 @@
-* :Umf9EHcZZQcpHGFZ: volunteer fire department
-    @created 1418838206250
-    @alias http://dbpedia.org/resource/Volunteer_fire_department
-    @weight 0.5
-    * :sOYAFmLLq5KL4zfF: 
-    * :uPFdE7SagLA68DnN: 
+@id Umf9EHcZZQcpHGFZ
+@title volunteer fire department
+@alias http://dbpedia.org/resource/Volunteer_fire_department
+@created 1418838206250
+@weight 0.5
+* :sOYAFmLLq5KL4zfF: 
+* :uPFdE7SagLA68DnN: 

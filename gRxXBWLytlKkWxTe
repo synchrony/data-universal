@@ -1,4 +1,5 @@
-* :gRxXBWLytlKkWxTe: oleo strut
-    @created 1478321570405
-    @alias http://dbpedia.org/resource/Oleo_strut
-    @weight 0.5
+@id gRxXBWLytlKkWxTe
+@title oleo strut
+@alias http://dbpedia.org/resource/Oleo_strut
+@created 1478321570405
+@weight 0.5

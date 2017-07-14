@@ -1,4 +1,5 @@
-* :hNsx22cTvGI52BeT: hearts
-    @created 1343952742359
-    @alias http://dbpedia.org/resource/Hearts
-    @weight 0.5
+@id hNsx22cTvGI52BeT
+@title hearts
+@alias http://dbpedia.org/resource/Hearts
+@created 1343952742359
+@weight 0.5

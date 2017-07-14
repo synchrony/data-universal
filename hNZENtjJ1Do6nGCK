@@ -1,7 +1,8 @@
-* :hNZENtjJ1Do6nGCK: selection sort
-    @created 1380987961059
-    @alias http://dbpedia.org/resource/Selection_sort
-    @weight 0.5
-    * :cjsLjwHzwcX45Emy: 
-    * :IV9R8NkYFTZMvWNC: 
-    * :Xnu5Dt8Wppozf8M2: 
+@id hNZENtjJ1Do6nGCK
+@title selection sort
+@alias http://dbpedia.org/resource/Selection_sort
+@created 1380987961059
+@weight 0.5
+* :cjsLjwHzwcX45Emy: 
+* :IV9R8NkYFTZMvWNC: 
+* :Xnu5Dt8Wppozf8M2: 

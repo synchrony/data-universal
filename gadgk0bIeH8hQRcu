@@ -1,4 +1,5 @@
-* :gadgk0bIeH8hQRcu: Lake Zurich
-    @created 1417532411258
-    @alias http://dbpedia.org/resource/Lake_Zurich
-    @weight 0.5
+@id gadgk0bIeH8hQRcu
+@title Lake Zurich
+@alias http://dbpedia.org/resource/Lake_Zurich
+@created 1417532411258
+@weight 0.5

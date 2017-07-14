@@ -1,4 +1,5 @@
-* :IDIo0270zF3zHMfF: Charles Darwin
-    @created 1336419393422
-    @alias http://dbpedia.org/resource/Charles_Darwin
-    @weight 0.5
+@id IDIo0270zF3zHMfF
+@title Charles Darwin
+@alias http://dbpedia.org/resource/Charles_Darwin
+@created 1336419393422
+@weight 0.5

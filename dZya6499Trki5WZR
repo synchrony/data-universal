@@ -1,8 +1,9 @@
-* :dZya6499Trki5WZR: Moby-Dick
-    @created 1376275080141
-    @alias http://dbpedia.org/resource/Moby-Dick
-    @weight 0.5
-    * :GSEVPz4ukIG0ZkSq: 
-    * :8uRHZsbys40vCX7d: 
-    * :AaqTNYUCtzLBLPQG: 
-    * :ewDasqylvynmdRfx: 
+@id dZya6499Trki5WZR
+@title Moby-Dick
+@alias http://dbpedia.org/resource/Moby-Dick
+@created 1376275080141
+@weight 0.5
+* :GSEVPz4ukIG0ZkSq: 
+* :8uRHZsbys40vCX7d: 
+* :AaqTNYUCtzLBLPQG: 
+* :ewDasqylvynmdRfx: 

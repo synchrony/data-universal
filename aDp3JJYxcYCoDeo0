@@ -1,4 +1,5 @@
-* :aDp3JJYxcYCoDeo0: fork
-    @created 1490559094205
-    @alias http://dbpedia.org/resource/Fork
-    @weight 0.5
+@id aDp3JJYxcYCoDeo0
+@title fork
+@alias http://dbpedia.org/resource/Fork
+@created 1490559094205
+@weight 0.5

@@ -1,4 +1,5 @@
-* :hRizIRt9WTeCEGNu: body odor
-    @created 1361638268696
-    @alias http://dbpedia.org/resource/Body_odor
-    @weight 0.5
+@id hRizIRt9WTeCEGNu
+@title body odor
+@alias http://dbpedia.org/resource/Body_odor
+@created 1361638268696
+@weight 0.5

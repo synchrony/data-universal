@@ -1,4 +1,5 @@
-* :yZLTqGEZL0252K6o: weather vane
-    @created 1339366392319
-    @alias http://dbpedia.org/resource/Weather_vane
-    @weight 0.5
+@id yZLTqGEZL0252K6o
+@title weather vane
+@alias http://dbpedia.org/resource/Weather_vane
+@created 1339366392319
+@weight 0.5

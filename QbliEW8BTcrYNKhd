@@ -1,5 +1,6 @@
-* :QbliEW8BTcrYNKhd: random forest
-    @created 1431701763785
-    @alias http://dbpedia.org/resource/Random_forest
-    @weight 0.5
-    * :wRXImz0RlXGwPdxq: 
+@id QbliEW8BTcrYNKhd
+@title random forest
+@alias http://dbpedia.org/resource/Random_forest
+@created 1431701763785
+@weight 0.5
+* :wRXImz0RlXGwPdxq: 

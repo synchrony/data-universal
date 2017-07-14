@@ -1,7 +1,8 @@
-* :n7bKYk17yJ0V0tQ5: Beck Depression Inventory
-    @created 1382418680917
-    @alias http://dbpedia.org/resource/Beck_Depression_Inventory
-    @weight 0.5
-    * :RcLexCYNer3UG1Fb: 
-    * :aCNYazoC55HOlRxR: 
-    * :utimAlUHCqwnTgj5: 
+@id n7bKYk17yJ0V0tQ5
+@title Beck Depression Inventory
+@alias http://dbpedia.org/resource/Beck_Depression_Inventory
+@created 1382418680917
+@weight 0.5
+* :RcLexCYNer3UG1Fb: 
+* :aCNYazoC55HOlRxR: 
+* :utimAlUHCqwnTgj5: 

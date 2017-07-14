@@ -1,17 +1,18 @@
-* :51e4c8SLm5LCzCI0: Gremlin (programming language)
-    @created 1308911724283
-    @alias http://dbpedia.org/resource/Gremlin_(programming_language)
-    @weight 0.75
-    * :4jpKIbbKxC5z4OmZ: 
-    * :HWiT26UNnkVE03BM: 
-    * :RoNQjktc1ickMhJE: 
-    * :DyDSnddBFPEcJP7F: 
-    * :SmrF1n0NQUZFzh9C: 
-    * :VKuqZ1aORt0siKgs: 
-    * :AVf3UV5CyligOb7d: 
-    * :Wx9COfcwCHWZhvOH: 
-    * :HripYxF4JjR1C7jM: 
-    * :cGqNY1PEJb1wS0nz: 
-    * :ha77JKuyNF5AngeS: 
-    * :wreuBR5yVDifCmeO: 
-    * :JCvPEHzvecfTlnBx: 
+@id 51e4c8SLm5LCzCI0
+@title Gremlin (programming language)
+@alias http://dbpedia.org/resource/Gremlin_(programming_language)
+@created 1308911724283
+@weight 0.75
+* :4jpKIbbKxC5z4OmZ: 
+* :HWiT26UNnkVE03BM: 
+* :RoNQjktc1ickMhJE: 
+* :DyDSnddBFPEcJP7F: 
+* :SmrF1n0NQUZFzh9C: 
+* :VKuqZ1aORt0siKgs: 
+* :AVf3UV5CyligOb7d: 
+* :Wx9COfcwCHWZhvOH: 
+* :HripYxF4JjR1C7jM: 
+* :cGqNY1PEJb1wS0nz: 
+* :ha77JKuyNF5AngeS: 
+* :wreuBR5yVDifCmeO: 
+* :JCvPEHzvecfTlnBx: 

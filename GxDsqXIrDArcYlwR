@@ -1,4 +1,5 @@
-* :GxDsqXIrDArcYlwR: toy
-    @created 1451858016607
-    @alias http://dbpedia.org/resource/Toy
-    @weight 0.5
+@id GxDsqXIrDArcYlwR
+@title toy
+@alias http://dbpedia.org/resource/Toy
+@created 1451858016607
+@weight 0.5

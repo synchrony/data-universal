@@ -1,6 +1,7 @@
-* :7UfPaElM7RMpMsUm: graph coloring
-    @created 1380830754216
-    @alias http://dbpedia.org/resource/Graph_coloring
-    @weight 0.5
-    * :S0nhbo77cNGGeNaV: 
-    * :qoYeSBRCn3EMmy4Y: 
+@id 7UfPaElM7RMpMsUm
+@title graph coloring
+@alias http://dbpedia.org/resource/Graph_coloring
+@created 1380830754216
+@weight 0.5
+* :S0nhbo77cNGGeNaV: 
+* :qoYeSBRCn3EMmy4Y: 

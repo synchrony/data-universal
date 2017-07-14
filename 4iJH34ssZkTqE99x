@@ -1,4 +1,5 @@
-* :4iJH34ssZkTqE99x: Life, the Universe, and Everything
-    @created 1328638569445
-    @alias http://dbpedia.org/resource/Life,_the_Universe,_and_Everything
-    @weight 0.75
+@id 4iJH34ssZkTqE99x
+@title Life, the Universe, and Everything
+@alias http://dbpedia.org/resource/Life,_the_Universe,_and_Everything
+@created 1328638569445
+@weight 0.75

@@ -1,6 +1,7 @@
-* :oZASwWsuhBNPW071: paradigm
-    @created 1336418710017
-    @alias http://dbpedia.org/resource/Paradigm
-    @weight 0.5
-    * :oKuZkeNHNA3mPAnY: 
-    * :4MzPHCC5NPI0BG0i: 
+@id oZASwWsuhBNPW071
+@title paradigm
+@alias http://dbpedia.org/resource/Paradigm
+@created 1336418710017
+@weight 0.5
+* :oKuZkeNHNA3mPAnY: 
+* :4MzPHCC5NPI0BG0i: 

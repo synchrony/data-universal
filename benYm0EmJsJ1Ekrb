@@ -1,7 +1,8 @@
-* :benYm0EmJsJ1Ekrb: electrical impedance
-    @created 1477195469336
-    @alias http://dbpedia.org/resource/Electrical_impedance
-    @weight 0.5
-    * :GTRQ9QJkWycXvXya: 
-    * :6XKKQETzFdPXq3xO: 
-    * :xWNk1tnx8QYDjvzH: 
+@id benYm0EmJsJ1Ekrb
+@title electrical impedance
+@alias http://dbpedia.org/resource/Electrical_impedance
+@created 1477195469336
+@weight 0.5
+* :GTRQ9QJkWycXvXya: 
+* :6XKKQETzFdPXq3xO: 
+* :xWNk1tnx8QYDjvzH: 

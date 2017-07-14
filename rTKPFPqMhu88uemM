@@ -1,6 +1,7 @@
-* :rTKPFPqMhu88uemM: stethoscope
-    @created 1415340717531
-    @alias http://dbpedia.org/resource/Stethoscope
-    @weight 0.5
-    * :5QF9ZZrPqtP6QHxn: 
-    * :n9KwNqooJP4KCBQP: 
+@id rTKPFPqMhu88uemM
+@title stethoscope
+@alias http://dbpedia.org/resource/Stethoscope
+@created 1415340717531
+@weight 0.5
+* :5QF9ZZrPqtP6QHxn: 
+* :n9KwNqooJP4KCBQP: 

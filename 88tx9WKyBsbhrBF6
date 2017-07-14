@@ -1,7 +1,8 @@
-* :88tx9WKyBsbhrBF6: sense
-    @created 1365267948235
-    @alias http://dbpedia.org/resource/Sense
-    @weight 0.5
-    * :COBzGAETQKUpypRc: 
-    * :4qkuWH2o1wKlMkdJ: 
-    * :5vXjDigJ8O0Dz3bS: 
+@id 88tx9WKyBsbhrBF6
+@title sense
+@alias http://dbpedia.org/resource/Sense
+@created 1365267948235
+@weight 0.5
+* :COBzGAETQKUpypRc: 
+* :4qkuWH2o1wKlMkdJ: 
+* :5vXjDigJ8O0Dz3bS: 

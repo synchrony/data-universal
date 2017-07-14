@@ -1,7 +1,8 @@
-* :EWapK5ddqFLzc3Ds: Orteig Prize
-    @created 1442931719948
-    @alias http://dbpedia.org/resource/Orteig_Prize
-    @weight 0.5
-    * :LJQsjCGUQNFgS7wb: 
-    * :WaI2LbL7HmDbQKjT: 
-    * :YVnypkqeEgp3lHCo: 
+@id EWapK5ddqFLzc3Ds
+@title Orteig Prize
+@alias http://dbpedia.org/resource/Orteig_Prize
+@created 1442931719948
+@weight 0.5
+* :LJQsjCGUQNFgS7wb: 
+* :WaI2LbL7HmDbQKjT: 
+* :YVnypkqeEgp3lHCo: 

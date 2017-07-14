@@ -1,5 +1,6 @@
-* :CB25ZWy08CYQHT4L: multiple sclerosis
-    @created 1442761685221
-    @alias http://dbpedia.org/resource/Multiple_sclerosis
-    @weight 0.5
-    * :Aq9ImKWIfDgxtn6W: 
+@id CB25ZWy08CYQHT4L
+@title multiple sclerosis
+@alias http://dbpedia.org/resource/Multiple_sclerosis
+@created 1442761685221
+@weight 0.5
+* :Aq9ImKWIfDgxtn6W: 

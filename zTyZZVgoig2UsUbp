@@ -1,6 +1,7 @@
-* :zTyZZVgoig2UsUbp: sucrose
-    @created 1327515332166
-    @alias http://dbpedia.org/resource/Sucrose
-    @weight 0.5
-    * :r3iGMQKXVeUEw2ur: 
-    * :a3NcNDyHrKaNU7Rd: 
+@id zTyZZVgoig2UsUbp
+@title sucrose
+@alias http://dbpedia.org/resource/Sucrose
+@created 1327515332166
+@weight 0.5
+* :r3iGMQKXVeUEw2ur: 
+* :a3NcNDyHrKaNU7Rd: 

@@ -1,6 +1,7 @@
-* :RZrnmomM58IG03Ad: gzip
-    @created 1418614611771
-    @alias http://dbpedia.org/resource/Gzip
-    @weight 0.75
-    * :CYD1nMYw3TBnPnNH: 
-    * :ogXhVcuZoCwYq69T: 
+@id RZrnmomM58IG03Ad
+@title gzip
+@alias http://dbpedia.org/resource/Gzip
+@created 1418614611771
+@weight 0.75
+* :CYD1nMYw3TBnPnNH: 
+* :ogXhVcuZoCwYq69T: 

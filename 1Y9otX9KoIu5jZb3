@@ -1,6 +1,7 @@
-* :1Y9otX9KoIu5jZb3: pecan
-    @created 1309178131700
-    @alias http://dbpedia.org/resource/Pecan
-    @weight 0.5
-    * :h3rQW37DItdxyihM: 
-    * :DvRlC0siVkfN9p5O: 
+@id 1Y9otX9KoIu5jZb3
+@title pecan
+@alias http://dbpedia.org/resource/Pecan
+@created 1309178131700
+@weight 0.5
+* :h3rQW37DItdxyihM: 
+* :DvRlC0siVkfN9p5O: 

@@ -1,7 +1,8 @@
-* :Wdick5t6RdcpmEMs: timeline
-    @created 1386653815346
-    @alias http://dbpedia.org/resource/Timeline
-    @weight 0.5
-    * :xAtcBWQkRJrQcxJS: 
-    * :AzIoSzsndRrjl56x: 
-    * :VZhZOzjtZtXtPHZr: 
+@id Wdick5t6RdcpmEMs
+@title timeline
+@alias http://dbpedia.org/resource/Timeline
+@created 1386653815346
+@weight 0.5
+* :xAtcBWQkRJrQcxJS: 
+* :AzIoSzsndRrjl56x: 
+* :VZhZOzjtZtXtPHZr: 

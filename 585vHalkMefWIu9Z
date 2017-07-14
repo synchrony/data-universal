@@ -1,4 +1,5 @@
-* :585vHalkMefWIu9Z: musician
-    @created 1378265372104
-    @alias http://dbpedia.org/resource/Musician
-    @weight 0.5
+@id 585vHalkMefWIu9Z
+@title musician
+@alias http://dbpedia.org/resource/Musician
+@created 1378265372104
+@weight 0.5

@@ -1,5 +1,6 @@
-* :u5bdKUwPlU0bnbxd: electroencephalography
-    @created 1338480575622
-    @alias http://dbpedia.org/resource/Electroencephalography
-    @weight 0.5
-    * :ZPxUN6qOK1xUmktM: 
+@id u5bdKUwPlU0bnbxd
+@title electroencephalography
+@alias http://dbpedia.org/resource/Electroencephalography
+@created 1338480575622
+@weight 0.5
+* :ZPxUN6qOK1xUmktM: 

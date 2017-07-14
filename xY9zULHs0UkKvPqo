@@ -1,5 +1,6 @@
-* :xY9zULHs0UkKvPqo: Nutella
-    @created 1379951058914
-    @alias http://dbpedia.org/resource/Nutella
-    @weight 0.5
-    * :P50Y5SlhV0Qv5OCo: 
+@id xY9zULHs0UkKvPqo
+@title Nutella
+@alias http://dbpedia.org/resource/Nutella
+@created 1379951058914
+@weight 0.5
+* :P50Y5SlhV0Qv5OCo: 

@@ -1,9 +1,10 @@
-* :zjT4qbIXgJ4LpQz1: email
-    @created 1453224907901
-    @alias http://dbpedia.org/resource/Email
-    @weight 0.5
-    * :geBJTqZlxhlBzR3X: 
-    * :zoWcyl1pODqndEgs: 
-    * :o0TBVJeYXLXC1T95: 
-    * :mwWl2wlCQZ6SPXvk: 
-    * :MKiGvtaLARiyxG8V: 
+@id zjT4qbIXgJ4LpQz1
+@title email
+@alias http://dbpedia.org/resource/Email
+@created 1453224907901
+@weight 0.5
+* :geBJTqZlxhlBzR3X: 
+* :zoWcyl1pODqndEgs: 
+* :o0TBVJeYXLXC1T95: 
+* :mwWl2wlCQZ6SPXvk: 
+* :MKiGvtaLARiyxG8V: 

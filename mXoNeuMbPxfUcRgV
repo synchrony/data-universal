@@ -1,4 +1,5 @@
-* :mXoNeuMbPxfUcRgV: network performance
-    @created 1351641590831
-    @alias http://dbpedia.org/resource/Network_performance
-    @weight 0.5
+@id mXoNeuMbPxfUcRgV
+@title network performance
+@alias http://dbpedia.org/resource/Network_performance
+@created 1351641590831
+@weight 0.5

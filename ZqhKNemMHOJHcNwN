@@ -1,4 +1,5 @@
-* :ZqhKNemMHOJHcNwN: phloem
-    @created 1312621178009
-    @alias http://dbpedia.org/resource/Phloem
-    @weight 0.5
+@id ZqhKNemMHOJHcNwN
+@title phloem
+@alias http://dbpedia.org/resource/Phloem
+@created 1312621178009
+@weight 0.5

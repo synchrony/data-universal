@@ -1,6 +1,7 @@
-* :BZ7aRoFr1uDUlBqT: folic acid
-    @created 1467475261028
-    @alias http://dbpedia.org/resource/Folic_acid
-    @weight 0.5
-    * :eB074TT14FFbeRyO: 
-    * :gxMhUxgKHeJssNWq: 
+@id BZ7aRoFr1uDUlBqT
+@title folic acid
+@alias http://dbpedia.org/resource/Folic_acid
+@created 1467475261028
+@weight 0.5
+* :eB074TT14FFbeRyO: 
+* :gxMhUxgKHeJssNWq: 

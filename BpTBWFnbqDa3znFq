@@ -1,4 +1,5 @@
-* :BpTBWFnbqDa3znFq: Mercury (planet)
-    @created 1388643885676
-    @alias http://dbpedia.org/resource/Mercury_(planet)
-    @weight 0.5
+@id BpTBWFnbqDa3znFq
+@title Mercury (planet)
+@alias http://dbpedia.org/resource/Mercury_(planet)
+@created 1388643885676
+@weight 0.5

@@ -1,6 +1,7 @@
-* :ZWWtCaASh3y4cgkz: redundancy (linguistics)
-    @created 1444595593919
-    @alias http://dbpedia.org/resource/Redundancy_(linguistics)
-    @weight 0.5
-    * :HI3wKuC5OJhVMBtJ: 
-    * :s3r6ImA276qDPnNh: 
+@id ZWWtCaASh3y4cgkz
+@title redundancy (linguistics)
+@alias http://dbpedia.org/resource/Redundancy_(linguistics)
+@created 1444595593919
+@weight 0.5
+* :HI3wKuC5OJhVMBtJ: 
+* :s3r6ImA276qDPnNh: 

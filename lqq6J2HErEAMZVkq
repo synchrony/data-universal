@@ -1,4 +1,5 @@
-* :lqq6J2HErEAMZVkq: The Diane Rehm Show
-    @created 1310272168443
-    @alias http://dbpedia.org/resource/Diane_Rehm_Show
-    @weight 0.5
+@id lqq6J2HErEAMZVkq
+@title The Diane Rehm Show
+@alias http://dbpedia.org/resource/Diane_Rehm_Show
+@created 1310272168443
+@weight 0.5

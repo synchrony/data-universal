@@ -1,4 +1,5 @@
-* :V25BlshTnycMN8I5: puzzle
-    @created 1353661919951
-    @alias http://dbpedia.org/resource/Puzzle
-    @weight 0.5
+@id V25BlshTnycMN8I5
+@title puzzle
+@alias http://dbpedia.org/resource/Puzzle
+@created 1353661919951
+@weight 0.5

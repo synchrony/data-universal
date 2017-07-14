@@ -1,4 +1,5 @@
-* :0CB6utDQTRF1xZTo: food coloring
-    @created 1327526343543
-    @alias http://dbpedia.org/resource/Food_coloring
-    @weight 0.5
+@id 0CB6utDQTRF1xZTo
+@title food coloring
+@alias http://dbpedia.org/resource/Food_coloring
+@created 1327526343543
+@weight 0.5

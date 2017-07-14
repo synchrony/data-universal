@@ -1,6 +1,7 @@
-* :Svs0AHfc0BFQIZQF: YAML
-    @created 1439931626460
-    @alias http://dbpedia.org/resource/YAML
-    @weight 0.5
-    * :dRoOSzcM3uSznZah: 
-    * :OnjVIWXDM1cZYbwS: 
+@id Svs0AHfc0BFQIZQF
+@title YAML
+@alias http://dbpedia.org/resource/YAML
+@created 1439931626460
+@weight 0.5
+* :dRoOSzcM3uSznZah: 
+* :OnjVIWXDM1cZYbwS: 

@@ -1,6 +1,7 @@
-* :qmxFQUfCNpboC5jb: Open University
-    @created 1367437688582
-    @alias http://dbpedia.org/resource/Open_University
-    @weight 0.5
-    * :Ojbfl1F7tsuLsqpF: 
-    * :F0idC4ZOKMz0TRhR: 
+@id qmxFQUfCNpboC5jb
+@title Open University
+@alias http://dbpedia.org/resource/Open_University
+@created 1367437688582
+@weight 0.5
+* :Ojbfl1F7tsuLsqpF: 
+* :F0idC4ZOKMz0TRhR: 

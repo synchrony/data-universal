@@ -1,4 +1,5 @@
-* :sE0hEwNo6Z7cMk7R: relative humidity
-    @created 1481734203994
-    @alias http://dbpedia.org/resource/Relative_humidity
-    @weight 0.5
+@id sE0hEwNo6Z7cMk7R
+@title relative humidity
+@alias http://dbpedia.org/resource/Relative_humidity
+@created 1481734203994
+@weight 0.5

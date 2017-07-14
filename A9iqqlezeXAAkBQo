@@ -1,5 +1,6 @@
-* :A9iqqlezeXAAkBQo: vascular dementia
-    @created 1442761950824
-    @alias http://dbpedia.org/resource/Vascular_dementia
-    @weight 0.5
-    * :dgcTK58mvB3mHH5A: 
+@id A9iqqlezeXAAkBQo
+@title vascular dementia
+@alias http://dbpedia.org/resource/Vascular_dementia
+@created 1442761950824
+@weight 0.5
+* :dgcTK58mvB3mHH5A: 

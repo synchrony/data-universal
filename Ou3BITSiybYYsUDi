@@ -1,4 +1,5 @@
-* :Ou3BITSiybYYsUDi: bassoon
-    @created 1332625470689
-    @alias http://dbpedia.org/resource/Bassoon
-    @weight 0.5
+@id Ou3BITSiybYYsUDi
+@title bassoon
+@alias http://dbpedia.org/resource/Bassoon
+@created 1332625470689
+@weight 0.5

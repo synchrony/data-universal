@@ -1,5 +1,6 @@
-* :2CMRwxYRqAZAsLbB: pheromone
-    @created 1433706921969
-    @alias http://dbpedia.org/resource/Pheromone
-    @weight 0.5
-    * :SVHjicHWC45ytlaZ: 
+@id 2CMRwxYRqAZAsLbB
+@title pheromone
+@alias http://dbpedia.org/resource/Pheromone
+@created 1433706921969
+@weight 0.5
+* :SVHjicHWC45ytlaZ: 

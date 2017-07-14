@@ -1,4 +1,5 @@
-* :rSrvdJTuG35JicDb: Ron Paul
-    @created 1371581135494
-    @alias http://dbpedia.org/resource/Ron_Paul
-    @weight 0.5
+@id rSrvdJTuG35JicDb
+@title Ron Paul
+@alias http://dbpedia.org/resource/Ron_Paul
+@created 1371581135494
+@weight 0.5

@@ -1,5 +1,6 @@
-* :tNH3xQAPHyaMBz2e: Kennedy Space Center
-    @created 1340072864786
-    @alias http://dbpedia.org/resource/Kennedy_Space_Center
-    @weight 0.5
-    * :C4PMd00LraBXxDeA: 
+@id tNH3xQAPHyaMBz2e
+@title Kennedy Space Center
+@alias http://dbpedia.org/resource/Kennedy_Space_Center
+@created 1340072864786
+@weight 0.5
+* :C4PMd00LraBXxDeA: 

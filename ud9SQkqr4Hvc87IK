@@ -1,7 +1,8 @@
-* :ud9SQkqr4Hvc87IK: optimization problem
-    @created 1465333324165
-    @alias http://dbpedia.org/resource/Optimization_problem
-    @weight 0.5
-    * :YBVgVQdldlpWz7Bc: 
-    * :XOFUp5eSKZHKoNGu: 
-    * :8rqGErxfDbMMjIWF: 
+@id ud9SQkqr4Hvc87IK
+@title optimization problem
+@alias http://dbpedia.org/resource/Optimization_problem
+@created 1465333324165
+@weight 0.5
+* :YBVgVQdldlpWz7Bc: 
+* :XOFUp5eSKZHKoNGu: 
+* :8rqGErxfDbMMjIWF: 

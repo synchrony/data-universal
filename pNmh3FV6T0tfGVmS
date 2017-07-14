@@ -1,6 +1,7 @@
-* :pNmh3FV6T0tfGVmS: laddu
-    @created 1397443961305
-    @alias http://dbpedia.org/resource/Laddu
-    @weight 0.5
-    * :JRgKJh633exZnFV7: 
-    * :mseRj4PKXuUuNXe1: 
+@id pNmh3FV6T0tfGVmS
+@title laddu
+@alias http://dbpedia.org/resource/Laddu
+@created 1397443961305
+@weight 0.5
+* :JRgKJh633exZnFV7: 
+* :mseRj4PKXuUuNXe1: 

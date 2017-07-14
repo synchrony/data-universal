@@ -1,6 +1,7 @@
-* :J2hZb98HVLMheo1X: Paleoproterozoic
-    @created 1388040940807
-    @alias http://dbpedia.org/resource/Paleoproterozoic
-    @weight 0.5
-    * :Su6VGnWK3AYaVV87: 
-    * :EjoWbDYSyMd9wPKj: 
+@id J2hZb98HVLMheo1X
+@title Paleoproterozoic
+@alias http://dbpedia.org/resource/Paleoproterozoic
+@created 1388040940807
+@weight 0.5
+* :Su6VGnWK3AYaVV87: 
+* :EjoWbDYSyMd9wPKj: 

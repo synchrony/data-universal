@@ -1,6 +1,7 @@
-* :s9ccT3d6CDGlgWCG: eukaryote
-    @created 1416521052468
-    @alias http://dbpedia.org/resource/Eukaryote
-    @weight 0.5
-    * :HJR5qq5LjRqnnRWQ: 
-    * :HReanUjHaoQUZJEJ: 
+@id s9ccT3d6CDGlgWCG
+@title eukaryote
+@alias http://dbpedia.org/resource/Eukaryote
+@created 1416521052468
+@weight 0.5
+* :HJR5qq5LjRqnnRWQ: 
+* :HReanUjHaoQUZJEJ: 

@@ -1,4 +1,5 @@
-* :YBcvj5nzeHuu4t19: Alaska
-    @created 1385053431852
-    @alias http://dbpedia.org/resource/Alaska
-    @weight 0.5
+@id YBcvj5nzeHuu4t19
+@title Alaska
+@alias http://dbpedia.org/resource/Alaska
+@created 1385053431852
+@weight 0.5

@@ -1,8 +1,9 @@
-* :Av7wY5SjbbdIeJix: GNU Privacy Guard
-    @created 1335635173951
-    @alias http://dbpedia.org/resource/GNU_Privacy_Guard
-    @weight 0.5
-    * :XRY8HnS70dHOsxVW: 
-    * :jJByUK3moFc0Azrt: 
-    * :3VEVYDgsJvjpkYT8: 
-    * :sdGPY1kDLNZUiB10: 
+@id Av7wY5SjbbdIeJix
+@title GNU Privacy Guard
+@alias http://dbpedia.org/resource/GNU_Privacy_Guard
+@created 1335635173951
+@weight 0.5
+* :XRY8HnS70dHOsxVW: 
+* :jJByUK3moFc0Azrt: 
+* :3VEVYDgsJvjpkYT8: 
+* :sdGPY1kDLNZUiB10: 

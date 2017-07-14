@@ -1,6 +1,7 @@
-* :UJ9QKcBKXOh7CIQg: thirst
-    @created 1313735410302
-    @alias http://dbpedia.org/resource/Thirst
-    @weight 0.5
-    * :SNMZ4NI1vKAhNqwV: 
-    * :AA2sJOfs4kCFH9yt: 
+@id UJ9QKcBKXOh7CIQg
+@title thirst
+@alias http://dbpedia.org/resource/Thirst
+@created 1313735410302
+@weight 0.5
+* :SNMZ4NI1vKAhNqwV: 
+* :AA2sJOfs4kCFH9yt: 

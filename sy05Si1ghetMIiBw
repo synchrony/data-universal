@@ -1,8 +1,9 @@
-* :sy05Si1ghetMIiBw: sound localization
-    @created 1368035264053
-    @alias http://dbpedia.org/resource/Sound_localization
-    @weight 0.5
-    * :HFdRF3ZtvetqlwiV: 
-    * :Gt1mzyXNxCW2B0m2: 
-    * :8cElcTchzhZbjul2: 
-    * :L7IG2s4k7fLsBxHg: 
+@id sy05Si1ghetMIiBw
+@title sound localization
+@alias http://dbpedia.org/resource/Sound_localization
+@created 1368035264053
+@weight 0.5
+* :HFdRF3ZtvetqlwiV: 
+* :Gt1mzyXNxCW2B0m2: 
+* :8cElcTchzhZbjul2: 
+* :L7IG2s4k7fLsBxHg: 

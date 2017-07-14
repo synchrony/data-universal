@@ -1,7 +1,8 @@
-* :iT8TDKpEF2SMZIis: Eastern Washington University
-    @created 1314398175848
-    @alias http://dbpedia.org/resource/Eastern_Washington_University
-    @weight 0.75
-    * :odGtqqFYXL9jcnbr: 
-    * :E6Q9DQLIu62wJZsj: 
-    * :8h7pNipINKRThUM9: 
+@id iT8TDKpEF2SMZIis
+@title Eastern Washington University
+@alias http://dbpedia.org/resource/Eastern_Washington_University
+@created 1314398175848
+@weight 0.75
+* :odGtqqFYXL9jcnbr: 
+* :E6Q9DQLIu62wJZsj: 
+* :8h7pNipINKRThUM9: 

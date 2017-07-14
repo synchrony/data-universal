@@ -1,5 +1,6 @@
-* :vxbxkYEFUkSUsMdi: cat
-    @created 1338507477351
-    @alias http://dbpedia.org/resource/Cat
-    @weight 0.5
-    * :uZNh1uEjgHqrQGBp: 
+@id vxbxkYEFUkSUsMdi
+@title cat
+@alias http://dbpedia.org/resource/Cat
+@created 1338507477351
+@weight 0.5
+* :uZNh1uEjgHqrQGBp: 

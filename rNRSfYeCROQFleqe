@@ -1,6 +1,7 @@
-* :rNRSfYeCROQFleqe: natural user interface
-    @created 1380863409044
-    @alias http://dbpedia.org/resource/Natural_user_interface
-    @weight 0.5
-    * :V7bBjfmfBtzlos5K: 
-    * :oYO6I8iPCcmsgNoy: 
+@id rNRSfYeCROQFleqe
+@title natural user interface
+@alias http://dbpedia.org/resource/Natural_user_interface
+@created 1380863409044
+@weight 0.5
+* :V7bBjfmfBtzlos5K: 
+* :oYO6I8iPCcmsgNoy: 

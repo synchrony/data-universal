@@ -1,6 +1,7 @@
-* :LPM6KOpAyfQrZQI6: SCXML
-    @created 1438820834963
-    @alias http://dbpedia.org/resource/SCXML
-    @weight 0.75
-    * :nDgE8ObwcuJhkAQ3: 
-    * :chLu9CNERKV1t6ol: 
+@id LPM6KOpAyfQrZQI6
+@title SCXML
+@alias http://dbpedia.org/resource/SCXML
+@created 1438820834963
+@weight 0.75
+* :nDgE8ObwcuJhkAQ3: 
+* :chLu9CNERKV1t6ol: 

@@ -1,7 +1,8 @@
-* :1L3hQgGXzF2ImaNo: Allegro Common Lisp
-    @created 1377003043443
-    @alias http://dbpedia.org/resource/Allegro_Common_Lisp
-    @weight 0.5
-    * :zv5fhSfSGdDeUOp9: 
-    * :tob5ghlQDhBt5jy0: 
-    * :IR7LR7Jw3cyr0aJN: 
+@id 1L3hQgGXzF2ImaNo
+@title Allegro Common Lisp
+@alias http://dbpedia.org/resource/Allegro_Common_Lisp
+@created 1377003043443
+@weight 0.5
+* :zv5fhSfSGdDeUOp9: 
+* :tob5ghlQDhBt5jy0: 
+* :IR7LR7Jw3cyr0aJN: 

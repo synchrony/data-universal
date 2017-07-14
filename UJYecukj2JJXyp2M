@@ -1,5 +1,6 @@
-* :UJYecukj2JJXyp2M: Harry Potter (character)
-    @created 1325229138469
-    @alias http://dbpedia.org/resource/Harry_Potter_(character)
-    @weight 0.75
-    * :ftLkWP8utBheIBCJ: 
+@id UJYecukj2JJXyp2M
+@title Harry Potter (character)
+@alias http://dbpedia.org/resource/Harry_Potter_(character)
+@created 1325229138469
+@weight 0.75
+* :ftLkWP8utBheIBCJ: 

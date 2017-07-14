@@ -1,4 +1,5 @@
-* :gcwJxxOHA61I2Ka6: wine
-    @created 1327531611155
-    @alias http://dbpedia.org/resource/Wine
-    @weight 0.5
+@id gcwJxxOHA61I2Ka6
+@title wine
+@alias http://dbpedia.org/resource/Wine
+@created 1327531611155
+@weight 0.5

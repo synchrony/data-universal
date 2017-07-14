@@ -1,4 +1,5 @@
-* :0NB0hOlFvgsOyaQE: motorcycle
-    @created 1367885921295
-    @alias http://dbpedia.org/resource/Motorcycle
-    @weight 0.5
+@id 0NB0hOlFvgsOyaQE
+@title motorcycle
+@alias http://dbpedia.org/resource/Motorcycle
+@created 1367885921295
+@weight 0.5

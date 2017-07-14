@@ -1,7 +1,8 @@
-* :PUKSluZ5pTxVChZ1: endotherm
-    @created 1446591178851
-    @alias http://dbpedia.org/resource/Endotherm
-    @weight 0.5
-    * :1T3uyQ1pJ7jhghIs: 
-    * :EMu3RcZ1DqZ73DAP: 
-    * :ao7LwWlalDXria1Q: 
+@id PUKSluZ5pTxVChZ1
+@title endotherm
+@alias http://dbpedia.org/resource/Endotherm
+@created 1446591178851
+@weight 0.5
+* :1T3uyQ1pJ7jhghIs: 
+* :EMu3RcZ1DqZ73DAP: 
+* :ao7LwWlalDXria1Q: 

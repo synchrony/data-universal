@@ -1,5 +1,6 @@
-* :ciqKDqR4nCQjILfa: abdomen
-    @created 1349367847825
-    @alias http://dbpedia.org/resource/Abdomen
-    @weight 0.5
-    * :aFH1me74FZA6CBdJ: 
+@id ciqKDqR4nCQjILfa
+@title abdomen
+@alias http://dbpedia.org/resource/Abdomen
+@created 1349367847825
+@weight 0.5
+* :aFH1me74FZA6CBdJ: 

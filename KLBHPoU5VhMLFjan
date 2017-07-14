@@ -1,6 +1,7 @@
-* :KLBHPoU5VhMLFjan: ambient device
-    @created 1346353870068
-    @alias http://dbpedia.org/resource/Ambient_device
-    @weight 0.5
-    * :sQPB7llPYj3EEr9e: 
-    * :GlMKMlt7T8QCiUKP: 
+@id KLBHPoU5VhMLFjan
+@title ambient device
+@alias http://dbpedia.org/resource/Ambient_device
+@created 1346353870068
+@weight 0.5
+* :sQPB7llPYj3EEr9e: 
+* :GlMKMlt7T8QCiUKP: 

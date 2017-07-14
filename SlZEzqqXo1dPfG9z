@@ -1,6 +1,7 @@
-* :SlZEzqqXo1dPfG9z: opioid receptor
-    @created 1364836491101
-    @alias http://dbpedia.org/resource/Opioid_receptor
-    @weight 0.5
-    * :E1eAISWOMZlmYA6Z: 
-    * :rBgOTcyxXFtXtLbi: 
+@id SlZEzqqXo1dPfG9z
+@title opioid receptor
+@alias http://dbpedia.org/resource/Opioid_receptor
+@created 1364836491101
+@weight 0.5
+* :E1eAISWOMZlmYA6Z: 
+* :rBgOTcyxXFtXtLbi: 

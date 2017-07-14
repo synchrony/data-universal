@@ -1,8 +1,9 @@
-* :Lt9bSMGQkNOojG1f: agnosia
-    @created 1434985286020
-    @alias http://dbpedia.org/resource/Agnosia
-    @weight 1.0
-    * :6op1GvVMNPVwyu4N: 
-    * :3IXg5fvkEsF3XP8B: 
-    * :XfxEAUH1rUn80poR: 
-    * :wwlGoWxotOeHswMu: 
+@id Lt9bSMGQkNOojG1f
+@title agnosia
+@alias http://dbpedia.org/resource/Agnosia
+@created 1434985286020
+@weight 1.0
+* :6op1GvVMNPVwyu4N: 
+* :3IXg5fvkEsF3XP8B: 
+* :XfxEAUH1rUn80poR: 
+* :wwlGoWxotOeHswMu: 

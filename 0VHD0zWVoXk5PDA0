@@ -1,7 +1,8 @@
-* :0VHD0zWVoXk5PDA0: GNU Core Utilities
-    @created 1454009055702
-    @alias http://dbpedia.org/resource/GNU_Core_Utilities
-    @weight 0.5
-    * :6Anhgu940oFXkM5q: 
-    * :zHk97SQXsCKhPk4F: 
-    * :uzfyn9bpzuWy2EOs: 
+@id 0VHD0zWVoXk5PDA0
+@title GNU Core Utilities
+@alias http://dbpedia.org/resource/GNU_Core_Utilities
+@created 1454009055702
+@weight 0.5
+* :6Anhgu940oFXkM5q: 
+* :zHk97SQXsCKhPk4F: 
+* :uzfyn9bpzuWy2EOs: 

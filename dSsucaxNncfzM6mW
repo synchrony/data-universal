@@ -1,21 +1,22 @@
-* :dSsucaxNncfzM6mW: forgiveness
-    @created 1412182656194
-    @alias http://dbpedia.org/resource/Forgiveness
-    @weight 0.75
-    * :WSM7r0YhU8VYrKUn: 
-    * :E2m9ZewYjcVPVC1t: 
-    * :UoEPFDmzb7PTdQQV: 
-    * :71u6dNzYsWRYD7B0: 
-    * :R1WnzxVmkIKNNtC1: 
-    * :wBRDMseB4FdpSQyc: 
-    * :Hyz7rhd3CLPr6DpQ: 
-    * :CBP7IVIbQ7n9d3nd: 
-    * :3AjiwgfxyKu7t277: 
-    * :z1RotHUW2tLm98Jr: 
-    * :PU32VY7JuJva24jb: 
-    * :P1J67HCWASdaQznO: 
-    * :rnL7cFZqdutqIcPw: 
-    * :gchWCDk7Vcn26DBq: 
-    * :Pt61kqnXArZ2gIpp: 
-    * :IrWivUwQ8njsHjkz: 
-    * :Wtea3ZAKJFV1UT3J: 
+@id dSsucaxNncfzM6mW
+@title forgiveness
+@alias http://dbpedia.org/resource/Forgiveness
+@created 1412182656194
+@weight 0.75
+* :WSM7r0YhU8VYrKUn: 
+* :E2m9ZewYjcVPVC1t: 
+* :UoEPFDmzb7PTdQQV: 
+* :71u6dNzYsWRYD7B0: 
+* :R1WnzxVmkIKNNtC1: 
+* :wBRDMseB4FdpSQyc: 
+* :Hyz7rhd3CLPr6DpQ: 
+* :CBP7IVIbQ7n9d3nd: 
+* :3AjiwgfxyKu7t277: 
+* :z1RotHUW2tLm98Jr: 
+* :PU32VY7JuJva24jb: 
+* :P1J67HCWASdaQznO: 
+* :rnL7cFZqdutqIcPw: 
+* :gchWCDk7Vcn26DBq: 
+* :Pt61kqnXArZ2gIpp: 
+* :IrWivUwQ8njsHjkz: 
+* :Wtea3ZAKJFV1UT3J: 

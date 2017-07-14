@@ -1,4 +1,5 @@
-* :MNUzOgmrNzR7tNek: yellow
-    @created 1464919974919
-    @alias http://dbpedia.org/resource/Yellow
-    @weight 0.5
+@id MNUzOgmrNzR7tNek
+@title yellow
+@alias http://dbpedia.org/resource/Yellow
+@created 1464919974919
+@weight 0.5

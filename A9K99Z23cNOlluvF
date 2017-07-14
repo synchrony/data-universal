@@ -1,6 +1,7 @@
-* :A9K99Z23cNOlluvF: jack-o'-lantern
-    @created 1350135142590
-    @alias http://dbpedia.org/resource/Jack-o%27-lantern
-    @weight 0.5
-    * :StQZsrDSHZVHBYhv: 
-    * :mV9YJe4VsxT83A6J: 
+@id A9K99Z23cNOlluvF
+@title jack-o'-lantern
+@alias http://dbpedia.org/resource/Jack-o%27-lantern
+@created 1350135142590
+@weight 0.5
+* :StQZsrDSHZVHBYhv: 
+* :mV9YJe4VsxT83A6J: 

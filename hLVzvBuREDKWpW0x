@@ -1,4 +1,5 @@
-* :hLVzvBuREDKWpW0x: Ryan Gosling
-    @created 1352930533516
-    @alias http://dbpedia.org/resource/Ryan_Gosling
-    @weight 0.5
+@id hLVzvBuREDKWpW0x
+@title Ryan Gosling
+@alias http://dbpedia.org/resource/Ryan_Gosling
+@created 1352930533516
+@weight 0.5

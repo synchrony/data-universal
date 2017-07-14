@@ -1,12 +1,13 @@
-* :XfFyz9QZZ3Xdtl4F: Apache Cassandra
-    @created 1339380950938
-    @alias http://dbpedia.org/resource/Apache_Cassandra
-    @weight 0.75
-    * :PmaprSifaiOBy9Ib: 
-    * :SC6WWPBYHvf1tnAy: 
-    * :zQnxzZvBXR3f3Iq2: 
-    * :Pggu3D56ymhIDX7F: 
-    * :tPhsriYYuUwFp3qa: 
-    * :3FUy3xCI6ugoaROH: 
-    * :MDxg9KRIIB5YISm8: 
-    * :4NgLP2yoIhEoxWAf: 
+@id XfFyz9QZZ3Xdtl4F
+@title Apache Cassandra
+@alias http://dbpedia.org/resource/Apache_Cassandra
+@created 1339380950938
+@weight 0.75
+* :PmaprSifaiOBy9Ib: 
+* :SC6WWPBYHvf1tnAy: 
+* :zQnxzZvBXR3f3Iq2: 
+* :Pggu3D56ymhIDX7F: 
+* :tPhsriYYuUwFp3qa: 
+* :3FUy3xCI6ugoaROH: 
+* :MDxg9KRIIB5YISm8: 
+* :4NgLP2yoIhEoxWAf: 

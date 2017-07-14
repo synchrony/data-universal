@@ -1,7 +1,8 @@
-* :KJy5nRlODxVGP3uC: signal processing
-    @created 1353826071098
-    @alias http://dbpedia.org/resource/Signal_processing
-    @weight 0.5
-    * :d5AoTzZmlmox4QdP: 
-    * :78YXDCsW5WbubDwN: 
-    * :UJAJOWE7YNrAtoft: 
+@id KJy5nRlODxVGP3uC
+@title signal processing
+@alias http://dbpedia.org/resource/Signal_processing
+@created 1353826071098
+@weight 0.5
+* :d5AoTzZmlmox4QdP: 
+* :78YXDCsW5WbubDwN: 
+* :UJAJOWE7YNrAtoft: 

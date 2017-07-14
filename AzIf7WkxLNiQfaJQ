@@ -1,6 +1,7 @@
-* :AzIf7WkxLNiQfaJQ: EXPTIME
-    @created 1380923694892
-    @alias http://dbpedia.org/resource/EXPTIME
-    @weight 0.5
-    * :ukXvAaBIdHthgKhS: 
-    * :gqZrQxThU4v9Gwnz: 
+@id AzIf7WkxLNiQfaJQ
+@title EXPTIME
+@alias http://dbpedia.org/resource/EXPTIME
+@created 1380923694892
+@weight 0.5
+* :ukXvAaBIdHthgKhS: 
+* :gqZrQxThU4v9Gwnz: 

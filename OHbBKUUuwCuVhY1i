@@ -1,14 +1,15 @@
-* :OHbBKUUuwCuVhY1i: Air National Guard
-    @created 1452456572698
-    @alias http://dbpedia.org/resource/Air_National_Guard
-    @weight 0.5
-    * :7MkDWokyGpP3GTlw: 
-    * :Kgfg8NIiR8YScJup: 
-    * :rVFTddlqCVJoLls6: 
-    * :vM5OrqmNk7fownqi: 
-    * :H4uoq9gvh8OGJArs: 
-    * :5IuCgB0vICYcB8jJ: 
-    * :llqulPcdXl4oFJuR: 
-    * :z4WIxSiFj8hpSOuL: 
-    * :5z0dDH8aGHzBcsdC: 
-    * :pCQ3DiNzgP8f2lDV: 
+@id OHbBKUUuwCuVhY1i
+@title Air National Guard
+@alias http://dbpedia.org/resource/Air_National_Guard
+@created 1452456572698
+@weight 0.5
+* :7MkDWokyGpP3GTlw: 
+* :Kgfg8NIiR8YScJup: 
+* :rVFTddlqCVJoLls6: 
+* :vM5OrqmNk7fownqi: 
+* :H4uoq9gvh8OGJArs: 
+* :5IuCgB0vICYcB8jJ: 
+* :llqulPcdXl4oFJuR: 
+* :z4WIxSiFj8hpSOuL: 
+* :5z0dDH8aGHzBcsdC: 
+* :pCQ3DiNzgP8f2lDV: 

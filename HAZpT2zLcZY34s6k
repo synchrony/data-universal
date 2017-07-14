@@ -1,7 +1,8 @@
-* :HAZpT2zLcZY34s6k: Mesozoic
-    @created 1388042376109
-    @alias http://dbpedia.org/resource/Mesozoic
-    @weight 0.5
-    * :IWMXETiAIG84szMf: 
-    * :H9IDAeeTPk97gj8H: 
-    * :eJmCRu7BJJhhFOIP: 
+@id HAZpT2zLcZY34s6k
+@title Mesozoic
+@alias http://dbpedia.org/resource/Mesozoic
+@created 1388042376109
+@weight 0.5
+* :IWMXETiAIG84szMf: 
+* :H9IDAeeTPk97gj8H: 
+* :eJmCRu7BJJhhFOIP: 

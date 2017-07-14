@@ -1,6 +1,7 @@
-* :8OKTKZ9nzIdXdTAW: PsycINFO
-    @created 1451332669039
-    @alias http://dbpedia.org/resource/PsycINFO
-    @weight 0.5
-    * :qX6I77TzRyw5IEod: 
-    * :sxJD4d5VU8CUB9vA: 
+@id 8OKTKZ9nzIdXdTAW
+@title PsycINFO
+@alias http://dbpedia.org/resource/PsycINFO
+@created 1451332669039
+@weight 0.5
+* :qX6I77TzRyw5IEod: 
+* :sxJD4d5VU8CUB9vA: 

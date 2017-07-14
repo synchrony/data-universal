@@ -1,5 +1,6 @@
-* :nSNcj06kaRY0OrJy: bioreactor
-    @created 1378095042579
-    @alias http://dbpedia.org/resource/Bioreactor
-    @weight 0.5
-    * :AxNAhMoDv0gtoTXa: 
+@id nSNcj06kaRY0OrJy
+@title bioreactor
+@alias http://dbpedia.org/resource/Bioreactor
+@created 1378095042579
+@weight 0.5
+* :AxNAhMoDv0gtoTXa: 

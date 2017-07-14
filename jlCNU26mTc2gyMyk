@@ -1,6 +1,7 @@
-* :jlCNU26mTc2gyMyk: job satisfaction
-    @created 1378668727639
-    @alias http://dbpedia.org/resource/Job_satisfaction
-    @weight 0.5
-    * :Nbe2PQlgXdHwcQ9s: 
-    * :cm15nMxaM9WoudJg: 
+@id jlCNU26mTc2gyMyk
+@title job satisfaction
+@alias http://dbpedia.org/resource/Job_satisfaction
+@created 1378668727639
+@weight 0.5
+* :Nbe2PQlgXdHwcQ9s: 
+* :cm15nMxaM9WoudJg: 

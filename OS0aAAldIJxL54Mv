@@ -1,5 +1,6 @@
-* :OS0aAAldIJxL54Mv: troposphere
-    @created 1481651664609
-    @alias http://dbpedia.org/resource/Troposphere
-    @weight 0.5
-    * :hV0uWKaO4CuiQhbI: 
+@id OS0aAAldIJxL54Mv
+@title troposphere
+@alias http://dbpedia.org/resource/Troposphere
+@created 1481651664609
+@weight 0.5
+* :hV0uWKaO4CuiQhbI: 

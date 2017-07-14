@@ -1,4 +1,5 @@
-* :10yVFQUXGxTOsTxG: Volvo
-    @created 1375494150575
-    @alias http://dbpedia.org/resource/Volvo
-    @weight 0.5
+@id 10yVFQUXGxTOsTxG
+@title Volvo
+@alias http://dbpedia.org/resource/Volvo
+@created 1375494150575
+@weight 0.5

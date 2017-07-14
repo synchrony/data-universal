@@ -1,4 +1,5 @@
-* :ENVoSYnFzPpmOaqn: homography
-    @created 1337230479917
-    @alias http://dbpedia.org/resource/Homography
-    @weight 0.5
+@id ENVoSYnFzPpmOaqn
+@title homography
+@alias http://dbpedia.org/resource/Homography
+@created 1337230479917
+@weight 0.5

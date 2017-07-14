@@ -1,4 +1,5 @@
-* :OpsKIOziXMIVtJPx: BeagleBoard
-    @created 1339532163603
-    @alias http://dbpedia.org/resource/BeagleBoard
-    @weight 0.5
+@id OpsKIOziXMIVtJPx
+@title BeagleBoard
+@alias http://dbpedia.org/resource/BeagleBoard
+@created 1339532163603
+@weight 0.5

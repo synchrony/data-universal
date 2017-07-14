@@ -1,5 +1,6 @@
-* :tZALTRcryqQQIaXB: candy
-    @created 1439995989658
-    @alias http://dbpedia.org/resource/Candy
-    @weight 0.5
-    * :SbXwyqAcB3I6SaJd: 
+@id tZALTRcryqQQIaXB
+@title candy
+@alias http://dbpedia.org/resource/Candy
+@created 1439995989658
+@weight 0.5
+* :SbXwyqAcB3I6SaJd: 

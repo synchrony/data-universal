@@ -1,9 +1,10 @@
-* :5AvnI7luf1ofkqHC: Haskell (programming language)
-    @created 1404006819637
-    @alias http://dbpedia.org/resource/Haskell_(programming_language)
-    @weight 0.5
-    * :Uqx9BUpnTotEl19i: 
-    * :uJY5LnmhxppQXq18: 
-    * :Re3IdyED2q9W8lvC: 
-    * :IEnYj6njXoikZKCZ: 
-    * :ysI2soOwQBoxx3bX: 
+@id 5AvnI7luf1ofkqHC
+@title Haskell (programming language)
+@alias http://dbpedia.org/resource/Haskell_(programming_language)
+@created 1404006819637
+@weight 0.5
+* :Uqx9BUpnTotEl19i: 
+* :uJY5LnmhxppQXq18: 
+* :Re3IdyED2q9W8lvC: 
+* :IEnYj6njXoikZKCZ: 
+* :ysI2soOwQBoxx3bX: 

@@ -1,7 +1,8 @@
-* :cvtQjAJE348sIXx1: Java Persistence API
-    @created 1439333589808
-    @alias http://dbpedia.org/resource/Java_Persistence_API
-    @weight 0.5
-    * :KgdjHQZlGlXj95rx: 
-    * :W8FAViJRbcykJ0Jr: 
-    * :eKm804yUiRSTX8Ur: 
+@id cvtQjAJE348sIXx1
+@title Java Persistence API
+@alias http://dbpedia.org/resource/Java_Persistence_API
+@created 1439333589808
+@weight 0.5
+* :KgdjHQZlGlXj95rx: 
+* :W8FAViJRbcykJ0Jr: 
+* :eKm804yUiRSTX8Ur: 

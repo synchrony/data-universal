@@ -1,6 +1,7 @@
-* :BO18kY1yKThf5xBB: illuminance
-    @created 1354079911621
-    @alias http://dbpedia.org/resource/Illuminance
-    @weight 0.5
-    * :q0z4sFuNrkmMl9tQ: 
-    * :0QmgVoEp54OmvcIc: 
+@id BO18kY1yKThf5xBB
+@title illuminance
+@alias http://dbpedia.org/resource/Illuminance
+@created 1354079911621
+@weight 0.5
+* :q0z4sFuNrkmMl9tQ: 
+* :0QmgVoEp54OmvcIc: 

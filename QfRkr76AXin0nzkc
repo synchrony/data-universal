@@ -1,8 +1,9 @@
-* :QfRkr76AXin0nzkc: constraint
-    @created 1444504524113
-    @alias http://dbpedia.org/resource/Constraint
-    @weight 0.5
-    * :DrZWt5YZSC335VBd: 
-    * :kvTadtroehapZxrN: 
-    * :EJNZkVvH74ULFCOu: 
-    * :5uHqEiLYgmRdH0Xw: 
+@id QfRkr76AXin0nzkc
+@title constraint
+@alias http://dbpedia.org/resource/Constraint
+@created 1444504524113
+@weight 0.5
+* :DrZWt5YZSC335VBd: 
+* :kvTadtroehapZxrN: 
+* :EJNZkVvH74ULFCOu: 
+* :5uHqEiLYgmRdH0Xw: 

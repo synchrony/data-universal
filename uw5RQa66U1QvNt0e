@@ -1,6 +1,7 @@
-* :uw5RQa66U1QvNt0e: loudness
-    @created 1436039392940
-    @alias http://dbpedia.org/resource/Loudness
-    @weight 0.5
-    * :P4pKNG40otHfbzws: 
-    * :ama9y15blNy3gk9h: 
+@id uw5RQa66U1QvNt0e
+@title loudness
+@alias http://dbpedia.org/resource/Loudness
+@created 1436039392940
+@weight 0.5
+* :P4pKNG40otHfbzws: 
+* :ama9y15blNy3gk9h: 

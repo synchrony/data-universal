@@ -1,6 +1,7 @@
-* :PBQGHBlHCU4N9eoQ: speed of sound
-    @created 1447036384467
-    @alias http://dbpedia.org/resource/Speed_of_sound
-    @weight 0.5
-    * :qq4F56RXNbW6S7SO: 
-    * :yBiHC3pArYJUOnQk: 
+@id PBQGHBlHCU4N9eoQ
+@title speed of sound
+@alias http://dbpedia.org/resource/Speed_of_sound
+@created 1447036384467
+@weight 0.5
+* :qq4F56RXNbW6S7SO: 
+* :yBiHC3pArYJUOnQk: 

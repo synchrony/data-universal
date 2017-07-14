@@ -1,4 +1,5 @@
-* :YDDpfF5CUeGqgUmu: Castle doctrine
-    @created 1352681565928
-    @alias http://dbpedia.org/resource/Castle_doctrine
-    @weight 0.5
+@id YDDpfF5CUeGqgUmu
+@title Castle doctrine
+@alias http://dbpedia.org/resource/Castle_doctrine
+@created 1352681565928
+@weight 0.5

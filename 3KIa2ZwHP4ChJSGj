@@ -1,7 +1,8 @@
-* :3KIa2ZwHP4ChJSGj: loving-kindness
-    @created 1355190208445
-    @alias http://dbpedia.org/resource/Loving-kindness
-    @weight 0.5
-    * :Ln0zkXsvSv45otkD: 
-    * :qTCiZIor5CNbQXOO: 
-    * :PYO1ugOCI7qMzH5F: 
+@id 3KIa2ZwHP4ChJSGj
+@title loving-kindness
+@alias http://dbpedia.org/resource/Loving-kindness
+@created 1355190208445
+@weight 0.5
+* :Ln0zkXsvSv45otkD: 
+* :qTCiZIor5CNbQXOO: 
+* :PYO1ugOCI7qMzH5F: 

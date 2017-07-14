@@ -1,5 +1,6 @@
-* :vPGwLM5G7InSqqVd: electronic component
-    @created 1368176736727
-    @alias http://dbpedia.org/resource/Electronic_component
-    @weight 0.5
-    * :JZaCK8mIEZU0atLO: 
+@id vPGwLM5G7InSqqVd
+@title electronic component
+@alias http://dbpedia.org/resource/Electronic_component
+@created 1368176736727
+@weight 0.5
+* :JZaCK8mIEZU0atLO: 

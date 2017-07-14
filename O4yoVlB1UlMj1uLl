@@ -1,6 +1,7 @@
-* :O4yoVlB1UlMj1uLl: orans
-    @created 1347070697899
-    @alias http://dbpedia.org/resource/Orans
-    @weight 0.5
-    * :1MlqWEisZyc6F9cT: 
-    * :zIEkCeUTufL4p24a: 
+@id O4yoVlB1UlMj1uLl
+@title orans
+@alias http://dbpedia.org/resource/Orans
+@created 1347070697899
+@weight 0.5
+* :1MlqWEisZyc6F9cT: 
+* :zIEkCeUTufL4p24a: 

@@ -1,4 +1,5 @@
-* :f0AVTEPSGZc2Cmtc: hydrogen
-    @created 1344309326551
-    @alias http://dbpedia.org/resource/Hydrogen
-    @weight 0.75
+@id f0AVTEPSGZc2Cmtc
+@title hydrogen
+@alias http://dbpedia.org/resource/Hydrogen
+@created 1344309326551
+@weight 0.75

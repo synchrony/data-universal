@@ -1,4 +1,5 @@
-* :RTL0CYG4GGlVh7yA: IBM
-    @created 1313623776975
-    @alias http://dbpedia.org/resource/IBM
-    @weight 0.5
+@id RTL0CYG4GGlVh7yA
+@title IBM
+@alias http://dbpedia.org/resource/IBM
+@created 1313623776975
+@weight 0.5

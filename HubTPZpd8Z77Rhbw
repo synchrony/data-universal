@@ -1,4 +1,5 @@
-* :HubTPZpd8Z77Rhbw: Grand Haven Light
-    @created 1375596083473
-    @alias http://dbpedia.org/resource/Grand_Haven_Light
-    @weight 0.5
+@id HubTPZpd8Z77Rhbw
+@title Grand Haven Light
+@alias http://dbpedia.org/resource/Grand_Haven_Light
+@created 1375596083473
+@weight 0.5

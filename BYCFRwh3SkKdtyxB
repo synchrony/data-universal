@@ -1,4 +1,5 @@
-* :BYCFRwh3SkKdtyxB: boron
-    @created 1344309326601
-    @alias http://dbpedia.org/resource/Boron
-    @weight 0.75
+@id BYCFRwh3SkKdtyxB
+@title boron
+@alias http://dbpedia.org/resource/Boron
+@created 1344309326601
+@weight 0.75

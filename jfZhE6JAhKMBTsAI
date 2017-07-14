@@ -1,5 +1,6 @@
-* :jfZhE6JAhKMBTsAI: sumatriptan
-    @created 1327441678593
-    @alias http://dbpedia.org/resource/Sumatriptan
-    @weight 0.75
-    * :lm4bk97FOq6F3XZK: 
+@id jfZhE6JAhKMBTsAI
+@title sumatriptan
+@alias http://dbpedia.org/resource/Sumatriptan
+@created 1327441678593
+@weight 0.75
+* :lm4bk97FOq6F3XZK: 

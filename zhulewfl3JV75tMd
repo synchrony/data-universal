@@ -1,4 +1,5 @@
-* :zhulewfl3JV75tMd: Wikibooks
-    @created 1435074366224
-    @alias http://dbpedia.org/resource/Wikibooks
-    @weight 0.5
+@id zhulewfl3JV75tMd
+@title Wikibooks
+@alias http://dbpedia.org/resource/Wikibooks
+@created 1435074366224
+@weight 0.5

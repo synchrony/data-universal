@@ -1,5 +1,6 @@
-* :5YX9wNSVgJy9Z2tc: acorn
-    @created 1378048523365
-    @alias http://dbpedia.org/resource/Acorn
-    @weight 0.5
-    * :hxs7D84QMe2gOJnp: 
+@id 5YX9wNSVgJy9Z2tc
+@title acorn
+@alias http://dbpedia.org/resource/Acorn
+@created 1378048523365
+@weight 0.5
+* :hxs7D84QMe2gOJnp: 

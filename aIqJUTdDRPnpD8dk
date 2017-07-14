@@ -1,6 +1,7 @@
-* :aIqJUTdDRPnpD8dk: Paleozoic
-    @created 1388042376108
-    @alias http://dbpedia.org/resource/Paleozoic
-    @weight 0.5
-    * :cBCvTlLsiWD8oobA: 
-    * :721ZuLTq1LGbINpu: 
+@id aIqJUTdDRPnpD8dk
+@title Paleozoic
+@alias http://dbpedia.org/resource/Paleozoic
+@created 1388042376108
+@weight 0.5
+* :cBCvTlLsiWD8oobA: 
+* :721ZuLTq1LGbINpu: 

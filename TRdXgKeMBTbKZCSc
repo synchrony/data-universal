@@ -1,5 +1,6 @@
-* :TRdXgKeMBTbKZCSc: government bond
-    @created 1394137222314
-    @alias http://dbpedia.org/resource/Government_bond
-    @weight 0.5
-    * :7DyUuKUPcqfp5vLm: 
+@id TRdXgKeMBTbKZCSc
+@title government bond
+@alias http://dbpedia.org/resource/Government_bond
+@created 1394137222314
+@weight 0.5
+* :7DyUuKUPcqfp5vLm: 

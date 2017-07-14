@@ -1,6 +1,7 @@
-* :8wTbMxbJ2xCn9trf: GlobalFoundries
-    @created 1490580708605
-    @alias http://dbpedia.org/resource/GlobalFoundries
-    @weight 0.5
-    * :8nk8pD8SW4FGKjjm: 
-    * :voi4nwRq69fpX504: 
+@id 8wTbMxbJ2xCn9trf
+@title GlobalFoundries
+@alias http://dbpedia.org/resource/GlobalFoundries
+@created 1490580708605
+@weight 0.5
+* :8nk8pD8SW4FGKjjm: 
+* :voi4nwRq69fpX504: 

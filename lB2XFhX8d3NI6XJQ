@@ -1,4 +1,5 @@
-* :lB2XFhX8d3NI6XJQ: autocomplete
-    @created 1310276387766
-    @alias http://dbpedia.org/resource/Autocomplete
-    @weight 0.5
+@id lB2XFhX8d3NI6XJQ
+@title autocomplete
+@alias http://dbpedia.org/resource/Autocomplete
+@created 1310276387766
+@weight 0.5

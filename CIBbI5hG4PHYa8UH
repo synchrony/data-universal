@@ -1,4 +1,5 @@
-* :CIBbI5hG4PHYa8UH: gong
-    @created 1349185320997
-    @alias http://dbpedia.org/resource/Gong
-    @weight 0.5
+@id CIBbI5hG4PHYa8UH
+@title gong
+@alias http://dbpedia.org/resource/Gong
+@created 1349185320997
+@weight 0.5

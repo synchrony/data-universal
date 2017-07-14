@@ -1,4 +1,5 @@
-* :M2ubEVSPSgZsk34I: Piano Concerto No. 5 (Beethoven)
-    @created 1313803602648
-    @alias http://dbpedia.org/resource/Piano_Concerto_No._5_(Beethoven)
-    @weight 0.5
+@id M2ubEVSPSgZsk34I
+@title Piano Concerto No. 5 (Beethoven)
+@alias http://dbpedia.org/resource/Piano_Concerto_No._5_(Beethoven)
+@created 1313803602648
+@weight 0.5

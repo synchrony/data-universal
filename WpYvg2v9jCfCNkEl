@@ -1,6 +1,7 @@
-* :WpYvg2v9jCfCNkEl: chemoreceptor
-    @created 1350867999228
-    @alias http://dbpedia.org/resource/Chemoreceptor
-    @weight 0.5
-    * :qwrO0Fe8DJmuJKvX: 
-    * :CClqbNye7EpBCJde: 
+@id WpYvg2v9jCfCNkEl
+@title chemoreceptor
+@alias http://dbpedia.org/resource/Chemoreceptor
+@created 1350867999228
+@weight 0.5
+* :qwrO0Fe8DJmuJKvX: 
+* :CClqbNye7EpBCJde: 

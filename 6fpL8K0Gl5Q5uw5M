@@ -1,8 +1,9 @@
-* :6fpL8K0Gl5Q5uw5M: TriG (syntax)
-    @created 1345178063894
-    @alias http://dbpedia.org/resource/TriG_(syntax)
-    @weight 0.75
-    * :dc5jaCUmWt8WRfNs: 
-    * :cozI0EpYP6CyGa7v: 
-    * :m1ZCHFwWwOub9o6I: 
-    * :3rYX5h61zW9nU2Mr: 
+@id 6fpL8K0Gl5Q5uw5M
+@title TriG (syntax)
+@alias http://dbpedia.org/resource/TriG_(syntax)
+@created 1345178063894
+@weight 0.75
+* :dc5jaCUmWt8WRfNs: 
+* :cozI0EpYP6CyGa7v: 
+* :m1ZCHFwWwOub9o6I: 
+* :3rYX5h61zW9nU2Mr: 

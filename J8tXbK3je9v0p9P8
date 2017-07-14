@@ -1,5 +1,6 @@
-* :J8tXbK3je9v0p9P8: scientific theory
-    @created 1440001418154
-    @alias http://dbpedia.org/resource/Scientific_theory
-    @weight 0.5
-    * :IHqbtHwP5jrIv0py: 
+@id J8tXbK3je9v0p9P8
+@title scientific theory
+@alias http://dbpedia.org/resource/Scientific_theory
+@created 1440001418154
+@weight 0.5
+* :IHqbtHwP5jrIv0py: 

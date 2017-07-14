@@ -1,10 +1,11 @@
-* :aSRHOCdwAQ77I8vj: computer science
-    @created 1413985632891
-    @alias http://dbpedia.org/resource/Computer_science
-    @weight 0.75
-    * :7EemM4wuN7EFDyA5: 
-    * :3RpdC3lUaYjLJyhf: 
-    * :oMJ0hgazsMkwhVcG: 
-    * :0uwkrdeb5sTNWGKg: 
-    * :ygwcaiZGyoqlz27N: 
-    * :C5vZxX4ZC4RDAOPr: 
+@id aSRHOCdwAQ77I8vj
+@title computer science
+@alias http://dbpedia.org/resource/Computer_science
+@created 1413985632891
+@weight 0.75
+* :7EemM4wuN7EFDyA5: 
+* :3RpdC3lUaYjLJyhf: 
+* :oMJ0hgazsMkwhVcG: 
+* :0uwkrdeb5sTNWGKg: 
+* :ygwcaiZGyoqlz27N: 
+* :C5vZxX4ZC4RDAOPr: 

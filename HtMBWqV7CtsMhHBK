@@ -1,4 +1,5 @@
-* :HtMBWqV7CtsMhHBK: blackjack
-    @created 1343952800538
-    @alias http://dbpedia.org/resource/Blackjack
-    @weight 0.5
+@id HtMBWqV7CtsMhHBK
+@title blackjack
+@alias http://dbpedia.org/resource/Blackjack
+@created 1343952800538
+@weight 0.5

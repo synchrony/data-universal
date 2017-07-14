@@ -1,5 +1,6 @@
-* :PtaLFWbBTNR61cUo: version vector
-    @created 1463286736298
-    @alias http://dbpedia.org/resource/Version_vector
-    @weight 0.5
-    * :Stk0T6gE8KqXbABG: 
+@id PtaLFWbBTNR61cUo
+@title version vector
+@alias http://dbpedia.org/resource/Version_vector
+@created 1463286736298
+@weight 0.5
+* :Stk0T6gE8KqXbABG: 

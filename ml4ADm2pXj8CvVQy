@@ -1,4 +1,5 @@
-* :ml4ADm2pXj8CvVQy: gallium
-    @created 1344309326541
-    @alias http://dbpedia.org/resource/Gallium
-    @weight 0.5
+@id ml4ADm2pXj8CvVQy
+@title gallium
+@alias http://dbpedia.org/resource/Gallium
+@created 1344309326541
+@weight 0.5

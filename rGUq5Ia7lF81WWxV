@@ -1,5 +1,6 @@
-* :rGUq5Ia7lF81WWxV: Morse code
-    @created 1309189296754
-    @alias http://dbpedia.org/resource/Morse_code
-    @weight 0.5
-    * :ibq43KsLYMMwJwnX: 
+@id rGUq5Ia7lF81WWxV
+@title Morse code
+@alias http://dbpedia.org/resource/Morse_code
+@created 1309189296754
+@weight 0.5
+* :ibq43KsLYMMwJwnX: 

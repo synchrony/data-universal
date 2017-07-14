@@ -1,6 +1,7 @@
-* :cufhdGKZ0Pgg1kQ7: PROTON
-    @created 1330151948079
-    @alias http://dbpedia.org/resource/PROTON
-    @weight 0.5
-    * :0uFdimK6rmQ5VMJN: 
-    * :T5y6Zj7wR24jOrOC: 
+@id cufhdGKZ0Pgg1kQ7
+@title PROTON
+@alias http://dbpedia.org/resource/PROTON
+@created 1330151948079
+@weight 0.5
+* :0uFdimK6rmQ5VMJN: 
+* :T5y6Zj7wR24jOrOC: 

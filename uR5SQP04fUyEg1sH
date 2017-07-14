@@ -1,8 +1,9 @@
-* :uR5SQP04fUyEg1sH: pilot report
-    @created 1483243783882
-    @alias http://dbpedia.org/resource/Pilot_report
-    @weight 0.5
-    * :Kn3jlFXvwHRfbbyB: 
-    * :Oqc9LiqZVHkLPmTa: 
-    * :rTDNc8Nm0eYpZYvX: 
-    * :GbpZ45Z0MqRI13oB: 
+@id uR5SQP04fUyEg1sH
+@title pilot report
+@alias http://dbpedia.org/resource/Pilot_report
+@created 1483243783882
+@weight 0.5
+* :Kn3jlFXvwHRfbbyB: 
+* :Oqc9LiqZVHkLPmTa: 
+* :rTDNc8Nm0eYpZYvX: 
+* :GbpZ45Z0MqRI13oB: 

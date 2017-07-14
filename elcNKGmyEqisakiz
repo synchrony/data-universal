@@ -1,4 +1,5 @@
-* :elcNKGmyEqisakiz: blog
-    @created 1348434058593
-    @alias http://dbpedia.org/resource/Blog
-    @weight 0.5
+@id elcNKGmyEqisakiz
+@title blog
+@alias http://dbpedia.org/resource/Blog
+@created 1348434058593
+@weight 0.5

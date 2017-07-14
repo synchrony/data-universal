@@ -1,7 +1,8 @@
-* :bcIPwyFKdzWYOuB4: ergoloid
-    @created 1322055095263
-    @alias http://dbpedia.org/resource/Ergoloid
-    @weight 0.75
-    * :B87hXfMa0hGJgmhe: 
-    * :5KIg3XG9ITSnlcFg: 
-    * :YAdz8GJObTaaV9lQ: 
+@id bcIPwyFKdzWYOuB4
+@title ergoloid
+@alias http://dbpedia.org/resource/Ergoloid
+@created 1322055095263
+@weight 0.75
+* :B87hXfMa0hGJgmhe: 
+* :5KIg3XG9ITSnlcFg: 
+* :YAdz8GJObTaaV9lQ: 

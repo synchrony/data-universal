@@ -1,4 +1,5 @@
-* :tbvWGdqkxmSIs3Yi: salmon
-    @created 1429470826861
-    @alias http://dbpedia.org/resource/Salmon
-    @weight 0.5
+@id tbvWGdqkxmSIs3Yi
+@title salmon
+@alias http://dbpedia.org/resource/Salmon
+@created 1429470826861
+@weight 0.5

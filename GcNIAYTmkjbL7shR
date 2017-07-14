@@ -1,4 +1,5 @@
-* :GcNIAYTmkjbL7shR: Mr. Belvedere
-    @created 1316409464305
-    @alias http://dbpedia.org/resource/Mr._Belvedere
-    @weight 0.75
+@id GcNIAYTmkjbL7shR
+@title Mr. Belvedere
+@alias http://dbpedia.org/resource/Mr._Belvedere
+@created 1316409464305
+@weight 0.75

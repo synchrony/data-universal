@@ -1,8 +1,9 @@
-* :hLotQvDqGDkxjOx4: Amazon.com
-    @created 1310231362411
-    @alias http://dbpedia.org/resource/Amazon.com
-    @weight 0.75
-    * :1Ia817ywMEoPgKDF: 
-    * :9d8XUa6gRVUbt5PW: 
-    * :OY4txRBScT89NIrK: 
-    * :JhY7JEOmjjLP4Zsp: 
+@id hLotQvDqGDkxjOx4
+@title Amazon.com
+@alias http://dbpedia.org/resource/Amazon.com
+@created 1310231362411
+@weight 0.75
+* :1Ia817ywMEoPgKDF: 
+* :9d8XUa6gRVUbt5PW: 
+* :OY4txRBScT89NIrK: 
+* :JhY7JEOmjjLP4Zsp: 

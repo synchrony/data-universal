@@ -1,6 +1,7 @@
-* :7kZ8nHaFkG5NQXab: kashrut
-    @created 1356800262103
-    @alias http://dbpedia.org/resource/Kashrut
-    @weight 0.5
-    * :OrpPHfVgVZcTIkIC: 
-    * :WNw7ayan8614KDYn: 
+@id 7kZ8nHaFkG5NQXab
+@title kashrut
+@alias http://dbpedia.org/resource/Kashrut
+@created 1356800262103
+@weight 0.5
+* :OrpPHfVgVZcTIkIC: 
+* :WNw7ayan8614KDYn: 

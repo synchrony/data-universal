@@ -1,5 +1,6 @@
-* :BqILJOAIRfMTJ8Os: betweenness centrality
-    @created 1309188499107
-    @alias http://dbpedia.org/resource/Betweenness_centrality
-    @weight 0.75
-    * :iXRIl4dyxw2zIuxc: 
+@id BqILJOAIRfMTJ8Os
+@title betweenness centrality
+@alias http://dbpedia.org/resource/Betweenness_centrality
+@created 1309188499107
+@weight 0.75
+* :iXRIl4dyxw2zIuxc: 

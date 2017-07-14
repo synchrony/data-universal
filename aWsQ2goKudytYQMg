@@ -1,5 +1,6 @@
-* :aWsQ2goKudytYQMg: airband
-    @created 1496590732572
-    @alias http://dbpedia.org/resource/Airband
-    @weight 0.5
-    * :qOXIH5XgGkTJD6kf: 
+@id aWsQ2goKudytYQMg
+@title airband
+@alias http://dbpedia.org/resource/Airband
+@created 1496590732572
+@weight 0.5
+* :qOXIH5XgGkTJD6kf: 

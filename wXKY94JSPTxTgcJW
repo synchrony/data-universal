@@ -1,6 +1,7 @@
-* :wXKY94JSPTxTgcJW: Autism Diagnostic Observation Schedule
-    @created 1390855027233
-    @alias http://dbpedia.org/resource/Autism_Diagnostic_Observation_Schedule
-    @weight 0.75
-    * :ONtFC7Xz58304uzh: 
-    * :XHgnkKUiRgdFUIJY: 
+@id wXKY94JSPTxTgcJW
+@title Autism Diagnostic Observation Schedule
+@alias http://dbpedia.org/resource/Autism_Diagnostic_Observation_Schedule
+@created 1390855027233
+@weight 0.75
+* :ONtFC7Xz58304uzh: 
+* :XHgnkKUiRgdFUIJY: 

@@ -1,7 +1,8 @@
-* :b0blus9QljWBj1M2: japa
-    @created 1415288934450
-    @alias http://dbpedia.org/resource/Japa
-    @weight 0.5
-    * :TuDFbYq0ZBdo7Y1K: 
-    * :1th1phqOQdAoFUEr: 
-    * :hnIzUpBu8JEdorGs: 
+@id b0blus9QljWBj1M2
+@title japa
+@alias http://dbpedia.org/resource/Japa
+@created 1415288934450
+@weight 0.5
+* :TuDFbYq0ZBdo7Y1K: 
+* :1th1phqOQdAoFUEr: 
+* :hnIzUpBu8JEdorGs: 

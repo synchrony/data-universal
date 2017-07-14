@@ -1,4 +1,5 @@
-* :g2TFe5H8ojACE7w2: buzzer
-    @created 1339436077229
-    @alias http://dbpedia.org/resource/Buzzer
-    @weight 0.5
+@id g2TFe5H8ojACE7w2
+@title buzzer
+@alias http://dbpedia.org/resource/Buzzer
+@created 1339436077229
+@weight 0.5

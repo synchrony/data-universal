@@ -1,6 +1,7 @@
-* :Q970llnaQUeR9Q9C: chicken (food)
-    @created 1354413461615
-    @alias http://dbpedia.org/resource/Chicken_(food)
-    @weight 0.5
-    * :yJrsr7cU33KmbwbS: 
-    * :kYNlqlw1LWb16V36: 
+@id Q970llnaQUeR9Q9C
+@title chicken (food)
+@alias http://dbpedia.org/resource/Chicken_(food)
+@created 1354413461615
+@weight 0.5
+* :yJrsr7cU33KmbwbS: 
+* :kYNlqlw1LWb16V36: 

@@ -1,5 +1,6 @@
-* :2hNFBKswlWXK6l5x: oak
-    @created 1339259920282
-    @alias http://dbpedia.org/resource/Oak
-    @weight 0.5
-    * :0oEUOaCA8r0OsozV: 
+@id 2hNFBKswlWXK6l5x
+@title oak
+@alias http://dbpedia.org/resource/Oak
+@created 1339259920282
+@weight 0.5
+* :0oEUOaCA8r0OsozV: 

@@ -1,5 +1,6 @@
-* :bNhGlFtlL3mv1omK: synonym
-    @created 1441483672388
-    @alias http://dbpedia.org/resource/Synonym
-    @weight 0.5
-    * :jO0zpsxXd1Q7GW8Q: 
+@id bNhGlFtlL3mv1omK
+@title synonym
+@alias http://dbpedia.org/resource/Synonym
+@created 1441483672388
+@weight 0.5
+* :jO0zpsxXd1Q7GW8Q: 

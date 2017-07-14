@@ -1,4 +1,5 @@
-* :QJaxwhRmdPRuEBtM: rainwater harvesting
-    @created 1338270820233
-    @alias http://dbpedia.org/resource/Rainwater_harvesting
-    @weight 0.5
+@id QJaxwhRmdPRuEBtM
+@title rainwater harvesting
+@alias http://dbpedia.org/resource/Rainwater_harvesting
+@created 1338270820233
+@weight 0.5

@@ -1,5 +1,6 @@
-* :1ICIVr5BXftLon1R: existential graph
-    @created 1344136969055
-    @alias http://dbpedia.org/resource/Existential_graph
-    @weight 0.5
-    * :Z7Z0Jy04Uy48a0nw: 
+@id 1ICIVr5BXftLon1R
+@title existential graph
+@alias http://dbpedia.org/resource/Existential_graph
+@created 1344136969055
+@weight 0.5
+* :Z7Z0Jy04Uy48a0nw: 

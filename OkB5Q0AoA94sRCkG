@@ -1,8 +1,9 @@
-* :OkB5Q0AoA94sRCkG: dream
-    @created 1310545660495
-    @alias http://dbpedia.org/resource/Dream
-    @weight 0.5
-    * :XMl9cMQlL1UX764B: 
-    * :9O6qN0sgnHPOjFfx: 
-    * :c9udPAhrm8sLGhd9: 
-    * :QfZ1XhIlysNCl0yu: 
+@id OkB5Q0AoA94sRCkG
+@title dream
+@alias http://dbpedia.org/resource/Dream
+@created 1310545660495
+@weight 0.5
+* :XMl9cMQlL1UX764B: 
+* :9O6qN0sgnHPOjFfx: 
+* :c9udPAhrm8sLGhd9: 
+* :QfZ1XhIlysNCl0yu: 

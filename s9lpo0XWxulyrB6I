@@ -1,4 +1,5 @@
-* :s9lpo0XWxulyrB6I: thimble
-    @created 1316380425773
-    @alias http://dbpedia.org/resource/Thimble
-    @weight 0.5
+@id s9lpo0XWxulyrB6I
+@title thimble
+@alias http://dbpedia.org/resource/Thimble
+@created 1316380425773
+@weight 0.5

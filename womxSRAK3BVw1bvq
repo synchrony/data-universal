@@ -1,4 +1,5 @@
-* :womxSRAK3BVw1bvq: aerodrome
-    @created 1488163040800
-    @alias http://dbpedia.org/resource/Aerodrome
-    @weight 0.5
+@id womxSRAK3BVw1bvq
+@title aerodrome
+@alias http://dbpedia.org/resource/Aerodrome
+@created 1488163040800
+@weight 0.5

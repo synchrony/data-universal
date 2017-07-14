@@ -1,5 +1,6 @@
-* :mFGdRXzfMXjRgcmA: RDF 1.1 Turtle, Terse RDF Triple Language, W3C Recommendation 25 February 2014
-    @created 1420652348995
-    @weight 0.5
-    * :4EqxPdls9ydvL20k: 
-    * :O4Hb6CxSys1oSRQM: 
+@id mFGdRXzfMXjRgcmA
+@title RDF 1.1 Turtle, Terse RDF Triple Language, W3C Recommendation 25 February 2014
+@created 1420652348995
+@weight 0.5
+* :4EqxPdls9ydvL20k: 
+* :O4Hb6CxSys1oSRQM: 

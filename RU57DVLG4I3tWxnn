@@ -1,4 +1,5 @@
-* :RU57DVLG4I3tWxnn: clock
-    @created 1337740014342
-    @alias http://dbpedia.org/resource/Clock
-    @weight 0.5
+@id RU57DVLG4I3tWxnn
+@title clock
+@alias http://dbpedia.org/resource/Clock
+@created 1337740014342
+@weight 0.5

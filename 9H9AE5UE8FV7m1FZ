@@ -1,11 +1,12 @@
-* :9H9AE5UE8FV7m1FZ: philosophy
-    @created 1315185158360
-    @alias http://dbpedia.org/resource/Philosophy
-    @weight 0.75
-    * :YPCO11I2NW0PnQ8L: 
-    * :qBx4AzqyeboUcy2i: 
-    * :xFm1ckz9pD4NzjxW: 
-    * :dMlYimhnordIDcfg: 
-    * :ry06zOAbxV8twBJJ: 
-    * :k29bxWGK2TL0CWuu: 
-    * :wBdoAiVmIuFQ9gik: 
+@id 9H9AE5UE8FV7m1FZ
+@title philosophy
+@alias http://dbpedia.org/resource/Philosophy
+@created 1315185158360
+@weight 0.75
+* :YPCO11I2NW0PnQ8L: 
+* :qBx4AzqyeboUcy2i: 
+* :xFm1ckz9pD4NzjxW: 
+* :dMlYimhnordIDcfg: 
+* :ry06zOAbxV8twBJJ: 
+* :k29bxWGK2TL0CWuu: 
+* :wBdoAiVmIuFQ9gik: 

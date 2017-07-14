@@ -1,10 +1,11 @@
-* :9jtdn0peaPbHsHWL: beta-Alanine
-    @created 1434637414975
-    @alias http://dbpedia.org/resource/Beta-Alanine
-    @weight 0.5
-    * :TPsKgOa4raJBY9rf: 
-    * :PkCz0WDyDD4mUWtl: 
-    * :8MzGEY93nCXpVZzz: 
-    * :bbxVi9ODTQHVDdYE: 
-    * :9afbXPHLAG3FftbL: 
-    * :nBlxTkoXEkg1p0yv: 
+@id 9jtdn0peaPbHsHWL
+@title beta-Alanine
+@alias http://dbpedia.org/resource/Beta-Alanine
+@created 1434637414975
+@weight 0.5
+* :TPsKgOa4raJBY9rf: 
+* :PkCz0WDyDD4mUWtl: 
+* :8MzGEY93nCXpVZzz: 
+* :bbxVi9ODTQHVDdYE: 
+* :9afbXPHLAG3FftbL: 
+* :nBlxTkoXEkg1p0yv: 

@@ -1,5 +1,6 @@
-* :N08P3QEITKIawtaU: vector space
-    @created 1403800124332
-    @alias http://dbpedia.org/resource/Vector_space
-    @weight 0.5
-    * :CGvw49adNDatYseX: 
+@id N08P3QEITKIawtaU
+@title vector space
+@alias http://dbpedia.org/resource/Vector_space
+@created 1403800124332
+@weight 0.5
+* :CGvw49adNDatYseX: 

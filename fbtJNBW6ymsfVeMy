@@ -1,4 +1,5 @@
-* :fbtJNBW6ymsfVeMy: barium
-    @created 1344309326600
-    @alias http://dbpedia.org/resource/Barium
-    @weight 0.5
+@id fbtJNBW6ymsfVeMy
+@title barium
+@alias http://dbpedia.org/resource/Barium
+@created 1344309326600
+@weight 0.5

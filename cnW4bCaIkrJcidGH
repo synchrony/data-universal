@@ -1,4 +1,5 @@
-* :cnW4bCaIkrJcidGH: switch
-    @created 1349298892187
-    @alias http://dbpedia.org/resource/Switch
-    @weight 0.5
+@id cnW4bCaIkrJcidGH
+@title switch
+@alias http://dbpedia.org/resource/Switch
+@created 1349298892187
+@weight 0.5

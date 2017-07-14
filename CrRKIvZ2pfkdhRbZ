@@ -1,6 +1,7 @@
-* :CrRKIvZ2pfkdhRbZ: bird feeder
-    @created 1497540869236
-    @alias http://dbpedia.org/resource/Bird_feeder
-    @weight 0.5
-    * :wAGh1bFq4q5mA2Cj: 
-    * :9DhqpqubeRC3oiAZ: 
+@id CrRKIvZ2pfkdhRbZ
+@title bird feeder
+@alias http://dbpedia.org/resource/Bird_feeder
+@created 1497540869236
+@weight 0.5
+* :wAGh1bFq4q5mA2Cj: 
+* :9DhqpqubeRC3oiAZ: 

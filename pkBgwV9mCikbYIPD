@@ -1,11 +1,12 @@
-* :pkBgwV9mCikbYIPD: Resource Description Framework
-    @created 1316458160314
-    @alias http://dbpedia.org/resource/Resource_Description_Framework
-    @weight 1.0
-    * :DDgZuW3gWte3jXMj: 
-    * :JWFbqBsndeS6SO9s: 
-    * :vRypBuezBVZOlGrQ: 
-    * :wbci6OxQPuQSpGje: 
-    * :PoBtSylFGs8nvJ2O: 
-    * :msfnGEy6KagYlyvm: 
-    * :XBqGhU2wbT7LknAN: 
+@id pkBgwV9mCikbYIPD
+@title Resource Description Framework
+@alias http://dbpedia.org/resource/Resource_Description_Framework
+@created 1316458160314
+@weight 1.0
+* :DDgZuW3gWte3jXMj: 
+* :JWFbqBsndeS6SO9s: 
+* :vRypBuezBVZOlGrQ: 
+* :wbci6OxQPuQSpGje: 
+* :PoBtSylFGs8nvJ2O: 
+* :msfnGEy6KagYlyvm: 
+* :XBqGhU2wbT7LknAN: 

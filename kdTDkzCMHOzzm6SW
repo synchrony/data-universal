@@ -1,4 +1,5 @@
-* :kdTDkzCMHOzzm6SW: trombone
-    @created 1332625442832
-    @alias http://dbpedia.org/resource/Trombone
-    @weight 0.5
+@id kdTDkzCMHOzzm6SW
+@title trombone
+@alias http://dbpedia.org/resource/Trombone
+@created 1332625442832
+@weight 0.5

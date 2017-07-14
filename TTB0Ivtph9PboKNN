@@ -1,6 +1,7 @@
-* :TTB0Ivtph9PboKNN: Lou Reed
-    @created 1313853029053
-    @alias http://dbpedia.org/resource/Lou_Reed
-    @weight 0.5
-    * :mfhu1facnXQAMsve: 
-    * :lB4GVRbXOllY6rm3: 
+@id TTB0Ivtph9PboKNN
+@title Lou Reed
+@alias http://dbpedia.org/resource/Lou_Reed
+@created 1313853029053
+@weight 0.5
+* :mfhu1facnXQAMsve: 
+* :lB4GVRbXOllY6rm3: 

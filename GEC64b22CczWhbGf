@@ -1,4 +1,5 @@
-* :GEC64b22CczWhbGf: inversion (meteorology)
-    @created 1481733909015
-    @alias http://dbpedia.org/resource/Inversion_(meteorology)
-    @weight 0.5
+@id GEC64b22CczWhbGf
+@title inversion (meteorology)
+@alias http://dbpedia.org/resource/Inversion_(meteorology)
+@created 1481733909015
+@weight 0.5

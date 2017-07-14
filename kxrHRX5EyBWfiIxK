@@ -1,5 +1,6 @@
-* :kxrHRX5EyBWfiIxK: Alice's Restaurant
-    @created 1416778970778
-    @alias http://dbpedia.org/resource/Alice%27s_Restaurant
-    @weight 0.5
-    * :4aS32qNotNbok62b: 
+@id kxrHRX5EyBWfiIxK
+@title Alice's Restaurant
+@alias http://dbpedia.org/resource/Alice%27s_Restaurant
+@created 1416778970778
+@weight 0.5
+* :4aS32qNotNbok62b: 

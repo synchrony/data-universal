@@ -1,4 +1,5 @@
-* :KmF4P7rqhUPI8paN: electron
-    @created 1419869474267
-    @alias http://dbpedia.org/resource/Electron
-    @weight 0.5
+@id KmF4P7rqhUPI8paN
+@title electron
+@alias http://dbpedia.org/resource/Electron
+@created 1419869474267
+@weight 0.5

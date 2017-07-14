@@ -1,7 +1,8 @@
-* :ai7rPDNIga44S951: stigmergy
-    @created 1352608279035
-    @alias http://dbpedia.org/resource/Stigmergy
-    @weight 0.5
-    * :gYCLjD2hwBMSbMkJ: 
-    * :5bbeygVIyQrIDOmc: 
-    * :hxWjhgwvf8pB2wv7: 
+@id ai7rPDNIga44S951
+@title stigmergy
+@alias http://dbpedia.org/resource/Stigmergy
+@created 1352608279035
+@weight 0.5
+* :gYCLjD2hwBMSbMkJ: 
+* :5bbeygVIyQrIDOmc: 
+* :hxWjhgwvf8pB2wv7: 

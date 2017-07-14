@@ -1,5 +1,6 @@
-* :CjeJgFcZGFdkYc2r: kale
-    @created 1309178125139
-    @alias http://dbpedia.org/resource/Kale
-    @weight 0.5
-    * :P9B6gUKrObWXNUTY: 
+@id CjeJgFcZGFdkYc2r
+@title kale
+@alias http://dbpedia.org/resource/Kale
+@created 1309178125139
+@weight 0.5
+* :P9B6gUKrObWXNUTY: 

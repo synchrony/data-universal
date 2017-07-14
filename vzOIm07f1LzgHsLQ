@@ -1,5 +1,6 @@
-* :vzOIm07f1LzgHsLQ: publisher
-    @created 1316489516749
-    @alias http://dbpedia.org/resource/Publisher
-    @weight 0.5
-    * :WlmqQD3xZYTPNhYo: 
+@id vzOIm07f1LzgHsLQ
+@title publisher
+@alias http://dbpedia.org/resource/Publisher
+@created 1316489516749
+@weight 0.5
+* :WlmqQD3xZYTPNhYo: 

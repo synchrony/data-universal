@@ -1,6 +1,7 @@
-* :VleZ9atzcHTRxYpv: blank node
-    @created 1447053519329
-    @alias http://dbpedia.org/resource/Blank_node
-    @weight 0.5
-    * :6aPrZpBM5mlP1uOw: 
-    * :QBgJprc2tom8AzY1: 
+@id VleZ9atzcHTRxYpv
+@title blank node
+@alias http://dbpedia.org/resource/Blank_node
+@created 1447053519329
+@weight 0.5
+* :6aPrZpBM5mlP1uOw: 
+* :QBgJprc2tom8AzY1: 

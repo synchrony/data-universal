@@ -1,5 +1,6 @@
-* :hpVyGu26Rmw5uA9j: directed graph
-    @created 1310234505215
-    @alias http://dbpedia.org/resource/Directed_graph
-    @weight 0.5
-    * :81J6caFpSySml6Rs: 
+@id hpVyGu26Rmw5uA9j
+@title directed graph
+@alias http://dbpedia.org/resource/Directed_graph
+@created 1310234505215
+@weight 0.5
+* :81J6caFpSySml6Rs: 

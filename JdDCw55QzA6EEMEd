@@ -1,6 +1,7 @@
-* :JdDCw55QzA6EEMEd: kilogram
-    @created 1425236368744
-    @alias http://dbpedia.org/resource/Kilogram
-    @weight 0.5
-    * :RnI6mmCtoEkBsajJ: 
-    * :OhrN1MVW3ayY0vu8: 
+@id JdDCw55QzA6EEMEd
+@title kilogram
+@alias http://dbpedia.org/resource/Kilogram
+@created 1425236368744
+@weight 0.5
+* :RnI6mmCtoEkBsajJ: 
+* :OhrN1MVW3ayY0vu8: 

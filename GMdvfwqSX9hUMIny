@@ -1,4 +1,5 @@
-* :GMdvfwqSX9hUMIny: goat
-    @created 1360475747580
-    @alias http://dbpedia.org/resource/Goat
-    @weight 0.5
+@id GMdvfwqSX9hUMIny
+@title goat
+@alias http://dbpedia.org/resource/Goat
+@created 1360475747580
+@weight 0.5

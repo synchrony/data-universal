@@ -1,4 +1,5 @@
-* :aCg116TTPocIilig: Dr. Seuss
-    @created 1373175898147
-    @alias http://dbpedia.org/resource/Dr._Seuss
-    @weight 0.75
+@id aCg116TTPocIilig
+@title Dr. Seuss
+@alias http://dbpedia.org/resource/Dr._Seuss
+@created 1373175898147
+@weight 0.75

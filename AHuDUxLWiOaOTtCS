@@ -1,4 +1,5 @@
-* :AHuDUxLWiOaOTtCS: Compendium (software)
-    @created 1344202840588
-    @alias http://dbpedia.org/resource/Compendium_(software)
-    @weight 0.5
+@id AHuDUxLWiOaOTtCS
+@title Compendium (software)
+@alias http://dbpedia.org/resource/Compendium_(software)
+@created 1344202840588
+@weight 0.5

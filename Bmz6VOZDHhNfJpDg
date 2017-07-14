@@ -1,4 +1,5 @@
-* :Bmz6VOZDHhNfJpDg: helmet camera
-    @created 1369606057741
-    @alias http://dbpedia.org/resource/Helmet_camera
-    @weight 0.5
+@id Bmz6VOZDHhNfJpDg
+@title helmet camera
+@alias http://dbpedia.org/resource/Helmet_camera
+@created 1369606057741
+@weight 0.5

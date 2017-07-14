@@ -1,4 +1,5 @@
-* :URG5YWXtZGpFKEHt: charades
-    @created 1347076784132
-    @alias http://dbpedia.org/resource/Charades
-    @weight 0.5
+@id URG5YWXtZGpFKEHt
+@title charades
+@alias http://dbpedia.org/resource/Charades
+@created 1347076784132
+@weight 0.5

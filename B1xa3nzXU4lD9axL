@@ -1,6 +1,7 @@
-* :B1xa3nzXU4lD9axL: idempotence
-    @created 1376369179282
-    @alias http://dbpedia.org/resource/Idempotenceus and confusing modulo-3 exploding pen from Goldeneye. Only Bond, with his hyper-human faculties, could have kept track of the pen's state as Boris clicked it nervously, unwittingly arming and disarming it.
-    @weight 0.5
-    * :OYj9zG0l3GGS0x6y: 
-    * :0qYNhWdsiRTxNupY: 
+@id B1xa3nzXU4lD9axL
+@title idempotence
+@alias http://dbpedia.org/resource/Idempotenceus and confusing modulo-3 exploding pen from Goldeneye. Only Bond, with his hyper-human faculties, could have kept track of the pen's state as Boris clicked it nervously, unwittingly arming and disarming it.
+@created 1376369179282
+@weight 0.5
+* :OYj9zG0l3GGS0x6y: 
+* :0qYNhWdsiRTxNupY: 

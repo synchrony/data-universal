@@ -1,6 +1,7 @@
-* :0RHQHhAGy65IsbrG: moon
-    @created 1464924907140
-    @alias http://dbpedia.org/resource/Moon
-    @weight 0.5
-    * :N2Z5nGhjHJY2kOyT: 
-    * :amtH3AlKtVNwh4r6: 
+@id 0RHQHhAGy65IsbrG
+@title moon
+@alias http://dbpedia.org/resource/Moon
+@created 1464924907140
+@weight 0.5
+* :N2Z5nGhjHJY2kOyT: 
+* :amtH3AlKtVNwh4r6: 

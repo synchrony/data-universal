@@ -1,4 +1,5 @@
-* :EjPEZxfE0BTGgXMd: Zürich Hauptbahnhof
-    @created 1417532522641
-    @alias http://dbpedia.org/resource/Z%C3%BCrich_Hauptbahnhof
-    @weight 0.5
+@id EjPEZxfE0BTGgXMd
+@title Zürich Hauptbahnhof
+@alias http://dbpedia.org/resource/Z%C3%BCrich_Hauptbahnhof
+@created 1417532522641
+@weight 0.5

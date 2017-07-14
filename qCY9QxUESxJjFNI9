@@ -1,5 +1,6 @@
-* :qCY9QxUESxJjFNI9: scientism
-    @created 1337145624381
-    @alias http://dbpedia.org/resource/Scientism
-    @weight 0.5
-    * :BYGY9OUxOuLKT4jy: 
+@id qCY9QxUESxJjFNI9
+@title scientism
+@alias http://dbpedia.org/resource/Scientism
+@created 1337145624381
+@weight 0.5
+* :BYGY9OUxOuLKT4jy: 

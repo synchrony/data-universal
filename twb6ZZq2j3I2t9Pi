@@ -1,5 +1,6 @@
-* :twb6ZZq2j3I2t9Pi: Clinical Document Architecture
-    @created 1346519236774
-    @alias http://dbpedia.org/resource/Clinical_Document_Architecture
-    @weight 0.5
-    * :NcojBFPD0kvc2sRv: 
+@id twb6ZZq2j3I2t9Pi
+@title Clinical Document Architecture
+@alias http://dbpedia.org/resource/Clinical_Document_Architecture
+@created 1346519236774
+@weight 0.5
+* :NcojBFPD0kvc2sRv: 

@@ -1,6 +1,7 @@
-* :TMSNsYlcWKeLNCas: atypical antipsychotic
-    @created 1410149948205
-    @alias http://dbpedia.org/resource/Atypical_antipsychotic
-    @weight 0.5
-    * :oWmLDmkc7dmCzc46: 
-    * :Be8KC8zAG7oQnvbU: 
+@id TMSNsYlcWKeLNCas
+@title atypical antipsychotic
+@alias http://dbpedia.org/resource/Atypical_antipsychotic
+@created 1410149948205
+@weight 0.5
+* :oWmLDmkc7dmCzc46: 
+* :Be8KC8zAG7oQnvbU: 

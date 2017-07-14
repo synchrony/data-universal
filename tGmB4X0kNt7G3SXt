@@ -1,5 +1,6 @@
-* :tGmB4X0kNt7G3SXt: ocean acidification
-    @created 1378077758976
-    @alias http://dbpedia.org/resource/Ocean_acidification
-    @weight 0.5
-    * :PfMzI4xhhWtliWKV: 
+@id tGmB4X0kNt7G3SXt
+@title ocean acidification
+@alias http://dbpedia.org/resource/Ocean_acidification
+@created 1378077758976
+@weight 0.5
+* :PfMzI4xhhWtliWKV: 

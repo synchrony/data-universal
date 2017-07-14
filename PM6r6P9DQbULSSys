@@ -1,6 +1,7 @@
-* :PM6r6P9DQbULSSys: weight training
-    @created 1434940648426
-    @alias http://dbpedia.org/resource/Weight_training
-    @weight 0.5
-    * :3Dc1MG6fAsMLMVsC: 
-    * :xdb4IZEO9VlGvHwQ: 
+@id PM6r6P9DQbULSSys
+@title weight training
+@alias http://dbpedia.org/resource/Weight_training
+@created 1434940648426
+@weight 0.5
+* :3Dc1MG6fAsMLMVsC: 
+* :xdb4IZEO9VlGvHwQ: 

@@ -1,10 +1,11 @@
-* :foy4Sws0ZZmO3CHj: inspection time
-    @created 1353826447177
-    @alias http://dbpedia.org/resource/Inspection_time
-    @weight 0.5
-    * :bXCFEB9AD4k8uagv: 
-    * :ujdllcFhLYH3k1gj: 
-    * :tofbSSucEVtn9r9s: 
-    * :MfSHvdvm5Gbag9T5: 
-    * :3wnDwQ25YuEowHPE: 
-    * :58mhp6ZYdF0cD6ox: 
+@id foy4Sws0ZZmO3CHj
+@title inspection time
+@alias http://dbpedia.org/resource/Inspection_time
+@created 1353826447177
+@weight 0.5
+* :bXCFEB9AD4k8uagv: 
+* :ujdllcFhLYH3k1gj: 
+* :tofbSSucEVtn9r9s: 
+* :MfSHvdvm5Gbag9T5: 
+* :3wnDwQ25YuEowHPE: 
+* :58mhp6ZYdF0cD6ox: 

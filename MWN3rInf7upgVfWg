@@ -1,4 +1,5 @@
-* :MWN3rInf7upgVfWg: Ubuntu One
-    @created 1344134319494
-    @alias http://dbpedia.org/resource/Ubuntu_One
-    @weight 0.5
+@id MWN3rInf7upgVfWg
+@title Ubuntu One
+@alias http://dbpedia.org/resource/Ubuntu_One
+@created 1344134319494
+@weight 0.5

@@ -1,6 +1,7 @@
-* :KG5FRR1uQGzpyhoR: law
-    @created 1420512851931
-    @alias http://dbpedia.org/resource/Law
-    @weight 0.5
-    * :1ancE9GAvkzDu1UX: 
-    * :hGS24QM7VZPuJHrF: 
+@id KG5FRR1uQGzpyhoR
+@title law
+@alias http://dbpedia.org/resource/Law
+@created 1420512851931
+@weight 0.5
+* :1ancE9GAvkzDu1UX: 
+* :hGS24QM7VZPuJHrF: 

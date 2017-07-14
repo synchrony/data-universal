@@ -1,10 +1,11 @@
-* :kQqTgz1klXVG9Sz3: Freebase
-    @created 1313804606164
-    @alias http://dbpedia.org/resource/Freebase
-    @weight 0.5
-    * :cfCIXVX3A67isTu1: 
-    * :bi4x6TdOPpBaChi3: 
-    * :P9IwmI8ivmvGnRgK: 
-    * :I2cd5pE5zhhP7RPZ: 
-    * :fbPSjLKfkqcswSPf: 
-    * :Vs5Z2L0Nd5tqoqZV: 
+@id kQqTgz1klXVG9Sz3
+@title Freebase
+@alias http://dbpedia.org/resource/Freebase
+@created 1313804606164
+@weight 0.5
+* :cfCIXVX3A67isTu1: 
+* :bi4x6TdOPpBaChi3: 
+* :P9IwmI8ivmvGnRgK: 
+* :I2cd5pE5zhhP7RPZ: 
+* :fbPSjLKfkqcswSPf: 
+* :Vs5Z2L0Nd5tqoqZV: 

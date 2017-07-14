@@ -1,4 +1,5 @@
-* :BUyyJOVB5i4CmmzJ: Salzburg
-    @created 1310279869781
-    @alias http://dbpedia.org/resource/Salzburg
-    @weight 0.75
+@id BUyyJOVB5i4CmmzJ
+@title Salzburg
+@alias http://dbpedia.org/resource/Salzburg
+@created 1310279869781
+@weight 0.75

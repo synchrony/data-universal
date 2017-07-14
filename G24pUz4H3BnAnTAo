@@ -1,6 +1,7 @@
-* :G24pUz4H3BnAnTAo: Perceptrons (book)
-    @created 1419823010805
-    @alias http://dbpedia.org/resource/Perceptrons_(book)
-    @weight 0.5
-    * :kPrUHnILsEvJxSGi: 
-    * :T0zwEKRKM7DUdmgK: 
+@id G24pUz4H3BnAnTAo
+@title Perceptrons (book)
+@alias http://dbpedia.org/resource/Perceptrons_(book)
+@created 1419823010805
+@weight 0.5
+* :kPrUHnILsEvJxSGi: 
+* :T0zwEKRKM7DUdmgK: 

@@ -1,4 +1,5 @@
-* :1kMnOH5pNRWusy7s: Yellowstone National Park
-    @created 1328651419236
-    @alias http://dbpedia.org/resource/Yellowstone_National_Park
-    @weight 0.5
+@id 1kMnOH5pNRWusy7s
+@title Yellowstone National Park
+@alias http://dbpedia.org/resource/Yellowstone_National_Park
+@created 1328651419236
+@weight 0.5

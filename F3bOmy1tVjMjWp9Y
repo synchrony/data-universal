@@ -1,7 +1,8 @@
-* :F3bOmy1tVjMjWp9Y: vocal range
-    @created 1450512925781
-    @alias http://dbpedia.org/resource/Vocal_range
-    @weight 0.5
-    * :4FrwLOq2yPeX5Pnz: 
-    * :o7MhPyFzu1GsyrCH: 
-    * :HGyLyIzdNUZMVbFM: 
+@id F3bOmy1tVjMjWp9Y
+@title vocal range
+@alias http://dbpedia.org/resource/Vocal_range
+@created 1450512925781
+@weight 0.5
+* :4FrwLOq2yPeX5Pnz: 
+* :o7MhPyFzu1GsyrCH: 
+* :HGyLyIzdNUZMVbFM: 

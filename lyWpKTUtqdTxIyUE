@@ -1,4 +1,5 @@
-* :lyWpKTUtqdTxIyUE: American way
-    @created 1346016901438
-    @alias http://dbpedia.org/resource/The_American_way
-    @weight 0.5
+@id lyWpKTUtqdTxIyUE
+@title American way
+@alias http://dbpedia.org/resource/The_American_way
+@created 1346016901438
+@weight 0.5

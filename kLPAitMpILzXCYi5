@@ -1,5 +1,6 @@
-* :kLPAitMpILzXCYi5: space debris
-    @created 1440685751236
-    @alias http://dbpedia.org/resource/Space_debris
-    @weight 0.5
-    * :6482V2Bmwxmm4bF1: 
+@id kLPAitMpILzXCYi5
+@title space debris
+@alias http://dbpedia.org/resource/Space_debris
+@created 1440685751236
+@weight 0.5
+* :6482V2Bmwxmm4bF1: 

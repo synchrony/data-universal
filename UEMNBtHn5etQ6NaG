@@ -1,5 +1,6 @@
-* :UEMNBtHn5etQ6NaG: Eucalyptus deglupta
-    @created 1469589582605
-    @alias http://dbpedia.org/resource/Eucalyptus_deglupta
-    @weight 0.5
-    * :C14ZPCTBrLMsqN87: 
+@id UEMNBtHn5etQ6NaG
+@title Eucalyptus deglupta
+@alias http://dbpedia.org/resource/Eucalyptus_deglupta
+@created 1469589582605
+@weight 0.5
+* :C14ZPCTBrLMsqN87: 

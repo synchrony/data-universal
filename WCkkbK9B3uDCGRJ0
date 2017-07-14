@@ -1,6 +1,7 @@
-* :WCkkbK9B3uDCGRJ0: aphorism
-    @created 1378826258655
-    @alias http://dbpedia.org/resource/Aphorism
-    @weight 0.5
-    * :2Q9SWiSvQJex81rl: 
-    * :UL22ojcSjNhPwdbS: 
+@id WCkkbK9B3uDCGRJ0
+@title aphorism
+@alias http://dbpedia.org/resource/Aphorism
+@created 1378826258655
+@weight 0.5
+* :2Q9SWiSvQJex81rl: 
+* :UL22ojcSjNhPwdbS: 

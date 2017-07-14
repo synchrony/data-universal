@@ -1,4 +1,5 @@
-* :OZnfyKOg69M4H3MR: Disney's Hollywood Studios
-    @created 1340073726466
-    @alias http://dbpedia.org/resource/Disney's_Hollywood_Studios
-    @weight 0.5
+@id OZnfyKOg69M4H3MR
+@title Disney's Hollywood Studios
+@alias http://dbpedia.org/resource/Disney's_Hollywood_Studios
+@created 1340073726466
+@weight 0.5

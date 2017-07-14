@@ -1,5 +1,6 @@
-* :Xpo4GJNZ16yVs66g: paella
-    @created 1379950993210
-    @alias http://dbpedia.org/resource/Paella
-    @weight 0.5
-    * :oSDCCJMLEN2NqP43: 
+@id Xpo4GJNZ16yVs66g
+@title paella
+@alias http://dbpedia.org/resource/Paella
+@created 1379950993210
+@weight 0.5
+* :oSDCCJMLEN2NqP43: 

@@ -1,7 +1,8 @@
-* :ZCToRhkmj7irkqL8: Adobe Creative Suite
-    @created 1317855340872
-    @alias http://dbpedia.org/resource/Adobe_Creative_Suite
-    @weight 0.75
-    * :ESQ31EVRTcLdkN5X: 
-    * :P41MeeFvg2WelYU3: 
-    * :SZ3Ifd3F8Ud6CSoD: 
+@id ZCToRhkmj7irkqL8
+@title Adobe Creative Suite
+@alias http://dbpedia.org/resource/Adobe_Creative_Suite
+@created 1317855340872
+@weight 0.75
+* :ESQ31EVRTcLdkN5X: 
+* :P41MeeFvg2WelYU3: 
+* :SZ3Ifd3F8Ud6CSoD: 

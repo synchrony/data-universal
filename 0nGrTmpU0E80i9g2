@@ -1,7 +1,8 @@
-* :0nGrTmpU0E80i9g2: create, read, update and delete
-    @created 1463337655144
-    @alias http://dbpedia.org/resource/Create,_read,_update_and_delete
-    @weight 0.5
-    * :1yok7nRmXJBp1ckT: 
-    * :Qu1Zzcvt7ZDRIw44: 
-    * :NJk7sGkK9TQUM1t6: 
+@id 0nGrTmpU0E80i9g2
+@title create, read, update and delete
+@alias http://dbpedia.org/resource/Create,_read,_update_and_delete
+@created 1463337655144
+@weight 0.5
+* :1yok7nRmXJBp1ckT: 
+* :Qu1Zzcvt7ZDRIw44: 
+* :NJk7sGkK9TQUM1t6: 

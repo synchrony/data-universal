@@ -1,4 +1,5 @@
-* :rDoJ1DVq5LRxwo1a: accountancy
-    @created 1349466551744
-    @alias http://dbpedia.org/resource/Accountancy
-    @weight 0.5
+@id rDoJ1DVq5LRxwo1a
+@title accountancy
+@alias http://dbpedia.org/resource/Accountancy
+@created 1349466551744
+@weight 0.5

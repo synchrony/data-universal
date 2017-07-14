@@ -1,6 +1,7 @@
-* :fbl5j6krkUhHdbPH: noumenon
-    @created 1344128186970
-    @alias http://dbpedia.org/resource/Noumenon
-    @weight 0.5
-    * :cVYAHaW6UPqvZeoD: 
-    * :Vca6UjkY4LVKtELo: 
+@id fbl5j6krkUhHdbPH
+@title noumenon
+@alias http://dbpedia.org/resource/Noumenon
+@created 1344128186970
+@weight 0.5
+* :cVYAHaW6UPqvZeoD: 
+* :Vca6UjkY4LVKtELo: 

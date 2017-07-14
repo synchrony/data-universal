@@ -1,5 +1,6 @@
-* :KUnBPWGS5qOPAViw: Project Gutenberg
-    @created 1344198558296
-    @alias http://dbpedia.org/resource/Project_Gutenberg
-    @weight 0.5
-    * :iAVsJvL4Rtp8G3gy: 
+@id KUnBPWGS5qOPAViw
+@title Project Gutenberg
+@alias http://dbpedia.org/resource/Project_Gutenberg
+@created 1344198558296
+@weight 0.5
+* :iAVsJvL4Rtp8G3gy: 

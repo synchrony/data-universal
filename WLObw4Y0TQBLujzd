@@ -1,7 +1,8 @@
-* :WLObw4Y0TQBLujzd: Red Hot Chili Peppers
-    @created 1310279552867
-    @alias http://dbpedia.org/resource/Red_Hot_Chili_Peppers
-    @weight 0.5
-    * :rTHIPJ5BvJr4rEDQ: 
-    * :RvD9gU54NjPTfujH: 
-    * :TUCZTkqIl8MSTiqM: 
+@id WLObw4Y0TQBLujzd
+@title Red Hot Chili Peppers
+@alias http://dbpedia.org/resource/Red_Hot_Chili_Peppers
+@created 1310279552867
+@weight 0.5
+* :rTHIPJ5BvJr4rEDQ: 
+* :RvD9gU54NjPTfujH: 
+* :TUCZTkqIl8MSTiqM: 

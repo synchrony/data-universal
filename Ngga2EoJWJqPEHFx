@@ -1,7 +1,8 @@
-* :Ngga2EoJWJqPEHFx: identity of indiscernibles
-    @created 1344127061805
-    @alias http://dbpedia.org/resource/Identity_of_indiscernibles
-    @weight 0.5
-    * :1gePPGLBidbWAgBk: 
-    * :yGopes2PbZ55DRRn: 
-    * :HYRgp0DNMXKmpNZp: 
+@id Ngga2EoJWJqPEHFx
+@title identity of indiscernibles
+@alias http://dbpedia.org/resource/Identity_of_indiscernibles
+@created 1344127061805
+@weight 0.5
+* :1gePPGLBidbWAgBk: 
+* :yGopes2PbZ55DRRn: 
+* :HYRgp0DNMXKmpNZp: 

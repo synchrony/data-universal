@@ -1,9 +1,10 @@
-* :AClaI8K05y0gXNVP: monosaccharide
-    @created 1327515403105
-    @alias http://dbpedia.org/resource/Monosaccharide
-    @weight 0.5
-    * :vjv9p2Z7FKcBCadM: 
-    * :rnpUY16CuQzIOzWH: 
-    * :xbcmp4K02fKTtvKO: 
-    * :EW1nh6C80T5MbqyF: 
-    * :J8puM6wtoTomkFZx: 
+@id AClaI8K05y0gXNVP
+@title monosaccharide
+@alias http://dbpedia.org/resource/Monosaccharide
+@created 1327515403105
+@weight 0.5
+* :vjv9p2Z7FKcBCadM: 
+* :rnpUY16CuQzIOzWH: 
+* :xbcmp4K02fKTtvKO: 
+* :EW1nh6C80T5MbqyF: 
+* :J8puM6wtoTomkFZx: 

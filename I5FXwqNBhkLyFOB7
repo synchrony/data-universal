@@ -1,4 +1,5 @@
-* :I5FXwqNBhkLyFOB7: wedding
-    @created 1327531326670
-    @alias http://dbpedia.org/resource/Wedding
-    @weight 0.5
+@id I5FXwqNBhkLyFOB7
+@title wedding
+@alias http://dbpedia.org/resource/Wedding
+@created 1327531326670
+@weight 0.5

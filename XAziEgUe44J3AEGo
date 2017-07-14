@@ -1,8 +1,9 @@
-* :XAziEgUe44J3AEGo: Hardiman
-    @created 1378053354968
-    @alias http://dbpedia.org/resource/Hardiman
-    @weight 0.5
-    * :gD32379rmycdLLPQ: 
-    * :eWv4YqQg05LDnTEY: 
-    * :nIMtk9xUu7fPWgAN: 
-    * :OGMKoNQngZ8E4RSt: 
+@id XAziEgUe44J3AEGo
+@title Hardiman
+@alias http://dbpedia.org/resource/Hardiman
+@created 1378053354968
+@weight 0.5
+* :gD32379rmycdLLPQ: 
+* :eWv4YqQg05LDnTEY: 
+* :nIMtk9xUu7fPWgAN: 
+* :OGMKoNQngZ8E4RSt: 

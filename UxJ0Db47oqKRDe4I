@@ -1,6 +1,7 @@
-* :UxJ0Db47oqKRDe4I: Julian Assange
-    @created 1326520716727
-    @alias http://dbpedia.org/resource/Julian_Assange
-    @weight 0.75
-    * :5SEw33buqKbEgYCO: 
-    * :hb3Q1t3K6AgUBQ2N: 
+@id UxJ0Db47oqKRDe4I
+@title Julian Assange
+@alias http://dbpedia.org/resource/Julian_Assange
+@created 1326520716727
+@weight 0.75
+* :5SEw33buqKbEgYCO: 
+* :hb3Q1t3K6AgUBQ2N: 

@@ -1,7 +1,8 @@
-* :3ozGD1r7T5nMo6ID: soft sensor
-    @created 1444416767754
-    @alias http://dbpedia.org/resource/Soft_sensor
-    @weight 0.5
-    * :saZTKosEhIJu8hFs: 
-    * :arNbdywJVUHFDbsp: 
-    * :fvIskbXXdrfwiCdx: 
+@id 3ozGD1r7T5nMo6ID
+@title soft sensor
+@alias http://dbpedia.org/resource/Soft_sensor
+@created 1444416767754
+@weight 0.5
+* :saZTKosEhIJu8hFs: 
+* :arNbdywJVUHFDbsp: 
+* :fvIskbXXdrfwiCdx: 

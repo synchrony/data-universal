@@ -1,4 +1,5 @@
-* :NX6Ax0JMAYfpGpsQ: checklist
-    @created 1478320540941
-    @alias http://dbpedia.org/resource/Checklist
-    @weight 0.5
+@id NX6Ax0JMAYfpGpsQ
+@title checklist
+@alias http://dbpedia.org/resource/Checklist
+@created 1478320540941
+@weight 0.5

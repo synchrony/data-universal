@@ -1,7 +1,8 @@
-* :GZkZ8hveNMXYEpG3: Human Race Machine
-    @created 1379962065853
-    @alias http://dbpedia.org/resource/Human_Race_Machine
-    @weight 0.5
-    * :Ol0ed7JAxg6ZjMEX: 
-    * :jTEQnEMEJ7cWDEEp: 
-    * :KWP3TrvYguHWhv9i: 
+@id GZkZ8hveNMXYEpG3
+@title Human Race Machine
+@alias http://dbpedia.org/resource/Human_Race_Machine
+@created 1379962065853
+@weight 0.5
+* :Ol0ed7JAxg6ZjMEX: 
+* :jTEQnEMEJ7cWDEEp: 
+* :KWP3TrvYguHWhv9i: 

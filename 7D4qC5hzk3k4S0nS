@@ -1,6 +1,7 @@
-* :7D4qC5hzk3k4S0nS: microwave
-    @created 1411829110257
-    @alias http://dbpedia.org/resource/Microwave
-    @weight 0.5
-    * :mSdc4Ie70QnDMkxL: 
-    * :DOSigp9JKP2W9FRz: 
+@id 7D4qC5hzk3k4S0nS
+@title microwave
+@alias http://dbpedia.org/resource/Microwave
+@created 1411829110257
+@weight 0.5
+* :mSdc4Ie70QnDMkxL: 
+* :DOSigp9JKP2W9FRz: 

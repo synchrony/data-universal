@@ -1,7 +1,8 @@
-* :KiabqPss4nJYbK1k: woman
-    @created 1327530889752
-    @alias http://dbpedia.org/resource/Woman
-    @weight 0.75
-    * :m7GxHhBcAPh7tHup: 
-    * :0TBd7Jx5qkZWcwhQ: 
-    * :xe8FCL1M2AZaGQH0: 
+@id KiabqPss4nJYbK1k
+@title woman
+@alias http://dbpedia.org/resource/Woman
+@created 1327530889752
+@weight 0.75
+* :m7GxHhBcAPh7tHup: 
+* :0TBd7Jx5qkZWcwhQ: 
+* :xe8FCL1M2AZaGQH0: 

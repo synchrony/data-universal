@@ -1,7 +1,8 @@
-* :BoBPVdGa2kb6HJrI: sharing
-    @created 1444214859005
-    @alias http://dbpedia.org/resource/Sharing
-    @weight 0.5
-    * :mFen5qZupQAFgsNC: 
-    * :yFl0lkMsBJXpEsWi: 
-    * :fUunuSco2ljqfW5F: 
+@id BoBPVdGa2kb6HJrI
+@title sharing
+@alias http://dbpedia.org/resource/Sharing
+@created 1444214859005
+@weight 0.5
+* :mFen5qZupQAFgsNC: 
+* :yFl0lkMsBJXpEsWi: 
+* :fUunuSco2ljqfW5F: 

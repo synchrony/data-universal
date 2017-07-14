@@ -1,4 +1,5 @@
-* :JyoGzyM9I6lgiXci: patio
-    @created 1327532069046
-    @alias http://dbpedia.org/resource/Patio
-    @weight 0.5
+@id JyoGzyM9I6lgiXci
+@title patio
+@alias http://dbpedia.org/resource/Patio
+@created 1327532069046
+@weight 0.5

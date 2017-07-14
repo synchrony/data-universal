@@ -1,7 +1,8 @@
-* :PWIDPdC6cD9kAK93: Warburg effect
-    @created 1454299851674
-    @alias http://dbpedia.org/resource/Warburg_effect
-    @weight 0.5
-    * :zw1juh64BytC4tAF: 
-    * :bDKlfOyMBFc2s26j: 
-    * :bV4OqYtj2XfKBqzX: 
+@id PWIDPdC6cD9kAK93
+@title Warburg effect
+@alias http://dbpedia.org/resource/Warburg_effect
+@created 1454299851674
+@weight 0.5
+* :zw1juh64BytC4tAF: 
+* :bDKlfOyMBFc2s26j: 
+* :bV4OqYtj2XfKBqzX: 

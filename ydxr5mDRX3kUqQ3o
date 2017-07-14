@@ -1,4 +1,5 @@
-* :ydxr5mDRX3kUqQ3o: computer keyboard
-    @created 1338480240731
-    @alias http://dbpedia.org/resource/Computer_keyboard
-    @weight 0.5
+@id ydxr5mDRX3kUqQ3o
+@title computer keyboard
+@alias http://dbpedia.org/resource/Computer_keyboard
+@created 1338480240731
+@weight 0.5

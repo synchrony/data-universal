@@ -1,4 +1,5 @@
-* :MQjQdGNfvcjsRDtz: sewing machine
-    @created 1339261065591
-    @alias http://dbpedia.org/resource/Sewing_machine
-    @weight 0.5
+@id MQjQdGNfvcjsRDtz
+@title sewing machine
+@alias http://dbpedia.org/resource/Sewing_machine
+@created 1339261065591
+@weight 0.5

@@ -1,7 +1,8 @@
-* :54KfPQmpomSn2pnz: sentiment analysis
-    @created 1360782734161
-    @alias http://dbpedia.org/resource/Sentiment_analysis
-    @weight 0.5
-    * :o2dsjwcXS4BBrN68: 
-    * :bdpCMux2ETSSs7B4: 
-    * :7oxSJylnOvbaBPMf: 
+@id 54KfPQmpomSn2pnz
+@title sentiment analysis
+@alias http://dbpedia.org/resource/Sentiment_analysis
+@created 1360782734161
+@weight 0.5
+* :o2dsjwcXS4BBrN68: 
+* :bdpCMux2ETSSs7B4: 
+* :7oxSJylnOvbaBPMf: 

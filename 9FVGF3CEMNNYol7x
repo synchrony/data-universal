@@ -1,8 +1,9 @@
-* :9FVGF3CEMNNYol7x: partition (database)
-    @created 1463279838055
-    @alias http://dbpedia.org/resource/Partition_(database)
-    @weight 0.5
-    * :keAR9A4X1eaOf5us: 
-    * :niRpJINNyXiO8CBf: 
-    * :dpkhISLggPksW3Ec: 
-    * :Fbk9CzKGLfpOXpr8: 
+@id 9FVGF3CEMNNYol7x
+@title partition (database)
+@alias http://dbpedia.org/resource/Partition_(database)
+@created 1463279838055
+@weight 0.5
+* :keAR9A4X1eaOf5us: 
+* :niRpJINNyXiO8CBf: 
+* :dpkhISLggPksW3Ec: 
+* :Fbk9CzKGLfpOXpr8: 

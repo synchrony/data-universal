@@ -1,7 +1,8 @@
-* :8dYZp4cI9Q2FaGpS: chess
-    @created 1394888557508
-    @alias http://dbpedia.org/resource/Chess
-    @weight 0.5
-    * :WMtyDrMVHWL40uf5: 
-    * :c53X31FufSgSHane: 
-    * :sQQagDQVVD5AZs1r: 
+@id 8dYZp4cI9Q2FaGpS
+@title chess
+@alias http://dbpedia.org/resource/Chess
+@created 1394888557508
+@weight 0.5
+* :WMtyDrMVHWL40uf5: 
+* :c53X31FufSgSHane: 
+* :sQQagDQVVD5AZs1r: 

@@ -1,7 +1,8 @@
-* :XNB2NHQoOqy5NV4E: Internet of Things
-    @created 1310277860634
-    @alias http://dbpedia.org/resource/Internet_of_Things
-    @weight 0.5
-    * :a7zkJ1aSMjAcgX68: 
-    * :Rk66jhdW6F8NDzBR: 
-    * :jUfzmopZqBdTIGBQ: 
+@id XNB2NHQoOqy5NV4E
+@title Internet of Things
+@alias http://dbpedia.org/resource/Internet_of_Things
+@created 1310277860634
+@weight 0.5
+* :a7zkJ1aSMjAcgX68: 
+* :Rk66jhdW6F8NDzBR: 
+* :jUfzmopZqBdTIGBQ: 

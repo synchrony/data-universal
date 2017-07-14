@@ -1,6 +1,7 @@
-* :lkbamEm1nWvUeGuT: genome
-    @created 1388639972644
-    @alias http://dbpedia.org/resource/Genome
-    @weight 0.5
-    * :ncdecvhjtrN62QTQ: 
-    * :sxiEkiRPJBdCp0i5: 
+@id lkbamEm1nWvUeGuT
+@title genome
+@alias http://dbpedia.org/resource/Genome
+@created 1388639972644
+@weight 0.5
+* :ncdecvhjtrN62QTQ: 
+* :sxiEkiRPJBdCp0i5: 

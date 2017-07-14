@@ -1,8 +1,9 @@
-* :nHdlEPaIJ7w6gUEm: Bitcoin
-    @created 1333907791357
-    @alias http://dbpedia.org/resource/Bitcoin
-    @weight 0.5
-    * :V9niB35cJUUsbrDv: 
-    * :2yp7I1klPWXcNcwf: 
-    * :oiABQ96sY0Uhmyq6: 
-    * :QBBU0El7BEqOXcgZ: 
+@id nHdlEPaIJ7w6gUEm
+@title Bitcoin
+@alias http://dbpedia.org/resource/Bitcoin
+@created 1333907791357
+@weight 0.5
+* :V9niB35cJUUsbrDv: 
+* :2yp7I1klPWXcNcwf: 
+* :oiABQ96sY0Uhmyq6: 
+* :QBBU0El7BEqOXcgZ: 

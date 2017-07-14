@@ -1,4 +1,5 @@
-* :LCsPH7XmpGv6Y9sD: foam
-    @created 1350600627935
-    @alias http://dbpedia.org/resource/Foam
-    @weight 0.5
+@id LCsPH7XmpGv6Y9sD
+@title foam
+@alias http://dbpedia.org/resource/Foam
+@created 1350600627935
+@weight 0.5

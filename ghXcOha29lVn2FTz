@@ -1,4 +1,5 @@
-* :ghXcOha29lVn2FTz: restaurant
-    @created 1494692327321
-    @alias http://dbpedia.org/resource/Restaurant
-    @weight 0.5
+@id ghXcOha29lVn2FTz
+@title restaurant
+@alias http://dbpedia.org/resource/Restaurant
+@created 1494692327321
+@weight 0.5

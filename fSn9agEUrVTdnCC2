@@ -1,5 +1,6 @@
-* :fSn9agEUrVTdnCC2: /dev/pd[abcd][0-9]*
-    @created 1327866960589
-    @weight 0.5
-    * :JEtNfJKI4kE2QpgD: 
-    * :Ki15WPJGtqH3oCTc: 
+@id fSn9agEUrVTdnCC2
+@title /dev/pd[abcd][0-9]*
+@created 1327866960589
+@weight 0.5
+* :JEtNfJKI4kE2QpgD: 
+* :Ki15WPJGtqH3oCTc: 

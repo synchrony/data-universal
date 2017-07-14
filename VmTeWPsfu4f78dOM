@@ -1,7 +1,8 @@
-* :VmTeWPsfu4f78dOM: category 5 cable
-    @created 1477193060103
-    @alias http://dbpedia.org/resource/Category_5_cable
-    @weight 0.5
-    * :iyZ1eaaDAfx6uL8D: 
-    * :PjR5RQlLw6UgXMIb: 
-    * :RUtYimeC0xs6CRV2: 
+@id VmTeWPsfu4f78dOM
+@title category 5 cable
+@alias http://dbpedia.org/resource/Category_5_cable
+@created 1477193060103
+@weight 0.5
+* :iyZ1eaaDAfx6uL8D: 
+* :PjR5RQlLw6UgXMIb: 
+* :RUtYimeC0xs6CRV2: 

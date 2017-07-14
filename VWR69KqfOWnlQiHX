@@ -1,4 +1,5 @@
-* :VWR69KqfOWnlQiHX: Euclidean relation
-    @created 1333297160267
-    @alias http://dbpedia.org/resource/Euclidean_relation
-    @weight 0.5
+@id VWR69KqfOWnlQiHX
+@title Euclidean relation
+@alias http://dbpedia.org/resource/Euclidean_relation
+@created 1333297160267
+@weight 0.5

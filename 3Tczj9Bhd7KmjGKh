@@ -1,12 +1,13 @@
-* :3Tczj9Bhd7KmjGKh: pacifism
-    @created 1415975591244
-    @alias http://dbpedia.org/resource/Pacifism
-    @weight 0.5
-    * :XT2FPQl7qnEbIpwb: 
-    * :x0KLAlByM4mpc1b0: 
-    * :cyLglvzUhNZx02hJ: 
-    * :mxNjd29tao0TusKO: 
-    * :XNoBiD9yBJo7JkP3: 
-    * :SgOxqaqii8RENytm: 
-    * :TXwn5g94OmyoGxek: 
-    * :HTGtgMx10OebeDtq: 
+@id 3Tczj9Bhd7KmjGKh
+@title pacifism
+@alias http://dbpedia.org/resource/Pacifism
+@created 1415975591244
+@weight 0.5
+* :XT2FPQl7qnEbIpwb: 
+* :x0KLAlByM4mpc1b0: 
+* :cyLglvzUhNZx02hJ: 
+* :mxNjd29tao0TusKO: 
+* :XNoBiD9yBJo7JkP3: 
+* :SgOxqaqii8RENytm: 
+* :TXwn5g94OmyoGxek: 
+* :HTGtgMx10OebeDtq: 

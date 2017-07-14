@@ -1,4 +1,5 @@
-* :HdiVR3XM9hKM5cjv: face
-    @created 1349891288564
-    @alias http://dbpedia.org/resource/Face
-    @weight 0.5
+@id HdiVR3XM9hKM5cjv
+@title face
+@alias http://dbpedia.org/resource/Face
+@created 1349891288564
+@weight 0.5

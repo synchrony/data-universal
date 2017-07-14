@@ -1,4 +1,5 @@
-* :vRKcN0q3CAfeEQyT: rubber glove
-    @created 1490558874825
-    @alias http://dbpedia.org/resource/Rubber_glove
-    @weight 0.5
+@id vRKcN0q3CAfeEQyT
+@title rubber glove
+@alias http://dbpedia.org/resource/Rubber_glove
+@created 1490558874825
+@weight 0.5

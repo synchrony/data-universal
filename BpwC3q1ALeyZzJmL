@@ -1,4 +1,5 @@
-* :BpwC3q1ALeyZzJmL: linear actuator
-    @created 1339437439396
-    @alias http://dbpedia.org/resource/Linear_actuator
-    @weight 0.5
+@id BpwC3q1ALeyZzJmL
+@title linear actuator
+@alias http://dbpedia.org/resource/Linear_actuator
+@created 1339437439396
+@weight 0.5

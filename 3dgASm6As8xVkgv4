@@ -1,5 +1,6 @@
-* :3dgASm6As8xVkgv4: /dev/zero
-    @created 1327867305539
-    @alias http://dbpedia.org/resource//dev/zero
-    @weight 0.5
-    * :9HiCoCDm98r4sKtG: 
+@id 3dgASm6As8xVkgv4
+@title /dev/zero
+@alias http://dbpedia.org/resource//dev/zero
+@created 1327867305539
+@weight 0.5
+* :9HiCoCDm98r4sKtG: 

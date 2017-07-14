@@ -1,5 +1,6 @@
-* :HWJRcqYlm6KRvezl: barometer
-    @created 1338487570036
-    @alias http://dbpedia.org/resource/Barometer
-    @weight 0.75
-    * :bw0ZDX7rC0nLEBty: 
+@id HWJRcqYlm6KRvezl
+@title barometer
+@alias http://dbpedia.org/resource/Barometer
+@created 1338487570036
+@weight 0.75
+* :bw0ZDX7rC0nLEBty: 

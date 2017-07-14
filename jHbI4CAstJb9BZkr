@@ -1,7 +1,8 @@
-* :jHbI4CAstJb9BZkr: infrared
-    @created 1411828709219
-    @alias http://dbpedia.org/resource/Infrared
-    @weight 0.5
-    * :DuZZMXLfP8rJwtw0: 
-    * :xsUVuDiXDS6WLxq9: 
-    * :ZcgXagtiTYsJPFqV: 
+@id jHbI4CAstJb9BZkr
+@title infrared
+@alias http://dbpedia.org/resource/Infrared
+@created 1411828709219
+@weight 0.5
+* :DuZZMXLfP8rJwtw0: 
+* :xsUVuDiXDS6WLxq9: 
+* :ZcgXagtiTYsJPFqV: 

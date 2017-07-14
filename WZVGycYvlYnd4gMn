@@ -1,6 +1,7 @@
-* :WZVGycYvlYnd4gMn: sparqlPuSH: Proactive notiﬁcation of data updates in RDF stores using PubSubHubbub
-    @created 1366764445836
-    @weight 0.5
-    @priority 0.5
-    * :MrnUfmrX32xdImSI: 
-    * :9fii8Zb840h00mzc: 
+@id WZVGycYvlYnd4gMn
+@title sparqlPuSH: Proactive notiﬁcation of data updates in RDF stores using PubSubHubbub
+@created 1366764445836
+@weight 0.5
+@priority 0.5
+* :MrnUfmrX32xdImSI: 
+* :9fii8Zb840h00mzc: 

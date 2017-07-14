@@ -1,7 +1,8 @@
-* :bpGTX6l7v97L9inw: dummy head recording
-    @created 1310235698358
-    @alias http://dbpedia.org/resource/Dummy_head_recording
-    @weight 0.75
-    * :Fq6ZpwiqbWk8CONm: 
-    * :R4340M0G1mBmJoc1: 
-    * :3eBN7hcxEhBraQIH: 
+@id bpGTX6l7v97L9inw
+@title dummy head recording
+@alias http://dbpedia.org/resource/Dummy_head_recording
+@created 1310235698358
+@weight 0.75
+* :Fq6ZpwiqbWk8CONm: 
+* :R4340M0G1mBmJoc1: 
+* :3eBN7hcxEhBraQIH: 

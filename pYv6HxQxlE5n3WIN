@@ -1,4 +1,5 @@
-* :pYv6HxQxlE5n3WIN: Mandelbrot set
-    @created 1329519372029
-    @alias http://dbpedia.org/resource/Mandelbrot_set
-    @weight 0.5
+@id pYv6HxQxlE5n3WIN
+@title Mandelbrot set
+@alias http://dbpedia.org/resource/Mandelbrot_set
+@created 1329519372029
+@weight 0.5

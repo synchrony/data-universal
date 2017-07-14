@@ -1,4 +1,5 @@
-* :TVCEQCpiMXPxNTf5: hypoglycemia
-    @created 1351377507243
-    @alias http://dbpedia.org/resource/Hypoglycemia
-    @weight 0.5
+@id TVCEQCpiMXPxNTf5
+@title hypoglycemia
+@alias http://dbpedia.org/resource/Hypoglycemia
+@created 1351377507243
+@weight 0.5

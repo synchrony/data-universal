@@ -1,4 +1,5 @@
-* :NSVl4Xy1IooV0DiD: kitten
-    @created 1327531558438
-    @alias http://dbpedia.org/resource/Kitten
-    @weight 0.5
+@id NSVl4Xy1IooV0DiD
+@title kitten
+@alias http://dbpedia.org/resource/Kitten
+@created 1327531558438
+@weight 0.5

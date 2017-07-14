@@ -1,6 +1,7 @@
-* :cULCTFr2ztZiDahy: diameter at breast height
-    @created 1476855772395
-    @alias http://dbpedia.org/resource/Diameter_at_breast_height
-    @weight 0.5
-    * :WFmM2ErLOxFZr0tn: 
-    * :JP2IX9IaVUud2Yf8: 
+@id cULCTFr2ztZiDahy
+@title diameter at breast height
+@alias http://dbpedia.org/resource/Diameter_at_breast_height
+@created 1476855772395
+@weight 0.5
+* :WFmM2ErLOxFZr0tn: 
+* :JP2IX9IaVUud2Yf8: 

@@ -1,6 +1,7 @@
-* :YJiOVwWMBAtQgJ9J: retinal implant
-    @created 1339445660872
-    @alias http://dbpedia.org/resource/Retinal_implant
-    @weight 0.5
-    * :UXIVKpGW4hAWuxap: 
-    * :hkNAWG2yFgVSthW9: 
+@id YJiOVwWMBAtQgJ9J
+@title retinal implant
+@alias http://dbpedia.org/resource/Retinal_implant
+@created 1339445660872
+@weight 0.5
+* :UXIVKpGW4hAWuxap: 
+* :hkNAWG2yFgVSthW9: 

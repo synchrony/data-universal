@@ -1,6 +1,7 @@
-* :d1AfgqEJC7Hg97BJ: anxiety
-    @created 1353404345515
-    @alias http://dbpedia.org/resource/Anxiety
-    @weight 0.5
-    * :lP1SiQYelfKfecSC: 
-    * :7WYxSARWBbCUoF7D: 
+@id d1AfgqEJC7Hg97BJ
+@title anxiety
+@alias http://dbpedia.org/resource/Anxiety
+@created 1353404345515
+@weight 0.5
+* :lP1SiQYelfKfecSC: 
+* :7WYxSARWBbCUoF7D: 

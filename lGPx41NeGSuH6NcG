@@ -1,6 +1,7 @@
-* :lGPx41NeGSuH6NcG: moral example
-    @created 1415370459113
-    @alias http://dbpedia.org/resource/Moral_example
-    @weight 0.5
-    * :SfjDPbuovQAzeARA: 
-    * :51TP4SgvPSi7fsRs: 
+@id lGPx41NeGSuH6NcG
+@title moral example
+@alias http://dbpedia.org/resource/Moral_example
+@created 1415370459113
+@weight 0.5
+* :SfjDPbuovQAzeARA: 
+* :51TP4SgvPSi7fsRs: 

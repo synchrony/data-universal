@@ -1,7 +1,8 @@
-* :hWfqaRLZ4cLShaXP: Finns
-    @created 1449436574813
-    @alias http://dbpedia.org/resource/Finns
-    @weight 0.5
-    * :nyNWEWlYQMBvgnx9: 
-    * :fDdlijjBtjvvRSQy: 
-    * :l7KbXmvFaOumOtg5: 
+@id hWfqaRLZ4cLShaXP
+@title Finns
+@alias http://dbpedia.org/resource/Finns
+@created 1449436574813
+@weight 0.5
+* :nyNWEWlYQMBvgnx9: 
+* :fDdlijjBtjvvRSQy: 
+* :l7KbXmvFaOumOtg5: 

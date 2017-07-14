@@ -1,8 +1,9 @@
-* :wNhnOTfGoAWMnkPx: photorejuvenation
-    @created 1424929268286
-    @alias http://dbpedia.org/resource/Photorejuvenation
-    @weight 0.5
-    * :biSpn3osJh0Wdwcr: 
-    * :YTSGOwP1lMENZ3AN: 
-    * :yFGLjMNsgIqW6NYc: 
-    * :DaAr5t5LvCdB855X: 
+@id wNhnOTfGoAWMnkPx
+@title photorejuvenation
+@alias http://dbpedia.org/resource/Photorejuvenation
+@created 1424929268286
+@weight 0.5
+* :biSpn3osJh0Wdwcr: 
+* :YTSGOwP1lMENZ3AN: 
+* :yFGLjMNsgIqW6NYc: 
+* :DaAr5t5LvCdB855X: 

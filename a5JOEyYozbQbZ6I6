@@ -1,6 +1,7 @@
-* :a5JOEyYozbQbZ6I6: multirotor
-    @created 1349357708763
-    @alias http://dbpedia.org/resource/Multirotor
-    @weight 0.5
-    * :Cgftp1fdYCjfKjVe: 
-    * :aCHXzd0N5qlN1NOv: 
+@id a5JOEyYozbQbZ6I6
+@title multirotor
+@alias http://dbpedia.org/resource/Multirotor
+@created 1349357708763
+@weight 0.5
+* :Cgftp1fdYCjfKjVe: 
+* :aCHXzd0N5qlN1NOv: 

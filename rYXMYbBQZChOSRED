@@ -1,4 +1,5 @@
-* :rYXMYbBQZChOSRED: The Mummy
-    @created 1326212115687
-    @alias http://dbpedia.org/resource/The_Mummy_(1999_film)
-    @weight 0.5
+@id rYXMYbBQZChOSRED
+@title The Mummy
+@alias http://dbpedia.org/resource/The_Mummy_(1999_film)
+@created 1326212115687
+@weight 0.5

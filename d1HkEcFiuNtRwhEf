@@ -1,4 +1,5 @@
-* :d1HkEcFiuNtRwhEf: Jean-Jacques Rousseau
-    @created 1432702089201
-    @alias http://dbpedia.org/resource/Jean-Jacques_Rousseau
-    @weight 0.5
+@id d1HkEcFiuNtRwhEf
+@title Jean-Jacques Rousseau
+@alias http://dbpedia.org/resource/Jean-Jacques_Rousseau
+@created 1432702089201
+@weight 0.5

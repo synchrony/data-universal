@@ -1,4 +1,5 @@
-* :rrDYRB5W188vgxYp: rock-paper-scissors
-    @created 1372357092091
-    @alias http://dbpedia.org/resource/Rock-paper-scissors
-    @weight 0.5
+@id rrDYRB5W188vgxYp
+@title rock-paper-scissors
+@alias http://dbpedia.org/resource/Rock-paper-scissors
+@created 1372357092091
+@weight 0.5

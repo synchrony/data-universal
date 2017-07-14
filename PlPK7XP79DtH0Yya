@@ -1,5 +1,6 @@
-* :PlPK7XP79DtH0Yya: myostatin
-    @created 1433823879940
-    @alias http://dbpedia.org/resource/Myostatin
-    @weight 0.5
-    * :GTHGYuIUWj6uTCm2: 
+@id PlPK7XP79DtH0Yya
+@title myostatin
+@alias http://dbpedia.org/resource/Myostatin
+@created 1433823879940
+@weight 0.5
+* :GTHGYuIUWj6uTCm2: 

@@ -1,8 +1,9 @@
-* :u29j0eLaGy9nS5Gf: anode
-    @created 1374460259731
-    @alias http://dbpedia.org/resource/Anode
-    @weight 0.5
-    * :zYkzkeCxUk3HdJI0: 
-    * :SjBmuhW56zrGh662: 
-    * :m7jFAQMdJIiiqrc1: 
-    * :pAjZyMPoHspya3wV: 
+@id u29j0eLaGy9nS5Gf
+@title anode
+@alias http://dbpedia.org/resource/Anode
+@created 1374460259731
+@weight 0.5
+* :zYkzkeCxUk3HdJI0: 
+* :SjBmuhW56zrGh662: 
+* :m7jFAQMdJIiiqrc1: 
+* :pAjZyMPoHspya3wV: 

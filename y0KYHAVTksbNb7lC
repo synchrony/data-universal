@@ -1,4 +1,5 @@
-* :y0KYHAVTksbNb7lC: scene (film)
-    @created 1326083761674
-    @alias http://dbpedia.org/resource/Scene_(film)
-    @weight 0.5
+@id y0KYHAVTksbNb7lC
+@title scene (film)
+@alias http://dbpedia.org/resource/Scene_(film)
+@created 1326083761674
+@weight 0.5

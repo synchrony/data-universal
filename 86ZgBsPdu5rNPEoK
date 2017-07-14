@@ -1,4 +1,5 @@
-* :86ZgBsPdu5rNPEoK: Corpus of Contemporary American English
-    @created 1395273034776
-    @alias http://dbpedia.org/resource/Corpus_of_Contemporary_American_English
-    @weight 0.5
+@id 86ZgBsPdu5rNPEoK
+@title Corpus of Contemporary American English
+@alias http://dbpedia.org/resource/Corpus_of_Contemporary_American_English
+@created 1395273034776
+@weight 0.5

@@ -1,6 +1,7 @@
-* :dESmdZEDT9vGWqdx: rowing (sport)
-    @created 1345102158909
-    @alias http://dbpedia.org/resource/Rowing_(sport)
-    @weight 0.5
-    * :83NbdzUI9JyCpfnr: 
-    * :rWyKH8Zyb6InpiE1: 
+@id dESmdZEDT9vGWqdx
+@title rowing (sport)
+@alias http://dbpedia.org/resource/Rowing_(sport)
+@created 1345102158909
+@weight 0.5
+* :83NbdzUI9JyCpfnr: 
+* :rWyKH8Zyb6InpiE1: 

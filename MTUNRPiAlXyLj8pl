@@ -1,4 +1,5 @@
-* :MTUNRPiAlXyLj8pl: noon
-    @created 1351087738797
-    @alias http://dbpedia.org/resource/Noon
-    @weight 0.5
+@id MTUNRPiAlXyLj8pl
+@title noon
+@alias http://dbpedia.org/resource/Noon
+@created 1351087738797
+@weight 0.5

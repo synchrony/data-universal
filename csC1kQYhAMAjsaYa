@@ -1,6 +1,7 @@
-* :csC1kQYhAMAjsaYa: Kalman filter
-    @created 1310229493028
-    @alias http://dbpedia.org/resource/Kalman_filter
-    @weight 0.5
-    * :LGpsZoTUSLYN02fR: 
-    * :pDdJDLIvbGvolHDN: 
+@id csC1kQYhAMAjsaYa
+@title Kalman filter
+@alias http://dbpedia.org/resource/Kalman_filter
+@created 1310229493028
+@weight 0.5
+* :LGpsZoTUSLYN02fR: 
+* :pDdJDLIvbGvolHDN: 

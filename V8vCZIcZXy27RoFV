@@ -1,6 +1,7 @@
-* :V8vCZIcZXy27RoFV: chatterbot
-    @created 1373999504360
-    @alias http://dbpedia.org/resource/Chatterbot
-    @weight 0.5
-    * :jLvkvjikB2SgqfG0: 
-    * :aprMUMC8dzRvShHJ: 
+@id V8vCZIcZXy27RoFV
+@title chatterbot
+@alias http://dbpedia.org/resource/Chatterbot
+@created 1373999504360
+@weight 0.5
+* :jLvkvjikB2SgqfG0: 
+* :aprMUMC8dzRvShHJ: 

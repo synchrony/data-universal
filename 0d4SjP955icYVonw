@@ -1,6 +1,7 @@
-* :0d4SjP955icYVonw: pork
-    @created 1354413455365
-    @alias http://dbpedia.org/resource/Pork
-    @weight 0.5
-    * :xlk9lmWGLijAycNb: 
-    * :0tyIc1fGrWiLCVpV: 
+@id 0d4SjP955icYVonw
+@title pork
+@alias http://dbpedia.org/resource/Pork
+@created 1354413455365
+@weight 0.5
+* :xlk9lmWGLijAycNb: 
+* :0tyIc1fGrWiLCVpV: 

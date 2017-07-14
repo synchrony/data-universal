@@ -1,5 +1,6 @@
-* :NXr9m6B3tusdQwzY: watermelon
-    @created 1323455701797
-    @alias http://dbpedia.org/resource/Watermelon
-    @weight 0.5
-    * :iDGPfYh2sV0bDa7d: 
+@id NXr9m6B3tusdQwzY
+@title watermelon
+@alias http://dbpedia.org/resource/Watermelon
+@created 1323455701797
+@weight 0.5
+* :iDGPfYh2sV0bDa7d: 

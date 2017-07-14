@@ -1,5 +1,6 @@
-* :RIVyJFd7QfVZHueh: steel mill
-    @created 1383453403049
-    @alias http://dbpedia.org/resource/Steel_mill
-    @weight 0.5
-    * :vpBVDG5Ixq6RYSqN: 
+@id RIVyJFd7QfVZHueh
+@title steel mill
+@alias http://dbpedia.org/resource/Steel_mill
+@created 1383453403049
+@weight 0.5
+* :vpBVDG5Ixq6RYSqN: 

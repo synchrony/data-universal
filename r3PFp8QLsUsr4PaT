@@ -1,4 +1,5 @@
-* :r3PFp8QLsUsr4PaT: beer
-    @created 1375451575094
-    @alias http://dbpedia.org/resource/Beer
-    @weight 0.5
+@id r3PFp8QLsUsr4PaT
+@title beer
+@alias http://dbpedia.org/resource/Beer
+@created 1375451575094
+@weight 0.5

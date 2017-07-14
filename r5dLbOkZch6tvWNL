@@ -1,5 +1,6 @@
-* :r5dLbOkZch6tvWNL: neuroendocrine tumor
-    @created 1456737828399
-    @alias http://dbpedia.org/resource/Neuroendocrine_tumor
-    @weight 0.5
-    * :WMkbZ3tmoK5lDDaR: 
+@id r5dLbOkZch6tvWNL
+@title neuroendocrine tumor
+@alias http://dbpedia.org/resource/Neuroendocrine_tumor
+@created 1456737828399
+@weight 0.5
+* :WMkbZ3tmoK5lDDaR: 

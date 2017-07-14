@@ -1,6 +1,7 @@
-* :hVGIqfQEeqPCr5Km: The Well-Tempered Clavier
-    @created 1376766569666
-    @alias http://dbpedia.org/resource/The_Well-Tempered_Clavier
-    @weight 0.5
-    * :ICpLPgWGTDuGPIK9: 
-    * :FpV0tdqNPWu50K55: 
+@id hVGIqfQEeqPCr5Km
+@title The Well-Tempered Clavier
+@alias http://dbpedia.org/resource/The_Well-Tempered_Clavier
+@created 1376766569666
+@weight 0.5
+* :ICpLPgWGTDuGPIK9: 
+* :FpV0tdqNPWu50K55: 

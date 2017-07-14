@@ -1,9 +1,10 @@
-* :rAYmvWGLFFCGxITd: merge sort
-    @created 1310234505271
-    @alias http://dbpedia.org/resource/Merge_sort
-    @weight 0.75
-    * :lUWIUrBGESmWVC2v: 
-    * :2k2Y3mnMy57M9Gli: 
-    * :sHJ94La6rBAyzMT1: 
-    * :CFZdYIInHvOM6D14: 
-    * :RfAtzWwC9jZPPx3h: 
+@id rAYmvWGLFFCGxITd
+@title merge sort
+@alias http://dbpedia.org/resource/Merge_sort
+@created 1310234505271
+@weight 0.75
+* :lUWIUrBGESmWVC2v: 
+* :2k2Y3mnMy57M9Gli: 
+* :sHJ94La6rBAyzMT1: 
+* :CFZdYIInHvOM6D14: 
+* :RfAtzWwC9jZPPx3h: 

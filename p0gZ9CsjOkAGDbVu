@@ -1,5 +1,6 @@
-* :p0gZ9CsjOkAGDbVu: Itaipu Dam
-    @created 1383451097719
-    @alias http://dbpedia.org/resource/Itaipu_Dam
-    @weight 0.5
-    * :1vIEqLQWUkRljl5h: 
+@id p0gZ9CsjOkAGDbVu
+@title Itaipu Dam
+@alias http://dbpedia.org/resource/Itaipu_Dam
+@created 1383451097719
+@weight 0.5
+* :1vIEqLQWUkRljl5h: 

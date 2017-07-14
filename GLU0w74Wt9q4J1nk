@@ -1,7 +1,8 @@
-* :GLU0w74Wt9q4J1nk: hypnosis
-    @created 1333849003032
-    @alias http://dbpedia.org/resource/Hypnosis
-    @weight 0.5
-    * :Alfq972eJRFzF2oP: 
-    * :YooI36Wkk7kbzNUA: 
-    * :kSYzAMkhcCbHD3N8: 
+@id GLU0w74Wt9q4J1nk
+@title hypnosis
+@alias http://dbpedia.org/resource/Hypnosis
+@created 1333849003032
+@weight 0.5
+* :Alfq972eJRFzF2oP: 
+* :YooI36Wkk7kbzNUA: 
+* :kSYzAMkhcCbHD3N8: 

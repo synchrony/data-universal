@@ -1,4 +1,5 @@
-* :WulmUGBp7rl5I06y: Google Street View
-    @created 1340737162466
-    @alias http://dbpedia.org/resource/Google_Street_View
-    @weight 0.5
+@id WulmUGBp7rl5I06y
+@title Google Street View
+@alias http://dbpedia.org/resource/Google_Street_View
+@created 1340737162466
+@weight 0.5

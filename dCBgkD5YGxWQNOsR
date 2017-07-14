@@ -1,6 +1,7 @@
-* :dCBgkD5YGxWQNOsR: Munster cheese
-    @created 1419223487886
-    @alias http://dbpedia.org/resource/Munster_cheese
-    @weight 0.5
-    * :lfMD5toJetswFGvU: 
-    * :SLQMQ1S75hNBV9j5: 
+@id dCBgkD5YGxWQNOsR
+@title Munster cheese
+@alias http://dbpedia.org/resource/Munster_cheese
+@created 1419223487886
+@weight 0.5
+* :lfMD5toJetswFGvU: 
+* :SLQMQ1S75hNBV9j5: 

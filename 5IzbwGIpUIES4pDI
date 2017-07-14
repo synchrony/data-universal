@@ -1,19 +1,20 @@
-* :5IzbwGIpUIES4pDI: mathematics
-    @created 1326210542775
-    @alias http://dbpedia.org/resource/Mathematics
-    @weight 0.75
-    * :OJe1Kf9dXUSQ2XRo: 
-    * :D71nvohhM2WqSx81: 
-    * :rpOaWYTfA9cQv28c: 
-    * :MAIt3Ctm6kZ6vfWs: 
-    * :NU7bR0LUvsQ2tzP3: 
-    * :hTORdjnhonsM25Mq: 
-    * :k5yZ1I9WuFNLKcaw: 
-    * :U83GGOS6cBy5Q5DV: 
-    * :k5b755t8E09zaRHl: 
-    * :iNA3OantwQAjVQR5: 
-    * :41hXm1RbKVwkaa8Q: 
-    * :IqrksYt7CnEalhUw: 
-    * :sqLCHSXswQIW5LPT: 
-    * :Hm7XhsNNKxkFDPan: 
-    * :5zlwbeenqn2xE2Sh: 
+@id 5IzbwGIpUIES4pDI
+@title mathematics
+@alias http://dbpedia.org/resource/Mathematics
+@created 1326210542775
+@weight 0.75
+* :OJe1Kf9dXUSQ2XRo: 
+* :D71nvohhM2WqSx81: 
+* :rpOaWYTfA9cQv28c: 
+* :MAIt3Ctm6kZ6vfWs: 
+* :NU7bR0LUvsQ2tzP3: 
+* :hTORdjnhonsM25Mq: 
+* :k5yZ1I9WuFNLKcaw: 
+* :U83GGOS6cBy5Q5DV: 
+* :k5b755t8E09zaRHl: 
+* :iNA3OantwQAjVQR5: 
+* :41hXm1RbKVwkaa8Q: 
+* :IqrksYt7CnEalhUw: 
+* :sqLCHSXswQIW5LPT: 
+* :Hm7XhsNNKxkFDPan: 
+* :5zlwbeenqn2xE2Sh: 

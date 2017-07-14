@@ -1,7 +1,8 @@
-* :TvPrHDcoxflYbCxJ: invisible disability
-    @created 1434820140957
-    @alias http://dbpedia.org/resource/Invisible_disability
-    @weight 0.5
-    * :BkWrMCtO3K2EMGrz: 
-    * :YF7od5dVdhxWADDl: 
-    * :OnWHv4w9AYeoSHdg: 
+@id TvPrHDcoxflYbCxJ
+@title invisible disability
+@alias http://dbpedia.org/resource/Invisible_disability
+@created 1434820140957
+@weight 0.5
+* :BkWrMCtO3K2EMGrz: 
+* :YF7od5dVdhxWADDl: 
+* :OnWHv4w9AYeoSHdg: 

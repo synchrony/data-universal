@@ -1,4 +1,5 @@
-* :wWRUGLVrVhY5UYkU: elevator
-    @created 1347145911228
-    @alias http://dbpedia.org/resource/Elevator
-    @weight 0.5
+@id wWRUGLVrVhY5UYkU
+@title elevator
+@alias http://dbpedia.org/resource/Elevator
+@created 1347145911228
+@weight 0.5

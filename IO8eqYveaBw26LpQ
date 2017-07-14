@@ -1,6 +1,7 @@
-* :IO8eqYveaBw26LpQ: input offset voltage
-    @created 1349379674908
-    @alias http://dbpedia.org/resource/Input_offset_voltage
-    @weight 0.5
-    * :PGIaFfy5YB63oYM0: 
-    * :ChFJVxRYLuKVN4Sn: 
+@id IO8eqYveaBw26LpQ
+@title input offset voltage
+@alias http://dbpedia.org/resource/Input_offset_voltage
+@created 1349379674908
+@weight 0.5
+* :PGIaFfy5YB63oYM0: 
+* :ChFJVxRYLuKVN4Sn: 
