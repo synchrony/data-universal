@@ -1,1 +1,0 @@
-This is a shared knowledge graph. We experience it using [Semantic Synchrony](https://github.com/synchrony/smsn/wiki).
