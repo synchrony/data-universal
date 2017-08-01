@@ -1,4 +1,3 @@
 @id gex5vR68kBopzRTp
 @title "We observe that for all queries the FILTER, UNION and symmetrical hash join strategies returns the correct number of results in Sesame and Virtuoso."
 @created 1456529789380
-@weight 0.5

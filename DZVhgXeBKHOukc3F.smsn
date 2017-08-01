@@ -1,4 +1,3 @@
 @id DZVhgXeBKHOukc3F
 @title "Each exception that you throw should provide enough context to determine the source and location of an error."
 @created 1471570960415
-@weight 0.5
