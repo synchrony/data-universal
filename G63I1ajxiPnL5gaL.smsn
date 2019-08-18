@@ -1,0 +1,3 @@
+@id G63I1ajxiPnL5gaL
+@title "wrapping third-party APIs is a best practice. When you wrap a third-party API, you minimize your dependencies upon it: You can choose to move to a different library in the future without much penalty."
+@created 1471571290082
