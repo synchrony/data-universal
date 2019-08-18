@@ -1,4 +1,0 @@
-@id ioTQn9m7lwau73L1
-@title "[...] we are advising you not to pass Maps (or any other interface at a boundary) around your system. If you use a boundary interface like Map, keep it inside the class, or close family of classes, where it is used. Avoid returning it from, or accepting it as an argument to, public APIs."
-@created 1471971211120
-* :5F2CN0b1yJ65OOzm: 

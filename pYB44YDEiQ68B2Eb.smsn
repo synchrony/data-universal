@@ -1,3 +1,0 @@
-@id pYB44YDEiQ68B2Eb
-@title "It is important to notice that only the FILTER and SYMHASHP strategies returned results for all queries in all systems. In addition, these strategies were sound, i.e. returned correct results for all queries since they do not “inject” any new value in the remote query (instead they either filter the unwanted results out or perform the join locally)."
-@created 1456529961295

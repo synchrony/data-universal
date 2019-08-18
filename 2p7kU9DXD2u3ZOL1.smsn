@@ -1,3 +1,0 @@
-@id 2p7kU9DXD2u3ZOL1
-@title "SNEEql, like CQL, uses a window-based approach to provide uniform support for blocking operators (such as joins and aggregations). In contrast, TinyQL resorts to materialization points and only offers relatively limited support for blocking operators since it does not allow window specifications (other then for aggregates)."
-@created 1446549732009
