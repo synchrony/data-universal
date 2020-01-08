@@ -1,3 +1,3 @@
 @id XvrIH6noM3hUtNX0
-@title "Software systems should separate the startup process, when the application objects are constructed and the dependencies are “wired” together, from the runtime logic that takes over after startup."
+@title "Software systems should separate the startup process, when the application objects are constructed and the dependencies are “wired” together, from the runtime logic that takes over after startup."\u201Cwired\u201D together, from the runtime logic that takes over after startup."
 @created 1474591378512
