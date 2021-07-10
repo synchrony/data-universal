@@ -3,3 +3,4 @@
 @alias http://dbpedia.org/resource/Tibet
 @created 1311329148588
 @weight 0.75
+@priority 0.5
